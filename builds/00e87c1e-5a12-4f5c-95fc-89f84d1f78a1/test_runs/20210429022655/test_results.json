@@ -1,0 +1,713 @@
+{
+    "00e87c1e-5a12-4f5c-95fc-89f84d1f78a1": {
+        "fail": [
+            {
+                "carbon_log_file_path": null, 
+                "crawl_directory": "test_runs/20210429022655", 
+                "created": "2021-04-29 02:35:00", 
+                "curr_label": null, 
+                "curr_nav_substep": 0, 
+                "curr_step": 7, 
+                "curr_sub_step": 0, 
+                "custom_data": [
+                    {
+                        "id": "browser_name", 
+                        "label": "Browser", 
+                        "value": "Chrome"
+                    }
+                ], 
+                "custom_hidden_data": [
+                    {
+                        "id": "test_case_name", 
+                        "label": "Original Test Case Name", 
+                        "value": "002 Find Airmax"
+                    }
+                ], 
+                "description": "", 
+                "fail_reason": "label_not_found", 
+                "failures": {
+                    "7": {
+                        "label": "mi_air_max_90", 
+                        "note": "Could not find: mi_air_max_90."
+                    }
+                }, 
+                "is_deactivated": false, 
+                "log": [
+                    "step:6sub_step:0  found:btn_shop"
+                ], 
+                "note": "Could not find: mi_air_max_90.", 
+                "original_title": "002 Find Airmax", 
+                "result": "fail", 
+                "step_details": {
+                    "00000": {
+                        "action_info": {
+                            "elem_class": "screen", 
+                            "elem_info": {
+                                "class": "screen", 
+                                "hash": "+pFND0lSMN22aWztG4ViVw==\n", 
+                                "height": 0, 
+                                "hier_level": 0, 
+                                "human_hash": "screen_X0_Y0_W0_H0", 
+                                "index": -1, 
+                                "tag_name": "screen", 
+                                "text": "", 
+                                "width": 0, 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "gesture": "execute_script", 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [], 
+                        "screenshot_file_name": "iter_00000_step_00000_screenshot.png", 
+                        "screenshot_file_path": "tests/result_paths/002 Find Airmax - f02c7089-1db9-4eca-942b-60d8bf6414bc/iter_00000_step_00000_screenshot.png", 
+                        "step_num": 0, 
+                        "test_labels": [], 
+                        "timing": 36.7736930847168
+                    }, 
+                    "00001": {
+                        "action_info": {
+                            "elem_class": "screen", 
+                            "elem_info": {
+                                "class": "screen", 
+                                "hash": "kxFMVkpShfMqaK+fX9RPdA==\n", 
+                                "height": 1746, 
+                                "hier_level": 0, 
+                                "human_hash": "screen_X0_Y0_W3840_H1746", 
+                                "index": -1, 
+                                "is_transformed": true, 
+                                "tag_name": "screen", 
+                                "text": "", 
+                                "width": 3840, 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "gesture": "swipe_up", 
+                            "text": "swipe_up"
+                        }, 
+                        "cpu": 0, 
+                        "found_all_labels": true, 
+                        "jank": 0, 
+                        "mem": 0, 
+                        "net": 0, 
+                        "page_labels": [
+                            ""
+                        ], 
+                        "screenshot_file_name": "iter_00000_step_00001_screenshot.png", 
+                        "screenshot_file_path": "tests/result_paths/002 Find Airmax - f02c7089-1db9-4eca-942b-60d8bf6414bc/iter_00000_step_00001_screenshot.png", 
+                        "step_num": 1, 
+                        "test_labels": [
+                            ""
+                        ], 
+                        "timing": 0
+                    }, 
+                    "00002": {
+                        "action_info": {
+                            "elem_class": "screen", 
+                            "elem_info": {
+                                "class": "screen", 
+                                "hash": "kxFMVkpShfMqaK+fX9RPdA==\n", 
+                                "height": 1746, 
+                                "hier_level": 0, 
+                                "human_hash": "screen_X0_Y0_W3840_H1746", 
+                                "index": -1, 
+                                "is_transformed": true, 
+                                "tag_name": "screen", 
+                                "text": "", 
+                                "width": 3840, 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "gesture": "swipe_up", 
+                            "text": "swipe_up"
+                        }, 
+                        "cpu": 0, 
+                        "found_all_labels": true, 
+                        "jank": 0, 
+                        "mem": 0, 
+                        "net": 0, 
+                        "page_labels": [
+                            ""
+                        ], 
+                        "screenshot_file_name": "iter_00000_step_00002_screenshot.png", 
+                        "screenshot_file_path": "tests/result_paths/002 Find Airmax - f02c7089-1db9-4eca-942b-60d8bf6414bc/iter_00000_step_00002_screenshot.png", 
+                        "step_num": 2, 
+                        "test_labels": [
+                            ""
+                        ], 
+                        "timing": 0
+                    }, 
+                    "00003": {
+                        "action_info": {
+                            "elem_class": "screen", 
+                            "elem_info": {
+                                "class": "screen", 
+                                "hash": "kxFMVkpShfMqaK+fX9RPdA==\n", 
+                                "height": 1746, 
+                                "hier_level": 0, 
+                                "human_hash": "screen_X0_Y0_W3840_H1746", 
+                                "index": -1, 
+                                "is_transformed": true, 
+                                "tag_name": "screen", 
+                                "text": "", 
+                                "width": 3840, 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "gesture": "swipe_up", 
+                            "text": "swipe_up"
+                        }, 
+                        "cpu": 0, 
+                        "found_all_labels": true, 
+                        "jank": 0, 
+                        "mem": 0, 
+                        "net": 0, 
+                        "page_labels": [
+                            ""
+                        ], 
+                        "screenshot_file_name": "iter_00000_step_00003_screenshot.png", 
+                        "screenshot_file_path": "tests/result_paths/002 Find Airmax - f02c7089-1db9-4eca-942b-60d8bf6414bc/iter_00000_step_00003_screenshot.png", 
+                        "step_num": 3, 
+                        "test_labels": [
+                            ""
+                        ], 
+                        "timing": 0
+                    }, 
+                    "00004": {
+                        "action_info": {
+                            "elem_class": "screen", 
+                            "elem_info": {
+                                "class": "screen", 
+                                "hash": "kxFMVkpShfMqaK+fX9RPdA==\n", 
+                                "height": 1746, 
+                                "hier_level": 0, 
+                                "human_hash": "screen_X0_Y0_W3840_H1746", 
+                                "index": -1, 
+                                "is_transformed": true, 
+                                "tag_name": "screen", 
+                                "text": "", 
+                                "width": 3840, 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "gesture": "swipe_up", 
+                            "text": "swipe_up"
+                        }, 
+                        "cpu": 0, 
+                        "found_all_labels": true, 
+                        "jank": 0, 
+                        "mem": 0, 
+                        "net": 0, 
+                        "page_labels": [
+                            ""
+                        ], 
+                        "screenshot_file_name": "iter_00000_step_00004_screenshot.png", 
+                        "screenshot_file_path": "tests/result_paths/002 Find Airmax - f02c7089-1db9-4eca-942b-60d8bf6414bc/iter_00000_step_00004_screenshot.png", 
+                        "step_num": 4, 
+                        "test_labels": [
+                            ""
+                        ], 
+                        "timing": 0
+                    }, 
+                    "00005": {
+                        "action_info": {
+                            "elem_class": "div", 
+                            "elem_info": {
+                                "behavior": "", 
+                                "checkable": false, 
+                                "class": "div", 
+                                "clickable": false, 
+                                "content-desc": "", 
+                                "enabled": false, 
+                                "focusable": false, 
+                                "focused": false, 
+                                "hash": "RYpfoa2p9MHTHXtIqbVyVQ==\n", 
+                                "height": 1200, 
+                                "hier_level": 0, 
+                                "human_hash": "div_X1922_Y12_W1776_H1200", 
+                                "human_readable": "div_1922_12_1776_1200_div_ff9fff1ffe3ffe3ffc3ffc3fff2fff07ff077d137d337b31183f107f10ffb0ff_9d4568c009d203ab10e33ea9953a0264", 
+                                "img_hash": "2c299114f7dc1dc055bd4174959995e9", 
+                                "index": -1, 
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "class": "_3-GXPD9b _12NrIYxy _1J1k7Sv3 media-container _2TUCh3j2", 
+                                            "data-qa": "image-wrapper", 
+                                            "style": ""
+                                        }, 
+                                        "background-color": "rgb(229, 229, 229)", 
+                                        "class": "div", 
+                                        "color": "rgb(17, 17, 17)", 
+                                        "cssClass": "_3-GXPD9b _12NrIYxy _1J1k7Sv3 media-container _2TUCh3j2", 
+                                        "domLevel": 11, 
+                                        "flags": {
+                                            "checkable": false, 
+                                            "clickable": false, 
+                                            "enabled": false, 
+                                            "focusable": false, 
+                                            "focused": false, 
+                                            "scrollable": false
+                                        }, 
+                                        "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+                                        "font-weight": "400", 
+                                        "fontSize": 16, 
+                                        "height": 600, 
+                                        "identifier": "", 
+                                        "is-focused": false, 
+                                        "is-hidden": false, 
+                                        "name": "", 
+                                        "tagName": "div", 
+                                        "text": "", 
+                                        "type": "", 
+                                        "value": "", 
+                                        "width": 888, 
+                                        "x": 961, 
+                                        "xPercent": 50.41994750656168, 
+                                        "y": 6, 
+                                        "yPercent": 0.07566889632107024
+                                    }, 
+                                    "location": {
+                                        "x": 961, 
+                                        "y": 6
+                                    }, 
+                                    "size": {
+                                        "height": 600, 
+                                        "width": 888
+                                    }, 
+                                    "tag_name": "div", 
+                                    "text": ""
+                                }, 
+                                "is_transformed": true, 
+                                "package": "", 
+                                "password": false, 
+                                "resource-id": "", 
+                                "scrollable": false, 
+                                "tag_name": "div", 
+                                "text": "", 
+                                "text_hash": "9d4568c009d203ab10e33ea9953a0264", 
+                                "transformed": true, 
+                                "width": 1776, 
+                                "x": 1922, 
+                                "y": 12
+                            }, 
+                            "gesture": "no_op", 
+                            "text": "no_op"
+                        }, 
+                        "cpu": 0, 
+                        "found_all_labels": true, 
+                        "jank": 0, 
+                        "matched_grep": true, 
+                        "mem": 0, 
+                        "net": 0, 
+                        "page_labels": [
+                            "tle_air_max_women"
+                        ], 
+                        "screenshot_file_name": "iter_00000_step_00005_screenshot.png", 
+                        "screenshot_file_path": "tests/result_paths/002 Find Airmax - f02c7089-1db9-4eca-942b-60d8bf6414bc/iter_00000_step_00005_screenshot.png", 
+                        "step_num": 5, 
+                        "test_labels": [
+                            "tle_air_max_women"
+                        ], 
+                        "timing": 0
+                    }, 
+                    "00006": {
+                        "action_info": {
+                            "elem_class": "a", 
+                            "elem_info": {
+                                "behavior": "", 
+                                "checkable": false, 
+                                "class": "a", 
+                                "clickable": true, 
+                                "content-desc": "", 
+                                "enabled": false, 
+                                "focusable": true, 
+                                "focused": false, 
+                                "hash": "ZeYDCd4bzn7qlu+Lb4n/kw==\n", 
+                                "height": 80, 
+                                "hier_level": 0, 
+                                "human_hash": "a_X1994_Y1060_W190_H80", 
+                                "human_readable": "a_1994_1060_190_80_a_e007c00380018001800104010e010fe007e00fe106e1800180018001c003e007_d5d7c7ca8cf1a6a118c51745dc3c129b", 
+                                "img_hash": "7b70e616c3909fd855d14a4159120cc5", 
+                                "index": -1, 
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "aria-label": "Shop (https://www.nike.com/w/womens-air-max-shoes-5e1x6za6d8hzy7ok)", 
+                                            "class": "dz_xjzja _2minRfAM ncss-btn-primary-dark bihGx79a", 
+                                            "data-analytics-action-id": "0fbbb08f-043e-43d3-bf58-3c4a62eb452c", 
+                                            "data-analytics-allow": "false", 
+                                            "data-qa": "cta-button", 
+                                            "data-qa-card-id": "00901a4a-bfbe-4eee-a6e6-d95ca1679cca", 
+                                            "href": "https://www.nike.com/w/womens-air-max-shoes-5e1x6za6d8hzy7ok", 
+                                            "tabindex": "0", 
+                                            "target": "_self"
+                                        }, 
+                                        "background-color": "rgb(17, 17, 17)", 
+                                        "class": "a", 
+                                        "color": "rgb(255, 255, 255)", 
+                                        "cssClass": "dz_xjzja _2minRfAM ncss-btn-primary-dark bihGx79a", 
+                                        "domLevel": 14, 
+                                        "flags": {
+                                            "checkable": false, 
+                                            "clickable": true, 
+                                            "enabled": false, 
+                                            "focusable": true, 
+                                            "focused": false, 
+                                            "scrollable": false
+                                        }, 
+                                        "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+                                        "font-weight": "500", 
+                                        "fontSize": 16, 
+                                        "height": 40, 
+                                        "identifier": "", 
+                                        "is-focused": false, 
+                                        "is-hidden": false, 
+                                        "name": "", 
+                                        "tagName": "a", 
+                                        "text": "Shop", 
+                                        "type": "", 
+                                        "value": "", 
+                                        "width": 95, 
+                                        "x": 997, 
+                                        "xPercent": 52.30971128608925, 
+                                        "y": 530, 
+                                        "yPercent": 7.085493311036789
+                                    }, 
+                                    "location": {
+                                        "x": 997, 
+                                        "y": 530
+                                    }, 
+                                    "size": {
+                                        "height": 40, 
+                                        "width": 95
+                                    }, 
+                                    "tag_name": "a", 
+                                    "text": "Shop"
+                                }, 
+                                "is_transformed": true, 
+                                "package": "", 
+                                "password": false, 
+                                "resource-id": "", 
+                                "scrollable": false, 
+                                "tag_name": "a", 
+                                "text": "Shop", 
+                                "text_hash": "d5d7c7ca8cf1a6a118c51745dc3c129b", 
+                                "transformed": true, 
+                                "width": 190, 
+                                "x": 1994, 
+                                "y": 1060
+                            }, 
+                            "gesture": "tap", 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [
+                            "btn_shop"
+                        ], 
+                        "screenshot_file_name": "iter_00000_step_00006_screenshot.png", 
+                        "screenshot_file_path": "tests/result_paths/002 Find Airmax - f02c7089-1db9-4eca-942b-60d8bf6414bc/iter_00000_step_00006_screenshot.png", 
+                        "step_num": 6, 
+                        "test_labels": [
+                            "btn_shop"
+                        ], 
+                        "timing": 31.589980125427246
+                    }, 
+                    "00007": {
+                        "action_info": {
+                            "elem_class": "screen", 
+                            "elem_info": {
+                                "class": "screen", 
+                                "hash": "kxFMVkpShfMqaK+fX9RPdA==\n", 
+                                "height": 1746, 
+                                "hier_level": 0, 
+                                "human_hash": "screen_X0_Y0_W3840_H1746", 
+                                "index": -1, 
+                                "is_transformed": true, 
+                                "tag_name": "screen", 
+                                "text": "", 
+                                "width": 3840, 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "gesture": null, 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "found_all_labels": false, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "screenshot_file_name": "iter_00000_step_00007_screenshot.png", 
+                        "screenshot_file_path": "tests/result_paths/002 Find Airmax - f02c7089-1db9-4eca-942b-60d8bf6414bc/iter_00000_step_00007_screenshot.png", 
+                        "step_num": 7, 
+                        "timing": 28.742703914642334
+                    }
+                }, 
+                "steps": [
+                    {
+                        "continue_on_failure": false, 
+                        "description": "swipes until Womens Air Max Tile", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "execute_script", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [], 
+                        "script_name": "swipe_until_air_max.py", 
+                        "type": "execute_script", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "Script Step", 
+                        "grep": null, 
+                        "grep_count": null, 
+                        "input": "swipe_up", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            ""
+                        ], 
+                        "script_name": "swipe_until_air_max.py", 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "Script Step", 
+                        "grep": null, 
+                        "grep_count": null, 
+                        "input": "swipe_up", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            ""
+                        ], 
+                        "script_name": "swipe_until_air_max.py", 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "Script Step", 
+                        "grep": null, 
+                        "grep_count": null, 
+                        "input": "swipe_up", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            ""
+                        ], 
+                        "script_name": "swipe_until_air_max.py", 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "Script Step", 
+                        "grep": null, 
+                        "grep_count": null, 
+                        "input": "swipe_up", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            ""
+                        ], 
+                        "script_name": "swipe_until_air_max.py", 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "Script Step", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "tle_air_max_women"
+                        ], 
+                        "script_name": "swipe_until_air_max.py", 
+                        "tag": "labels: tle_air_max_women, text:  (count = None)", 
+                        "type": "verification", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "Clicks Shop button under womens Air Max tile", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "tap", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "btn_shop"
+                        ], 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "tap", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "mi_air_max_90"
+                        ], 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "tap", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "cbx_women"
+                        ], 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "tap", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "btn_purple"
+                        ], 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "tap", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "img_peg_38_le"
+                        ], 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "tmb_1"
+                        ], 
+                        "type": "verification", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "tap", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "btn_size_6"
+                        ], 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "tap", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "btn_add_to_bag"
+                        ], 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "tap", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "icn_cart"
+                        ], 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "tap", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "btn_checkout"
+                        ], 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "tap", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "btn_guest_checkout"
+                        ], 
+                        "type": "action", 
+                        "widget": "default"
+                    }
+                ], 
+                "tags": [], 
+                "temp_id": "034c1c30-a879-11eb-949f-0242ac120002", 
+                "title": "002 Find Airmax - f02c7089-1db9-4eca-942b-60d8bf6414bc", 
+                "use_qlearning_matrix": true
+            }
+        ]
+    }
+}

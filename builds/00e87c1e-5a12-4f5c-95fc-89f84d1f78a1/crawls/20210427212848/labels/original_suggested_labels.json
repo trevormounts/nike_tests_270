@@ -1,0 +1,35 @@
+{
+    "elems": {
+        "iter_00000_step_00002_31_a.png": {
+            "btn_sale": {
+                "all_scores": {
+                    "carbon_classifiers.perceptual.nn_classifier": 1.0, 
+                    "hash_based": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "hash_based"
+            }
+        }, 
+        "iter_00000_step_00002_38_a.png": {
+            "btn_men": {
+                "all_scores": {
+                    "carbon_classifiers.perceptual.nn_classifier": 1.0, 
+                    "hash_based": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "hash_based"
+            }
+        }, 
+        "iter_00000_step_00002_44_a.png": {
+            "mnu_new_releases": {
+                "all_scores": {
+                    "carbon_classifiers.perceptual.nn_classifier": 1.0, 
+                    "hash_based": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "hash_based"
+            }
+        }
+    }, 
+    "screens": {}
+}

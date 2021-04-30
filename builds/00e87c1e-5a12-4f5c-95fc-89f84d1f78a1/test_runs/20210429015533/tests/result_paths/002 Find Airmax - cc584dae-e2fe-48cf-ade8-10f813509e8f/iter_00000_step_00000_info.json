@@ -1,0 +1,26 @@
+{
+    "action_info": {
+        "elem_class": "screen", 
+        "elem_info": {
+            "class": "screen", 
+            "hash": "+pFND0lSMN22aWztG4ViVw==\n", 
+            "height": 0, 
+            "hier_level": 0, 
+            "human_hash": "screen_X0_Y0_W0_H0", 
+            "index": -1, 
+            "tag_name": "screen", 
+            "text": "", 
+            "width": 0, 
+            "x": 0, 
+            "y": 0
+        }, 
+        "gesture": "execute_script", 
+        "text": ""
+    }, 
+    "all_elems": [], 
+    "cpu": 0.0, 
+    "jank": 0.0, 
+    "mem": 0.0, 
+    "net": 0.0, 
+    "timing": 36.066250801086426
+}

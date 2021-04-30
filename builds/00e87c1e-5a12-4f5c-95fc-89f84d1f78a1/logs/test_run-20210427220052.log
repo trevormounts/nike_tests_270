@@ -1,0 +1,670 @@
+2021-04-27 22:00:52,310 INFO     carbon_tasks.regress_app_task -- Logging crawl output to /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/logs/test_run-20210427220052.log
+2021-04-27 22:00:52,311 INFO     carbon_tasks.regress_app_task -- regressing app: 805ab2d0-1b98-4c86-af8c-1a247c26739f, build: 00e87c1e-5a12-4f5c-95fc-89f84d1f78a1
+2021-04-27 22:00:52,312 INFO     carbon_tasks.regress_app_task -- max_steps: 10
+2021-04-27 22:00:52,312 INFO     carbon_tasks.regress_app_task -- rand_seed: 1619548838
+2021-04-27 22:00:52,313 INFO     carbon_tasks.regress_app_task -- test_wildcard: *
+2021-04-27 22:00:52,314 INFO     carbon_tasks.regress_app_task -- package: None
+2021-04-27 22:00:52,314 INFO     carbon_tasks.regress_app_task -- eyes_api_key: None
+2021-04-27 22:00:52,315 INFO     carbon_tasks.regress_app_task -- no_reinstall: False
+2021-04-27 22:00:52,318 INFO     carbon_dao.local_carbon_dao -- Getting build info: APP_ID: 805ab2d0-1b98-4c86-af8c-1a247c26739f, BUILD_ID: 00e87c1e-5a12-4f5c-95fc-89f84d1f78a1
+2021-04-27 22:00:52,322 INFO     carbon_test_case.test_filtering -- Found test: 000 Create Account (TM)
+2021-04-27 22:00:52,323 INFO     carbon_test_case.test_filtering -- Found test: 001 Sign IN
+2021-04-27 22:00:52,324 INFO     carbon_test_case.carbon_tests -- Found matching test: 001 Sign IN
+2021-04-27 22:00:52,341 INFO     carbon_dao.local_carbon_dao -- Getting build info: APP_ID: 805ab2d0-1b98-4c86-af8c-1a247c26739f, BUILD_ID: 00e87c1e-5a12-4f5c-95fc-89f84d1f78a1
+2021-04-27 22:00:52,349 INFO     carbon_tasks.regress_app_task -- Remote host address: http://host.docker.internal:8083
+2021-04-27 22:00:52,425 INFO     carbon_dao.local_carbon_dao -- Getting build info: APP_ID: 805ab2d0-1b98-4c86-af8c-1a247c26739f, BUILD_ID: 00e87c1e-5a12-4f5c-95fc-89f84d1f78a1
+2021-04-27 22:00:52,426 INFO     carbon_dao.local_carbon_dao -- Getting build info: APP_ID: 805ab2d0-1b98-4c86-af8c-1a247c26739f, BUILD_ID: 00e87c1e-5a12-4f5c-95fc-89f84d1f78a1
+2021-04-27 22:00:52,461 INFO     carbon_tasks.regress_app_task -- running regress for test case: 001 Sign IN - f431fb32-56a9-45ce-9cf8-a02a1ff14dc1
+2021-04-27 22:00:52,462 INFO     carbon_tasks.regress_app_task -- steps required for test: 6
+2021-04-27 22:00:52,464 INFO     carbon_tasks.regress_app_task -- effective_max_steps: 6
+2021-04-27 22:00:52,467 INFO     carbon_explore.explore -- **************************************************
+2021-04-27 22:00:52,470 INFO     carbon_explore.explore -- **************************************************
+2021-04-27 22:00:52,471 INFO     carbon_explore.explore -- *                                                *
+2021-04-27 22:00:52,472 INFO     carbon_explore.explore -- *                   BRAIN                    *
+2021-04-27 22:00:52,473 INFO     carbon_explore.explore -- *                                                *
+2021-04-27 22:00:52,474 INFO     carbon_explore.explore -- **************************************************
+2021-04-27 22:00:52,474 INFO     carbon_explore.explore -- **************************************************
+2021-04-27 22:00:52,475 INFO     carbon_initialization.initialization -- Random seed: 1619548838
+2021-04-27 22:00:52,481 INFO     carbon_initialization.initialization -- ````````````````````````````````````````````````````````````````````````````````
+2021-04-27 22:00:52,481 INFO     carbon_initialization.initialization --                   PACKAGE: 805ab2d0-1b98-4c86-af8c-1a247c26739f
+2021-04-27 22:00:52,482 INFO     carbon_initialization.initialization -- ````````````````````````````````````````````````````````````````````````````````
+2021-04-27 22:00:52,483 INFO     carbon_initialization.initialization -- platform: DESKTOP_CHROME
+2021-04-27 22:00:52,483 INFO     carbon_initialization.initialization -- using crawl_directory: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052
+2021-04-27 22:00:52,484 INFO     carbon_botio.bot_io -- retrieving bot IO for app: 805ab2d0-1b98-4c86-af8c-1a247c26739f
+2021-04-27 22:00:52,485 INFO     carbon_botio.bot_io -- ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2021-04-27 22:00:52,485 INFO     carbon_botio.bot_io -- botio_filepath: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/lkg/botio.json
+2021-04-27 22:00:52,486 INFO     carbon_botio.bot_io -- use_snapshot: False
+2021-04-27 22:00:52,487 INFO     carbon_botio.bot_io -- no botIO found for app: 805ab2d0-1b98-4c86-af8c-1a247c26739f
+2021-04-27 22:00:52,493 INFO     carbon_utils.carbon_data -- loading models from LKG dir
+2021-04-27 22:00:52,494 INFO     carbon_utils.carbon_data -- loading models from LKG dir
+2021-04-27 22:00:52,498 INFO     carbon_utils.simulator_tools -- preparing clean iteration state...
+2021-04-27 22:00:52,499 INFO     carbon_utils.simulator_tools -- starting appium, platform: DESKTOP_CHROME
+2021-04-27 22:00:52,500 INFO     carbon_utils.simulator_tools -- starting appium/webdriver for desktop chrome
+2021-04-27 22:00:53,526 INFO     carbon_automation.driver -- Screen density2.0
+2021-04-27 22:00:53,653 INFO     carbon_utils.simulator_tools -- going to https://www.nike.com/
+2021-04-27 22:00:58,584 INFO     carbon_utils.simulator_tools -- completed setting url, additional time: 4.929411
+2021-04-27 22:01:01,716 INFO     carbon_initialization.initialization -- starting dom stability
+2021-04-27 22:01:01,717 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:01:03,388 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:01:03,651 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:01:04,986 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:01:05,245 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:01:06,609 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:01:06,867 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:01:08,157 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:01:08,432 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:01:09,777 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:01:10,041 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:01:11,336 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:01:11,603 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:01:12,904 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:01:13,165 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:01:14,470 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:01:14,735 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:01:16,067 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:01:16,337 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:01:17,682 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:01:17,937 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:01:19,256 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:01:19,531 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:01:20,810 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:01:21,073 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:01:22,407 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:01:22,667 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:01:24,040 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:01:24,303 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:01:25,586 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:01:25,844 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:01:27,176 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:01:27,432 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:01:28,736 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:01:28,996 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:01:30,334 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:01:30,605 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:01:31,987 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:01:32,251 INFO     carbon_actions.carbon_actions -- sources aren't equal, clearing
+2021-04-27 22:01:32,252 INFO     carbon_initialization.initialization -- current package sent in as: 805ab2d0-1b98-4c86-af8c-1a247c26739f
+2021-04-27 22:01:32,253 INFO     carbon_initialization.initialization -- ended dom stability
+2021-04-27 22:01:32,257 INFO     carbon_explore.explore -- package is set to: 805ab2d0-1b98-4c86-af8c-1a247c26739f
+2021-04-27 22:01:32,258 INFO     carbon_explore.explore -- ********************************************************************************
+2021-04-27 22:01:32,259 INFO     carbon_explore.explore -- * TIMEOUT: None
+2021-04-27 22:01:32,259 INFO     carbon_explore.explore -- * beginning step: 0, test completed: False, total steps: 5
+2021-04-27 22:01:32,260 INFO     carbon_explore.explore -- * Description: 
+2021-04-27 22:01:32,261 INFO     carbon_explore.explore -- * disable_bounceback: False
+2021-04-27 22:01:32,261 INFO     carbon_explore.explore -- ********************************************************************************
+2021-04-27 22:01:32,262 INFO     carbon_explore.explore -- getting walk queue
+2021-04-27 22:01:32,263 INFO     carbon_explore.explore_utils -- getting screen_elems
+2021-04-27 22:01:33,984 INFO     carbon_utils.scrape_utils -- Successfully collected web scrape.
+2021-04-27 22:01:33,986 INFO     carbon_explore.explore_utils -- filtering elems - 56
+2021-04-27 22:01:34,073 INFO     carbon_explore.explore_utils -- saving info - 48
+2021-04-27 22:01:34,073 INFO     carbon_explore.explore_utils -- saving core elems iter: 0, step 0, save_dir: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052
+2021-04-27 22:01:34,154 INFO     carbon_explore.explore -- got all screen info saved
+2021-04-27 22:01:34,154 INFO     carbon_explore.explore -- starting next action selection
+2021-04-27 22:01:34,155 INFO     carbon_explore.explore -- Determining active labels.
+2021-04-27 22:01:34,156 INFO     carbon_explore.explore -- Determining active models.
+2021-04-27 22:01:34,156 INFO     carbon_explore.explore -- Getting labels for the screen
+2021-04-27 22:01:34,157 INFO     carbon_classifiers.label_classifier_pipe -- Begin loading configured modules
+2021-04-27 22:01:34,157 INFO     carbon_classifiers.carbon_classifier_v1.screen_classifier -- Loading ScreenClassifier
+2021-04-27 22:01:34,158 INFO     carbon_classifiers.template_matching.app_specific_template_matcher -- Loading AppSpecificTemplateMatcher
+2021-04-27 22:01:34,159 INFO     carbon_classifiers.perceptual.nn_classifier -- Loading NNClassifier
+2021-04-27 22:01:34,159 INFO     carbon_classifiers.template_matching.template_matching_classifier -- Loading TemplateMatchingClassifier
+2021-04-27 22:01:34,160 WARNING  carbon_classifiers.template_matching.template_matching_classifier -- No template director exists at /root/test_ai/templates
+2021-04-27 22:01:34,161 INFO     carbon_classifiers.http_classifier.http_classifier -- Loaded Http Classifier for ""
+2021-04-27 22:01:34,161 INFO     carbon_classifiers.label_classifier_pipe -- Begin labeling elements
+2021-04-27 22:01:35,147 INFO     carbon_classifiers.template_matching.app_specific_template_matcher -- Classifying screen with AppSpecificTemplateMatcher
+2021-04-27 22:01:35,149 INFO     carbon_classifiers.perceptual.nn_classifier -- Classifying screen with NNClassifier
+2021-04-27 22:01:35,230 INFO     carbon_classifiers.perceptual.nn_classifier -- elem classified: btn_sign_in_home, score: 1.0
+2021-04-27 22:01:35,231 WARNING  carbon_classifiers.label_classifier_pipe -- A widget with the name "default" has been set for this step but no widget by that name has been configured.
+2021-04-27 22:01:35,268 INFO     carbon_classifiers.label_classifier_pipe -- End labeling elements: Time taken 1.1064119339 seconds
+2021-04-27 22:01:35,269 INFO     carbon_explore.explore -- completed getting labels for screen
+2021-04-27 22:01:35,270 INFO     carbon_explore.explore -- _testStepNextAction
+2021-04-27 22:01:35,271 INFO     carbon_explore.explore -- curr step num: 0
+2021-04-27 22:01:35,271 INFO     carbon_explore.explore -- handling test step type: Action
+2021-04-27 22:01:35,272 INFO     carbon_explore.explore -- found all labels
+2021-04-27 22:01:35,272 INFO     carbon_explore.explore -- found elem: {'human_readable': 'svg_3578_108_48_48_svg_ffffe187c0039e799ff93ffc3ffc9ff99ff9cff3e7e7f3cff99ffc3ffe7fffff_9d4568c009d203ab10e33ea9953a0264', 'hash': 'u8lE74mRYsnal6pEJwCh2A==\n', 'index': -1, 'text': '', 'text_hash': '9d4568c009d203ab10e33ea9953a0264', 'height': 48, 'is_transformed': True, 'img_hash': '73a568379800f6caa8eea64d880641e0', u'focused': False, u'clickable': False, 'human_hash': u'svg_X3578_Y108_W48_H48', 'resource-id': '', 'password': False, 'class': 'svg', u'checkable': False, u'scrollable': False, 'package': '', 'enabled': False, 'elem_shot_file_path': u'/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmpZ/svg_X3578_Y108_W48_H48.png', 'hier_level': 0, 'content-desc': '', 'width': 48, 'tag_name': 'svg', 'internal': {'elem_dict': {u'color': u'rgba(0, 0, 0, 0.54)', u'text': u'', u'domLevel': 9, u'height': 24, u'tagName': u'svg', u'width': 24, u'is-focused': False, u'fontSize': 16, u'font-weight': u'500', u'is-hidden': False, u'background-color': u'rgba(0, 0, 0, 0)', u'yPercent': 0.7071765322158199, u'xPercent': 93.91076115485563, u'x': 1789, u'font-family': u'"Helvetica Neue", Helvetica, Arial, sans-serif', u'class': u'svg', u'name': u'', u'type': u'', u'value': u'', u'flags': {u'scrollable': False, u'focusable': False, u'enabled': False, u'focused': False, u'clickable': False, u'checkable': False}, u'y': 54, u'attributes': {u'width': u'24px', u'fill': u'#111', u'viewBox': u'0 0 24 24', u'height': u'24px'}, u'identifier': u''}, 'text': u'', 'tag_name': u'svg', 'location': {'y': 54, 'x': 1789}, 'size': {'width': 24, 'height': 24}}, 'transformed': True, 'behavior': '', u'focusable': False, 'y': 108, 'x': 3578}, input: tap
+2021-04-27 22:01:35,273 INFO     carbon_explore.explore -- action_elem {'human_readable': 'button_3638_2_76_68_button_ffffffffffffffffffffffff0ff700200010001000b2f9ffffffffffffffffff_0ffc71968c588734b47b6925f63858c5', 'hash': 'kk/pBPQw522a1Iv7rCS5IA==\n', 'index': -1, 'text': 'Sign In', 'text_hash': '0ffc71968c588734b47b6925f63858c5', 'height': 68, 'is_transformed': True, 'img_hash': '960de1737867890ec41b2a0100ca5c8d', u'focused': False, u'clickable': True, 'human_hash': u'button_X3638_Y2_W76_H68', 'resource-id': '', 'password': False, 'class': 'button', u'checkable': False, u'scrollable': False, 'package': '', 'enabled': True, 'elem_shot_file_path': u'/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmpZ/button_X3638_Y2_W76_H68.png', 'hier_level': 0, 'content-desc': '', 'width': 76, 'tag_name': 'button', 'internal': {'elem_dict': {u'color': u'rgb(0, 0, 0)', u'text': u'Sign In', u'domLevel': 9, u'height': 34, u'tagName': u'button', u'cssClass': u'nav-btn p0-sm body-4 u-bold ml2-sm mr2-sm', u'width': 38, u'is-focused': False, u'fontSize': 12, u'font-weight': u'500', u'is-hidden': False, u'background-color': u'rgba(0, 0, 0, 0)', u'yPercent': 0.013095861707700367, u'xPercent': 95.47326115485563, u'x': 1819, u'font-family': u'"Helvetica Neue", Helvetica, Arial, sans-serif', u'class': u'button', u'name': u'', u'type': u'', u'value': u'', u'flags': {u'scrollable': False, u'focusable': True, u'enabled': True, u'focused': False, u'clickable': True, u'checkable': False}, u'y': 1, u'attributes': {u'data-pre': u'ILink', u'data-type': u'click_navMembership', u'data-var': u'loginBtn', u'class': u'nav-btn p0-sm body-4 u-bold ml2-sm mr2-sm', u'data-path': u'sign in'}, u'identifier': u''}, 'text': u'Sign In', 'tag_name': u'button', 'location': {'y': 1, 'x': 1819}, 'size': {'width': 38, 'height': 34}}, 'transformed': True, 'behavior': '', u'focusable': True, 'y': 2, 'x': 3638}
+2021-04-27 22:01:35,276 INFO     carbon_explore.explore -- saving step
+2021-04-27 22:01:35,282 INFO     carbon_explore.explore_utils -- saving core elems iter: 0, step 0, save_dir: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tests/result_paths/001 Sign IN - f431fb32-56a9-45ce-9cf8-a02a1ff14dc1
+2021-04-27 22:01:35,382 INFO     carbon_explore.result_storage -- LOG FILE PATH: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tests/result_paths/001 Sign IN - f431fb32-56a9-45ce-9cf8-a02a1ff14dc1/iter_00000_step_00000_logs.txt
+2021-04-27 22:01:35,383 INFO     carbon_explore.result_storage -- ALL LOGS FILE PATH: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tests/result_paths/001 Sign IN - f431fb32-56a9-45ce-9cf8-a02a1ff14dc1/iter_00000_step_-0001_logs.txt
+2021-04-27 22:01:35,396 INFO     carbon_explore.explore -- step saved
+2021-04-27 22:01:35,396 INFO     carbon_explore.explore -- Gesture: tap
+2021-04-27 22:01:35,397 INFO     carbon_explore.explore -- starting action
+2021-04-27 22:01:35,400 INFO     carbon_utils.action_utils -- action: Tap
+2021-04-27 22:01:35,400 INFO     carbon_utils.action_utils --    got action_elem: {'human_readable': 'button_3638_2_76_68_button_ffffffffffffffffffffffff0ff700200010001000b2f9ffffffffffffffffff_0ffc71968c588734b47b6925f63858c5', 'hash': 'kk/pBPQw522a1Iv7rCS5IA==\n', 'index': -1, 'text': 'Sign In', 'text_hash': '0ffc71968c588734b47b6925f63858c5', 'height': 68, 'is_transformed': True, 'img_hash': '960de1737867890ec41b2a0100ca5c8d', u'focused': False, u'clickable': True, 'human_hash': u'button_X3638_Y2_W76_H68', 'resource-id': '', 'password': False, 'class': 'button', u'checkable': False, u'scrollable': False, 'package': '', 'enabled': True, 'elem_shot_file_path': u'/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmpZ/button_X3638_Y2_W76_H68.png', 'hier_level': 0, 'content-desc': '', 'width': 76, 'tag_name': 'button', 'internal': {'elem_dict': {u'color': u'rgb(0, 0, 0)', u'text': u'Sign In', u'domLevel': 9, u'height': 34, u'tagName': u'button', u'cssClass': u'nav-btn p0-sm body-4 u-bold ml2-sm mr2-sm', u'width': 38, u'is-focused': False, u'fontSize': 12, u'font-weight': u'500', u'is-hidden': False, u'background-color': u'rgba(0, 0, 0, 0)', u'yPercent': 0.013095861707700367, u'xPercent': 95.47326115485563, u'x': 1819, u'font-family': u'"Helvetica Neue", Helvetica, Arial, sans-serif', u'class': u'button', u'name': u'', u'type': u'', u'value': u'', u'flags': {u'scrollable': False, u'focusable': True, u'enabled': True, u'focused': False, u'clickable': True, u'checkable': False}, u'y': 1, u'attributes': {u'data-pre': u'ILink', u'data-type': u'click_navMembership', u'data-var': u'loginBtn', u'class': u'nav-btn p0-sm body-4 u-bold ml2-sm mr2-sm', u'data-path': u'sign in'}, u'identifier': u''}, 'text': u'Sign In', 'tag_name': u'button', 'location': {'y': 1, 'x': 1819}, 'size': {'width': 38, 'height': 34}}, 'transformed': True, 'behavior': '', u'focusable': True, 'y': 2, 'x': 3638}
+2021-04-27 22:01:35,402 INFO     carbon_utils.action_utils --    sending action_elem: {'human_readable': 'button_3638_2_76_68_button_ffffffffffffffffffffffff0ff700200010001000b2f9ffffffffffffffffff_0ffc71968c588734b47b6925f63858c5', 'hash': 'kk/pBPQw522a1Iv7rCS5IA==\n', 'index': -1, 'text': 'Sign In', 'text_hash': '0ffc71968c588734b47b6925f63858c5', 'height': 68, 'is_transformed': True, 'img_hash': '960de1737867890ec41b2a0100ca5c8d', u'focused': False, u'clickable': True, 'human_hash': u'button_X3638_Y2_W76_H68', 'resource-id': '', 'password': False, 'class': 'button', u'checkable': False, u'scrollable': False, 'package': '', 'enabled': True, 'elem_shot_file_path': u'/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmpZ/button_X3638_Y2_W76_H68.png', 'hier_level': 0, 'content-desc': '', 'width': 76, 'tag_name': 'button', 'internal': {'elem_dict': {u'color': u'rgb(0, 0, 0)', u'text': u'Sign In', u'domLevel': 9, u'height': 34, u'tagName': u'button', u'cssClass': u'nav-btn p0-sm body-4 u-bold ml2-sm mr2-sm', u'width': 38, u'is-focused': False, u'fontSize': 12, u'font-weight': u'500', u'is-hidden': False, u'background-color': u'rgba(0, 0, 0, 0)', u'yPercent': 0.013095861707700367, u'xPercent': 95.47326115485563, u'x': 1819, u'font-family': u'"Helvetica Neue", Helvetica, Arial, sans-serif', u'class': u'button', u'name': u'', u'type': u'', u'value': u'', u'flags': {u'scrollable': False, u'focusable': True, u'enabled': True, u'focused': False, u'clickable': True, u'checkable': False}, u'y': 1, u'attributes': {u'data-pre': u'ILink', u'data-type': u'click_navMembership', u'data-var': u'loginBtn', u'class': u'nav-btn p0-sm body-4 u-bold ml2-sm mr2-sm', u'data-path': u'sign in'}, u'identifier': u''}, 'text': u'Sign In', 'tag_name': u'button', 'location': {'y': 1, 'x': 1819}, 'size': {'width': 38, 'height': 34}}, 'transformed': True, 'behavior': '', u'focusable': True, 'y': 2, 'x': 3638}
+2021-04-27 22:01:35,402 INFO     carbon_utils.action_utils --    sending cx: 3676 cy: 36
+2021-04-27 22:01:35,403 INFO     carbon_automation.driver -- Issuing a regular click
+2021-04-27 22:01:35,551 INFO     carbon_explore.explore -- DOM stability timing: pre
+2021-04-27 22:01:35,554 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:01:37,077 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:01:37,331 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:01:38,617 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:01:38,885 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:01:40,074 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:01:40,332 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:01:41,530 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:01:41,781 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:01:43,023 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:01:43,275 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:01:44,509 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:01:44,762 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:01:46,013 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:01:46,280 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:01:47,488 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:01:47,748 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:01:48,966 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:01:49,218 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:01:50,432 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:01:50,690 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:01:51,875 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:01:52,134 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:01:53,406 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:01:53,666 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:01:54,867 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:01:55,130 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:01:56,380 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:01:56,631 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:01:57,879 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:01:58,132 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:01:59,368 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:01:59,630 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:02:00,891 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:02:01,144 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:02:02,351 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:02:02,614 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:02:03,829 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:02:04,086 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:02:05,345 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:02:05,603 INFO     carbon_actions.carbon_actions -- sources aren't equal, clearing
+2021-04-27 22:02:05,606 INFO     carbon_explore.explore -- DOM stability timing: post
+2021-04-27 22:02:05,616 INFO     carbon_explore.explore -- Extra sleep: 1.000
+2021-04-27 22:02:06,621 INFO     carbon_explore.explore -- step: 0 complete
+2021-04-27 22:02:06,623 INFO     carbon_explore.explore -- ********************************************************************************
+2021-04-27 22:02:06,624 INFO     carbon_explore.explore -- * TIMEOUT: None
+2021-04-27 22:02:06,625 INFO     carbon_explore.explore -- * beginning step: 1, test completed: False, total steps: 5
+2021-04-27 22:02:06,626 INFO     carbon_explore.explore -- * Description: 
+2021-04-27 22:02:06,626 INFO     carbon_explore.explore -- * disable_bounceback: False
+2021-04-27 22:02:06,627 INFO     carbon_explore.explore -- ********************************************************************************
+2021-04-27 22:02:06,628 INFO     carbon_explore.explore -- getting walk queue
+2021-04-27 22:02:06,630 INFO     carbon_explore.explore_utils -- getting screen_elems
+2021-04-27 22:02:07,372 INFO     carbon_utils.scrape_utils -- Successfully collected web scrape.
+2021-04-27 22:02:07,374 INFO     carbon_explore.explore_utils -- filtering elems - 23
+2021-04-27 22:02:07,427 INFO     carbon_explore.explore_utils -- saving info - 20
+2021-04-27 22:02:07,428 INFO     carbon_explore.explore_utils -- saving core elems iter: 0, step 1, save_dir: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052
+2021-04-27 22:02:07,499 INFO     carbon_explore.explore -- got all screen info saved
+2021-04-27 22:02:07,506 INFO     carbon_explore.explore -- starting next action selection
+2021-04-27 22:02:07,508 INFO     carbon_explore.explore -- Determining active labels.
+2021-04-27 22:02:07,509 INFO     carbon_explore.explore -- Determining active models.
+2021-04-27 22:02:07,510 INFO     carbon_explore.explore -- Getting labels for the screen
+2021-04-27 22:02:07,511 INFO     carbon_classifiers.label_classifier_pipe -- Begin loading configured modules
+2021-04-27 22:02:07,513 INFO     carbon_classifiers.carbon_classifier_v1.screen_classifier -- Loading ScreenClassifier
+2021-04-27 22:02:07,513 INFO     carbon_classifiers.template_matching.app_specific_template_matcher -- Loading AppSpecificTemplateMatcher
+2021-04-27 22:02:07,514 INFO     carbon_classifiers.perceptual.nn_classifier -- Loading NNClassifier
+2021-04-27 22:02:07,515 INFO     carbon_classifiers.template_matching.template_matching_classifier -- Loading TemplateMatchingClassifier
+2021-04-27 22:02:07,516 WARNING  carbon_classifiers.template_matching.template_matching_classifier -- No template director exists at /root/test_ai/templates
+2021-04-27 22:02:07,516 INFO     carbon_classifiers.http_classifier.http_classifier -- Loaded Http Classifier for ""
+2021-04-27 22:02:07,517 INFO     carbon_classifiers.label_classifier_pipe -- Begin labeling elements
+2021-04-27 22:02:08,446 INFO     carbon_classifiers.template_matching.app_specific_template_matcher -- Classifying screen with AppSpecificTemplateMatcher
+2021-04-27 22:02:08,448 INFO     carbon_classifiers.perceptual.nn_classifier -- Classifying screen with NNClassifier
+2021-04-27 22:02:08,632 INFO     carbon_classifiers.perceptual.nn_classifier -- elem classified: inp_email, score: 1.0
+2021-04-27 22:02:08,633 WARNING  carbon_classifiers.label_classifier_pipe -- A widget with the name "default" has been set for this step but no widget by that name has been configured.
+2021-04-27 22:02:08,654 INFO     carbon_classifiers.label_classifier_pipe -- End labeling elements: Time taken 1.13651490211 seconds
+2021-04-27 22:02:08,655 INFO     carbon_explore.explore -- completed getting labels for screen
+2021-04-27 22:02:08,656 INFO     carbon_explore.explore -- _testStepNextAction
+2021-04-27 22:02:08,657 INFO     carbon_explore.explore -- curr step num: 1
+2021-04-27 22:02:08,658 INFO     carbon_explore.explore -- handling test step type: Action
+2021-04-27 22:02:08,659 INFO     carbon_explore.explore -- found all labels
+2021-04-27 22:02:08,660 INFO     carbon_explore.explore -- found elem: {'human_readable': 'button_2258_414_64_62_button_f7efe3c7e187f00ff81ffc3ffc1ff81ff18fe3c7e7e7ffffffffffffffffffff_9d4568c009d203ab10e33ea9953a0264', 'hash': 'MqE3Rt76crgsHpKXJMseFQ==\n', 'index': -1, 'text': '', 'text_hash': '9d4568c009d203ab10e33ea9953a0264', 'height': 62, 'is_transformed': True, 'img_hash': '795227ed499fb9a79422061badd5dfa6', u'focused': False, u'clickable': True, 'human_hash': u'button_X2258_Y414_W64_H62', 'resource-id': '', 'password': False, 'class': 'button', u'checkable': False, u'scrollable': False, 'package': '', 'enabled': True, 'elem_shot_file_path': u'/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmpZ/button_X2258_Y414_W64_H62.png', 'hier_level': 0, 'content-desc': '', 'width': 64, 'tag_name': 'button', 'internal': {'elem_dict': {u'color': u'rgb(0, 0, 0)', u'text': u'', u'domLevel': 5, u'height': 31, u'tagName': u'button', u'cssClass': u'pre-modal-btn-close bg-transparent', u'width': 32, u'is-focused': False, u'fontSize': 16, u'font-weight': u'400', u'is-hidden': False, u'background-color': u'rgba(0, 0, 0, 0)', u'yPercent': 2.710843373493976, u'xPercent': 59.23884514435696, u'x': 1129, u'font-family': u'Arial', u'class': u'button', u'name': u'', u'type': u'', u'value': u'', u'flags': {u'scrollable': False, u'focusable': True, u'enabled': True, u'focused': False, u'clickable': True, u'checkable': False}, u'y': 207, u'attributes': {u'style': u'display: block;', u'data-var': u'closeBtn', u'class': u'pre-modal-btn-close bg-transparent'}, u'identifier': u''}, 'text': u'', 'tag_name': u'button', 'location': {'y': 207, 'x': 1129}, 'size': {'width': 32, 'height': 31}}, 'transformed': True, 'behavior': '', u'focusable': True, 'y': 414, 'x': 2258}, input: text_entry
+2021-04-27 22:02:08,661 INFO     carbon_explore.explore -- action_elem {'human_readable': 'input_1582_706_648_80_input_0000ffffffffffffffff7fff07ff03ff03ff03ff87ffffffffffffffffff0000_9d4568c009d203ab10e33ea9953a0264', 'hash': 'bzFggSIojZ6wOUHyVx0TAA==\n', 'index': -1, 'text': '', 'text_hash': '9d4568c009d203ab10e33ea9953a0264', 'height': 80, 'is_transformed': True, 'img_hash': 'e611043dbb9511220291d239e5847f0c', u'focused': False, u'clickable': True, 'human_hash': u'input_X1582_Y706_W648_H80', 'resource-id': '', 'password': False, 'class': 'input', u'checkable': False, u'scrollable': False, 'package': '', 'enabled': True, 'elem_shot_file_path': u'/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmpZ/input_X1582_Y706_W648_H80.png', 'hier_level': 0, 'content-desc': '', 'width': 648, 'tag_name': 'input', 'internal': {'elem_dict': {u'color': u'rgb(141, 141, 141)', u'text': u'', u'domLevel': 10, u'height': 40, u'tagName': u'input', u'width': 324, u'is-focused': False, u'fontSize': 14, u'font-weight': u'400', u'is-hidden': False, u'background-color': u'rgb(255, 255, 255)', u'yPercent': 4.62283918281823, u'xPercent': 41.496062992125985, u'x': 791, u'font-family': u'Helvetica', u'class': u'input', u'name': u'emailAddress', u'type': u'email', u'value': u'', u'flags': {u'scrollable': False, u'focusable': True, u'enabled': True, u'focused': False, u'clickable': True, u'checkable': False}, u'y': 353, u'attributes': {u'spellcheck': u'false', u'name': u'emailAddress', u'type': u'email', u'autocorrect': u'off', u'value': u'', u'autocomplete': u'email', u'autocapitalize': u'off', u'data-componentname': u'emailAddress', u'placeholder': u'Email address', u'id': u'c540d679-184a-45aa-9821-1a2cc3dbd987'}, u'identifier': u'c540d679-184a-45aa-9821-1a2cc3dbd987'}, 'text': u'', 'tag_name': u'input', 'location': {'y': 353, 'x': 791}, 'size': {'width': 324, 'height': 40}}, 'transformed': True, 'behavior': '', u'focusable': True, 'y': 706, 'x': 1582}
+2021-04-27 22:02:08,665 INFO     carbon_explore.explore -- saving step
+2021-04-27 22:02:08,666 INFO     carbon_explore.explore_utils -- saving core elems iter: 0, step 1, save_dir: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tests/result_paths/001 Sign IN - f431fb32-56a9-45ce-9cf8-a02a1ff14dc1
+2021-04-27 22:02:08,733 INFO     carbon_explore.result_storage -- LOG FILE PATH: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tests/result_paths/001 Sign IN - f431fb32-56a9-45ce-9cf8-a02a1ff14dc1/iter_00000_step_00001_logs.txt
+2021-04-27 22:02:08,734 INFO     carbon_explore.result_storage -- ALL LOGS FILE PATH: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tests/result_paths/001 Sign IN - f431fb32-56a9-45ce-9cf8-a02a1ff14dc1/iter_00000_step_-0001_logs.txt
+2021-04-27 22:02:08,745 INFO     carbon_explore.explore -- step saved
+2021-04-27 22:02:08,746 INFO     carbon_explore.explore -- Gesture: trevormounts@gmail.com
+2021-04-27 22:02:08,747 INFO     carbon_explore.explore -- starting action
+2021-04-27 22:02:08,751 INFO     carbon_utils.action_utils -- action: text entry
+2021-04-27 22:02:08,751 INFO     carbon_utils.action_utils -- sending text: trevormounts@gmail.com
+2021-04-27 22:02:09,006 INFO     carbon_explore.explore -- DOM stability timing: pre
+2021-04-27 22:02:09,008 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:02:10,258 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:02:10,518 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:02:11,724 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:02:11,989 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:02:13,212 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:02:13,465 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:02:14,665 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:02:14,925 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:02:16,182 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:02:16,431 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:02:17,681 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:02:17,945 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:02:19,173 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:02:19,426 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:02:20,630 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:02:20,865 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:02:22,085 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:02:22,349 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:02:23,597 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:02:23,847 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:02:25,059 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:02:25,326 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:02:26,542 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:02:26,798 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:02:28,005 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:02:28,265 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:02:29,495 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:02:29,762 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:02:31,020 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:02:31,274 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:02:32,518 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:02:32,775 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:02:33,976 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:02:34,233 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:02:35,441 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:02:35,698 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:02:36,913 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:02:37,179 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:02:38,460 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:02:38,729 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:02:39,948 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:02:40,217 INFO     carbon_actions.carbon_actions -- sources aren't equal, clearing
+2021-04-27 22:02:40,226 INFO     carbon_explore.explore -- DOM stability timing: post
+2021-04-27 22:02:40,227 INFO     carbon_explore.explore -- Extra sleep: 1.000
+2021-04-27 22:02:41,239 INFO     carbon_explore.explore -- step: 1 complete
+2021-04-27 22:02:41,241 INFO     carbon_explore.explore -- ********************************************************************************
+2021-04-27 22:02:41,242 INFO     carbon_explore.explore -- * TIMEOUT: None
+2021-04-27 22:02:41,243 INFO     carbon_explore.explore -- * beginning step: 2, test completed: False, total steps: 5
+2021-04-27 22:02:41,243 INFO     carbon_explore.explore -- * Description: 
+2021-04-27 22:02:41,244 INFO     carbon_explore.explore -- * disable_bounceback: False
+2021-04-27 22:02:41,245 INFO     carbon_explore.explore -- ********************************************************************************
+2021-04-27 22:02:41,245 INFO     carbon_explore.explore -- getting walk queue
+2021-04-27 22:02:41,247 INFO     carbon_explore.explore_utils -- getting screen_elems
+2021-04-27 22:02:42,013 INFO     carbon_utils.scrape_utils -- Successfully collected web scrape.
+2021-04-27 22:02:42,015 INFO     carbon_explore.explore_utils -- filtering elems - 25
+2021-04-27 22:02:42,077 INFO     carbon_explore.explore_utils -- saving info - 21
+2021-04-27 22:02:42,078 INFO     carbon_explore.explore_utils -- saving core elems iter: 0, step 2, save_dir: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052
+2021-04-27 22:02:42,132 INFO     carbon_explore.explore -- got all screen info saved
+2021-04-27 22:02:42,132 INFO     carbon_explore.explore -- starting next action selection
+2021-04-27 22:02:42,133 INFO     carbon_explore.explore -- Determining active labels.
+2021-04-27 22:02:42,134 INFO     carbon_explore.explore -- Determining active models.
+2021-04-27 22:02:42,134 INFO     carbon_explore.explore -- Getting labels for the screen
+2021-04-27 22:02:42,135 INFO     carbon_classifiers.label_classifier_pipe -- Begin loading configured modules
+2021-04-27 22:02:42,135 INFO     carbon_classifiers.carbon_classifier_v1.screen_classifier -- Loading ScreenClassifier
+2021-04-27 22:02:42,136 INFO     carbon_classifiers.template_matching.app_specific_template_matcher -- Loading AppSpecificTemplateMatcher
+2021-04-27 22:02:42,136 INFO     carbon_classifiers.perceptual.nn_classifier -- Loading NNClassifier
+2021-04-27 22:02:42,137 INFO     carbon_classifiers.template_matching.template_matching_classifier -- Loading TemplateMatchingClassifier
+2021-04-27 22:02:42,138 WARNING  carbon_classifiers.template_matching.template_matching_classifier -- No template director exists at /root/test_ai/templates
+2021-04-27 22:02:42,138 INFO     carbon_classifiers.http_classifier.http_classifier -- Loaded Http Classifier for ""
+2021-04-27 22:02:42,139 INFO     carbon_classifiers.label_classifier_pipe -- Begin labeling elements
+2021-04-27 22:02:43,037 INFO     carbon_classifiers.template_matching.app_specific_template_matcher -- Classifying screen with AppSpecificTemplateMatcher
+2021-04-27 22:02:43,040 INFO     carbon_classifiers.perceptual.nn_classifier -- Classifying screen with NNClassifier
+2021-04-27 22:02:43,226 INFO     carbon_classifiers.perceptual.nn_classifier -- elem classified: inp_password, score: 1.0
+2021-04-27 22:02:43,227 WARNING  carbon_classifiers.label_classifier_pipe -- A widget with the name "default" has been set for this step but no widget by that name has been configured.
+2021-04-27 22:02:43,245 INFO     carbon_classifiers.label_classifier_pipe -- End labeling elements: Time taken 1.10501813889 seconds
+2021-04-27 22:02:43,246 INFO     carbon_explore.explore -- completed getting labels for screen
+2021-04-27 22:02:43,246 INFO     carbon_explore.explore -- _testStepNextAction
+2021-04-27 22:02:43,247 INFO     carbon_explore.explore -- curr step num: 2
+2021-04-27 22:02:43,248 INFO     carbon_explore.explore -- handling test step type: Action
+2021-04-27 22:02:43,248 INFO     carbon_explore.explore -- found all labels
+2021-04-27 22:02:43,249 INFO     carbon_explore.explore -- found elem: {'human_readable': 'div_1582_1180_648_80_div_8001000000000000000003c003c001c003c003c0000000000000000000008001_9d4568c009d203ab10e33ea9953a0264', 'hash': 'Om+rXGZW1bBAob4oQ8Fi/A==\n', 'index': -1, 'text': '', 'text_hash': '9d4568c009d203ab10e33ea9953a0264', 'height': 80, 'is_transformed': True, 'img_hash': '0045355e88bc26d9fadbc2d4ad77ed10', u'focused': False, u'clickable': False, 'human_hash': u'div_X1582_Y1180_W648_H80', 'resource-id': '', 'password': False, 'class': 'div', u'checkable': False, u'scrollable': False, 'package': '', 'enabled': False, 'elem_shot_file_path': u'/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmpZ/div_X1582_Y1180_W648_H80.png', 'hier_level': 0, 'content-desc': '', 'width': 648, 'tag_name': 'div', 'internal': {'elem_dict': {u'color': u'rgb(141, 141, 141)', u'text': u'', u'domLevel': 9, u'height': 40, u'tagName': u'div', u'cssClass': u'nike-unite-submit-button loginSubmit nike-unite-component', u'width': 324, u'is-focused': False, u'fontSize': 14, u'font-weight': u'400', u'is-hidden': False, u'background-color': u'rgba(0, 0, 0, 0)', u'yPercent': 7.7200104766893665, u'xPercent': 41.496062992125985, u'x': 791, u'font-family': u'Helvetica', u'class': u'div', u'name': u'', u'type': u'', u'value': u'', u'flags': {u'scrollable': False, u'focusable': False, u'enabled': False, u'focused': False, u'clickable': False, u'checkable': False}, u'y': 590, u'attributes': {u'id': u'4ee25cce-0274-47b5-9f87-8480aae751ff', u'class': u'nike-unite-submit-button loginSubmit nike-unite-component'}, u'identifier': u'4ee25cce-0274-47b5-9f87-8480aae751ff'}, 'text': u'', 'tag_name': u'div', 'location': {'y': 590, 'x': 791}, 'size': {'width': 324, 'height': 40}}, 'transformed': True, 'behavior': '', u'focusable': False, 'y': 1180, 'x': 1582}, input: text_entry
+2021-04-27 22:02:43,249 INFO     carbon_explore.explore -- action_elem {'human_readable': 'input_1582_782_648_80_input_0000ffffffffffffffffffff7fff0fff0fff8fffffffffffffffffffffff0000_9d4568c009d203ab10e33ea9953a0264', 'hash': 'Cds9BYErXAX+1lQLmgUnFQ==\n', 'index': -1, 'text': '', 'text_hash': '9d4568c009d203ab10e33ea9953a0264', 'height': 80, 'is_transformed': True, 'img_hash': '430ea5726d87ffcb612685ef3b762ae8', u'focused': True, u'clickable': True, 'human_hash': u'input_X1582_Y782_W648_H80', 'resource-id': '', 'password': False, 'class': 'input', u'checkable': False, u'scrollable': False, 'package': '', 'enabled': True, 'elem_shot_file_path': u'/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmpZ/input_X1582_Y782_W648_H80.png', 'hier_level': 0, 'content-desc': '', 'width': 648, 'tag_name': 'input', 'internal': {'elem_dict': {u'color': u'rgb(141, 141, 141)', u'text': u'', u'domLevel': 10, u'height': 40, u'tagName': u'input', u'width': 324, u'is-focused': True, u'fontSize': 14, u'font-weight': u'400', u'is-hidden': False, u'background-color': u'rgb(255, 255, 255)', u'yPercent': 5.113933996856993, u'xPercent': 41.496062992125985, u'x': 791, u'font-family': u'Helvetica', u'class': u'input', u'name': u'password', u'type': u'password', u'value': u'', u'flags': {u'scrollable': False, u'focusable': True, u'enabled': True, u'focused': True, u'clickable': True, u'checkable': False}, u'y': 391, u'attributes': {u'spellcheck': u'false', u'name': u'password', u'type': u'password', u'autocorrect': u'off', u'value': u'', u'autocomplete': u'current-password', u'autocapitalize': u'off', u'data-componentname': u'password', u'placeholder': u'Password', u'id': u'4e66efa2-481c-4384-8059-58cd047ecb08'}, u'identifier': u'4e66efa2-481c-4384-8059-58cd047ecb08'}, 'text': u'', 'tag_name': u'input', 'location': {'y': 391, 'x': 791}, 'size': {'width': 324, 'height': 40}}, 'transformed': True, 'behavior': '', u'focusable': True, 'y': 782, 'x': 1582}
+2021-04-27 22:02:43,252 INFO     carbon_explore.explore -- saving step
+2021-04-27 22:02:43,252 INFO     carbon_explore.explore_utils -- saving core elems iter: 0, step 2, save_dir: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tests/result_paths/001 Sign IN - f431fb32-56a9-45ce-9cf8-a02a1ff14dc1
+2021-04-27 22:02:43,314 INFO     carbon_explore.result_storage -- LOG FILE PATH: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tests/result_paths/001 Sign IN - f431fb32-56a9-45ce-9cf8-a02a1ff14dc1/iter_00000_step_00002_logs.txt
+2021-04-27 22:02:43,315 INFO     carbon_explore.result_storage -- ALL LOGS FILE PATH: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tests/result_paths/001 Sign IN - f431fb32-56a9-45ce-9cf8-a02a1ff14dc1/iter_00000_step_-0001_logs.txt
+2021-04-27 22:02:43,326 INFO     carbon_explore.explore -- step saved
+2021-04-27 22:02:43,327 INFO     carbon_explore.explore -- Gesture: Summer#2021
+2021-04-27 22:02:43,327 INFO     carbon_explore.explore -- starting action
+2021-04-27 22:02:43,330 INFO     carbon_utils.action_utils -- action: text entry
+2021-04-27 22:02:43,331 INFO     carbon_utils.action_utils -- sending text: Summer#2021
+2021-04-27 22:02:43,510 INFO     carbon_explore.explore -- DOM stability timing: pre
+2021-04-27 22:02:43,512 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:02:44,786 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:02:45,050 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:02:46,274 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:02:46,527 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:02:47,750 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:02:48,006 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:02:49,205 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:02:49,455 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:02:50,643 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:02:50,901 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:02:52,153 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:02:52,415 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:02:53,628 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:02:53,882 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:02:55,069 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:02:55,320 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:02:56,516 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:02:56,766 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:02:57,951 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:02:58,205 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:02:59,458 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:02:59,724 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:03:00,972 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:03:01,226 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:03:02,408 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:03:02,659 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:03:03,855 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:03:04,114 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:03:05,338 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:03:05,590 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:03:06,820 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:03:07,083 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:03:08,285 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:03:08,539 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:03:09,728 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:03:09,982 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:03:11,178 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:03:11,437 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:03:12,633 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:03:12,889 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:03:14,126 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:03:14,382 INFO     carbon_actions.carbon_actions -- sources aren't equal, clearing
+2021-04-27 22:03:14,390 INFO     carbon_explore.explore -- DOM stability timing: post
+2021-04-27 22:03:14,391 INFO     carbon_explore.explore -- Extra sleep: 1.000
+2021-04-27 22:03:15,392 INFO     carbon_explore.explore -- step: 2 complete
+2021-04-27 22:03:15,393 INFO     carbon_explore.explore -- ********************************************************************************
+2021-04-27 22:03:15,394 INFO     carbon_explore.explore -- * TIMEOUT: None
+2021-04-27 22:03:15,394 INFO     carbon_explore.explore -- * beginning step: 3, test completed: False, total steps: 5
+2021-04-27 22:03:15,395 INFO     carbon_explore.explore -- * Description: 
+2021-04-27 22:03:15,395 INFO     carbon_explore.explore -- * disable_bounceback: False
+2021-04-27 22:03:15,396 INFO     carbon_explore.explore -- ********************************************************************************
+2021-04-27 22:03:15,396 INFO     carbon_explore.explore -- getting walk queue
+2021-04-27 22:03:15,399 INFO     carbon_explore.explore_utils -- getting screen_elems
+2021-04-27 22:03:16,133 INFO     carbon_utils.scrape_utils -- Successfully collected web scrape.
+2021-04-27 22:03:16,134 INFO     carbon_explore.explore_utils -- filtering elems - 8
+2021-04-27 22:03:16,194 INFO     carbon_explore.explore_utils -- saving info - 7
+2021-04-27 22:03:16,195 INFO     carbon_explore.explore_utils -- saving core elems iter: 0, step 3, save_dir: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052
+2021-04-27 22:03:16,258 INFO     carbon_explore.explore -- got all screen info saved
+2021-04-27 22:03:16,258 INFO     carbon_explore.explore -- starting next action selection
+2021-04-27 22:03:16,259 INFO     carbon_explore.explore -- Determining active labels.
+2021-04-27 22:03:16,260 INFO     carbon_explore.explore -- Determining active models.
+2021-04-27 22:03:16,260 INFO     carbon_explore.explore -- Getting labels for the screen
+2021-04-27 22:03:16,261 INFO     carbon_classifiers.label_classifier_pipe -- Begin loading configured modules
+2021-04-27 22:03:16,261 INFO     carbon_classifiers.carbon_classifier_v1.screen_classifier -- Loading ScreenClassifier
+2021-04-27 22:03:16,262 INFO     carbon_classifiers.template_matching.app_specific_template_matcher -- Loading AppSpecificTemplateMatcher
+2021-04-27 22:03:16,263 INFO     carbon_classifiers.perceptual.nn_classifier -- Loading NNClassifier
+2021-04-27 22:03:16,263 INFO     carbon_classifiers.template_matching.template_matching_classifier -- Loading TemplateMatchingClassifier
+2021-04-27 22:03:16,264 WARNING  carbon_classifiers.template_matching.template_matching_classifier -- No template director exists at /root/test_ai/templates
+2021-04-27 22:03:16,265 INFO     carbon_classifiers.http_classifier.http_classifier -- Loaded Http Classifier for ""
+2021-04-27 22:03:16,265 INFO     carbon_classifiers.label_classifier_pipe -- Begin labeling elements
+2021-04-27 22:03:16,911 INFO     carbon_classifiers.template_matching.app_specific_template_matcher -- Classifying screen with AppSpecificTemplateMatcher
+2021-04-27 22:03:16,913 INFO     carbon_classifiers.perceptual.nn_classifier -- Classifying screen with NNClassifier
+2021-04-27 22:03:17,092 WARNING  carbon_classifiers.label_classifier_pipe -- A widget with the name "default" has been set for this step but no widget by that name has been configured.
+2021-04-27 22:03:17,101 INFO     carbon_classifiers.label_classifier_pipe -- End labeling elements: Time taken 0.835180044174 seconds
+2021-04-27 22:03:17,102 INFO     carbon_explore.explore -- completed getting labels for screen
+2021-04-27 22:03:17,103 INFO     carbon_explore.explore -- _testStepNextAction
+2021-04-27 22:03:17,104 INFO     carbon_explore.explore -- curr step num: 3
+2021-04-27 22:03:17,104 INFO     carbon_explore.explore -- handling test step type: Action
+2021-04-27 22:03:17,105 INFO     carbon_explore.explore -- test_l: btn_keep_signed_in not in set([])
+2021-04-27 22:03:17,107 ERROR    carbon_test_case.test_utils -- ******************************************************************
+2021-04-27 22:03:17,107 ERROR    carbon_test_case.test_utils -- * TEST FAILURE: matches not found in screen labels, failing test *
+2021-04-27 22:03:17,108 ERROR    carbon_test_case.test_utils -- ******************************************************************
+2021-04-27 22:03:17,108 INFO     carbon_explore.explore -- Unable to find label, waiting for DOM stability then retrying...
+2021-04-27 22:03:17,109 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:03:18,382 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:03:18,634 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:03:19,831 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:03:20,086 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:03:21,349 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:03:21,611 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:03:22,848 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:03:23,127 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:03:24,341 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:03:24,589 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:03:25,806 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:03:26,063 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:03:27,290 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:03:27,540 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:03:28,840 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:03:29,098 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:03:30,332 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:03:30,582 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:03:31,805 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:03:32,062 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:03:33,271 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:03:33,525 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:03:34,722 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:03:34,973 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:03:36,248 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:03:36,504 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:03:37,709 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:03:37,962 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:03:39,165 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:03:39,418 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:03:40,639 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:03:40,891 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:03:42,109 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:03:42,361 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:03:43,608 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:03:43,876 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:03:45,075 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:03:45,333 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:03:46,540 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:03:46,793 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:03:48,049 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:03:48,312 INFO     carbon_actions.carbon_actions -- sources aren't equal, clearing
+2021-04-27 22:03:48,314 INFO     carbon_explore.explore_utils -- getting screen_elems
+2021-04-27 22:03:49,052 INFO     carbon_utils.scrape_utils -- Successfully collected web scrape.
+2021-04-27 22:03:49,054 INFO     carbon_explore.explore_utils -- filtering elems - 23
+2021-04-27 22:03:49,101 INFO     carbon_explore.explore_utils -- saving info - 20
+2021-04-27 22:03:49,102 INFO     carbon_explore.explore_utils -- saving core elems iter: 0, step 3, save_dir: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052
+2021-04-27 22:03:49,160 INFO     carbon_explore.explore -- got all screen info saved
+2021-04-27 22:03:49,161 INFO     carbon_explore.explore -- starting next action selection
+2021-04-27 22:03:49,162 INFO     carbon_explore.explore -- Determining active labels.
+2021-04-27 22:03:49,162 INFO     carbon_explore.explore -- Determining active models.
+2021-04-27 22:03:49,163 INFO     carbon_explore.explore -- Getting labels for the screen
+2021-04-27 22:03:49,163 INFO     carbon_classifiers.label_classifier_pipe -- Begin loading configured modules
+2021-04-27 22:03:49,164 INFO     carbon_classifiers.carbon_classifier_v1.screen_classifier -- Loading ScreenClassifier
+2021-04-27 22:03:49,165 INFO     carbon_classifiers.template_matching.app_specific_template_matcher -- Loading AppSpecificTemplateMatcher
+2021-04-27 22:03:49,165 INFO     carbon_classifiers.perceptual.nn_classifier -- Loading NNClassifier
+2021-04-27 22:03:49,166 INFO     carbon_classifiers.template_matching.template_matching_classifier -- Loading TemplateMatchingClassifier
+2021-04-27 22:03:49,167 WARNING  carbon_classifiers.template_matching.template_matching_classifier -- No template director exists at /root/test_ai/templates
+2021-04-27 22:03:49,168 INFO     carbon_classifiers.http_classifier.http_classifier -- Loaded Http Classifier for ""
+2021-04-27 22:03:49,168 INFO     carbon_classifiers.label_classifier_pipe -- Begin labeling elements
+2021-04-27 22:03:50,044 INFO     carbon_classifiers.template_matching.app_specific_template_matcher -- Classifying screen with AppSpecificTemplateMatcher
+2021-04-27 22:03:50,046 INFO     carbon_classifiers.perceptual.nn_classifier -- Classifying screen with NNClassifier
+2021-04-27 22:03:50,228 INFO     carbon_classifiers.perceptual.nn_classifier -- elem classified: btn_keep_signed_in, score: 1.0
+2021-04-27 22:03:50,229 WARNING  carbon_classifiers.label_classifier_pipe -- A widget with the name "default" has been set for this step but no widget by that name has been configured.
+2021-04-27 22:03:50,246 INFO     carbon_classifiers.label_classifier_pipe -- End labeling elements: Time taken 1.07738089561 seconds
+2021-04-27 22:03:50,248 INFO     carbon_explore.explore -- completed getting labels for screen
+2021-04-27 22:03:50,249 INFO     carbon_explore.explore -- _testStepNextAction
+2021-04-27 22:03:50,249 INFO     carbon_explore.explore -- curr step num: 3
+2021-04-27 22:03:50,250 INFO     carbon_explore.explore -- handling test step type: Action
+2021-04-27 22:03:50,251 INFO     carbon_explore.explore -- found all labels
+2021-04-27 22:03:50,252 INFO     carbon_explore.explore -- found elem: {'human_readable': 'button_2258_414_64_62_button_f7efe3c7e187f00ff81ffc3ffc1ff81ff18fe3c7e7e7ffffffffffffffffffff_9d4568c009d203ab10e33ea9953a0264', 'hash': 'MqE3Rt76crgsHpKXJMseFQ==\n', 'index': -1, 'text': '', 'text_hash': '9d4568c009d203ab10e33ea9953a0264', 'height': 62, 'is_transformed': True, 'img_hash': '795227ed499fb9a79422061badd5dfa6', u'focused': False, u'clickable': True, 'human_hash': u'button_X2258_Y414_W64_H62', 'resource-id': '', 'password': False, 'class': 'button', u'checkable': False, u'scrollable': False, 'package': '', 'enabled': True, 'elem_shot_file_path': u'/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmpZ/button_X2258_Y414_W64_H62.png', 'hier_level': 0, 'content-desc': '', 'width': 64, 'tag_name': 'button', 'internal': {'elem_dict': {u'color': u'rgb(0, 0, 0)', u'text': u'', u'domLevel': 5, u'height': 31, u'tagName': u'button', u'cssClass': u'pre-modal-btn-close bg-transparent', u'width': 32, u'is-focused': False, u'fontSize': 16, u'font-weight': u'400', u'is-hidden': False, u'background-color': u'rgba(0, 0, 0, 0)', u'yPercent': 2.710843373493976, u'xPercent': 59.23884514435696, u'x': 1129, u'font-family': u'Arial', u'class': u'button', u'name': u'', u'type': u'', u'value': u'', u'flags': {u'scrollable': False, u'focusable': True, u'enabled': True, u'focused': False, u'clickable': True, u'checkable': False}, u'y': 207, u'attributes': {u'style': u'display: block;', u'data-var': u'closeBtn', u'class': u'pre-modal-btn-close bg-transparent'}, u'identifier': u''}, 'text': u'', 'tag_name': u'button', 'location': {'y': 207, 'x': 1129}, 'size': {'width': 32, 'height': 31}}, 'transformed': True, 'behavior': '', u'focusable': True, 'y': 414, 'x': 2258}, input: tap
+2021-04-27 22:03:50,253 INFO     carbon_explore.explore -- action_elem {'human_readable': 'label_1650_946_198_28_label_ffffffffffff7ffd7fff09020000000008000800018000008c12ffffff9fffff_8c014561b883d6200e10c6ec11b14d5f', 'hash': 'hd8L43h7xWzIcsfbJwRCVw==\n', 'index': -1, 'text': 'Keep me signed in', 'text_hash': '8c014561b883d6200e10c6ec11b14d5f', 'height': 28, 'is_transformed': True, 'img_hash': '4c40391ba3873461cba5490244062d75', u'focused': False, u'clickable': False, 'human_hash': u'label_X1650_Y946_W198_H28', 'resource-id': '', 'password': False, 'class': 'label', u'checkable': False, u'scrollable': False, 'package': '', 'enabled': False, 'elem_shot_file_path': u'/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmpZ/label_X1650_Y946_W198_H28.png', 'hier_level': 0, 'content-desc': '', 'width': 198, 'tag_name': 'label', 'internal': {'elem_dict': {u'color': u'rgb(141, 141, 141)', u'text': u'Keep me signed in', u'domLevel': 10, u'height': 14, u'tagName': u'label', u'cssClass': u'checkbox', u'width': 99, u'is-focused': False, u'fontSize': 12, u'font-weight': u'400', u'is-hidden': False, u'background-color': u'rgba(0, 0, 0, 0)', u'yPercent': 6.1988442902042955, u'xPercent': 43.28083989501312, u'x': 825, u'font-family': u'Helvetica', u'class': u'label', u'name': u'', u'type': u'', u'value': u'', u'flags': {u'scrollable': False, u'focusable': False, u'enabled': False, u'focused': False, u'clickable': False, u'checkable': False}, u'y': 473, u'attributes': {u'class': u'checkbox', u'for': u'113458dd-b437-4db3-a9c4-c00f1ba54085'}, u'identifier': u''}, 'text': u'Keep me signed in', 'tag_name': u'label', 'location': {'y': 473, 'x': 825}, 'size': {'width': 99, 'height': 14}}, 'transformed': True, 'behavior': '', u'focusable': False, 'y': 946, 'x': 1650}
+2021-04-27 22:03:50,257 INFO     carbon_explore.explore -- saving step
+2021-04-27 22:03:50,258 INFO     carbon_explore.explore_utils -- saving core elems iter: 0, step 3, save_dir: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tests/result_paths/001 Sign IN - f431fb32-56a9-45ce-9cf8-a02a1ff14dc1
+2021-04-27 22:03:50,328 INFO     carbon_explore.result_storage -- LOG FILE PATH: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tests/result_paths/001 Sign IN - f431fb32-56a9-45ce-9cf8-a02a1ff14dc1/iter_00000_step_00003_logs.txt
+2021-04-27 22:03:50,329 INFO     carbon_explore.result_storage -- ALL LOGS FILE PATH: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tests/result_paths/001 Sign IN - f431fb32-56a9-45ce-9cf8-a02a1ff14dc1/iter_00000_step_-0001_logs.txt
+2021-04-27 22:03:50,339 INFO     carbon_explore.explore -- step saved
+2021-04-27 22:03:50,340 INFO     carbon_explore.explore -- Gesture: tap
+2021-04-27 22:03:50,341 INFO     carbon_explore.explore -- starting action
+2021-04-27 22:03:50,344 INFO     carbon_utils.action_utils -- action: Tap
+2021-04-27 22:03:50,344 INFO     carbon_utils.action_utils --    got action_elem: {'human_readable': 'label_1650_946_198_28_label_ffffffffffff7ffd7fff09020000000008000800018000008c12ffffff9fffff_8c014561b883d6200e10c6ec11b14d5f', 'hash': 'hd8L43h7xWzIcsfbJwRCVw==\n', 'index': -1, 'text': 'Keep me signed in', 'text_hash': '8c014561b883d6200e10c6ec11b14d5f', 'height': 28, 'is_transformed': True, 'img_hash': '4c40391ba3873461cba5490244062d75', u'focused': False, u'clickable': False, 'human_hash': u'label_X1650_Y946_W198_H28', 'resource-id': '', 'password': False, 'class': 'label', u'checkable': False, u'scrollable': False, 'package': '', 'enabled': False, 'elem_shot_file_path': u'/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmpZ/label_X1650_Y946_W198_H28.png', 'hier_level': 0, 'content-desc': '', 'width': 198, 'tag_name': 'label', 'internal': {'elem_dict': {u'color': u'rgb(141, 141, 141)', u'text': u'Keep me signed in', u'domLevel': 10, u'height': 14, u'tagName': u'label', u'cssClass': u'checkbox', u'width': 99, u'is-focused': False, u'fontSize': 12, u'font-weight': u'400', u'is-hidden': False, u'background-color': u'rgba(0, 0, 0, 0)', u'yPercent': 6.1988442902042955, u'xPercent': 43.28083989501312, u'x': 825, u'font-family': u'Helvetica', u'class': u'label', u'name': u'', u'type': u'', u'value': u'', u'flags': {u'scrollable': False, u'focusable': False, u'enabled': False, u'focused': False, u'clickable': False, u'checkable': False}, u'y': 473, u'attributes': {u'class': u'checkbox', u'for': u'113458dd-b437-4db3-a9c4-c00f1ba54085'}, u'identifier': u''}, 'text': u'Keep me signed in', 'tag_name': u'label', 'location': {'y': 473, 'x': 825}, 'size': {'width': 99, 'height': 14}}, 'transformed': True, 'behavior': '', u'focusable': False, 'y': 946, 'x': 1650}
+2021-04-27 22:03:50,345 INFO     carbon_utils.action_utils --    sending action_elem: {'human_readable': 'label_1650_946_198_28_label_ffffffffffff7ffd7fff09020000000008000800018000008c12ffffff9fffff_8c014561b883d6200e10c6ec11b14d5f', 'hash': 'hd8L43h7xWzIcsfbJwRCVw==\n', 'index': -1, 'text': 'Keep me signed in', 'text_hash': '8c014561b883d6200e10c6ec11b14d5f', 'height': 28, 'is_transformed': True, 'img_hash': '4c40391ba3873461cba5490244062d75', u'focused': False, u'clickable': False, 'human_hash': u'label_X1650_Y946_W198_H28', 'resource-id': '', 'password': False, 'class': 'label', u'checkable': False, u'scrollable': False, 'package': '', 'enabled': False, 'elem_shot_file_path': u'/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmpZ/label_X1650_Y946_W198_H28.png', 'hier_level': 0, 'content-desc': '', 'width': 198, 'tag_name': 'label', 'internal': {'elem_dict': {u'color': u'rgb(141, 141, 141)', u'text': u'Keep me signed in', u'domLevel': 10, u'height': 14, u'tagName': u'label', u'cssClass': u'checkbox', u'width': 99, u'is-focused': False, u'fontSize': 12, u'font-weight': u'400', u'is-hidden': False, u'background-color': u'rgba(0, 0, 0, 0)', u'yPercent': 6.1988442902042955, u'xPercent': 43.28083989501312, u'x': 825, u'font-family': u'Helvetica', u'class': u'label', u'name': u'', u'type': u'', u'value': u'', u'flags': {u'scrollable': False, u'focusable': False, u'enabled': False, u'focused': False, u'clickable': False, u'checkable': False}, u'y': 473, u'attributes': {u'class': u'checkbox', u'for': u'113458dd-b437-4db3-a9c4-c00f1ba54085'}, u'identifier': u''}, 'text': u'Keep me signed in', 'tag_name': u'label', 'location': {'y': 473, 'x': 825}, 'size': {'width': 99, 'height': 14}}, 'transformed': True, 'behavior': '', u'focusable': False, 'y': 946, 'x': 1650}
+2021-04-27 22:03:50,346 INFO     carbon_utils.action_utils --    sending cx: 1749 cy: 960
+2021-04-27 22:03:50,346 INFO     carbon_automation.driver -- Issuing a regular click
+2021-04-27 22:03:50,479 INFO     carbon_explore.explore -- DOM stability timing: pre
+2021-04-27 22:03:50,480 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:03:51,708 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:03:51,964 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:03:53,182 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:03:53,439 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:03:54,657 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:03:54,908 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:03:56,130 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:03:56,380 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:03:57,625 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:03:57,891 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:03:59,143 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:03:59,394 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:04:00,614 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:04:00,874 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:04:02,101 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:04:02,356 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:04:03,600 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:04:03,865 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:04:05,099 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:04:05,360 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:04:06,586 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:04:06,837 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:04:08,035 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:04:08,286 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:04:09,517 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:04:09,774 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:04:10,968 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:04:11,228 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:04:12,505 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:04:12,764 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:04:14,002 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:04:14,255 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:04:15,453 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:04:15,714 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:04:16,924 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:04:17,180 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:04:18,385 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:04:18,656 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:04:19,912 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:04:20,182 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:04:21,432 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:04:21,687 INFO     carbon_actions.carbon_actions -- sources aren't equal, clearing
+2021-04-27 22:04:21,690 INFO     carbon_explore.explore -- DOM stability timing: post
+2021-04-27 22:04:21,691 INFO     carbon_explore.explore -- Extra sleep: 1.000
+2021-04-27 22:04:22,693 INFO     carbon_explore.explore -- step: 3 complete
+2021-04-27 22:04:22,695 INFO     carbon_explore.explore -- ********************************************************************************
+2021-04-27 22:04:22,696 INFO     carbon_explore.explore -- * TIMEOUT: None
+2021-04-27 22:04:22,697 INFO     carbon_explore.explore -- * beginning step: 4, test completed: False, total steps: 5
+2021-04-27 22:04:22,698 INFO     carbon_explore.explore -- * Description: 
+2021-04-27 22:04:22,698 INFO     carbon_explore.explore -- * disable_bounceback: False
+2021-04-27 22:04:22,699 INFO     carbon_explore.explore -- ********************************************************************************
+2021-04-27 22:04:22,699 INFO     carbon_explore.explore -- getting walk queue
+2021-04-27 22:04:22,701 INFO     carbon_explore.explore_utils -- getting screen_elems
+2021-04-27 22:04:23,403 INFO     carbon_utils.scrape_utils -- Successfully collected web scrape.
+2021-04-27 22:04:23,404 INFO     carbon_explore.explore_utils -- filtering elems - 23
+2021-04-27 22:04:23,453 INFO     carbon_explore.explore_utils -- saving info - 20
+2021-04-27 22:04:23,454 INFO     carbon_explore.explore_utils -- saving core elems iter: 0, step 4, save_dir: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052
+2021-04-27 22:04:23,515 INFO     carbon_explore.explore -- got all screen info saved
+2021-04-27 22:04:23,522 INFO     carbon_explore.explore -- starting next action selection
+2021-04-27 22:04:23,523 INFO     carbon_explore.explore -- Determining active labels.
+2021-04-27 22:04:23,524 INFO     carbon_explore.explore -- Determining active models.
+2021-04-27 22:04:23,525 INFO     carbon_explore.explore -- Getting labels for the screen
+2021-04-27 22:04:23,525 INFO     carbon_classifiers.label_classifier_pipe -- Begin loading configured modules
+2021-04-27 22:04:23,526 INFO     carbon_classifiers.carbon_classifier_v1.screen_classifier -- Loading ScreenClassifier
+2021-04-27 22:04:23,527 INFO     carbon_classifiers.template_matching.app_specific_template_matcher -- Loading AppSpecificTemplateMatcher
+2021-04-27 22:04:23,528 INFO     carbon_classifiers.perceptual.nn_classifier -- Loading NNClassifier
+2021-04-27 22:04:23,528 INFO     carbon_classifiers.template_matching.template_matching_classifier -- Loading TemplateMatchingClassifier
+2021-04-27 22:04:23,529 WARNING  carbon_classifiers.template_matching.template_matching_classifier -- No template director exists at /root/test_ai/templates
+2021-04-27 22:04:23,530 INFO     carbon_classifiers.http_classifier.http_classifier -- Loaded Http Classifier for ""
+2021-04-27 22:04:23,530 INFO     carbon_classifiers.label_classifier_pipe -- Begin labeling elements
+2021-04-27 22:04:24,357 INFO     carbon_classifiers.template_matching.app_specific_template_matcher -- Classifying screen with AppSpecificTemplateMatcher
+2021-04-27 22:04:24,359 INFO     carbon_classifiers.perceptual.nn_classifier -- Classifying screen with NNClassifier
+2021-04-27 22:04:24,532 INFO     carbon_classifiers.perceptual.nn_classifier -- elem classified: btn_sign_in, score: 1.0
+2021-04-27 22:04:24,533 WARNING  carbon_classifiers.label_classifier_pipe -- A widget with the name "default" has been set for this step but no widget by that name has been configured.
+2021-04-27 22:04:24,551 INFO     carbon_classifiers.label_classifier_pipe -- End labeling elements: Time taken 1.02019715309 seconds
+2021-04-27 22:04:24,553 INFO     carbon_explore.explore -- completed getting labels for screen
+2021-04-27 22:04:24,554 INFO     carbon_explore.explore -- _testStepNextAction
+2021-04-27 22:04:24,555 INFO     carbon_explore.explore -- curr step num: 4
+2021-04-27 22:04:24,555 INFO     carbon_explore.explore -- handling test step type: Action
+2021-04-27 22:04:24,556 INFO     carbon_explore.explore -- found all labels
+2021-04-27 22:04:24,557 INFO     carbon_explore.explore -- found elem: {'human_readable': 'button_2258_414_64_62_button_f7efe3c7e187f00ff81ffc3ffc1ff81ff18fe3c7e7e7ffffffffffffffffffff_9d4568c009d203ab10e33ea9953a0264', 'hash': 'MqE3Rt76crgsHpKXJMseFQ==\n', 'index': -1, 'text': '', 'text_hash': '9d4568c009d203ab10e33ea9953a0264', 'height': 62, 'is_transformed': True, 'img_hash': '795227ed499fb9a79422061badd5dfa6', u'focused': False, u'clickable': True, 'human_hash': u'button_X2258_Y414_W64_H62', 'resource-id': '', 'password': False, 'class': 'button', u'checkable': False, u'scrollable': False, 'package': '', 'enabled': True, 'elem_shot_file_path': u'/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmpZ/button_X2258_Y414_W64_H62.png', 'hier_level': 0, 'content-desc': '', 'width': 64, 'tag_name': 'button', 'internal': {'elem_dict': {u'color': u'rgb(0, 0, 0)', u'text': u'', u'domLevel': 5, u'height': 31, u'tagName': u'button', u'cssClass': u'pre-modal-btn-close bg-transparent', u'width': 32, u'is-focused': False, u'fontSize': 16, u'font-weight': u'400', u'is-hidden': False, u'background-color': u'rgba(0, 0, 0, 0)', u'yPercent': 2.710843373493976, u'xPercent': 59.23884514435696, u'x': 1129, u'font-family': u'Arial', u'class': u'button', u'name': u'', u'type': u'', u'value': u'', u'flags': {u'scrollable': False, u'focusable': True, u'enabled': True, u'focused': False, u'clickable': True, u'checkable': False}, u'y': 207, u'attributes': {u'style': u'display: block;', u'data-var': u'closeBtn', u'class': u'pre-modal-btn-close bg-transparent'}, u'identifier': u''}, 'text': u'', 'tag_name': u'button', 'location': {'y': 207, 'x': 1129}, 'size': {'width': 32, 'height': 31}}, 'transformed': True, 'behavior': '', u'focusable': True, 'y': 414, 'x': 2258}, input: tap
+2021-04-27 22:04:24,558 INFO     carbon_explore.explore -- action_elem {'human_readable': 'div_1582_1148_648_80_div_80010000000000000000038003c003c001c003c0018000000000000000008001_9d4568c009d203ab10e33ea9953a0264', 'hash': 'XUzwChjIkCEYr+BtN2yzlQ==\n', 'index': -1, 'text': '', 'text_hash': '9d4568c009d203ab10e33ea9953a0264', 'height': 80, 'is_transformed': True, 'img_hash': '38790653e82d70b2758bd0d3078722cd', u'focused': False, u'clickable': False, 'human_hash': u'div_X1582_Y1148_W648_H80', 'resource-id': '', 'password': False, 'class': 'div', u'checkable': False, u'scrollable': False, 'package': '', 'enabled': False, 'elem_shot_file_path': u'/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmpZ/div_X1582_Y1148_W648_H80.png', 'hier_level': 0, 'content-desc': '', 'width': 648, 'tag_name': 'div', 'internal': {'elem_dict': {u'color': u'rgb(141, 141, 141)', u'text': u'', u'domLevel': 9, u'height': 40, u'tagName': u'div', u'cssClass': u'nike-unite-submit-button loginSubmit nike-unite-component', u'width': 324, u'is-focused': False, u'fontSize': 14, u'font-weight': u'400', u'is-hidden': False, u'background-color': u'rgba(0, 0, 0, 0)', u'yPercent': 7.51702462022001, u'xPercent': 41.496062992125985, u'x': 791, u'font-family': u'Helvetica', u'class': u'div', u'name': u'', u'type': u'', u'value': u'', u'flags': {u'scrollable': False, u'focusable': False, u'enabled': False, u'focused': False, u'clickable': False, u'checkable': False}, u'y': 574, u'attributes': {u'id': u'725d94d5-856e-4061-96b6-7aa362d7b3d9', u'class': u'nike-unite-submit-button loginSubmit nike-unite-component'}, u'identifier': u'725d94d5-856e-4061-96b6-7aa362d7b3d9'}, 'text': u'', 'tag_name': u'div', 'location': {'y': 574, 'x': 791}, 'size': {'width': 324, 'height': 40}}, 'transformed': True, 'behavior': '', u'focusable': False, 'y': 1148, 'x': 1582}
+2021-04-27 22:04:24,561 INFO     carbon_explore.explore -- saving step
+2021-04-27 22:04:24,561 INFO     carbon_explore.explore_utils -- saving core elems iter: 0, step 4, save_dir: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tests/result_paths/001 Sign IN - f431fb32-56a9-45ce-9cf8-a02a1ff14dc1
+2021-04-27 22:04:24,627 INFO     carbon_explore.result_storage -- LOG FILE PATH: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tests/result_paths/001 Sign IN - f431fb32-56a9-45ce-9cf8-a02a1ff14dc1/iter_00000_step_00004_logs.txt
+2021-04-27 22:04:24,627 INFO     carbon_explore.result_storage -- ALL LOGS FILE PATH: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tests/result_paths/001 Sign IN - f431fb32-56a9-45ce-9cf8-a02a1ff14dc1/iter_00000_step_-0001_logs.txt
+2021-04-27 22:04:24,637 INFO     carbon_explore.explore -- step saved
+2021-04-27 22:04:24,639 INFO     carbon_explore.explore -- Gesture: tap
+2021-04-27 22:04:24,639 INFO     carbon_explore.explore -- starting action
+2021-04-27 22:04:24,643 INFO     carbon_utils.action_utils -- action: Tap
+2021-04-27 22:04:24,643 INFO     carbon_utils.action_utils --    got action_elem: {'human_readable': 'div_1582_1148_648_80_div_80010000000000000000038003c003c001c003c0018000000000000000008001_9d4568c009d203ab10e33ea9953a0264', 'hash': 'XUzwChjIkCEYr+BtN2yzlQ==\n', 'index': -1, 'text': '', 'text_hash': '9d4568c009d203ab10e33ea9953a0264', 'height': 80, 'is_transformed': True, 'img_hash': '38790653e82d70b2758bd0d3078722cd', u'focused': False, u'clickable': False, 'human_hash': u'div_X1582_Y1148_W648_H80', 'resource-id': '', 'password': False, 'class': 'div', u'checkable': False, u'scrollable': False, 'package': '', 'enabled': False, 'elem_shot_file_path': u'/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmpZ/div_X1582_Y1148_W648_H80.png', 'hier_level': 0, 'content-desc': '', 'width': 648, 'tag_name': 'div', 'internal': {'elem_dict': {u'color': u'rgb(141, 141, 141)', u'text': u'', u'domLevel': 9, u'height': 40, u'tagName': u'div', u'cssClass': u'nike-unite-submit-button loginSubmit nike-unite-component', u'width': 324, u'is-focused': False, u'fontSize': 14, u'font-weight': u'400', u'is-hidden': False, u'background-color': u'rgba(0, 0, 0, 0)', u'yPercent': 7.51702462022001, u'xPercent': 41.496062992125985, u'x': 791, u'font-family': u'Helvetica', u'class': u'div', u'name': u'', u'type': u'', u'value': u'', u'flags': {u'scrollable': False, u'focusable': False, u'enabled': False, u'focused': False, u'clickable': False, u'checkable': False}, u'y': 574, u'attributes': {u'id': u'725d94d5-856e-4061-96b6-7aa362d7b3d9', u'class': u'nike-unite-submit-button loginSubmit nike-unite-component'}, u'identifier': u'725d94d5-856e-4061-96b6-7aa362d7b3d9'}, 'text': u'', 'tag_name': u'div', 'location': {'y': 574, 'x': 791}, 'size': {'width': 324, 'height': 40}}, 'transformed': True, 'behavior': '', u'focusable': False, 'y': 1148, 'x': 1582}
+2021-04-27 22:04:24,644 INFO     carbon_utils.action_utils --    sending action_elem: {'human_readable': 'div_1582_1148_648_80_div_80010000000000000000038003c003c001c003c0018000000000000000008001_9d4568c009d203ab10e33ea9953a0264', 'hash': 'XUzwChjIkCEYr+BtN2yzlQ==\n', 'index': -1, 'text': '', 'text_hash': '9d4568c009d203ab10e33ea9953a0264', 'height': 80, 'is_transformed': True, 'img_hash': '38790653e82d70b2758bd0d3078722cd', u'focused': False, u'clickable': False, 'human_hash': u'div_X1582_Y1148_W648_H80', 'resource-id': '', 'password': False, 'class': 'div', u'checkable': False, u'scrollable': False, 'package': '', 'enabled': False, 'elem_shot_file_path': u'/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmpZ/div_X1582_Y1148_W648_H80.png', 'hier_level': 0, 'content-desc': '', 'width': 648, 'tag_name': 'div', 'internal': {'elem_dict': {u'color': u'rgb(141, 141, 141)', u'text': u'', u'domLevel': 9, u'height': 40, u'tagName': u'div', u'cssClass': u'nike-unite-submit-button loginSubmit nike-unite-component', u'width': 324, u'is-focused': False, u'fontSize': 14, u'font-weight': u'400', u'is-hidden': False, u'background-color': u'rgba(0, 0, 0, 0)', u'yPercent': 7.51702462022001, u'xPercent': 41.496062992125985, u'x': 791, u'font-family': u'Helvetica', u'class': u'div', u'name': u'', u'type': u'', u'value': u'', u'flags': {u'scrollable': False, u'focusable': False, u'enabled': False, u'focused': False, u'clickable': False, u'checkable': False}, u'y': 574, u'attributes': {u'id': u'725d94d5-856e-4061-96b6-7aa362d7b3d9', u'class': u'nike-unite-submit-button loginSubmit nike-unite-component'}, u'identifier': u'725d94d5-856e-4061-96b6-7aa362d7b3d9'}, 'text': u'', 'tag_name': u'div', 'location': {'y': 574, 'x': 791}, 'size': {'width': 324, 'height': 40}}, 'transformed': True, 'behavior': '', u'focusable': False, 'y': 1148, 'x': 1582}
+2021-04-27 22:04:24,645 INFO     carbon_utils.action_utils --    sending cx: 1906 cy: 1188
+2021-04-27 22:04:24,645 INFO     carbon_automation.driver -- Issuing a regular click
+2021-04-27 22:04:24,785 INFO     carbon_explore.explore -- DOM stability timing: pre
+2021-04-27 22:04:24,788 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:04:26,013 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:04:26,276 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:04:27,544 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:04:27,808 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:04:29,038 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:04:29,291 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:04:30,499 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:04:30,749 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:04:31,944 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:04:32,195 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:04:33,408 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:04:33,667 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:04:34,944 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:04:35,197 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:04:36,412 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:04:36,677 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:04:37,882 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:04:38,139 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:04:39,343 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:04:39,595 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:04:40,827 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:04:41,085 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:04:42,360 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:04:42,615 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:04:43,827 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:04:44,082 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:04:45,290 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:04:45,546 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:04:46,749 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:04:47,011 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:04:48,215 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:04:48,479 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:04:49,787 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:04:50,040 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:04:51,219 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:04:51,486 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:04:52,677 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:04:52,944 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:04:54,155 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:04:54,413 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-27 22:04:55,620 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tmp/runtime_labeling_screen.png
+2021-04-27 22:04:55,880 INFO     carbon_actions.carbon_actions -- sources aren't equal, clearing
+2021-04-27 22:04:55,890 INFO     carbon_explore.explore -- DOM stability timing: post
+2021-04-27 22:04:55,891 INFO     carbon_explore.explore -- Extra sleep: 1.000
+2021-04-27 22:04:56,899 INFO     carbon_explore.explore -- step: 4 complete
+2021-04-27 22:04:56,902 INFO     carbon_explore.explore -- ********************************************************************************
+2021-04-27 22:04:56,903 INFO     carbon_explore.explore -- * TIMEOUT: None
+2021-04-27 22:04:56,904 INFO     carbon_explore.explore -- * beginning step: 5, test completed: False, total steps: 5
+2021-04-27 22:04:56,905 INFO     carbon_explore.explore -- * disable_bounceback: False
+2021-04-27 22:04:56,906 INFO     carbon_explore.explore -- ********************************************************************************
+2021-04-27 22:04:56,907 INFO     carbon_explore.explore -- getting walk queue
+2021-04-27 22:04:56,910 INFO     carbon_explore.explore_utils -- getting screen_elems
+2021-04-27 22:04:57,636 INFO     carbon_utils.scrape_utils -- Successfully collected web scrape.
+2021-04-27 22:04:57,637 INFO     carbon_explore.explore_utils -- filtering elems - 25
+2021-04-27 22:04:57,697 INFO     carbon_explore.explore_utils -- saving info - 21
+2021-04-27 22:04:57,698 INFO     carbon_explore.explore_utils -- saving core elems iter: 0, step 5, save_dir: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052
+2021-04-27 22:04:57,758 INFO     carbon_explore.explore -- got all screen info saved
+2021-04-27 22:04:57,759 INFO     carbon_explore.explore -- starting next action selection
+2021-04-27 22:04:57,760 INFO     carbon_explore.explore -- test completed
+2021-04-27 22:04:57,760 INFO     carbon_explore.explore -- action_elem None
+2021-04-27 22:04:57,763 INFO     carbon_explore.explore -- saving step
+2021-04-27 22:04:57,763 INFO     carbon_explore.explore_utils -- saving core elems iter: 0, step 5, save_dir: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tests/result_paths/001 Sign IN - f431fb32-56a9-45ce-9cf8-a02a1ff14dc1
+2021-04-27 22:04:57,830 INFO     carbon_explore.result_storage -- LOG FILE PATH: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tests/result_paths/001 Sign IN - f431fb32-56a9-45ce-9cf8-a02a1ff14dc1/iter_00000_step_00005_logs.txt
+2021-04-27 22:04:57,831 INFO     carbon_explore.result_storage -- ALL LOGS FILE PATH: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210427220052/tests/result_paths/001 Sign IN - f431fb32-56a9-45ce-9cf8-a02a1ff14dc1/iter_00000_step_-0001_logs.txt
+2021-04-27 22:04:57,842 INFO     carbon_explore.explore -- step saved
+2021-04-27 22:04:57,843 INFO     carbon_explore.explore -- Gesture: TEST_COMPLETE
+2021-04-27 22:04:57,843 INFO     carbon_explore.explore -- gesture was TEST_COMPLETE
+2021-04-27 22:04:57,849 INFO     carbon_explore.explore -- ********************************************************************************
+2021-04-27 22:04:57,850 INFO     carbon_explore.explore -- * TIMEOUT: None
+2021-04-27 22:04:57,850 INFO     carbon_explore.explore -- * beginning step: 4, test completed: True, total steps: 5
+2021-04-27 22:04:57,851 INFO     carbon_explore.explore -- * Description: 
+2021-04-27 22:04:57,851 INFO     carbon_explore.explore -- * disable_bounceback: False
+2021-04-27 22:04:57,852 INFO     carbon_explore.explore -- ********************************************************************************
+2021-04-27 22:04:57,852 INFO     carbon_explore.explore -- test_complete!!
+2021-04-27 22:04:57,852 INFO     carbon_explore.explore -- test complete, concluding walk
+2021-04-27 22:04:57,853 INFO     carbon_explore.explore -- performing post-walk cleanup
+2021-04-27 22:04:57,853 INFO     carbon_utils.simulator_tools -- performing post-test cleanup
+2021-04-27 22:04:57,854 INFO     carbon_utils.simulator_tools -- calling driver.quit
+2021-04-27 22:04:58,012 INFO     carbon_explore.explore -- iteration completed: 0
+2021-04-27 22:04:58,013 INFO     carbon_tasks.regress_app_task -- test executed successfully
+2021-04-27 22:04:58,014 INFO     carbon_tasks.regress_app_task -- Removing threaded log file handler for test run.

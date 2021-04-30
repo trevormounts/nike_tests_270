@@ -1,0 +1,136 @@
+{
+    "elems": {
+        "iter_00000_step_00005_3_button.png": [
+            "btn_clear_search"
+        ], 
+        "iter_00000_step_00005_5_input.png": [
+            "inp_txt_search"
+        ], 
+        "iter_00000_step_00007_12_button.png": [
+            "btn_search"
+        ], 
+        "iter_00000_step_00007_2_button.png": [
+            "btn_close"
+        ], 
+        "iter_00000_step_00007_3_input.png": [
+            "inp_txt_search"
+        ], 
+        "iter_00000_step_00013_42_a.png": [
+            "mnu_shoes_walking"
+        ], 
+        "iter_00000_step_00013_45_a.png": [
+            "mnu_shoes_golf"
+        ], 
+        "iter_00000_step_00013_4_a.png": [
+            "mnu_shoes_running"
+        ], 
+        "iter_00000_step_00013_55_a.png": [
+            "mnu_shoes_skateboarding"
+        ], 
+        "iter_00000_step_00013_6_a.png": [
+            "mnu_shoes_volleyball"
+        ], 
+        "iter_00000_step_00013_82_img.png": [
+            "img_peg_38_le"
+        ], 
+        "iter_00000_step_00013_92_button.png": [
+            "btn_back"
+        ], 
+        "iter_00000_step_00015_12_a.png": [
+            "btn_shoes_under_100"
+        ], 
+        "iter_00000_step_00015_17_a.png": [
+            "btn_luxe_leggings"
+        ], 
+        "iter_00000_step_00015_2_h1.png": [
+            "ttl_women"
+        ], 
+        "iter_00000_step_00015_43_a.png": [
+            "btn_shoes_women"
+        ], 
+        "iter_00000_step_00015_55_a.png": [
+            "btn_clothing_women"
+        ], 
+        "iter_00000_step_00017_27_a.png": [
+            "btn_join_us"
+        ], 
+        "iter_00000_step_00017_54_a.png": [
+            "btn_sign_in"
+        ], 
+        "iter_00000_step_00019_0_button.png": [
+            "btn_watch"
+        ], 
+        "iter_00000_step_00020_12_a.png": [
+            "lnk_explore_coaching"
+        ], 
+        "iter_00000_step_00021_13_a.png": [
+            "lnk_download_ntc"
+        ], 
+        "iter_00000_step_00021_15_a.png": [
+            "lnk_download_nrc"
+        ], 
+        "iter_00000_step_00023_0_div.png": [
+            "pop_offers_signup"
+        ], 
+        "iter_00000_step_00023_12_div.png": [
+            "btn_sign_up"
+        ], 
+        "iter_00000_step_00023_7_button.png": [
+            "btn_close_pop"
+        ], 
+        "iter_00000_step_00025_16_a.png": [
+            "tle_nike_app"
+        ], 
+        "iter_00000_step_00028_11_li.png": [], 
+        "iter_00000_step_00028_15_a.png": [
+            "btn_women"
+        ], 
+        "iter_00000_step_00028_17_button.png": [
+            "btn_sign_in_home"
+        ], 
+        "iter_00000_step_00028_19_a.png": [
+            "icn_air_jordan"
+        ], 
+        "iter_00000_step_00028_21_li.png": [], 
+        "iter_00000_step_00028_24_a.png": [
+            "icn_cart"
+        ], 
+        "iter_00000_step_00028_31_a.png": [
+            "btn_sale"
+        ], 
+        "iter_00000_step_00028_32_a.png": [
+            "btn_nike_membership"
+        ], 
+        "iter_00000_step_00028_34_a.png": [
+            "btn_customize"
+        ], 
+        "iter_00000_step_00028_35_a.png": [
+            "btn_help"
+        ], 
+        "iter_00000_step_00028_36_button.png": [
+            "btn_search"
+        ], 
+        "iter_00000_step_00028_38_a.png": [
+            "btn_men"
+        ], 
+        "iter_00000_step_00028_39_a.png": [
+            "icn_home"
+        ], 
+        "iter_00000_step_00028_41_a.png": [
+            "btn_kids"
+        ], 
+        "iter_00000_step_00028_44_a.png": [
+            "mnu_new_releases"
+        ], 
+        "iter_00000_step_00028_45_a.png": [
+            "icn_converse"
+        ], 
+        "iter_00000_step_00028_46_input.png": [
+            "inp_txt_search"
+        ], 
+        "iter_00000_step_00028_6_a.png": [
+            "icn_favorites"
+        ]
+    }, 
+    "screens": {}
+}

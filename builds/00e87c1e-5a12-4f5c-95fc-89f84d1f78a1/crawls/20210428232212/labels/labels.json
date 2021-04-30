@@ -1,0 +1,78 @@
+{
+    "elems": {
+        "iter_00000_step_00011_3_a.png": [
+            "btn_shop"
+        ], 
+        "iter_00000_step_00013_100_a.png": [
+            "mi_air_max_95"
+        ], 
+        "iter_00000_step_00015_97_a.png": [
+            "mi_air_max_95"
+        ], 
+        "iter_00000_step_00019_4_a.png": [
+            "btn_white"
+        ], 
+        "iter_00000_step_00022_25_a.png": [
+            "btn_white"
+        ], 
+        "iter_00000_step_00024_46_button.png": [
+            "btn_multi_color"
+        ], 
+        "iter_00000_step_00026_68_button.png": [
+            "btn_size_11"
+        ], 
+        "iter_00000_step_00028_147_button.png": [
+            "btn_size_8_5"
+        ], 
+        "iter_00000_step_00035_32_a.png": [
+            "cbx_women"
+        ], 
+        "iter_00000_step_00039_150_button.png": [
+            "btn_purple"
+        ], 
+        "iter_00000_step_00041_29_a.png": [
+            "mi_air_max_90"
+        ], 
+        "iter_00000_step_00041_79_img.png": [
+            "img_peg_38_le"
+        ], 
+        "iter_00000_step_00049_78_label.png": [
+            "btn_size_6"
+        ], 
+        "iter_00000_step_00053_0_img.png": [
+            "tmb_1"
+        ], 
+        "iter_00000_step_00053_60_button.png": [], 
+        "iter_00000_step_00053_81_button.png": [
+            "btn_add_to_bag"
+        ], 
+        "iter_00000_step_00056_105_a.png": [
+            "icn_cart"
+        ], 
+        "iter_00000_step_00056_116_button.png": [
+            "btn_checkout"
+        ], 
+        "iter_00000_step_00056_22_a.png": [
+            "btn_men"
+        ], 
+        "iter_00000_step_00056_93_a.png": [
+            "btn_women"
+        ], 
+        "iter_00000_step_00058_10_input.png": [
+            "btn_member_checkout"
+        ], 
+        "iter_00000_step_00058_16_input.png": [
+            "inp_password"
+        ], 
+        "iter_00000_step_00058_28_input.png": [
+            "inp_email"
+        ], 
+        "iter_00000_step_00058_3_button.png": [
+            "btn_guest_checkout"
+        ], 
+        "iter_00000_step_00059_43_button.png": [
+            "btn_save_continue"
+        ]
+    }, 
+    "screens": {}
+}

@@ -1,0 +1,50 @@
+{
+    "elems": {
+        "iter_00000_step_00007_18_span.png": {
+            "btn_close": {
+                "all_scores": {
+                    "carbon_classifiers.perceptual.nn_classifier": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "carbon_classifiers.perceptual.nn_classifier"
+            }
+        }, 
+        "iter_00000_step_00021_12_a.png": {
+            "lnk_explore_coaching": {
+                "all_scores": {
+                    "carbon_classifiers.perceptual.nn_classifier": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "carbon_classifiers.perceptual.nn_classifier"
+            }
+        }, 
+        "iter_00000_step_00028_22_div.png": {
+            "inp_txt_search": {
+                "all_scores": {
+                    "carbon_classifiers.perceptual.nn_classifier": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "carbon_classifiers.perceptual.nn_classifier"
+            }
+        }, 
+        "iter_00000_step_00028_4_div.png": {
+            "icn_cart": {
+                "all_scores": {
+                    "carbon_classifiers.perceptual.nn_classifier": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "carbon_classifiers.perceptual.nn_classifier"
+            }
+        }, 
+        "iter_00000_step_00028_9_div.png": {
+            "icn_home": {
+                "all_scores": {
+                    "carbon_classifiers.perceptual.nn_classifier": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "carbon_classifiers.perceptual.nn_classifier"
+            }
+        }
+    }, 
+    "screens": {}
+}

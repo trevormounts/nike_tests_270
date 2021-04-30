@@ -1,0 +1,24 @@
+{
+    "action_info": {
+        "elem_class": null, 
+        "elem_info": {
+            "behavior": "", 
+            "content-desc": "", 
+            "enabled": true, 
+            "hier_level": 0, 
+            "human_hash": "", 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": ""
+        }, 
+        "gesture": "execute_script", 
+        "text": null
+    }, 
+    "all_elems": [], 
+    "cpu": 0, 
+    "jank": 0, 
+    "mem": 0, 
+    "net": 0, 
+    "timing": 0
+}

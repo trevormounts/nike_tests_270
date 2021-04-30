@@ -1,0 +1,328 @@
+{
+    "elems": {
+        "iter_00000_step_00015_120_a.png": {
+            "mi_air_max_90": {
+                "all_scores": {
+                    "hash_based": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "hash_based"
+            }
+        }, 
+        "iter_00000_step_00018_35_a.png": {
+            "btn_multi_color": {
+                "all_scores": {
+                    "carbon_classifiers.perceptual.nn_classifier": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "carbon_classifiers.perceptual.nn_classifier"
+            }
+        }, 
+        "iter_00000_step_00019_47_div.png": {
+            "img_peg_38_le": {
+                "all_scores": {
+                    "carbon_classifiers.perceptual.nn_classifier": 0.9
+                }, 
+                "score": 0.9, 
+                "source": "carbon_classifiers.perceptual.nn_classifier"
+            }
+        }, 
+        "iter_00000_step_00019_77_button.png": {
+            "btn_multi_color": {
+                "all_scores": {
+                    "carbon_classifiers.perceptual.nn_classifier": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "carbon_classifiers.perceptual.nn_classifier"
+            }
+        }, 
+        "iter_00000_step_00029_100_a.png": {
+            "btn_nike_membership": {
+                "all_scores": {
+                    "carbon_classifiers.perceptual.nn_classifier": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "carbon_classifiers.perceptual.nn_classifier"
+            }
+        }, 
+        "iter_00000_step_00029_103_button.png": {
+            "btn_search": {
+                "all_scores": {
+                    "carbon_classifiers.perceptual.nn_classifier": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "carbon_classifiers.perceptual.nn_classifier"
+            }
+        }, 
+        "iter_00000_step_00029_141_button.png": {
+            "btn_back": {
+                "all_scores": {
+                    "carbon_classifiers.perceptual.nn_classifier": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "carbon_classifiers.perceptual.nn_classifier"
+            }
+        }, 
+        "iter_00000_step_00029_26_a.png": {
+            "btn_customize": {
+                "all_scores": {
+                    "carbon_classifiers.perceptual.nn_classifier": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "carbon_classifiers.perceptual.nn_classifier"
+            }
+        }, 
+        "iter_00000_step_00029_81_a.png": {
+            "icn_favorites": {
+                "all_scores": {
+                    "carbon_classifiers.perceptual.nn_classifier": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "carbon_classifiers.perceptual.nn_classifier"
+            }
+        }, 
+        "iter_00000_step_00029_89_a.png": {
+            "icn_air_jordan": {
+                "all_scores": {
+                    "carbon_classifiers.perceptual.nn_classifier": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "carbon_classifiers.perceptual.nn_classifier"
+            }
+        }, 
+        "iter_00000_step_00031_72_div.png": {
+            "img_peg_38_le": {
+                "all_scores": {
+                    "carbon_classifiers.perceptual.nn_classifier": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "carbon_classifiers.perceptual.nn_classifier"
+            }
+        }, 
+        "iter_00000_step_00051_106_a.png": {
+            "icn_cart": {
+                "all_scores": {
+                    "hash_based": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "hash_based"
+            }
+        }, 
+        "iter_00000_step_00052_81_button.png": {
+            "btn_add_to_bag": {
+                "all_scores": {
+                    "carbon_classifiers.perceptual.nn_classifier": 0.98
+                }, 
+                "score": 0.98, 
+                "source": "carbon_classifiers.perceptual.nn_classifier"
+            }
+        }, 
+        "iter_00000_step_00053_118_button.png": {
+            "btn_back": {
+                "all_scores": {
+                    "hash_based": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "hash_based"
+            }
+        }, 
+        "iter_00000_step_00053_95_div.png": {
+            "btn_size_6": {
+                "all_scores": {
+                    "carbon_classifiers.perceptual.nn_classifier": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "carbon_classifiers.perceptual.nn_classifier"
+            }
+        }, 
+        "iter_00000_step_00056_110_a.png": {
+            "btn_sale": {
+                "all_scores": {
+                    "carbon_classifiers.perceptual.nn_classifier": 1.0, 
+                    "hash_based": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "hash_based"
+            }
+        }, 
+        "iter_00000_step_00056_119_a.png": {
+            "mnu_new_releases": {
+                "all_scores": {
+                    "carbon_classifiers.perceptual.nn_classifier": 1.0, 
+                    "hash_based": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "hash_based"
+            }
+        }, 
+        "iter_00000_step_00056_13_a.png": {
+            "icn_air_jordan": {
+                "all_scores": {
+                    "hash_based": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "hash_based"
+            }
+        }, 
+        "iter_00000_step_00056_19_a.png": {
+            "btn_customize": {
+                "all_scores": {
+                    "hash_based": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "hash_based"
+            }
+        }, 
+        "iter_00000_step_00056_25_input.png": {
+            "inp_txt_search": {
+                "all_scores": {
+                    "carbon_classifiers.perceptual.nn_classifier": 1.0, 
+                    "hash_based": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "hash_based"
+            }
+        }, 
+        "iter_00000_step_00056_38_button.png": {
+            "btn_sign_in_home": {
+                "all_scores": {
+                    "carbon_classifiers.perceptual.nn_classifier": 1.0, 
+                    "hash_based": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "hash_based"
+            }
+        }, 
+        "iter_00000_step_00056_49_a.png": {
+            "btn_help": {
+                "all_scores": {
+                    "carbon_classifiers.perceptual.nn_classifier": 1.0, 
+                    "hash_based": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "hash_based"
+            }
+        }, 
+        "iter_00000_step_00056_61_a.png": {
+            "icn_favorites": {
+                "all_scores": {
+                    "hash_based": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "hash_based"
+            }
+        }, 
+        "iter_00000_step_00056_81_a.png": {
+            "btn_nike_membership": {
+                "all_scores": {
+                    "hash_based": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "hash_based"
+            }
+        }, 
+        "iter_00000_step_00056_84_button.png": {
+            "btn_search": {
+                "all_scores": {
+                    "hash_based": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "hash_based"
+            }
+        }, 
+        "iter_00000_step_00056_87_a.png": {
+            "icn_home": {
+                "all_scores": {
+                    "carbon_classifiers.perceptual.nn_classifier": 1.0, 
+                    "hash_based": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "hash_based"
+            }
+        }, 
+        "iter_00000_step_00056_89_a.png": {
+            "btn_kids": {
+                "all_scores": {
+                    "carbon_classifiers.perceptual.nn_classifier": 1.0, 
+                    "hash_based": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "hash_based"
+            }
+        }, 
+        "iter_00000_step_00056_90_a.png": {
+            "icn_converse": {
+                "all_scores": {
+                    "hash_based": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "hash_based"
+            }
+        }, 
+        "iter_00000_step_00058_28_input.png": {
+            "inp_dob": {
+                "all_scores": {
+                    "carbon_classifiers.perceptual.nn_classifier": 0.92
+                }, 
+                "score": 0.92, 
+                "source": "carbon_classifiers.perceptual.nn_classifier"
+            }, 
+            "inp_first_name": {
+                "all_scores": {
+                    "carbon_classifiers.perceptual.nn_classifier": 0.96
+                }, 
+                "score": 0.96, 
+                "source": "carbon_classifiers.perceptual.nn_classifier"
+            }, 
+            "inp_last_name": {
+                "all_scores": {
+                    "carbon_classifiers.perceptual.nn_classifier": 0.97
+                }, 
+                "score": 0.97, 
+                "source": "carbon_classifiers.perceptual.nn_classifier"
+            }
+        }, 
+        "iter_00000_step_00059_52_input.png": {
+            "inp_password": {
+                "all_scores": {
+                    "carbon_classifiers.perceptual.nn_classifier": 0.93
+                }, 
+                "score": 0.93, 
+                "source": "carbon_classifiers.perceptual.nn_classifier"
+            }
+        }, 
+        "iter_00000_step_00059_67_input.png": {
+            "inp_email": {
+                "all_scores": {
+                    "carbon_classifiers.perceptual.nn_classifier": 0.92
+                }, 
+                "score": 0.92, 
+                "source": "carbon_classifiers.perceptual.nn_classifier"
+            }
+        }, 
+        "iter_00000_step_00059_86_input.png": {
+            "inp_dob": {
+                "all_scores": {
+                    "carbon_classifiers.perceptual.nn_classifier": 0.88
+                }, 
+                "score": 0.88, 
+                "source": "carbon_classifiers.perceptual.nn_classifier"
+            }, 
+            "inp_first_name": {
+                "all_scores": {
+                    "carbon_classifiers.perceptual.nn_classifier": 0.95
+                }, 
+                "score": 0.95, 
+                "source": "carbon_classifiers.perceptual.nn_classifier"
+            }, 
+            "inp_last_name": {
+                "all_scores": {
+                    "carbon_classifiers.perceptual.nn_classifier": 0.94
+                }, 
+                "score": 0.94, 
+                "source": "carbon_classifiers.perceptual.nn_classifier"
+            }
+        }
+    }, 
+    "screens": {}
+}

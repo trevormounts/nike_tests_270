@@ -1,0 +1,133 @@
+{
+    "elems": {
+        "iter_00000_step_00001_31_a.png": [
+            "btn_nike_membership"
+        ], 
+        "iter_00000_step_00003_19_button.png": [
+            "btn_close_pop"
+        ], 
+        "iter_00000_step_00003_3_a.png": [
+            "lnk_join_us"
+        ], 
+        "iter_00000_step_00003_4_div.png": [
+            "pop_sign_in"
+        ], 
+        "iter_00000_step_00005_22_input.png": [
+            "inp_male"
+        ], 
+        "iter_00000_step_00008_0_button.png": [
+            "btn_close_pop"
+        ], 
+        "iter_00000_step_00008_11_div.png": [], 
+        "iter_00000_step_00008_12_input.png": [
+            "inp_female"
+        ], 
+        "iter_00000_step_00008_14_input.png": [
+            "inp_email"
+        ], 
+        "iter_00000_step_00008_16_input.png": [
+            "inp_password"
+        ], 
+        "iter_00000_step_00008_18_input.png": [
+            "inp_first_name"
+        ], 
+        "iter_00000_step_00008_21_input.png": [], 
+        "iter_00000_step_00008_2_select.png": [
+            "ddl_country"
+        ], 
+        "iter_00000_step_00008_3_a.png": [
+            "lnkl_sign_in"
+        ], 
+        "iter_00000_step_00008_6_input.png": [
+            "inp_last_name"
+        ], 
+        "iter_00000_step_00010_10_select.png": [
+            "ddl_country"
+        ], 
+        "iter_00000_step_00010_13_input.png": [
+            "inp_dob"
+        ], 
+        "iter_00000_step_00010_1_input.png": [
+            "inp_first_name"
+        ], 
+        "iter_00000_step_00010_28_input.png": [
+            "inp_male"
+        ], 
+        "iter_00000_step_00010_2_input.png": [
+            "inp_female"
+        ], 
+        "iter_00000_step_00010_3_input.png": [
+            "inp_last_name"
+        ], 
+        "iter_00000_step_00010_4_input.png": [
+            "inp_password"
+        ], 
+        "iter_00000_step_00011_24_input.png": [
+            "inp_first_name"
+        ], 
+        "iter_00000_step_00012_19_input.png": [
+            "inp_male"
+        ], 
+        "iter_00000_step_00012_21_input.png": [
+            "inp_female"
+        ], 
+        "iter_00000_step_00012_8_input.png": [
+            "inp_last_name"
+        ], 
+        "iter_00000_step_00012_9_input.png": [
+            "inp_dob"
+        ], 
+        "iter_00000_step_00014_14_input.png": [
+            "inp_last_name"
+        ], 
+        "iter_00000_step_00014_21_input.png": [
+            "inp_female"
+        ], 
+        "iter_00000_step_00014_7_input.png": [
+            "inp_dob"
+        ], 
+        "iter_00000_step_00016_11_input.png": [
+            "inp_email"
+        ], 
+        "iter_00000_step_00016_13_input.png": [
+            "inp_last_name"
+        ], 
+        "iter_00000_step_00016_17_input.png": [
+            "inp_dob"
+        ], 
+        "iter_00000_step_00016_19_input.png": [
+            "inp_male"
+        ], 
+        "iter_00000_step_00016_21_input.png": [
+            "inp_password"
+        ], 
+        "iter_00000_step_00016_6_input.png": [
+            "inp_female"
+        ], 
+        "iter_00000_step_00018_12_input.png": [
+            "inp_first_name"
+        ], 
+        "iter_00000_step_00018_16_input.png": [
+            "inp_password"
+        ], 
+        "iter_00000_step_00018_1_input.png": [
+            "inp_email"
+        ], 
+        "iter_00000_step_00018_21_input.png": [
+            "inp_last_name"
+        ], 
+        "iter_00000_step_00018_3_input.png": [
+            "inp_male"
+        ], 
+        "iter_00000_step_00018_6_input.png": [
+            "inp_dob"
+        ], 
+        "iter_00000_step_00018_7_input.png": [
+            "btn_join_us"
+        ], 
+        "iter_00000_step_00018_9_input.png": [
+            "inp_female"
+        ]
+    }, 
+    "screens": {}
+}

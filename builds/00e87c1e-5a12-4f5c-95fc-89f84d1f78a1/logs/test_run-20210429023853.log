@@ -1,0 +1,1058 @@
+2021-04-29 02:38:53,386 INFO     carbon_tasks.regress_app_task -- Logging crawl output to /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/logs/test_run-20210429023853.log
+2021-04-29 02:38:53,387 INFO     carbon_tasks.regress_app_task -- regressing app: 805ab2d0-1b98-4c86-af8c-1a247c26739f, build: 00e87c1e-5a12-4f5c-95fc-89f84d1f78a1
+2021-04-29 02:38:53,387 INFO     carbon_tasks.regress_app_task -- max_steps: 10
+2021-04-29 02:38:53,388 INFO     carbon_tasks.regress_app_task -- rand_seed: 1619659218
+2021-04-29 02:38:53,389 INFO     carbon_tasks.regress_app_task -- test_wildcard: *
+2021-04-29 02:38:53,389 INFO     carbon_tasks.regress_app_task -- package: None
+2021-04-29 02:38:53,390 INFO     carbon_tasks.regress_app_task -- eyes_api_key: None
+2021-04-29 02:38:53,390 INFO     carbon_tasks.regress_app_task -- no_reinstall: False
+2021-04-29 02:38:53,393 INFO     carbon_dao.local_carbon_dao -- Getting build info: APP_ID: 805ab2d0-1b98-4c86-af8c-1a247c26739f, BUILD_ID: 00e87c1e-5a12-4f5c-95fc-89f84d1f78a1
+2021-04-29 02:38:53,401 INFO     carbon_test_case.test_filtering -- Found test: 002 Find Airmax
+2021-04-29 02:38:53,403 INFO     carbon_test_case.test_filtering -- Found test: 000 Create Account (TM)
+2021-04-29 02:38:53,405 INFO     carbon_test_case.test_filtering -- Found test: 001 Sign In
+2021-04-29 02:38:53,407 INFO     carbon_test_case.carbon_tests -- Found matching test: 002 Find Airmax
+2021-04-29 02:38:53,424 INFO     carbon_dao.local_carbon_dao -- Getting build info: APP_ID: 805ab2d0-1b98-4c86-af8c-1a247c26739f, BUILD_ID: 00e87c1e-5a12-4f5c-95fc-89f84d1f78a1
+2021-04-29 02:38:53,428 INFO     carbon_tasks.regress_app_task -- Remote host address: http://host.docker.internal:8083
+2021-04-29 02:38:53,543 INFO     carbon_dao.local_carbon_dao -- Getting build info: APP_ID: 805ab2d0-1b98-4c86-af8c-1a247c26739f, BUILD_ID: 00e87c1e-5a12-4f5c-95fc-89f84d1f78a1
+2021-04-29 02:38:53,551 INFO     carbon_dao.local_carbon_dao -- Getting build info: APP_ID: 805ab2d0-1b98-4c86-af8c-1a247c26739f, BUILD_ID: 00e87c1e-5a12-4f5c-95fc-89f84d1f78a1
+2021-04-29 02:38:53,552 INFO     carbon_dao.local_carbon_dao -- Getting build info: APP_ID: 805ab2d0-1b98-4c86-af8c-1a247c26739f, BUILD_ID: 00e87c1e-5a12-4f5c-95fc-89f84d1f78a1
+2021-04-29 02:38:53,563 INFO     carbon_tasks.regress_app_task -- running regress for test case: 002 Find Airmax - 54f1f195-ed20-40ad-b346-c0933ed287fe
+2021-04-29 02:38:53,565 INFO     carbon_tasks.regress_app_task -- steps required for test: 13
+2021-04-29 02:38:53,567 INFO     carbon_test_case.carbon_tests -- using hard cap of: 13 steps
+2021-04-29 02:38:53,567 INFO     carbon_dao.local_carbon_dao -- Getting build info: APP_ID: 805ab2d0-1b98-4c86-af8c-1a247c26739f, BUILD_ID: 00e87c1e-5a12-4f5c-95fc-89f84d1f78a1
+2021-04-29 02:38:53,568 INFO     carbon_dao.local_carbon_dao -- Getting build info: APP_ID: 805ab2d0-1b98-4c86-af8c-1a247c26739f, BUILD_ID: 00e87c1e-5a12-4f5c-95fc-89f84d1f78a1
+2021-04-29 02:38:53,569 INFO     carbon_tasks.regress_app_task -- effective_max_steps: 13
+2021-04-29 02:38:53,579 INFO     carbon_explore.explore -- **************************************************
+2021-04-29 02:38:53,581 INFO     carbon_explore.explore -- **************************************************
+2021-04-29 02:38:53,584 INFO     carbon_explore.explore -- *                                                *
+2021-04-29 02:38:53,588 INFO     carbon_explore.explore -- *                   BRAIN                    *
+2021-04-29 02:38:53,593 INFO     carbon_explore.explore -- *                                                *
+2021-04-29 02:38:53,599 INFO     carbon_explore.explore -- **************************************************
+2021-04-29 02:38:53,606 INFO     carbon_explore.explore -- **************************************************
+2021-04-29 02:38:53,608 INFO     carbon_initialization.initialization -- Random seed: 1619659218
+2021-04-29 02:38:53,619 INFO     carbon_initialization.initialization -- ````````````````````````````````````````````````````````````````````````````````
+2021-04-29 02:38:53,619 INFO     carbon_initialization.initialization --                   PACKAGE: 805ab2d0-1b98-4c86-af8c-1a247c26739f
+2021-04-29 02:38:53,620 INFO     carbon_initialization.initialization -- ````````````````````````````````````````````````````````````````````````````````
+2021-04-29 02:38:53,620 INFO     carbon_initialization.initialization -- platform: DESKTOP_CHROME
+2021-04-29 02:38:53,621 INFO     carbon_initialization.initialization -- using crawl_directory: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853
+2021-04-29 02:38:53,622 INFO     carbon_botio.bot_io -- retrieving bot IO for app: 805ab2d0-1b98-4c86-af8c-1a247c26739f
+2021-04-29 02:38:53,622 INFO     carbon_botio.bot_io -- ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2021-04-29 02:38:53,623 INFO     carbon_botio.bot_io -- botio_filepath: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/lkg/botio.json
+2021-04-29 02:38:53,624 INFO     carbon_botio.bot_io -- use_snapshot: False
+2021-04-29 02:38:53,625 INFO     carbon_botio.bot_io -- no botIO found for app: 805ab2d0-1b98-4c86-af8c-1a247c26739f
+2021-04-29 02:38:53,633 INFO     carbon_utils.carbon_data -- loading models from LKG dir
+2021-04-29 02:38:53,634 INFO     carbon_utils.carbon_data -- loading models from LKG dir
+2021-04-29 02:38:53,638 INFO     carbon_utils.simulator_tools -- preparing clean iteration state...
+2021-04-29 02:38:53,639 INFO     carbon_utils.simulator_tools -- starting appium, platform: DESKTOP_CHROME
+2021-04-29 02:38:53,640 INFO     carbon_utils.simulator_tools -- starting appium/webdriver for desktop chrome
+2021-04-29 02:38:55,183 INFO     carbon_automation.driver -- Screen density2.0
+2021-04-29 02:38:55,315 INFO     carbon_utils.simulator_tools -- going to https://www.nike.com/
+2021-04-29 02:39:01,709 INFO     carbon_utils.simulator_tools -- completed setting url, additional time: 6.393234
+2021-04-29 02:39:05,411 INFO     carbon_initialization.initialization -- starting dom stability
+2021-04-29 02:39:05,424 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:39:06,820 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:39:07,115 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:39:08,442 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:39:08,706 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:39:10,054 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:39:10,320 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:39:11,663 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:39:11,957 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:39:13,286 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:39:13,543 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:39:14,859 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:39:15,150 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:39:16,616 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:39:16,872 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:39:18,209 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:39:18,476 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:39:19,820 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:39:20,086 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:39:21,398 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:39:21,676 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:39:22,995 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:39:23,261 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:39:24,591 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:39:24,862 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:39:26,227 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:39:26,498 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:39:27,802 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:39:28,074 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:39:29,373 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:39:29,634 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:39:30,948 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:39:31,209 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:39:32,500 INFO     carbon_dao.local_carbon_dao -- Getting build info: APP_ID: 805ab2d0-1b98-4c86-af8c-1a247c26739f, BUILD_ID: 00e87c1e-5a12-4f5c-95fc-89f84d1f78a1
+2021-04-29 02:39:32,531 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:39:32,627 INFO     carbon_dao.local_carbon_dao -- Getting build info: APP_ID: 805ab2d0-1b98-4c86-af8c-1a247c26739f, BUILD_ID: 00e87c1e-5a12-4f5c-95fc-89f84d1f78a1
+2021-04-29 02:39:32,678 INFO     carbon_dao.local_carbon_dao -- Getting build info: APP_ID: 805ab2d0-1b98-4c86-af8c-1a247c26739f, BUILD_ID: 00e87c1e-5a12-4f5c-95fc-89f84d1f78a1
+2021-04-29 02:39:32,797 INFO     carbon_dao.local_carbon_dao -- Getting build info: APP_ID: 805ab2d0-1b98-4c86-af8c-1a247c26739f, BUILD_ID: 00e87c1e-5a12-4f5c-95fc-89f84d1f78a1
+2021-04-29 02:39:32,839 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:39:34,203 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:39:34,464 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:39:35,801 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:39:36,057 INFO     carbon_actions.carbon_actions -- sources aren't equal, clearing
+2021-04-29 02:39:36,059 INFO     carbon_initialization.initialization -- current package sent in as: 805ab2d0-1b98-4c86-af8c-1a247c26739f
+2021-04-29 02:39:36,060 INFO     carbon_initialization.initialization -- ended dom stability
+2021-04-29 02:39:36,064 INFO     carbon_explore.explore -- package is set to: 805ab2d0-1b98-4c86-af8c-1a247c26739f
+2021-04-29 02:39:36,065 INFO     carbon_explore.explore -- ********************************************************************************
+2021-04-29 02:39:36,065 INFO     carbon_explore.explore -- * TIMEOUT: None
+2021-04-29 02:39:36,066 INFO     carbon_explore.explore -- * beginning step: 0, test completed: False, total steps: 12
+2021-04-29 02:39:36,066 INFO     carbon_explore.explore -- * Description: swipes until Womens Air Max Tile
+2021-04-29 02:39:36,067 INFO     carbon_explore.explore -- * disable_bounceback: False
+2021-04-29 02:39:36,067 INFO     carbon_explore.explore -- ********************************************************************************
+2021-04-29 02:39:36,068 INFO     carbon_explore.explore -- getting walk queue
+2021-04-29 02:39:36,069 INFO     carbon_explore.explore_utils -- getting screen_elems
+2021-04-29 02:39:37,095 INFO     carbon_utils.scrape_utils -- Successfully collected web scrape.
+2021-04-29 02:39:37,097 INFO     carbon_explore.explore_utils -- filtering elems - 56
+2021-04-29 02:39:37,147 INFO     carbon_explore.explore_utils -- saving info - 48
+2021-04-29 02:39:37,148 INFO     carbon_explore.explore_utils -- saving core elems iter: 0, step 0, save_dir: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853
+2021-04-29 02:39:37,232 INFO     carbon_explore.explore -- got all screen info saved
+2021-04-29 02:39:37,233 INFO     carbon_explore.explore -- starting next action selection
+2021-04-29 02:39:37,233 INFO     carbon_explore.explore -- Determining active labels.
+2021-04-29 02:39:37,234 INFO     carbon_explore.explore -- Determining active models.
+2021-04-29 02:39:37,234 INFO     carbon_explore.explore -- Getting labels for the screen
+2021-04-29 02:39:37,235 INFO     carbon_classifiers.label_classifier_pipe -- Begin loading configured modules
+2021-04-29 02:39:37,235 INFO     carbon_classifiers.carbon_classifier_v1.screen_classifier -- Loading ScreenClassifier
+2021-04-29 02:39:37,236 INFO     carbon_classifiers.template_matching.app_specific_template_matcher -- Loading AppSpecificTemplateMatcher
+2021-04-29 02:39:37,236 INFO     carbon_classifiers.perceptual.nn_classifier -- Loading NNClassifier
+2021-04-29 02:39:37,237 INFO     carbon_classifiers.template_matching.template_matching_classifier -- Loading TemplateMatchingClassifier
+2021-04-29 02:39:37,238 WARNING  carbon_classifiers.template_matching.template_matching_classifier -- No template director exists at /root/test_ai/templates
+2021-04-29 02:39:37,238 INFO     carbon_classifiers.http_classifier.http_classifier -- Loaded Http Classifier for ""
+2021-04-29 02:39:37,239 INFO     carbon_classifiers.label_classifier_pipe -- Begin labeling elements
+2021-04-29 02:39:38,254 INFO     carbon_classifiers.template_matching.app_specific_template_matcher -- Classifying screen with AppSpecificTemplateMatcher
+2021-04-29 02:39:38,257 INFO     carbon_classifiers.perceptual.nn_classifier -- Classifying screen with NNClassifier
+2021-04-29 02:39:38,347 WARNING  carbon_classifiers.label_classifier_pipe -- A widget with the name "default" has been set for this step but no widget by that name has been configured.
+2021-04-29 02:39:38,385 INFO     carbon_classifiers.label_classifier_pipe -- End labeling elements: Time taken 1.14501404762 seconds
+2021-04-29 02:39:38,386 INFO     carbon_explore.explore -- completed getting labels for screen
+2021-04-29 02:39:38,387 INFO     carbon_explore.explore -- _testStepNextAction
+2021-04-29 02:39:38,387 INFO     carbon_explore.explore -- curr step num: 0
+2021-04-29 02:39:38,388 INFO     carbon_explore.explore -- action_elem {'text': '', 'height': 0, 'width': 0, 'y': 0, 'x': 0, 'class': 'screen'}
+2021-04-29 02:39:38,391 INFO     carbon_explore.explore -- saving step
+2021-04-29 02:39:38,396 INFO     carbon_explore.explore_utils -- saving core elems iter: 0, step 0, save_dir: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tests/result_paths/002 Find Airmax - 54f1f195-ed20-40ad-b346-c0933ed287fe
+2021-04-29 02:39:38,488 INFO     carbon_explore.result_storage -- LOG FILE PATH: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tests/result_paths/002 Find Airmax - 54f1f195-ed20-40ad-b346-c0933ed287fe/iter_00000_step_00000_logs.txt
+2021-04-29 02:39:38,489 INFO     carbon_explore.result_storage -- ALL LOGS FILE PATH: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tests/result_paths/002 Find Airmax - 54f1f195-ed20-40ad-b346-c0933ed287fe/iter_00000_step_-0001_logs.txt
+2021-04-29 02:39:38,503 INFO     carbon_explore.explore -- step saved
+2021-04-29 02:39:38,504 INFO     carbon_explore.explore -- Gesture: execute_script
+2021-04-29 02:39:38,505 INFO     carbon_explore.explore -- starting action
+2021-04-29 02:39:38,509 INFO     carbon_utils.carbon_order_66 -- test_script_folder: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/lkg/scripts/
+2021-04-29 02:39:38,509 INFO     carbon_utils.carbon_order_66 -- script_name: swipe_until_air_max.py
+2021-04-29 02:39:38,510 INFO     carbon_utils.carbon_order_66 -- test_script_path[:-3]: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/lkg/scripts/swipe_until_air_max
+2021-04-29 02:39:38,518 INFO     carbon_explore.explore_hook -- Explore hook -- find_elements_with_label starting.
+2021-04-29 02:39:38,519 INFO     carbon_explore.explore_hook -- Explore hook -- _get_screen_info_hook starting.
+2021-04-29 02:39:38,520 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:39:39,852 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:39:39,854 INFO     carbon_explore.explore_utils -- getting screen_elems
+2021-04-29 02:39:40,614 INFO     carbon_utils.scrape_utils -- Successfully collected web scrape.
+2021-04-29 02:39:40,618 INFO     carbon_explore.explore_utils -- filtering elems - 56
+2021-04-29 02:39:40,696 INFO     carbon_explore.explore_hook -- Explore hook -- _get_screen_info_hook completed.
+2021-04-29 02:39:40,696 INFO     carbon_explore.explore_hook -- Explore hook -- _get_labels_for_screen starting on ['tle_air_max_women'].
+2021-04-29 02:39:40,697 INFO     carbon_explore.explore -- Determining active labels.
+2021-04-29 02:39:40,698 INFO     carbon_explore.explore -- Determining active models.
+2021-04-29 02:39:40,698 INFO     carbon_explore.explore -- Getting labels for the screen
+2021-04-29 02:39:40,699 INFO     carbon_classifiers.label_classifier_pipe -- Begin loading configured modules
+2021-04-29 02:39:40,699 INFO     carbon_classifiers.carbon_classifier_v1.screen_classifier -- Loading ScreenClassifier
+2021-04-29 02:39:40,700 INFO     carbon_classifiers.template_matching.app_specific_template_matcher -- Loading AppSpecificTemplateMatcher
+2021-04-29 02:39:40,701 INFO     carbon_classifiers.perceptual.nn_classifier -- Loading NNClassifier
+2021-04-29 02:39:40,701 INFO     carbon_classifiers.template_matching.template_matching_classifier -- Loading TemplateMatchingClassifier
+2021-04-29 02:39:40,702 WARNING  carbon_classifiers.template_matching.template_matching_classifier -- No template director exists at /root/test_ai/templates
+2021-04-29 02:39:40,703 INFO     carbon_classifiers.http_classifier.http_classifier -- Loaded Http Classifier for ""
+2021-04-29 02:39:40,703 INFO     carbon_classifiers.label_classifier_pipe -- Begin labeling elements
+2021-04-29 02:39:41,758 INFO     carbon_classifiers.template_matching.app_specific_template_matcher -- Classifying screen with AppSpecificTemplateMatcher
+2021-04-29 02:39:41,761 INFO     carbon_classifiers.perceptual.nn_classifier -- Classifying screen with NNClassifier
+2021-04-29 02:39:41,861 WARNING  carbon_classifiers.label_classifier_pipe -- A widget with the name "default" has been set for this step but no widget by that name has been configured.
+2021-04-29 02:39:41,897 INFO     carbon_classifiers.label_classifier_pipe -- End labeling elements: Time taken 1.19386601448 seconds
+2021-04-29 02:39:41,900 INFO     carbon_explore.explore_hook -- Explore hook -- Found labels: {'label_scores_for_screen': defaultdict(<type 'list'>, {}), 'elem_labels': set([]), 'label_scores_per_elem': defaultdict(<cyfunction LabelClassifierPipe.start.<locals>.<lambda> at 0x7f669fa7bad0>, {}), 'label_scores_per_elem_hash': defaultdict(<cyfunction LabelClassifierPipe.start.<locals>.<lambda> at 0x7f669ee22c50>, {}), 'all_labels': set([]), 'screen_labels': set([])}
+2021-04-29 02:39:41,901 INFO     carbon_explore.explore_hook -- Explore hook -- get_labels_for_screen completed.
+2021-04-29 02:39:41,903 INFO     carbon_explore.explore_hook -- Explore hook -- find_elements_with_label completed.
+2021-04-29 02:39:41,904 INFO     carbon_explore.explore_hook -- Explore hook -- perform_gesture starting.
+2021-04-29 02:39:41,905 INFO     carbon_explore.explore_hook -- Explore hook -- _get_screen_info_hook starting.
+2021-04-29 02:39:41,905 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:39:43,236 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:39:43,237 INFO     carbon_explore.explore_utils -- getting screen_elems
+2021-04-29 02:39:43,974 INFO     carbon_utils.scrape_utils -- Successfully collected web scrape.
+2021-04-29 02:39:43,976 INFO     carbon_explore.explore_utils -- filtering elems - 56
+2021-04-29 02:39:44,031 INFO     carbon_explore.explore_utils -- saving info - 48
+2021-04-29 02:39:44,032 INFO     carbon_explore.explore_utils -- saving core elems iter: 0, step 1, save_dir: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853
+2021-04-29 02:39:44,120 INFO     carbon_explore.explore_hook -- Explore hook -- _get_screen_info_hook completed.
+2021-04-29 02:39:44,121 INFO     carbon_explore.explore_hook -- Explore hook -- _get_labels_for_screen starting on [''].
+2021-04-29 02:39:44,121 INFO     carbon_explore.explore -- Determining active labels.
+2021-04-29 02:39:44,122 INFO     carbon_explore.explore -- Determining active models.
+2021-04-29 02:39:44,122 INFO     carbon_explore.explore -- Getting labels for the screen
+2021-04-29 02:39:44,123 INFO     carbon_classifiers.label_classifier_pipe -- Begin loading configured modules
+2021-04-29 02:39:44,124 INFO     carbon_classifiers.carbon_classifier_v1.screen_classifier -- Loading ScreenClassifier
+2021-04-29 02:39:44,124 INFO     carbon_classifiers.template_matching.app_specific_template_matcher -- Loading AppSpecificTemplateMatcher
+2021-04-29 02:39:44,125 INFO     carbon_classifiers.perceptual.nn_classifier -- Loading NNClassifier
+2021-04-29 02:39:44,125 INFO     carbon_classifiers.template_matching.template_matching_classifier -- Loading TemplateMatchingClassifier
+2021-04-29 02:39:44,127 WARNING  carbon_classifiers.template_matching.template_matching_classifier -- No template director exists at /root/test_ai/templates
+2021-04-29 02:39:44,127 INFO     carbon_classifiers.http_classifier.http_classifier -- Loaded Http Classifier for ""
+2021-04-29 02:39:44,128 INFO     carbon_classifiers.label_classifier_pipe -- Begin labeling elements
+2021-04-29 02:39:45,047 INFO     carbon_classifiers.template_matching.app_specific_template_matcher -- Classifying screen with AppSpecificTemplateMatcher
+2021-04-29 02:39:45,049 INFO     carbon_classifiers.perceptual.nn_classifier -- Classifying screen with NNClassifier
+2021-04-29 02:39:45,141 WARNING  carbon_classifiers.label_classifier_pipe -- A widget with the name "default" has been set for this step but no widget by that name has been configured.
+2021-04-29 02:39:45,177 INFO     carbon_classifiers.label_classifier_pipe -- End labeling elements: Time taken 1.04853487015 seconds
+2021-04-29 02:39:45,178 INFO     carbon_explore.explore_hook -- Explore hook -- Found labels: {'label_scores_for_screen': defaultdict(<type 'list'>, {}), 'elem_labels': set([]), 'label_scores_per_elem': defaultdict(<cyfunction LabelClassifierPipe.start.<locals>.<lambda> at 0x7f669ed9fd10>, {}), 'label_scores_per_elem_hash': defaultdict(<cyfunction LabelClassifierPipe.start.<locals>.<lambda> at 0x7f669eb83c50>, {}), 'all_labels': set([]), 'screen_labels': set([])}
+2021-04-29 02:39:45,179 INFO     carbon_explore.explore_hook -- Explore hook -- get_labels_for_screen completed.
+2021-04-29 02:39:45,180 INFO     carbon_explore.explore_hook -- Explore hook -- _match_element_on_screen starting.
+2021-04-29 02:39:45,180 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:39:46,532 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:39:46,535 INFO     carbon_explore.explore -- handling test step type: Action
+2021-04-29 02:39:46,536 INFO     carbon_explore.explore -- test_l:  not in set([])
+2021-04-29 02:39:46,536 INFO     carbon_explore.explore -- match found in screen labels
+2021-04-29 02:39:46,537 INFO     carbon_explore.explore_hook -- Explore hook -- match_element_on_screen completed.
+2021-04-29 02:39:46,537 INFO     carbon_explore.explore_hook -- saving step
+2021-04-29 02:39:46,538 INFO     carbon_explore.explore_utils -- saving core elems iter: 0, step 1, save_dir: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tests/result_paths/002 Find Airmax - 54f1f195-ed20-40ad-b346-c0933ed287fe
+2021-04-29 02:39:46,639 INFO     carbon_explore.result_storage -- LOG FILE PATH: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tests/result_paths/002 Find Airmax - 54f1f195-ed20-40ad-b346-c0933ed287fe/iter_00000_step_00001_logs.txt
+2021-04-29 02:39:46,640 INFO     carbon_explore.result_storage -- ALL LOGS FILE PATH: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tests/result_paths/002 Find Airmax - 54f1f195-ed20-40ad-b346-c0933ed287fe/iter_00000_step_-0001_logs.txt
+2021-04-29 02:39:46,651 INFO     carbon_explore.explore_hook -- step saved
+2021-04-29 02:39:46,651 INFO     carbon_explore.explore_hook -- Explore hook -- _perform_element_action starting.
+2021-04-29 02:39:46,678 INFO     carbon_explore.explore -- DOM stability timing: pre
+2021-04-29 02:39:46,679 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:39:48,117 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:39:48,387 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:39:50,376 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:39:50,665 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:39:52,628 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:39:52,926 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:39:54,856 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:39:55,139 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:39:57,309 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:39:57,619 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:39:59,587 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:39:59,882 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:40:01,896 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:40:02,183 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:40:04,153 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:40:04,439 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:40:06,377 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:40:06,670 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:40:08,604 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:40:08,891 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:40:10,845 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:40:11,136 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:40:13,072 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:40:13,368 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:40:15,300 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:40:15,600 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:40:17,549 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:40:17,842 INFO     carbon_actions.carbon_actions -- sources aren't equal, clearing
+2021-04-29 02:40:17,846 INFO     carbon_explore.explore_hook -- Explore hook -- perform_element_action completed.
+2021-04-29 02:40:17,847 INFO     carbon_explore.explore_hook -- Explore hook -- perform_gesture completed.
+2021-04-29 02:40:17,847 INFO     carbon_explore.explore_hook -- Explore hook -- find_elements_with_label starting.
+2021-04-29 02:40:17,848 INFO     carbon_explore.explore_hook -- Explore hook -- _get_screen_info_hook starting.
+2021-04-29 02:40:17,849 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:40:19,788 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:40:19,789 INFO     carbon_explore.explore_utils -- getting screen_elems
+2021-04-29 02:40:20,733 INFO     carbon_utils.scrape_utils -- Successfully collected web scrape.
+2021-04-29 02:40:20,735 INFO     carbon_explore.explore_utils -- filtering elems - 20
+2021-04-29 02:40:20,817 INFO     carbon_explore.explore_hook -- Explore hook -- _get_screen_info_hook completed.
+2021-04-29 02:40:20,818 INFO     carbon_explore.explore_hook -- Explore hook -- _get_labels_for_screen starting on ['tle_air_max_women'].
+2021-04-29 02:40:20,818 INFO     carbon_explore.explore -- Determining active labels.
+2021-04-29 02:40:20,819 INFO     carbon_explore.explore -- Determining active models.
+2021-04-29 02:40:20,820 INFO     carbon_explore.explore -- Getting labels for the screen
+2021-04-29 02:40:20,820 INFO     carbon_classifiers.label_classifier_pipe -- Begin loading configured modules
+2021-04-29 02:40:20,821 INFO     carbon_classifiers.carbon_classifier_v1.screen_classifier -- Loading ScreenClassifier
+2021-04-29 02:40:20,822 INFO     carbon_classifiers.template_matching.app_specific_template_matcher -- Loading AppSpecificTemplateMatcher
+2021-04-29 02:40:20,822 INFO     carbon_classifiers.perceptual.nn_classifier -- Loading NNClassifier
+2021-04-29 02:40:20,823 INFO     carbon_classifiers.template_matching.template_matching_classifier -- Loading TemplateMatchingClassifier
+2021-04-29 02:40:20,824 WARNING  carbon_classifiers.template_matching.template_matching_classifier -- No template director exists at /root/test_ai/templates
+2021-04-29 02:40:20,825 INFO     carbon_classifiers.http_classifier.http_classifier -- Loaded Http Classifier for ""
+2021-04-29 02:40:20,826 INFO     carbon_classifiers.label_classifier_pipe -- Begin labeling elements
+2021-04-29 02:40:20,993 INFO     carbon_classifiers.template_matching.app_specific_template_matcher -- Classifying screen with AppSpecificTemplateMatcher
+2021-04-29 02:40:20,994 INFO     carbon_classifiers.perceptual.nn_classifier -- Classifying screen with NNClassifier
+2021-04-29 02:40:21,008 WARNING  carbon_classifiers.label_classifier_pipe -- A widget with the name "default" has been set for this step but no widget by that name has been configured.
+2021-04-29 02:40:21,015 INFO     carbon_classifiers.label_classifier_pipe -- End labeling elements: Time taken 0.188539981842 seconds
+2021-04-29 02:40:21,016 INFO     carbon_explore.explore_hook -- Explore hook -- Found labels: {'label_scores_for_screen': defaultdict(<type 'list'>, {}), 'elem_labels': set([]), 'label_scores_per_elem': defaultdict(<cyfunction LabelClassifierPipe.start.<locals>.<lambda> at 0x7f669eda6890>, {}), 'label_scores_per_elem_hash': defaultdict(<cyfunction LabelClassifierPipe.start.<locals>.<lambda> at 0x7f669eda6350>, {}), 'all_labels': set([]), 'screen_labels': set([])}
+2021-04-29 02:40:21,017 INFO     carbon_explore.explore_hook -- Explore hook -- get_labels_for_screen completed.
+2021-04-29 02:40:21,018 INFO     carbon_explore.explore_hook -- Explore hook -- find_elements_with_label completed.
+2021-04-29 02:40:21,019 INFO     carbon_explore.explore_hook -- Explore hook -- perform_gesture starting.
+2021-04-29 02:40:21,019 INFO     carbon_explore.explore_hook -- Explore hook -- _get_screen_info_hook starting.
+2021-04-29 02:40:21,020 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:40:22,937 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:40:22,938 INFO     carbon_explore.explore_utils -- getting screen_elems
+2021-04-29 02:40:23,853 INFO     carbon_utils.scrape_utils -- Successfully collected web scrape.
+2021-04-29 02:40:23,856 INFO     carbon_explore.explore_utils -- filtering elems - 20
+2021-04-29 02:40:23,939 INFO     carbon_explore.explore_utils -- saving info - 4
+2021-04-29 02:40:23,939 INFO     carbon_explore.explore_utils -- saving core elems iter: 0, step 2, save_dir: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853
+2021-04-29 02:40:24,110 INFO     carbon_explore.explore_hook -- Explore hook -- _get_screen_info_hook completed.
+2021-04-29 02:40:24,111 INFO     carbon_explore.explore_hook -- Explore hook -- _get_labels_for_screen starting on [''].
+2021-04-29 02:40:24,111 INFO     carbon_explore.explore -- Determining active labels.
+2021-04-29 02:40:24,112 INFO     carbon_explore.explore -- Determining active models.
+2021-04-29 02:40:24,113 INFO     carbon_explore.explore -- Getting labels for the screen
+2021-04-29 02:40:24,113 INFO     carbon_classifiers.label_classifier_pipe -- Begin loading configured modules
+2021-04-29 02:40:24,114 INFO     carbon_classifiers.carbon_classifier_v1.screen_classifier -- Loading ScreenClassifier
+2021-04-29 02:40:24,114 INFO     carbon_classifiers.template_matching.app_specific_template_matcher -- Loading AppSpecificTemplateMatcher
+2021-04-29 02:40:24,115 INFO     carbon_classifiers.perceptual.nn_classifier -- Loading NNClassifier
+2021-04-29 02:40:24,115 INFO     carbon_classifiers.template_matching.template_matching_classifier -- Loading TemplateMatchingClassifier
+2021-04-29 02:40:24,117 WARNING  carbon_classifiers.template_matching.template_matching_classifier -- No template director exists at /root/test_ai/templates
+2021-04-29 02:40:24,117 INFO     carbon_classifiers.http_classifier.http_classifier -- Loaded Http Classifier for ""
+2021-04-29 02:40:24,118 INFO     carbon_classifiers.label_classifier_pipe -- Begin labeling elements
+2021-04-29 02:40:24,267 INFO     carbon_classifiers.template_matching.app_specific_template_matcher -- Classifying screen with AppSpecificTemplateMatcher
+2021-04-29 02:40:24,268 INFO     carbon_classifiers.perceptual.nn_classifier -- Classifying screen with NNClassifier
+2021-04-29 02:40:24,282 WARNING  carbon_classifiers.label_classifier_pipe -- A widget with the name "default" has been set for this step but no widget by that name has been configured.
+2021-04-29 02:40:24,288 INFO     carbon_classifiers.label_classifier_pipe -- End labeling elements: Time taken 0.170180082321 seconds
+2021-04-29 02:40:24,289 INFO     carbon_explore.explore_hook -- Explore hook -- Found labels: {'label_scores_for_screen': defaultdict(<type 'list'>, {}), 'elem_labels': set([]), 'label_scores_per_elem': defaultdict(<cyfunction LabelClassifierPipe.start.<locals>.<lambda> at 0x7f669eb83e90>, {}), 'label_scores_per_elem_hash': defaultdict(<cyfunction LabelClassifierPipe.start.<locals>.<lambda> at 0x7f669eb83950>, {}), 'all_labels': set([]), 'screen_labels': set([])}
+2021-04-29 02:40:24,290 INFO     carbon_explore.explore_hook -- Explore hook -- get_labels_for_screen completed.
+2021-04-29 02:40:24,291 INFO     carbon_explore.explore_hook -- Explore hook -- _match_element_on_screen starting.
+2021-04-29 02:40:24,291 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:40:26,223 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:40:26,224 INFO     carbon_explore.explore -- handling test step type: Action
+2021-04-29 02:40:26,224 INFO     carbon_explore.explore -- test_l:  not in set([])
+2021-04-29 02:40:26,225 INFO     carbon_explore.explore -- match found in screen labels
+2021-04-29 02:40:26,225 INFO     carbon_explore.explore_hook -- Explore hook -- match_element_on_screen completed.
+2021-04-29 02:40:26,226 INFO     carbon_explore.explore_hook -- saving step
+2021-04-29 02:40:26,226 INFO     carbon_explore.explore_utils -- saving core elems iter: 0, step 2, save_dir: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tests/result_paths/002 Find Airmax - 54f1f195-ed20-40ad-b346-c0933ed287fe
+2021-04-29 02:40:26,404 INFO     carbon_explore.result_storage -- LOG FILE PATH: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tests/result_paths/002 Find Airmax - 54f1f195-ed20-40ad-b346-c0933ed287fe/iter_00000_step_00002_logs.txt
+2021-04-29 02:40:26,405 INFO     carbon_explore.result_storage -- ALL LOGS FILE PATH: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tests/result_paths/002 Find Airmax - 54f1f195-ed20-40ad-b346-c0933ed287fe/iter_00000_step_-0001_logs.txt
+2021-04-29 02:40:26,421 INFO     carbon_explore.explore_hook -- step saved
+2021-04-29 02:40:26,422 INFO     carbon_explore.explore_hook -- Explore hook -- _perform_element_action starting.
+2021-04-29 02:40:26,432 INFO     carbon_explore.explore -- DOM stability timing: pre
+2021-04-29 02:40:26,433 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:40:28,482 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:40:28,781 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:40:32,000 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:40:32,362 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:40:35,502 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:40:35,835 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:40:38,886 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:40:39,203 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:40:42,269 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:40:42,598 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:40:45,648 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:40:45,969 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:40:49,076 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:40:49,400 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:40:52,461 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:40:52,790 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:40:55,876 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:40:56,208 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:40:59,236 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:40:59,558 INFO     carbon_actions.carbon_actions -- sources aren't equal, clearing
+2021-04-29 02:40:59,560 INFO     carbon_explore.explore_hook -- Explore hook -- perform_element_action completed.
+2021-04-29 02:40:59,560 INFO     carbon_explore.explore_hook -- Explore hook -- perform_gesture completed.
+2021-04-29 02:40:59,561 INFO     carbon_explore.explore_hook -- Explore hook -- find_elements_with_label starting.
+2021-04-29 02:40:59,562 INFO     carbon_explore.explore_hook -- Explore hook -- _get_screen_info_hook starting.
+2021-04-29 02:40:59,562 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:41:02,736 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:41:02,737 INFO     carbon_explore.explore_utils -- getting screen_elems
+2021-04-29 02:41:03,599 INFO     carbon_utils.scrape_utils -- Successfully collected web scrape.
+2021-04-29 02:41:03,600 INFO     carbon_explore.explore_utils -- filtering elems - 24
+2021-04-29 02:41:03,720 INFO     carbon_explore.explore_hook -- Explore hook -- _get_screen_info_hook completed.
+2021-04-29 02:41:03,721 INFO     carbon_explore.explore_hook -- Explore hook -- _get_labels_for_screen starting on ['tle_air_max_women'].
+2021-04-29 02:41:03,722 INFO     carbon_explore.explore -- Determining active labels.
+2021-04-29 02:41:03,722 INFO     carbon_explore.explore -- Determining active models.
+2021-04-29 02:41:03,723 INFO     carbon_explore.explore -- Getting labels for the screen
+2021-04-29 02:41:03,723 INFO     carbon_classifiers.label_classifier_pipe -- Begin loading configured modules
+2021-04-29 02:41:03,724 INFO     carbon_classifiers.carbon_classifier_v1.screen_classifier -- Loading ScreenClassifier
+2021-04-29 02:41:03,725 INFO     carbon_classifiers.template_matching.app_specific_template_matcher -- Loading AppSpecificTemplateMatcher
+2021-04-29 02:41:03,725 INFO     carbon_classifiers.perceptual.nn_classifier -- Loading NNClassifier
+2021-04-29 02:41:03,726 INFO     carbon_classifiers.template_matching.template_matching_classifier -- Loading TemplateMatchingClassifier
+2021-04-29 02:41:03,727 WARNING  carbon_classifiers.template_matching.template_matching_classifier -- No template director exists at /root/test_ai/templates
+2021-04-29 02:41:03,727 INFO     carbon_classifiers.http_classifier.http_classifier -- Loaded Http Classifier for ""
+2021-04-29 02:41:03,728 INFO     carbon_classifiers.label_classifier_pipe -- Begin labeling elements
+2021-04-29 02:41:03,962 INFO     carbon_classifiers.template_matching.app_specific_template_matcher -- Classifying screen with AppSpecificTemplateMatcher
+2021-04-29 02:41:03,965 INFO     carbon_classifiers.perceptual.nn_classifier -- Classifying screen with NNClassifier
+2021-04-29 02:41:03,983 WARNING  carbon_classifiers.label_classifier_pipe -- A widget with the name "default" has been set for this step but no widget by that name has been configured.
+2021-04-29 02:41:03,990 INFO     carbon_classifiers.label_classifier_pipe -- End labeling elements: Time taken 0.261480093002 seconds
+2021-04-29 02:41:03,991 INFO     carbon_explore.explore_hook -- Explore hook -- Found labels: {'label_scores_for_screen': defaultdict(<type 'list'>, {}), 'elem_labels': set([]), 'label_scores_per_elem': defaultdict(<cyfunction LabelClassifierPipe.start.<locals>.<lambda> at 0x7f669eb83d10>, {}), 'label_scores_per_elem_hash': defaultdict(<cyfunction LabelClassifierPipe.start.<locals>.<lambda> at 0x7f669eb83ad0>, {}), 'all_labels': set([]), 'screen_labels': set([])}
+2021-04-29 02:41:03,992 INFO     carbon_explore.explore_hook -- Explore hook -- get_labels_for_screen completed.
+2021-04-29 02:41:03,992 INFO     carbon_explore.explore_hook -- Explore hook -- find_elements_with_label completed.
+2021-04-29 02:41:03,993 INFO     carbon_explore.explore_hook -- Explore hook -- perform_gesture starting.
+2021-04-29 02:41:03,994 INFO     carbon_explore.explore_hook -- Explore hook -- _get_screen_info_hook starting.
+2021-04-29 02:41:03,994 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:41:07,156 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:41:07,157 INFO     carbon_explore.explore_utils -- getting screen_elems
+2021-04-29 02:41:08,019 INFO     carbon_utils.scrape_utils -- Successfully collected web scrape.
+2021-04-29 02:41:08,020 INFO     carbon_explore.explore_utils -- filtering elems - 24
+2021-04-29 02:41:08,144 INFO     carbon_explore.explore_utils -- saving info - 5
+2021-04-29 02:41:08,145 INFO     carbon_explore.explore_utils -- saving core elems iter: 0, step 3, save_dir: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853
+2021-04-29 02:41:08,490 INFO     carbon_explore.explore_hook -- Explore hook -- _get_screen_info_hook completed.
+2021-04-29 02:41:08,491 INFO     carbon_explore.explore_hook -- Explore hook -- _get_labels_for_screen starting on [''].
+2021-04-29 02:41:08,492 INFO     carbon_explore.explore -- Determining active labels.
+2021-04-29 02:41:08,492 INFO     carbon_explore.explore -- Determining active models.
+2021-04-29 02:41:08,493 INFO     carbon_explore.explore -- Getting labels for the screen
+2021-04-29 02:41:08,493 INFO     carbon_classifiers.label_classifier_pipe -- Begin loading configured modules
+2021-04-29 02:41:08,494 INFO     carbon_classifiers.carbon_classifier_v1.screen_classifier -- Loading ScreenClassifier
+2021-04-29 02:41:08,495 INFO     carbon_classifiers.template_matching.app_specific_template_matcher -- Loading AppSpecificTemplateMatcher
+2021-04-29 02:41:08,496 INFO     carbon_classifiers.perceptual.nn_classifier -- Loading NNClassifier
+2021-04-29 02:41:08,496 INFO     carbon_classifiers.template_matching.template_matching_classifier -- Loading TemplateMatchingClassifier
+2021-04-29 02:41:08,497 WARNING  carbon_classifiers.template_matching.template_matching_classifier -- No template director exists at /root/test_ai/templates
+2021-04-29 02:41:08,498 INFO     carbon_classifiers.http_classifier.http_classifier -- Loaded Http Classifier for ""
+2021-04-29 02:41:08,498 INFO     carbon_classifiers.label_classifier_pipe -- Begin labeling elements
+2021-04-29 02:41:08,770 INFO     carbon_classifiers.template_matching.app_specific_template_matcher -- Classifying screen with AppSpecificTemplateMatcher
+2021-04-29 02:41:08,772 INFO     carbon_classifiers.perceptual.nn_classifier -- Classifying screen with NNClassifier
+2021-04-29 02:41:08,789 WARNING  carbon_classifiers.label_classifier_pipe -- A widget with the name "default" has been set for this step but no widget by that name has been configured.
+2021-04-29 02:41:08,796 INFO     carbon_classifiers.label_classifier_pipe -- End labeling elements: Time taken 0.296932935715 seconds
+2021-04-29 02:41:08,797 INFO     carbon_explore.explore_hook -- Explore hook -- Found labels: {'label_scores_for_screen': defaultdict(<type 'list'>, {}), 'elem_labels': set([]), 'label_scores_per_elem': defaultdict(<cyfunction LabelClassifierPipe.start.<locals>.<lambda> at 0x7f669ed9f290>, {}), 'label_scores_per_elem_hash': defaultdict(<cyfunction LabelClassifierPipe.start.<locals>.<lambda> at 0x7f669ed9f050>, {}), 'all_labels': set([]), 'screen_labels': set([])}
+2021-04-29 02:41:08,798 INFO     carbon_explore.explore_hook -- Explore hook -- get_labels_for_screen completed.
+2021-04-29 02:41:08,798 INFO     carbon_explore.explore_hook -- Explore hook -- _match_element_on_screen starting.
+2021-04-29 02:41:08,799 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:41:11,884 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:41:11,885 INFO     carbon_explore.explore -- handling test step type: Action
+2021-04-29 02:41:11,885 INFO     carbon_explore.explore -- test_l:  not in set([])
+2021-04-29 02:41:11,887 INFO     carbon_explore.explore -- match found in screen labels
+2021-04-29 02:41:11,887 INFO     carbon_explore.explore_hook -- Explore hook -- match_element_on_screen completed.
+2021-04-29 02:41:11,888 INFO     carbon_explore.explore_hook -- saving step
+2021-04-29 02:41:11,888 INFO     carbon_explore.explore_utils -- saving core elems iter: 0, step 3, save_dir: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tests/result_paths/002 Find Airmax - 54f1f195-ed20-40ad-b346-c0933ed287fe
+2021-04-29 02:41:12,179 INFO     carbon_explore.result_storage -- LOG FILE PATH: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tests/result_paths/002 Find Airmax - 54f1f195-ed20-40ad-b346-c0933ed287fe/iter_00000_step_00003_logs.txt
+2021-04-29 02:41:12,180 INFO     carbon_explore.result_storage -- ALL LOGS FILE PATH: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tests/result_paths/002 Find Airmax - 54f1f195-ed20-40ad-b346-c0933ed287fe/iter_00000_step_-0001_logs.txt
+2021-04-29 02:41:12,193 INFO     carbon_explore.explore_hook -- step saved
+2021-04-29 02:41:12,193 INFO     carbon_explore.explore_hook -- Explore hook -- _perform_element_action starting.
+2021-04-29 02:41:12,203 INFO     carbon_explore.explore -- DOM stability timing: pre
+2021-04-29 02:41:12,204 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:41:15,308 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:41:15,631 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:41:16,980 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:41:17,244 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:41:18,568 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:41:18,832 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:41:20,170 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:41:20,441 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:41:21,768 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:41:22,036 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:41:23,392 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:41:23,662 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:41:25,008 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:41:25,270 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:41:26,584 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:41:26,843 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:41:28,152 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:41:28,416 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:41:29,776 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:41:30,039 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:41:31,382 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:41:31,654 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:41:32,988 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:41:33,248 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:41:34,587 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:41:34,859 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:41:36,214 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:41:36,474 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:41:37,793 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:41:38,063 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:41:39,390 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:41:39,657 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:41:40,964 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:41:41,227 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:41:42,552 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:41:42,813 INFO     carbon_actions.carbon_actions -- sources aren't equal, clearing
+2021-04-29 02:41:42,815 INFO     carbon_explore.explore_hook -- Explore hook -- perform_element_action completed.
+2021-04-29 02:41:42,816 INFO     carbon_explore.explore_hook -- Explore hook -- perform_gesture completed.
+2021-04-29 02:41:42,817 INFO     carbon_explore.explore_hook -- Explore hook -- find_elements_with_label starting.
+2021-04-29 02:41:42,818 INFO     carbon_explore.explore_hook -- Explore hook -- _get_screen_info_hook starting.
+2021-04-29 02:41:42,818 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:41:44,160 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:41:44,160 INFO     carbon_explore.explore_utils -- getting screen_elems
+2021-04-29 02:41:45,003 INFO     carbon_utils.scrape_utils -- Successfully collected web scrape.
+2021-04-29 02:41:45,005 INFO     carbon_explore.explore_utils -- filtering elems - 22
+2021-04-29 02:41:45,071 INFO     carbon_explore.explore_hook -- Explore hook -- _get_screen_info_hook completed.
+2021-04-29 02:41:45,072 INFO     carbon_explore.explore_hook -- Explore hook -- _get_labels_for_screen starting on ['tle_air_max_women'].
+2021-04-29 02:41:45,072 INFO     carbon_explore.explore -- Determining active labels.
+2021-04-29 02:41:45,073 INFO     carbon_explore.explore -- Determining active models.
+2021-04-29 02:41:45,073 INFO     carbon_explore.explore -- Getting labels for the screen
+2021-04-29 02:41:45,074 INFO     carbon_classifiers.label_classifier_pipe -- Begin loading configured modules
+2021-04-29 02:41:45,074 INFO     carbon_classifiers.carbon_classifier_v1.screen_classifier -- Loading ScreenClassifier
+2021-04-29 02:41:45,075 INFO     carbon_classifiers.template_matching.app_specific_template_matcher -- Loading AppSpecificTemplateMatcher
+2021-04-29 02:41:45,075 INFO     carbon_classifiers.perceptual.nn_classifier -- Loading NNClassifier
+2021-04-29 02:41:45,076 INFO     carbon_classifiers.template_matching.template_matching_classifier -- Loading TemplateMatchingClassifier
+2021-04-29 02:41:45,077 WARNING  carbon_classifiers.template_matching.template_matching_classifier -- No template director exists at /root/test_ai/templates
+2021-04-29 02:41:45,077 INFO     carbon_classifiers.http_classifier.http_classifier -- Loaded Http Classifier for ""
+2021-04-29 02:41:45,078 INFO     carbon_classifiers.label_classifier_pipe -- Begin labeling elements
+2021-04-29 02:41:45,358 INFO     carbon_classifiers.template_matching.app_specific_template_matcher -- Classifying screen with AppSpecificTemplateMatcher
+2021-04-29 02:41:45,360 INFO     carbon_classifiers.perceptual.nn_classifier -- Classifying screen with NNClassifier
+2021-04-29 02:41:45,386 WARNING  carbon_classifiers.label_classifier_pipe -- A widget with the name "default" has been set for this step but no widget by that name has been configured.
+2021-04-29 02:41:45,397 INFO     carbon_classifiers.label_classifier_pipe -- End labeling elements: Time taken 0.318707942963 seconds
+2021-04-29 02:41:45,398 INFO     carbon_explore.explore_hook -- Explore hook -- Found labels: {'label_scores_for_screen': defaultdict(<type 'list'>, {}), 'elem_labels': set([]), 'label_scores_per_elem': defaultdict(<cyfunction LabelClassifierPipe.start.<locals>.<lambda> at 0x7f669eda6890>, {}), 'label_scores_per_elem_hash': defaultdict(<cyfunction LabelClassifierPipe.start.<locals>.<lambda> at 0x7f669eda6650>, {}), 'all_labels': set([]), 'screen_labels': set([])}
+2021-04-29 02:41:45,399 INFO     carbon_explore.explore_hook -- Explore hook -- get_labels_for_screen completed.
+2021-04-29 02:41:45,400 INFO     carbon_explore.explore_hook -- Explore hook -- find_elements_with_label completed.
+2021-04-29 02:41:45,400 INFO     carbon_explore.explore_hook -- Explore hook -- perform_gesture starting.
+2021-04-29 02:41:45,401 INFO     carbon_explore.explore_hook -- Explore hook -- _get_screen_info_hook starting.
+2021-04-29 02:41:45,401 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:41:46,765 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:41:46,766 INFO     carbon_explore.explore_utils -- getting screen_elems
+2021-04-29 02:41:47,592 INFO     carbon_utils.scrape_utils -- Successfully collected web scrape.
+2021-04-29 02:41:47,594 INFO     carbon_explore.explore_utils -- filtering elems - 22
+2021-04-29 02:41:47,654 INFO     carbon_explore.explore_utils -- saving info - 12
+2021-04-29 02:41:47,655 INFO     carbon_explore.explore_utils -- saving core elems iter: 0, step 4, save_dir: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853
+2021-04-29 02:41:47,734 INFO     carbon_explore.explore_hook -- Explore hook -- _get_screen_info_hook completed.
+2021-04-29 02:41:47,734 INFO     carbon_explore.explore_hook -- Explore hook -- _get_labels_for_screen starting on [''].
+2021-04-29 02:41:47,735 INFO     carbon_explore.explore -- Determining active labels.
+2021-04-29 02:41:47,735 INFO     carbon_explore.explore -- Determining active models.
+2021-04-29 02:41:47,736 INFO     carbon_explore.explore -- Getting labels for the screen
+2021-04-29 02:41:47,737 INFO     carbon_classifiers.label_classifier_pipe -- Begin loading configured modules
+2021-04-29 02:41:47,737 INFO     carbon_classifiers.carbon_classifier_v1.screen_classifier -- Loading ScreenClassifier
+2021-04-29 02:41:47,738 INFO     carbon_classifiers.template_matching.app_specific_template_matcher -- Loading AppSpecificTemplateMatcher
+2021-04-29 02:41:47,738 INFO     carbon_classifiers.perceptual.nn_classifier -- Loading NNClassifier
+2021-04-29 02:41:47,739 INFO     carbon_classifiers.template_matching.template_matching_classifier -- Loading TemplateMatchingClassifier
+2021-04-29 02:41:47,740 WARNING  carbon_classifiers.template_matching.template_matching_classifier -- No template director exists at /root/test_ai/templates
+2021-04-29 02:41:47,740 INFO     carbon_classifiers.http_classifier.http_classifier -- Loaded Http Classifier for ""
+2021-04-29 02:41:47,741 INFO     carbon_classifiers.label_classifier_pipe -- Begin labeling elements
+2021-04-29 02:41:48,024 INFO     carbon_classifiers.template_matching.app_specific_template_matcher -- Classifying screen with AppSpecificTemplateMatcher
+2021-04-29 02:41:48,026 INFO     carbon_classifiers.perceptual.nn_classifier -- Classifying screen with NNClassifier
+2021-04-29 02:41:48,052 WARNING  carbon_classifiers.label_classifier_pipe -- A widget with the name "default" has been set for this step but no widget by that name has been configured.
+2021-04-29 02:41:48,064 INFO     carbon_classifiers.label_classifier_pipe -- End labeling elements: Time taken 0.322831869125 seconds
+2021-04-29 02:41:48,066 INFO     carbon_explore.explore_hook -- Explore hook -- Found labels: {'label_scores_for_screen': defaultdict(<type 'list'>, {}), 'elem_labels': set([]), 'label_scores_per_elem': defaultdict(<cyfunction LabelClassifierPipe.start.<locals>.<lambda> at 0x7f669eda6d10>, {}), 'label_scores_per_elem_hash': defaultdict(<cyfunction LabelClassifierPipe.start.<locals>.<lambda> at 0x7f669eda64d0>, {}), 'all_labels': set([]), 'screen_labels': set([])}
+2021-04-29 02:41:48,066 INFO     carbon_explore.explore_hook -- Explore hook -- get_labels_for_screen completed.
+2021-04-29 02:41:48,067 INFO     carbon_explore.explore_hook -- Explore hook -- _match_element_on_screen starting.
+2021-04-29 02:41:48,068 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:41:49,376 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:41:49,376 INFO     carbon_explore.explore -- handling test step type: Action
+2021-04-29 02:41:49,377 INFO     carbon_explore.explore -- test_l:  not in set([])
+2021-04-29 02:41:49,378 INFO     carbon_explore.explore -- match found in screen labels
+2021-04-29 02:41:49,378 INFO     carbon_explore.explore_hook -- Explore hook -- match_element_on_screen completed.
+2021-04-29 02:41:49,379 INFO     carbon_explore.explore_hook -- saving step
+2021-04-29 02:41:49,379 INFO     carbon_explore.explore_utils -- saving core elems iter: 0, step 4, save_dir: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tests/result_paths/002 Find Airmax - 54f1f195-ed20-40ad-b346-c0933ed287fe
+2021-04-29 02:41:49,460 INFO     carbon_explore.result_storage -- LOG FILE PATH: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tests/result_paths/002 Find Airmax - 54f1f195-ed20-40ad-b346-c0933ed287fe/iter_00000_step_00004_logs.txt
+2021-04-29 02:41:49,461 INFO     carbon_explore.result_storage -- ALL LOGS FILE PATH: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tests/result_paths/002 Find Airmax - 54f1f195-ed20-40ad-b346-c0933ed287fe/iter_00000_step_-0001_logs.txt
+2021-04-29 02:41:49,471 INFO     carbon_explore.explore_hook -- step saved
+2021-04-29 02:41:49,472 INFO     carbon_explore.explore_hook -- Explore hook -- _perform_element_action starting.
+2021-04-29 02:41:49,484 INFO     carbon_explore.explore -- DOM stability timing: pre
+2021-04-29 02:41:49,485 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:41:50,940 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:41:51,207 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:41:53,116 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:41:53,398 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:41:55,330 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:41:55,605 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:41:57,477 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:41:57,760 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:41:59,725 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:42:00,005 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:42:01,920 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:42:02,199 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:42:04,087 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:42:04,372 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:42:06,261 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:42:06,537 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:42:08,468 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:42:08,748 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:42:10,697 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:42:10,973 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:42:12,868 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:42:13,158 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:42:15,062 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:42:15,359 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:42:17,274 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:42:17,547 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:42:19,450 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:42:19,743 INFO     carbon_actions.carbon_actions -- sources aren't equal, clearing
+2021-04-29 02:42:19,745 INFO     carbon_explore.explore_hook -- Explore hook -- perform_element_action completed.
+2021-04-29 02:42:19,746 INFO     carbon_explore.explore_hook -- Explore hook -- perform_gesture completed.
+2021-04-29 02:42:19,747 INFO     carbon_explore.explore_hook -- Explore hook -- find_elements_with_label starting.
+2021-04-29 02:42:19,748 INFO     carbon_explore.explore_hook -- Explore hook -- _get_screen_info_hook starting.
+2021-04-29 02:42:19,748 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:42:21,657 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:42:21,658 INFO     carbon_explore.explore_utils -- getting screen_elems
+2021-04-29 02:42:22,496 INFO     carbon_utils.scrape_utils -- Successfully collected web scrape.
+2021-04-29 02:42:22,497 INFO     carbon_explore.explore_utils -- filtering elems - 17
+2021-04-29 02:42:22,575 INFO     carbon_explore.explore_hook -- Explore hook -- _get_screen_info_hook completed.
+2021-04-29 02:42:22,576 INFO     carbon_explore.explore_hook -- Explore hook -- _get_labels_for_screen starting on ['tle_air_max_women'].
+2021-04-29 02:42:22,577 INFO     carbon_explore.explore -- Determining active labels.
+2021-04-29 02:42:22,577 INFO     carbon_explore.explore -- Determining active models.
+2021-04-29 02:42:22,578 INFO     carbon_explore.explore -- Getting labels for the screen
+2021-04-29 02:42:22,579 INFO     carbon_classifiers.label_classifier_pipe -- Begin loading configured modules
+2021-04-29 02:42:22,579 INFO     carbon_classifiers.carbon_classifier_v1.screen_classifier -- Loading ScreenClassifier
+2021-04-29 02:42:22,580 INFO     carbon_classifiers.template_matching.app_specific_template_matcher -- Loading AppSpecificTemplateMatcher
+2021-04-29 02:42:22,581 INFO     carbon_classifiers.perceptual.nn_classifier -- Loading NNClassifier
+2021-04-29 02:42:22,581 INFO     carbon_classifiers.template_matching.template_matching_classifier -- Loading TemplateMatchingClassifier
+2021-04-29 02:42:22,582 WARNING  carbon_classifiers.template_matching.template_matching_classifier -- No template director exists at /root/test_ai/templates
+2021-04-29 02:42:22,583 INFO     carbon_classifiers.http_classifier.http_classifier -- Loaded Http Classifier for ""
+2021-04-29 02:42:22,583 INFO     carbon_classifiers.label_classifier_pipe -- Begin labeling elements
+2021-04-29 02:42:23,168 INFO     carbon_classifiers.template_matching.app_specific_template_matcher -- Classifying screen with AppSpecificTemplateMatcher
+2021-04-29 02:42:23,170 INFO     carbon_classifiers.perceptual.nn_classifier -- Classifying screen with NNClassifier
+2021-04-29 02:42:23,265 INFO     carbon_classifiers.perceptual.nn_classifier -- elem classified: tle_air_max_women, score: 1.0
+2021-04-29 02:42:23,266 INFO     carbon_classifiers.perceptual.nn_classifier -- elem classified: tle_air_max_women, score: 1.0
+2021-04-29 02:42:23,267 WARNING  carbon_classifiers.label_classifier_pipe -- A widget with the name "default" has been set for this step but no widget by that name has been configured.
+2021-04-29 02:42:23,274 INFO     carbon_classifiers.label_classifier_pipe -- End labeling elements: Time taken 0.689890861511 seconds
+2021-04-29 02:42:23,276 INFO     carbon_explore.explore_hook -- Explore hook -- Found labels: {'label_scores_for_screen': defaultdict(<type 'list'>, {}), 'elem_labels': set(['tle_air_max_women']), 'label_scores_per_elem': defaultdict(<cyfunction LabelClassifierPipe.start.<locals>.<lambda> at 0x7f669ed9fad0>, {u'div_X1922_Y20_W1776_H1200': defaultdict(<type 'list'>, {'tle_air_max_women': [{'source': 'carbon_classifiers.perceptual.nn_classifier', 'score': 1.0}, {'source': 'carbon_classifiers.perceptual.nn_classifier', 'score': 1.0}]})}), 'label_scores_per_elem_hash': defaultdict(<cyfunction LabelClassifierPipe.start.<locals>.<lambda> at 0x7f669ed9f4d0>, {'CCpS5FUsi3KTeeFrzsOFyA==\n': defaultdict(<type 'list'>, {'tle_air_max_women': [{'source': 'carbon_classifiers.perceptual.nn_classifier', 'score': 1.0}, {'source': 'carbon_classifiers.perceptual.nn_classifier', 'score': 1.0}]})}), 'all_labels': set(['tle_air_max_women']), 'screen_labels': set([])}
+2021-04-29 02:42:23,276 INFO     carbon_explore.explore_hook -- Explore hook -- get_labels_for_screen completed.
+2021-04-29 02:42:23,277 INFO     carbon_explore.explore_hook -- Explore hook -- find_elements_with_label completed.
+2021-04-29 02:42:23,278 INFO     carbon_explore.explore_hook -- Explore hook -- verify starting.
+2021-04-29 02:42:23,278 INFO     carbon_explore.explore_hook -- Explore hook -- _get_screen_info_hook starting.
+2021-04-29 02:42:23,279 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:42:25,189 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:42:25,189 INFO     carbon_explore.explore_utils -- getting screen_elems
+2021-04-29 02:42:26,022 INFO     carbon_utils.scrape_utils -- Successfully collected web scrape.
+2021-04-29 02:42:26,024 INFO     carbon_explore.explore_utils -- filtering elems - 17
+2021-04-29 02:42:26,100 INFO     carbon_explore.explore_utils -- saving info - 5
+2021-04-29 02:42:26,100 INFO     carbon_explore.explore_utils -- saving core elems iter: 0, step 5, save_dir: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853
+2021-04-29 02:42:26,250 INFO     carbon_explore.explore_hook -- Explore hook -- _get_screen_info_hook completed.
+2021-04-29 02:42:26,251 INFO     carbon_explore.explore_hook -- Explore hook -- _get_labels_for_screen starting on ['tle_air_max_women'].
+2021-04-29 02:42:26,252 INFO     carbon_explore.explore -- Determining active labels.
+2021-04-29 02:42:26,252 INFO     carbon_explore.explore -- Determining active models.
+2021-04-29 02:42:26,253 INFO     carbon_explore.explore -- Getting labels for the screen
+2021-04-29 02:42:26,254 INFO     carbon_classifiers.label_classifier_pipe -- Begin loading configured modules
+2021-04-29 02:42:26,254 INFO     carbon_classifiers.carbon_classifier_v1.screen_classifier -- Loading ScreenClassifier
+2021-04-29 02:42:26,255 INFO     carbon_classifiers.template_matching.app_specific_template_matcher -- Loading AppSpecificTemplateMatcher
+2021-04-29 02:42:26,255 INFO     carbon_classifiers.perceptual.nn_classifier -- Loading NNClassifier
+2021-04-29 02:42:26,256 INFO     carbon_classifiers.template_matching.template_matching_classifier -- Loading TemplateMatchingClassifier
+2021-04-29 02:42:26,257 WARNING  carbon_classifiers.template_matching.template_matching_classifier -- No template director exists at /root/test_ai/templates
+2021-04-29 02:42:26,258 INFO     carbon_classifiers.http_classifier.http_classifier -- Loaded Http Classifier for ""
+2021-04-29 02:42:26,258 INFO     carbon_classifiers.label_classifier_pipe -- Begin labeling elements
+2021-04-29 02:42:26,764 INFO     carbon_classifiers.template_matching.app_specific_template_matcher -- Classifying screen with AppSpecificTemplateMatcher
+2021-04-29 02:42:26,766 INFO     carbon_classifiers.perceptual.nn_classifier -- Classifying screen with NNClassifier
+2021-04-29 02:42:26,847 INFO     carbon_classifiers.perceptual.nn_classifier -- elem classified: tle_air_max_women, score: 1.0
+2021-04-29 02:42:26,848 INFO     carbon_classifiers.perceptual.nn_classifier -- elem classified: tle_air_max_women, score: 1.0
+2021-04-29 02:42:26,849 WARNING  carbon_classifiers.label_classifier_pipe -- A widget with the name "default" has been set for this step but no widget by that name has been configured.
+2021-04-29 02:42:26,856 INFO     carbon_classifiers.label_classifier_pipe -- End labeling elements: Time taken 0.597289085388 seconds
+2021-04-29 02:42:26,857 INFO     carbon_explore.explore_hook -- Explore hook -- Found labels: {'label_scores_for_screen': defaultdict(<type 'list'>, {}), 'elem_labels': set(['tle_air_max_women']), 'label_scores_per_elem': defaultdict(<cyfunction LabelClassifierPipe.start.<locals>.<lambda> at 0x7f669ed9f050>, {u'div_X1922_Y20_W1776_H1200': defaultdict(<type 'list'>, {'tle_air_max_women': [{'source': 'carbon_classifiers.perceptual.nn_classifier', 'score': 1.0}, {'source': 'carbon_classifiers.perceptual.nn_classifier', 'score': 1.0}]})}), 'label_scores_per_elem_hash': defaultdict(<cyfunction LabelClassifierPipe.start.<locals>.<lambda> at 0x7f669ed9f290>, {'CCpS5FUsi3KTeeFrzsOFyA==\n': defaultdict(<type 'list'>, {'tle_air_max_women': [{'source': 'carbon_classifiers.perceptual.nn_classifier', 'score': 1.0}, {'source': 'carbon_classifiers.perceptual.nn_classifier', 'score': 1.0}]})}), 'all_labels': set(['tle_air_max_women']), 'screen_labels': set([])}
+2021-04-29 02:42:26,858 INFO     carbon_explore.explore_hook -- Explore hook -- get_labels_for_screen completed.
+2021-04-29 02:42:26,859 INFO     carbon_explore.explore -- handling test step type: Verification
+2021-04-29 02:42:26,859 INFO     carbon_explore.explore -- curr_step: {u'widget': u'default', u'grep': '', u'description': 'Script Step', u'continue_on_failure': False, u'labels': ['tle_air_max_women'], 'is_imported': False, u'label_count': None, u'grep_count': None, 'tag': 'labels: tle_air_max_women, text:  (count = None)', u'script_name': u'swipe_until_air_max.py', u'input': '', u'type': 'verification'}
+2021-04-29 02:42:26,860 INFO     carbon_explore.explore -- found label(s) ['tle_air_max_women'], None times, verification passed
+2021-04-29 02:42:26,861 INFO     carbon_explore.explore_hook -- saving step
+2021-04-29 02:42:26,861 INFO     carbon_explore.explore_utils -- saving core elems iter: 0, step 5, save_dir: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tests/result_paths/002 Find Airmax - 54f1f195-ed20-40ad-b346-c0933ed287fe
+2021-04-29 02:42:27,016 INFO     carbon_explore.result_storage -- LOG FILE PATH: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tests/result_paths/002 Find Airmax - 54f1f195-ed20-40ad-b346-c0933ed287fe/iter_00000_step_00005_logs.txt
+2021-04-29 02:42:27,017 INFO     carbon_explore.result_storage -- ALL LOGS FILE PATH: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tests/result_paths/002 Find Airmax - 54f1f195-ed20-40ad-b346-c0933ed287fe/iter_00000_step_-0001_logs.txt
+2021-04-29 02:42:27,029 INFO     carbon_explore.explore_hook -- step saved
+2021-04-29 02:42:27,029 INFO     carbon_explore.explore_hook -- Explore hook -- verify completed.
+2021-04-29 02:42:27,030 INFO     carbon_explore.explore_hook -- Explore hook -- apply_deferred_runtime_labels starting.
+2021-04-29 02:42:27,030 INFO     carbon_explore.explore_hook -- Explore hook -- apply_deferred_runtime_labels completed.
+2021-04-29 02:42:27,031 INFO     carbon_explore.explore -- DOM stability timing: pre
+2021-04-29 02:42:27,032 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:42:28,987 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:42:29,281 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:42:31,203 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:42:31,488 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:42:33,388 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:42:33,668 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:42:35,570 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:42:35,848 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:42:37,776 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:42:38,051 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:42:39,957 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:42:40,243 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:42:42,139 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:42:42,438 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:42:44,347 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:42:44,633 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:42:46,559 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:42:46,829 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:42:48,719 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:42:49,002 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:42:50,938 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:42:51,224 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:42:53,167 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:42:53,456 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:42:55,338 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:42:55,628 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:42:57,538 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:42:57,827 INFO     carbon_actions.carbon_actions -- sources aren't equal, clearing
+2021-04-29 02:42:57,829 INFO     carbon_explore.explore -- DOM stability timing: post
+2021-04-29 02:42:57,830 INFO     carbon_explore.explore -- Extra sleep: 1.000
+2021-04-29 02:42:58,832 INFO     carbon_explore.explore -- step: 5 complete
+2021-04-29 02:42:58,835 INFO     carbon_explore.explore -- ********************************************************************************
+2021-04-29 02:42:58,836 INFO     carbon_explore.explore -- * TIMEOUT: None
+2021-04-29 02:42:58,837 INFO     carbon_explore.explore -- * beginning step: 6, test completed: False, total steps: 17
+2021-04-29 02:42:58,837 INFO     carbon_explore.explore -- * Description: Clicks Shop button under womens Air Max tile
+2021-04-29 02:42:58,838 INFO     carbon_explore.explore -- * disable_bounceback: False
+2021-04-29 02:42:58,838 INFO     carbon_explore.explore -- ********************************************************************************
+2021-04-29 02:42:58,839 INFO     carbon_explore.explore -- getting walk queue
+2021-04-29 02:42:58,842 INFO     carbon_explore.explore_utils -- getting screen_elems
+2021-04-29 02:42:59,687 INFO     carbon_utils.scrape_utils -- Successfully collected web scrape.
+2021-04-29 02:42:59,690 INFO     carbon_explore.explore_utils -- filtering elems - 17
+2021-04-29 02:42:59,758 INFO     carbon_explore.explore_utils -- saving info - 5
+2021-04-29 02:42:59,758 INFO     carbon_explore.explore_utils -- saving core elems iter: 0, step 6, save_dir: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853
+2021-04-29 02:42:59,923 INFO     carbon_explore.explore -- got all screen info saved
+2021-04-29 02:42:59,923 INFO     carbon_explore.explore -- starting next action selection
+2021-04-29 02:42:59,924 INFO     carbon_explore.explore -- Determining active labels.
+2021-04-29 02:42:59,925 INFO     carbon_explore.explore -- Determining active models.
+2021-04-29 02:42:59,925 INFO     carbon_explore.explore -- Getting labels for the screen
+2021-04-29 02:42:59,926 INFO     carbon_classifiers.label_classifier_pipe -- Begin loading configured modules
+2021-04-29 02:42:59,927 INFO     carbon_classifiers.carbon_classifier_v1.screen_classifier -- Loading ScreenClassifier
+2021-04-29 02:42:59,927 INFO     carbon_classifiers.template_matching.app_specific_template_matcher -- Loading AppSpecificTemplateMatcher
+2021-04-29 02:42:59,928 INFO     carbon_classifiers.perceptual.nn_classifier -- Loading NNClassifier
+2021-04-29 02:42:59,929 INFO     carbon_classifiers.template_matching.template_matching_classifier -- Loading TemplateMatchingClassifier
+2021-04-29 02:42:59,930 WARNING  carbon_classifiers.template_matching.template_matching_classifier -- No template director exists at /root/test_ai/templates
+2021-04-29 02:42:59,930 INFO     carbon_classifiers.http_classifier.http_classifier -- Loaded Http Classifier for ""
+2021-04-29 02:42:59,931 INFO     carbon_classifiers.label_classifier_pipe -- Begin labeling elements
+2021-04-29 02:43:00,413 INFO     carbon_classifiers.template_matching.app_specific_template_matcher -- Classifying screen with AppSpecificTemplateMatcher
+2021-04-29 02:43:00,414 INFO     carbon_classifiers.perceptual.nn_classifier -- Classifying screen with NNClassifier
+2021-04-29 02:43:00,493 INFO     carbon_classifiers.perceptual.nn_classifier -- elem classified: btn_shop, score: 1.0
+2021-04-29 02:43:00,493 WARNING  carbon_classifiers.label_classifier_pipe -- A widget with the name "default" has been set for this step but no widget by that name has been configured.
+2021-04-29 02:43:00,501 INFO     carbon_classifiers.label_classifier_pipe -- End labeling elements: Time taken 0.569309949875 seconds
+2021-04-29 02:43:00,502 INFO     carbon_explore.explore -- completed getting labels for screen
+2021-04-29 02:43:00,503 INFO     carbon_explore.explore -- _testStepNextAction
+2021-04-29 02:43:00,503 INFO     carbon_explore.explore -- curr step num: 6
+2021-04-29 02:43:00,504 INFO     carbon_explore.explore -- handling test step type: Action
+2021-04-29 02:43:00,504 INFO     carbon_explore.explore -- found all labels
+2021-04-29 02:43:00,505 INFO     carbon_explore.explore -- found elem: {'human_readable': 'a_1922_20_1776_1200_a_ff9fff1ffe3ffe3ffc3ffc3fff2fff07ff077d137d337b31183f107f10ffb0ff_9d4568c009d203ab10e33ea9953a0264', 'hash': '+aWak2Or5bqamgl0nxqf1Q==\n', 'index': -1, 'text': '', 'text_hash': '9d4568c009d203ab10e33ea9953a0264', 'height': 1200, 'is_transformed': True, 'img_hash': '2c299114f7dc1dc055bd4174959995e9', u'focused': False, u'clickable': True, 'human_hash': u'a_X1922_Y20_W1776_H1200', 'resource-id': '', 'password': False, 'class': 'a', u'checkable': False, u'scrollable': False, 'package': '', 'enabled': False, 'elem_shot_file_path': u'/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmpZ/a_X1922_Y20_W1776_H1200.png', 'hier_level': 0, 'content-desc': '', 'width': 1776, 'tag_name': 'a', 'internal': {'elem_dict': {u'color': u'rgb(17, 17, 17)', u'text': u'', u'domLevel': 11, u'height': 600, u'tagName': u'a', u'cssClass': u'_1GPQ9HJJ', u'width': 888, u'is-focused': False, u'fontSize': 16, u'font-weight': u'500', u'is-hidden': False, u'background-color': u'rgba(0, 0, 0, 0)', u'yPercent': 0.12918060200668896, u'xPercent': 50.41994750656168, u'x': 961, u'font-family': u'"Helvetica Neue", Helvetica, Arial, sans-serif', u'class': u'a', u'name': u'', u'type': u'', u'value': u'', u'flags': {u'scrollable': False, u'focusable': True, u'enabled': False, u'focused': False, u'clickable': True, u'checkable': False}, u'y': 10, u'attributes': {u'aria-label': u'Visit https://www.nike.com/w/womens-air-max-shoes-5e1x6za6d8hzy7ok', u'target': u'_self', u'data-qa-card-id': u'00901a4a-bfbe-4eee-a6e6-d95ca1679cca', u'href': u'https://www.nike.com/w/womens-air-max-shoes-5e1x6za6d8hzy7ok', u'data-analytics-action-id': u'6d61381a-edc8-4e49-aafe-52566def99e8', u'class': u'_1GPQ9HJJ'}, u'identifier': u''}, 'text': u'', 'tag_name': u'a', 'location': {'y': 10, 'x': 961}, 'size': {'width': 888, 'height': 600}}, 'transformed': True, 'behavior': '', u'focusable': True, 'y': 20, 'x': 1922}, input: tap
+2021-04-29 02:43:00,506 INFO     carbon_explore.explore -- action_elem {'human_readable': 'a_1994_1068_190_80_a_e007c00380018001800104010e010fe007e00fe106e1800180018001c003e007_d5d7c7ca8cf1a6a118c51745dc3c129b', 'hash': 'PBiCIQz/XBRfLllSauogRQ==\n', 'index': -1, 'text': 'Shop', 'text_hash': 'd5d7c7ca8cf1a6a118c51745dc3c129b', 'height': 80, 'is_transformed': True, 'img_hash': '7b70e616c3909fd855d14a4159120cc5', u'focused': False, u'clickable': True, 'human_hash': u'a_X1994_Y1068_W190_H80', 'resource-id': '', 'password': False, 'class': 'a', u'checkable': False, u'scrollable': False, 'package': '', 'enabled': False, 'elem_shot_file_path': u'/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmpZ/a_X1994_Y1068_W190_H80.png', 'hier_level': 0, 'content-desc': '', 'width': 190, 'tag_name': 'a', 'internal': {'elem_dict': {u'color': u'rgb(255, 255, 255)', u'text': u'Shop', u'domLevel': 14, u'height': 40, u'tagName': u'a', u'cssClass': u'dz_xjzja _2minRfAM ncss-btn-primary-dark bihGx79a', u'width': 95, u'is-focused': False, u'fontSize': 16, u'font-weight': u'500', u'is-hidden': False, u'background-color': u'rgb(17, 17, 17)', u'yPercent': 7.1390050167224075, u'xPercent': 52.30971128608925, u'x': 997, u'font-family': u'"Helvetica Neue", Helvetica, Arial, sans-serif', u'class': u'a', u'name': u'', u'type': u'', u'value': u'', u'flags': {u'scrollable': False, u'focusable': True, u'enabled': False, u'focused': False, u'clickable': True, u'checkable': False}, u'y': 534, u'attributes': {u'aria-label': u'Shop (https://www.nike.com/w/womens-air-max-shoes-5e1x6za6d8hzy7ok)', u'target': u'_self', u'data-analytics-allow': u'false', u'data-qa-card-id': u'00901a4a-bfbe-4eee-a6e6-d95ca1679cca', u'href': u'https://www.nike.com/w/womens-air-max-shoes-5e1x6za6d8hzy7ok', u'data-analytics-action-id': u'0fbbb08f-043e-43d3-bf58-3c4a62eb452c', u'data-qa': u'cta-button', u'class': u'dz_xjzja _2minRfAM ncss-btn-primary-dark bihGx79a', u'tabindex': u'0'}, u'identifier': u''}, 'text': u'Shop', 'tag_name': u'a', 'location': {'y': 534, 'x': 997}, 'size': {'width': 95, 'height': 40}}, 'transformed': True, 'behavior': '', u'focusable': True, 'y': 1068, 'x': 1994}
+2021-04-29 02:43:00,509 INFO     carbon_explore.explore -- saving step
+2021-04-29 02:43:00,510 INFO     carbon_explore.explore_utils -- saving core elems iter: 0, step 6, save_dir: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tests/result_paths/002 Find Airmax - 54f1f195-ed20-40ad-b346-c0933ed287fe
+2021-04-29 02:43:00,657 INFO     carbon_explore.result_storage -- LOG FILE PATH: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tests/result_paths/002 Find Airmax - 54f1f195-ed20-40ad-b346-c0933ed287fe/iter_00000_step_00006_logs.txt
+2021-04-29 02:43:00,657 INFO     carbon_explore.result_storage -- ALL LOGS FILE PATH: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tests/result_paths/002 Find Airmax - 54f1f195-ed20-40ad-b346-c0933ed287fe/iter_00000_step_-0001_logs.txt
+2021-04-29 02:43:00,669 INFO     carbon_explore.explore -- step saved
+2021-04-29 02:43:00,670 INFO     carbon_explore.explore -- Gesture: tap
+2021-04-29 02:43:00,670 INFO     carbon_explore.explore -- starting action
+2021-04-29 02:43:00,673 INFO     carbon_utils.action_utils -- action: Tap
+2021-04-29 02:43:00,674 INFO     carbon_utils.action_utils --    got action_elem: {'human_readable': 'a_1994_1068_190_80_a_e007c00380018001800104010e010fe007e00fe106e1800180018001c003e007_d5d7c7ca8cf1a6a118c51745dc3c129b', 'hash': 'PBiCIQz/XBRfLllSauogRQ==\n', 'index': -1, 'text': 'Shop', 'text_hash': 'd5d7c7ca8cf1a6a118c51745dc3c129b', 'height': 80, 'is_transformed': True, 'img_hash': '7b70e616c3909fd855d14a4159120cc5', u'focused': False, u'clickable': True, 'human_hash': u'a_X1994_Y1068_W190_H80', 'resource-id': '', 'password': False, 'class': 'a', u'checkable': False, u'scrollable': False, 'package': '', 'enabled': False, 'elem_shot_file_path': u'/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmpZ/a_X1994_Y1068_W190_H80.png', 'hier_level': 0, 'content-desc': '', 'width': 190, 'tag_name': 'a', 'internal': {'elem_dict': {u'color': u'rgb(255, 255, 255)', u'text': u'Shop', u'domLevel': 14, u'height': 40, u'tagName': u'a', u'cssClass': u'dz_xjzja _2minRfAM ncss-btn-primary-dark bihGx79a', u'width': 95, u'is-focused': False, u'fontSize': 16, u'font-weight': u'500', u'is-hidden': False, u'background-color': u'rgb(17, 17, 17)', u'yPercent': 7.1390050167224075, u'xPercent': 52.30971128608925, u'x': 997, u'font-family': u'"Helvetica Neue", Helvetica, Arial, sans-serif', u'class': u'a', u'name': u'', u'type': u'', u'value': u'', u'flags': {u'scrollable': False, u'focusable': True, u'enabled': False, u'focused': False, u'clickable': True, u'checkable': False}, u'y': 534, u'attributes': {u'aria-label': u'Shop (https://www.nike.com/w/womens-air-max-shoes-5e1x6za6d8hzy7ok)', u'target': u'_self', u'data-analytics-allow': u'false', u'data-qa-card-id': u'00901a4a-bfbe-4eee-a6e6-d95ca1679cca', u'href': u'https://www.nike.com/w/womens-air-max-shoes-5e1x6za6d8hzy7ok', u'data-analytics-action-id': u'0fbbb08f-043e-43d3-bf58-3c4a62eb452c', u'data-qa': u'cta-button', u'class': u'dz_xjzja _2minRfAM ncss-btn-primary-dark bihGx79a', u'tabindex': u'0'}, u'identifier': u''}, 'text': u'Shop', 'tag_name': u'a', 'location': {'y': 534, 'x': 997}, 'size': {'width': 95, 'height': 40}}, 'transformed': True, 'behavior': '', u'focusable': True, 'y': 1068, 'x': 1994}
+2021-04-29 02:43:00,674 INFO     carbon_utils.action_utils --    sending action_elem: {'human_readable': 'a_1994_1068_190_80_a_e007c00380018001800104010e010fe007e00fe106e1800180018001c003e007_d5d7c7ca8cf1a6a118c51745dc3c129b', 'hash': 'PBiCIQz/XBRfLllSauogRQ==\n', 'index': -1, 'text': 'Shop', 'text_hash': 'd5d7c7ca8cf1a6a118c51745dc3c129b', 'height': 80, 'is_transformed': True, 'img_hash': '7b70e616c3909fd855d14a4159120cc5', u'focused': False, u'clickable': True, 'human_hash': u'a_X1994_Y1068_W190_H80', 'resource-id': '', 'password': False, 'class': 'a', u'checkable': False, u'scrollable': False, 'package': '', 'enabled': False, 'elem_shot_file_path': u'/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmpZ/a_X1994_Y1068_W190_H80.png', 'hier_level': 0, 'content-desc': '', 'width': 190, 'tag_name': 'a', 'internal': {'elem_dict': {u'color': u'rgb(255, 255, 255)', u'text': u'Shop', u'domLevel': 14, u'height': 40, u'tagName': u'a', u'cssClass': u'dz_xjzja _2minRfAM ncss-btn-primary-dark bihGx79a', u'width': 95, u'is-focused': False, u'fontSize': 16, u'font-weight': u'500', u'is-hidden': False, u'background-color': u'rgb(17, 17, 17)', u'yPercent': 7.1390050167224075, u'xPercent': 52.30971128608925, u'x': 997, u'font-family': u'"Helvetica Neue", Helvetica, Arial, sans-serif', u'class': u'a', u'name': u'', u'type': u'', u'value': u'', u'flags': {u'scrollable': False, u'focusable': True, u'enabled': False, u'focused': False, u'clickable': True, u'checkable': False}, u'y': 534, u'attributes': {u'aria-label': u'Shop (https://www.nike.com/w/womens-air-max-shoes-5e1x6za6d8hzy7ok)', u'target': u'_self', u'data-analytics-allow': u'false', u'data-qa-card-id': u'00901a4a-bfbe-4eee-a6e6-d95ca1679cca', u'href': u'https://www.nike.com/w/womens-air-max-shoes-5e1x6za6d8hzy7ok', u'data-analytics-action-id': u'0fbbb08f-043e-43d3-bf58-3c4a62eb452c', u'data-qa': u'cta-button', u'class': u'dz_xjzja _2minRfAM ncss-btn-primary-dark bihGx79a', u'tabindex': u'0'}, u'identifier': u''}, 'text': u'Shop', 'tag_name': u'a', 'location': {'y': 534, 'x': 997}, 'size': {'width': 95, 'height': 40}}, 'transformed': True, 'behavior': '', u'focusable': True, 'y': 1068, 'x': 1994}
+2021-04-29 02:43:00,675 INFO     carbon_utils.action_utils --    sending cx: 2089 cy: 1108
+2021-04-29 02:43:00,675 INFO     carbon_automation.driver -- Issuing a regular click
+2021-04-29 02:43:00,787 INFO     carbon_explore.explore -- DOM stability timing: pre
+2021-04-29 02:43:00,787 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:43:08,272 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:43:08,610 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:43:10,079 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:43:10,397 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:43:11,780 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:43:12,080 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:43:13,480 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:43:13,780 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:43:15,169 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:43:15,466 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:43:16,886 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:43:17,185 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:43:18,560 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:43:18,867 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:43:20,265 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:43:20,569 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:43:21,937 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:43:22,256 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:43:23,643 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:43:23,946 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:43:25,340 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:43:25,647 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:43:27,010 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:43:27,317 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:43:28,716 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:43:29,034 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:43:30,420 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:43:30,740 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:43:32,166 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:43:32,487 INFO     carbon_actions.carbon_actions -- sources aren't equal, clearing
+2021-04-29 02:43:32,489 INFO     carbon_explore.explore -- DOM stability timing: post
+2021-04-29 02:43:32,490 INFO     carbon_explore.explore -- Extra sleep: 1.000
+2021-04-29 02:43:33,501 INFO     carbon_explore.explore -- step: 6 complete
+2021-04-29 02:43:33,504 INFO     carbon_explore.explore -- ********************************************************************************
+2021-04-29 02:43:33,505 INFO     carbon_explore.explore -- * TIMEOUT: None
+2021-04-29 02:43:33,506 INFO     carbon_explore.explore -- * beginning step: 7, test completed: False, total steps: 17
+2021-04-29 02:43:33,507 INFO     carbon_explore.explore -- * Description: 
+2021-04-29 02:43:33,507 INFO     carbon_explore.explore -- * disable_bounceback: False
+2021-04-29 02:43:33,508 INFO     carbon_explore.explore -- ********************************************************************************
+2021-04-29 02:43:33,509 INFO     carbon_explore.explore -- getting walk queue
+2021-04-29 02:43:33,512 INFO     carbon_explore.explore_utils -- getting screen_elems
+2021-04-29 02:43:35,041 INFO     carbon_utils.scrape_utils -- Successfully collected web scrape.
+2021-04-29 02:43:35,047 INFO     carbon_explore.explore_utils -- filtering elems - 144
+2021-04-29 02:43:35,113 INFO     carbon_explore.explore_utils -- saving info - 122
+2021-04-29 02:43:35,115 INFO     carbon_explore.explore_utils -- saving core elems iter: 0, step 7, save_dir: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853
+2021-04-29 02:43:35,219 INFO     carbon_explore.explore -- got all screen info saved
+2021-04-29 02:43:35,220 INFO     carbon_explore.explore -- starting next action selection
+2021-04-29 02:43:35,221 INFO     carbon_explore.explore -- Determining active labels.
+2021-04-29 02:43:35,221 INFO     carbon_explore.explore -- Determining active models.
+2021-04-29 02:43:35,222 INFO     carbon_explore.explore -- Getting labels for the screen
+2021-04-29 02:43:35,223 INFO     carbon_classifiers.label_classifier_pipe -- Begin loading configured modules
+2021-04-29 02:43:35,223 INFO     carbon_classifiers.carbon_classifier_v1.screen_classifier -- Loading ScreenClassifier
+2021-04-29 02:43:35,224 INFO     carbon_classifiers.template_matching.app_specific_template_matcher -- Loading AppSpecificTemplateMatcher
+2021-04-29 02:43:35,225 INFO     carbon_classifiers.perceptual.nn_classifier -- Loading NNClassifier
+2021-04-29 02:43:35,225 INFO     carbon_classifiers.template_matching.template_matching_classifier -- Loading TemplateMatchingClassifier
+2021-04-29 02:43:35,227 WARNING  carbon_classifiers.template_matching.template_matching_classifier -- No template director exists at /root/test_ai/templates
+2021-04-29 02:43:35,228 INFO     carbon_classifiers.http_classifier.http_classifier -- Loaded Http Classifier for ""
+2021-04-29 02:43:35,230 INFO     carbon_classifiers.label_classifier_pipe -- Begin labeling elements
+2021-04-29 02:43:38,306 INFO     carbon_classifiers.template_matching.app_specific_template_matcher -- Classifying screen with AppSpecificTemplateMatcher
+2021-04-29 02:43:38,308 INFO     carbon_classifiers.perceptual.nn_classifier -- Classifying screen with NNClassifier
+2021-04-29 02:43:38,561 WARNING  carbon_classifiers.label_classifier_pipe -- A widget with the name "default" has been set for this step but no widget by that name has been configured.
+2021-04-29 02:43:38,649 INFO     carbon_classifiers.label_classifier_pipe -- End labeling elements: Time taken 3.41842794418 seconds
+2021-04-29 02:43:38,651 INFO     carbon_explore.explore -- completed getting labels for screen
+2021-04-29 02:43:38,651 INFO     carbon_explore.explore -- _testStepNextAction
+2021-04-29 02:43:38,652 INFO     carbon_explore.explore -- curr step num: 7
+2021-04-29 02:43:38,653 INFO     carbon_explore.explore -- handling test step type: Action
+2021-04-29 02:43:38,654 INFO     carbon_explore.explore -- test_l: mi_air_max_90 not in set([])
+2021-04-29 02:43:38,654 ERROR    carbon_test_case.test_utils -- ******************************************************************
+2021-04-29 02:43:38,655 ERROR    carbon_test_case.test_utils -- * TEST FAILURE: matches not found in screen labels, failing test *
+2021-04-29 02:43:38,655 ERROR    carbon_test_case.test_utils -- ******************************************************************
+2021-04-29 02:43:38,656 INFO     carbon_explore.explore -- Unable to find label, waiting for DOM stability then retrying...
+2021-04-29 02:43:38,657 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:43:40,049 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:43:40,366 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:43:41,738 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:43:42,041 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:43:43,469 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:43:43,772 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:43:45,305 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:43:45,621 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:43:47,033 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:43:47,334 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:43:48,722 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:43:49,042 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:43:50,431 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:43:50,731 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:43:52,125 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:43:52,439 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:43:53,826 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:43:54,129 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:43:55,531 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:43:55,837 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:43:57,182 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:43:57,484 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:43:58,871 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:43:59,169 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:44:00,540 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:44:00,845 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:44:02,220 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:44:02,521 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:44:03,890 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:44:04,226 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:44:05,629 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:44:05,929 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:44:07,304 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:44:07,603 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:44:08,975 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:44:09,277 INFO     carbon_actions.carbon_actions -- sources aren't equal, clearing
+2021-04-29 02:44:09,279 INFO     carbon_explore.explore_utils -- getting screen_elems
+2021-04-29 02:44:10,684 INFO     carbon_utils.scrape_utils -- Successfully collected web scrape.
+2021-04-29 02:44:10,694 INFO     carbon_explore.explore_utils -- filtering elems - 144
+2021-04-29 02:44:10,761 INFO     carbon_explore.explore_utils -- saving info - 122
+2021-04-29 02:44:10,762 INFO     carbon_explore.explore_utils -- saving core elems iter: 0, step 7, save_dir: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853
+2021-04-29 02:44:10,874 INFO     carbon_explore.explore -- got all screen info saved
+2021-04-29 02:44:10,875 INFO     carbon_explore.explore -- starting next action selection
+2021-04-29 02:44:10,876 INFO     carbon_explore.explore -- Determining active labels.
+2021-04-29 02:44:10,876 INFO     carbon_explore.explore -- Determining active models.
+2021-04-29 02:44:10,877 INFO     carbon_explore.explore -- Getting labels for the screen
+2021-04-29 02:44:10,877 INFO     carbon_classifiers.label_classifier_pipe -- Begin loading configured modules
+2021-04-29 02:44:10,878 INFO     carbon_classifiers.carbon_classifier_v1.screen_classifier -- Loading ScreenClassifier
+2021-04-29 02:44:10,878 INFO     carbon_classifiers.template_matching.app_specific_template_matcher -- Loading AppSpecificTemplateMatcher
+2021-04-29 02:44:10,879 INFO     carbon_classifiers.perceptual.nn_classifier -- Loading NNClassifier
+2021-04-29 02:44:10,880 INFO     carbon_classifiers.template_matching.template_matching_classifier -- Loading TemplateMatchingClassifier
+2021-04-29 02:44:10,882 WARNING  carbon_classifiers.template_matching.template_matching_classifier -- No template director exists at /root/test_ai/templates
+2021-04-29 02:44:10,883 INFO     carbon_classifiers.http_classifier.http_classifier -- Loaded Http Classifier for ""
+2021-04-29 02:44:10,884 INFO     carbon_classifiers.label_classifier_pipe -- Begin labeling elements
+2021-04-29 02:44:13,877 INFO     carbon_classifiers.template_matching.app_specific_template_matcher -- Classifying screen with AppSpecificTemplateMatcher
+2021-04-29 02:44:13,878 INFO     carbon_classifiers.perceptual.nn_classifier -- Classifying screen with NNClassifier
+2021-04-29 02:44:14,118 WARNING  carbon_classifiers.label_classifier_pipe -- A widget with the name "default" has been set for this step but no widget by that name has been configured.
+2021-04-29 02:44:14,208 INFO     carbon_classifiers.label_classifier_pipe -- End labeling elements: Time taken 3.32299900055 seconds
+2021-04-29 02:44:14,209 INFO     carbon_explore.explore -- completed getting labels for screen
+2021-04-29 02:44:14,210 INFO     carbon_explore.explore -- _testStepNextAction
+2021-04-29 02:44:14,211 INFO     carbon_explore.explore -- curr step num: 7
+2021-04-29 02:44:14,212 INFO     carbon_explore.explore -- handling test step type: Action
+2021-04-29 02:44:14,212 INFO     carbon_explore.explore -- test_l: mi_air_max_90 not in set([])
+2021-04-29 02:44:14,213 ERROR    carbon_test_case.test_utils -- ******************************************************************
+2021-04-29 02:44:14,213 ERROR    carbon_test_case.test_utils -- * TEST FAILURE: matches not found in screen labels, failing test *
+2021-04-29 02:44:14,214 ERROR    carbon_test_case.test_utils -- ******************************************************************
+2021-04-29 02:44:14,215 INFO     carbon_explore.explore -- Unable to find label, waiting for DOM stability then retrying...
+2021-04-29 02:44:14,215 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:44:15,633 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:44:15,943 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:44:17,362 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:44:17,663 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:44:19,131 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:44:19,509 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:44:21,016 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:44:21,324 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:44:22,723 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:44:23,025 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:44:24,429 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:44:24,737 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:44:26,144 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:44:26,444 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:44:27,807 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:44:28,125 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:44:29,514 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:44:29,819 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:44:31,214 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:44:31,522 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:44:32,893 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:44:33,205 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:44:34,628 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:44:34,933 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:44:36,387 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:44:36,687 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:44:38,069 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:44:38,378 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:44:39,766 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:44:40,068 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:44:41,467 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:44:41,773 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:44:43,129 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:44:43,435 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:44:44,825 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:44:45,134 INFO     carbon_actions.carbon_actions -- incrementing source count to: 1
+2021-04-29 02:44:45,136 INFO     carbon_explore.explore_utils -- getting screen_elems
+2021-04-29 02:44:46,560 INFO     carbon_utils.scrape_utils -- Successfully collected web scrape.
+2021-04-29 02:44:46,564 INFO     carbon_explore.explore_utils -- filtering elems - 144
+2021-04-29 02:44:46,628 INFO     carbon_explore.explore_utils -- saving info - 122
+2021-04-29 02:44:46,629 INFO     carbon_explore.explore_utils -- saving core elems iter: 0, step 7, save_dir: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853
+2021-04-29 02:44:46,748 INFO     carbon_explore.explore -- got all screen info saved
+2021-04-29 02:44:46,749 INFO     carbon_explore.explore -- starting next action selection
+2021-04-29 02:44:46,751 INFO     carbon_explore.explore -- Determining active labels.
+2021-04-29 02:44:46,752 INFO     carbon_explore.explore -- Determining active models.
+2021-04-29 02:44:46,753 INFO     carbon_explore.explore -- Getting labels for the screen
+2021-04-29 02:44:46,755 INFO     carbon_classifiers.label_classifier_pipe -- Begin loading configured modules
+2021-04-29 02:44:46,756 INFO     carbon_classifiers.carbon_classifier_v1.screen_classifier -- Loading ScreenClassifier
+2021-04-29 02:44:46,757 INFO     carbon_classifiers.template_matching.app_specific_template_matcher -- Loading AppSpecificTemplateMatcher
+2021-04-29 02:44:46,757 INFO     carbon_classifiers.perceptual.nn_classifier -- Loading NNClassifier
+2021-04-29 02:44:46,758 INFO     carbon_classifiers.template_matching.template_matching_classifier -- Loading TemplateMatchingClassifier
+2021-04-29 02:44:46,760 WARNING  carbon_classifiers.template_matching.template_matching_classifier -- No template director exists at /root/test_ai/templates
+2021-04-29 02:44:46,760 INFO     carbon_classifiers.http_classifier.http_classifier -- Loaded Http Classifier for ""
+2021-04-29 02:44:46,761 INFO     carbon_classifiers.label_classifier_pipe -- Begin labeling elements
+2021-04-29 02:44:49,767 INFO     carbon_classifiers.template_matching.app_specific_template_matcher -- Classifying screen with AppSpecificTemplateMatcher
+2021-04-29 02:44:49,768 INFO     carbon_classifiers.perceptual.nn_classifier -- Classifying screen with NNClassifier
+2021-04-29 02:44:50,020 WARNING  carbon_classifiers.label_classifier_pipe -- A widget with the name "default" has been set for this step but no widget by that name has been configured.
+2021-04-29 02:44:50,112 INFO     carbon_classifiers.label_classifier_pipe -- End labeling elements: Time taken 3.34997415543 seconds
+2021-04-29 02:44:50,113 INFO     carbon_explore.explore -- completed getting labels for screen
+2021-04-29 02:44:50,115 INFO     carbon_explore.explore -- _testStepNextAction
+2021-04-29 02:44:50,116 INFO     carbon_explore.explore -- curr step num: 7
+2021-04-29 02:44:50,116 INFO     carbon_explore.explore -- handling test step type: Action
+2021-04-29 02:44:50,117 INFO     carbon_explore.explore -- test_l: mi_air_max_90 not in set([])
+2021-04-29 02:44:50,118 ERROR    carbon_test_case.test_utils -- ******************************************************************
+2021-04-29 02:44:50,118 ERROR    carbon_test_case.test_utils -- * TEST FAILURE: matches not found in screen labels, failing test *
+2021-04-29 02:44:50,119 ERROR    carbon_test_case.test_utils -- ******************************************************************
+2021-04-29 02:44:50,120 INFO     carbon_explore.explore -- Unable to find label, waiting for DOM stability then retrying...
+2021-04-29 02:44:50,120 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:44:51,532 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:44:51,839 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:44:53,266 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:44:53,571 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:44:54,959 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:44:55,266 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:44:56,630 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:44:56,953 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:44:58,347 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:44:58,652 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:45:00,021 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:45:00,322 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:45:01,690 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:45:01,991 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:45:03,356 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:45:03,658 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:45:05,041 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:45:05,340 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:45:06,719 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:45:07,023 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:45:08,403 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:45:08,705 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:45:10,097 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:45:10,417 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:45:11,788 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:45:12,087 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:45:13,455 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:45:13,752 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:45:15,139 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:45:15,434 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:45:16,826 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:45:17,125 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:45:18,491 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:45:18,793 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:45:20,181 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:45:20,481 INFO     carbon_actions.carbon_actions -- incrementing source count to: 2
+2021-04-29 02:45:20,483 INFO     carbon_explore.explore_utils -- getting screen_elems
+2021-04-29 02:45:21,853 INFO     carbon_utils.scrape_utils -- Successfully collected web scrape.
+2021-04-29 02:45:21,857 INFO     carbon_explore.explore_utils -- filtering elems - 144
+2021-04-29 02:45:21,914 INFO     carbon_explore.explore_utils -- saving info - 122
+2021-04-29 02:45:21,915 INFO     carbon_explore.explore_utils -- saving core elems iter: 0, step 7, save_dir: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853
+2021-04-29 02:45:22,024 INFO     carbon_explore.explore -- got all screen info saved
+2021-04-29 02:45:22,025 INFO     carbon_explore.explore -- starting next action selection
+2021-04-29 02:45:22,026 INFO     carbon_explore.explore -- Determining active labels.
+2021-04-29 02:45:22,027 INFO     carbon_explore.explore -- Determining active models.
+2021-04-29 02:45:22,028 INFO     carbon_explore.explore -- Getting labels for the screen
+2021-04-29 02:45:22,029 INFO     carbon_classifiers.label_classifier_pipe -- Begin loading configured modules
+2021-04-29 02:45:22,030 INFO     carbon_classifiers.carbon_classifier_v1.screen_classifier -- Loading ScreenClassifier
+2021-04-29 02:45:22,031 INFO     carbon_classifiers.template_matching.app_specific_template_matcher -- Loading AppSpecificTemplateMatcher
+2021-04-29 02:45:22,031 INFO     carbon_classifiers.perceptual.nn_classifier -- Loading NNClassifier
+2021-04-29 02:45:22,032 INFO     carbon_classifiers.template_matching.template_matching_classifier -- Loading TemplateMatchingClassifier
+2021-04-29 02:45:22,034 WARNING  carbon_classifiers.template_matching.template_matching_classifier -- No template director exists at /root/test_ai/templates
+2021-04-29 02:45:22,035 INFO     carbon_classifiers.http_classifier.http_classifier -- Loaded Http Classifier for ""
+2021-04-29 02:45:22,036 INFO     carbon_classifiers.label_classifier_pipe -- Begin labeling elements
+2021-04-29 02:45:25,068 INFO     carbon_classifiers.template_matching.app_specific_template_matcher -- Classifying screen with AppSpecificTemplateMatcher
+2021-04-29 02:45:25,071 INFO     carbon_classifiers.perceptual.nn_classifier -- Classifying screen with NNClassifier
+2021-04-29 02:45:25,331 WARNING  carbon_classifiers.label_classifier_pipe -- A widget with the name "default" has been set for this step but no widget by that name has been configured.
+2021-04-29 02:45:25,421 INFO     carbon_classifiers.label_classifier_pipe -- End labeling elements: Time taken 3.38123202324 seconds
+2021-04-29 02:45:25,423 INFO     carbon_explore.explore -- completed getting labels for screen
+2021-04-29 02:45:25,424 INFO     carbon_explore.explore -- _testStepNextAction
+2021-04-29 02:45:25,424 INFO     carbon_explore.explore -- curr step num: 7
+2021-04-29 02:45:25,425 INFO     carbon_explore.explore -- handling test step type: Action
+2021-04-29 02:45:25,426 INFO     carbon_explore.explore -- test_l: mi_air_max_90 not in set([])
+2021-04-29 02:45:25,427 ERROR    carbon_test_case.test_utils -- ******************************************************************
+2021-04-29 02:45:25,427 ERROR    carbon_test_case.test_utils -- * TEST FAILURE: matches not found in screen labels, failing test *
+2021-04-29 02:45:25,428 ERROR    carbon_test_case.test_utils -- ******************************************************************
+2021-04-29 02:45:25,428 INFO     carbon_explore.explore -- Unable to find label, waiting for DOM stability then retrying...
+2021-04-29 02:45:25,429 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:45:26,780 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:45:27,085 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:45:28,461 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:45:28,765 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:45:30,133 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:45:30,443 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:45:31,823 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:45:32,130 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:45:33,521 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:45:33,830 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:45:35,256 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:45:35,557 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:45:36,947 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:45:37,259 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:45:38,657 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:45:39,059 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:45:40,494 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:45:40,792 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:45:42,156 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:45:42,469 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:45:43,827 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:45:44,128 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:45:45,491 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:45:45,797 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:45:47,200 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:45:47,509 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:45:48,875 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:45:49,188 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:45:50,553 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:45:50,856 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:45:52,266 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:45:52,578 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:45:53,934 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:45:54,232 INFO     carbon_explore.explore_utils -- saving screenshot
+2021-04-29 02:45:55,617 INFO     carbon_explore.explore_utils -- scn_shot_file_path: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tmp/runtime_labeling_screen.png
+2021-04-29 02:45:55,936 INFO     carbon_actions.carbon_actions -- incrementing source count to: 3
+2021-04-29 02:45:55,937 INFO     carbon_explore.explore_utils -- getting screen_elems
+2021-04-29 02:45:57,308 INFO     carbon_utils.scrape_utils -- Successfully collected web scrape.
+2021-04-29 02:45:57,312 INFO     carbon_explore.explore_utils -- filtering elems - 144
+2021-04-29 02:45:57,369 INFO     carbon_explore.explore_utils -- saving info - 122
+2021-04-29 02:45:57,370 INFO     carbon_explore.explore_utils -- saving core elems iter: 0, step 7, save_dir: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853
+2021-04-29 02:45:57,448 INFO     carbon_explore.explore -- got all screen info saved
+2021-04-29 02:45:57,449 INFO     carbon_explore.explore -- starting next action selection
+2021-04-29 02:45:57,450 INFO     carbon_explore.explore -- Determining active labels.
+2021-04-29 02:45:57,450 INFO     carbon_explore.explore -- Determining active models.
+2021-04-29 02:45:57,451 INFO     carbon_explore.explore -- Getting labels for the screen
+2021-04-29 02:45:57,452 INFO     carbon_classifiers.label_classifier_pipe -- Begin loading configured modules
+2021-04-29 02:45:57,452 INFO     carbon_classifiers.carbon_classifier_v1.screen_classifier -- Loading ScreenClassifier
+2021-04-29 02:45:57,453 INFO     carbon_classifiers.template_matching.app_specific_template_matcher -- Loading AppSpecificTemplateMatcher
+2021-04-29 02:45:57,453 INFO     carbon_classifiers.perceptual.nn_classifier -- Loading NNClassifier
+2021-04-29 02:45:57,454 INFO     carbon_classifiers.template_matching.template_matching_classifier -- Loading TemplateMatchingClassifier
+2021-04-29 02:45:57,455 WARNING  carbon_classifiers.template_matching.template_matching_classifier -- No template director exists at /root/test_ai/templates
+2021-04-29 02:45:57,455 INFO     carbon_classifiers.http_classifier.http_classifier -- Loaded Http Classifier for ""
+2021-04-29 02:45:57,456 INFO     carbon_classifiers.label_classifier_pipe -- Begin labeling elements
+2021-04-29 02:46:00,498 INFO     carbon_classifiers.template_matching.app_specific_template_matcher -- Classifying screen with AppSpecificTemplateMatcher
+2021-04-29 02:46:00,500 INFO     carbon_classifiers.perceptual.nn_classifier -- Classifying screen with NNClassifier
+2021-04-29 02:46:00,760 WARNING  carbon_classifiers.label_classifier_pipe -- A widget with the name "default" has been set for this step but no widget by that name has been configured.
+2021-04-29 02:46:00,846 INFO     carbon_classifiers.label_classifier_pipe -- End labeling elements: Time taken 3.38905000687 seconds
+2021-04-29 02:46:00,847 INFO     carbon_explore.explore -- completed getting labels for screen
+2021-04-29 02:46:00,848 INFO     carbon_explore.explore -- _testStepNextAction
+2021-04-29 02:46:00,849 INFO     carbon_explore.explore -- curr step num: 7
+2021-04-29 02:46:00,850 INFO     carbon_explore.explore -- handling test step type: Action
+2021-04-29 02:46:00,850 INFO     carbon_explore.explore -- test_l: mi_air_max_90 not in set([])
+2021-04-29 02:46:00,851 ERROR    carbon_test_case.test_utils -- ******************************************************************
+2021-04-29 02:46:00,852 ERROR    carbon_test_case.test_utils -- * TEST FAILURE: matches not found in screen labels, failing test *
+2021-04-29 02:46:00,852 ERROR    carbon_test_case.test_utils -- ******************************************************************
+2021-04-29 02:46:00,853 INFO     carbon_explore.explore -- action_elem None
+2021-04-29 02:46:00,857 INFO     carbon_explore.explore -- saving step
+2021-04-29 02:46:00,858 INFO     carbon_explore.explore_utils -- saving core elems iter: 0, step 7, save_dir: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tests/result_paths/002 Find Airmax - 54f1f195-ed20-40ad-b346-c0933ed287fe
+2021-04-29 02:46:00,986 INFO     carbon_explore.result_storage -- LOG FILE PATH: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tests/result_paths/002 Find Airmax - 54f1f195-ed20-40ad-b346-c0933ed287fe/iter_00000_step_00007_logs.txt
+2021-04-29 02:46:00,987 INFO     carbon_explore.result_storage -- ALL LOGS FILE PATH: /root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/test_runs/20210429023853/tests/result_paths/002 Find Airmax - 54f1f195-ed20-40ad-b346-c0933ed287fe/iter_00000_step_-0001_logs.txt
+2021-04-29 02:46:01,003 INFO     carbon_explore.explore -- step saved
+2021-04-29 02:46:01,004 INFO     carbon_explore.explore -- Gesture: TEST_COMPLETE
+2021-04-29 02:46:01,005 INFO     carbon_explore.explore -- gesture was TEST_COMPLETE
+2021-04-29 02:46:01,011 INFO     carbon_explore.explore -- ********************************************************************************
+2021-04-29 02:46:01,011 INFO     carbon_explore.explore -- * TIMEOUT: None
+2021-04-29 02:46:01,012 INFO     carbon_explore.explore -- * beginning step: 7, test completed: True, total steps: 17
+2021-04-29 02:46:01,013 INFO     carbon_explore.explore -- * Description: 
+2021-04-29 02:46:01,013 INFO     carbon_explore.explore -- * disable_bounceback: False
+2021-04-29 02:46:01,014 INFO     carbon_explore.explore -- ********************************************************************************
+2021-04-29 02:46:01,014 INFO     carbon_explore.explore -- test_complete!!
+2021-04-29 02:46:01,015 INFO     carbon_explore.explore -- test complete, concluding walk
+2021-04-29 02:46:01,016 INFO     carbon_explore.explore -- performing post-walk cleanup
+2021-04-29 02:46:01,016 INFO     carbon_utils.simulator_tools -- performing post-test cleanup
+2021-04-29 02:46:01,017 INFO     carbon_utils.simulator_tools -- calling driver.quit
+2021-04-29 02:46:01,232 INFO     carbon_explore.explore -- iteration completed: 0
+2021-04-29 02:46:01,234 INFO     carbon_tasks.regress_app_task -- test executed successfully
+2021-04-29 02:46:01,235 INFO     carbon_tasks.regress_app_task -- Removing threaded log file handler for test run.

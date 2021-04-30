@@ -1,0 +1,98 @@
+{
+    "elems": {
+        "iter_00000_step_00002_11_li.png": [], 
+        "iter_00000_step_00002_15_a.png": [
+            "btn_women"
+        ], 
+        "iter_00000_step_00002_17_button.png": [
+            "btn_sign_in_home"
+        ], 
+        "iter_00000_step_00002_19_a.png": [
+            "icn_air_jordan"
+        ], 
+        "iter_00000_step_00002_21_li.png": [], 
+        "iter_00000_step_00002_24_a.png": [
+            "icn_cart"
+        ], 
+        "iter_00000_step_00002_32_a.png": [
+            "btn_nike_membership"
+        ], 
+        "iter_00000_step_00002_34_a.png": [
+            "btn_customize"
+        ], 
+        "iter_00000_step_00002_35_a.png": [
+            "btn_help"
+        ], 
+        "iter_00000_step_00002_36_button.png": [
+            "btn_search"
+        ], 
+        "iter_00000_step_00002_39_a.png": [
+            "icn_home"
+        ], 
+        "iter_00000_step_00002_41_a.png": [
+            "btn_kids"
+        ], 
+        "iter_00000_step_00002_45_a.png": [
+            "icn_converse"
+        ], 
+        "iter_00000_step_00002_46_input.png": [
+            "inp_txt_search"
+        ], 
+        "iter_00000_step_00002_6_a.png": [
+            "icn_favorites"
+        ], 
+        "iter_00000_step_00002_9_div.png": [], 
+        "iter_00000_step_00004_10_input.png": [
+            "inp_email"
+        ], 
+        "iter_00000_step_00006_14_input.png": [
+            "inp_email"
+        ], 
+        "iter_00000_step_00010_5_input.png": [
+            "btn_dismiss_error"
+        ], 
+        "iter_00000_step_00015_18_input.png": [
+            "inp_password"
+        ], 
+        "iter_00000_step_00016_14_input.png": [
+            "inp_email"
+        ], 
+        "iter_00000_step_00016_15_button.png": [
+            "btn_close_pop"
+        ], 
+        "iter_00000_step_00016_17_label.png": [
+            "btn_keep_signed_in"
+        ], 
+        "iter_00000_step_00016_18_input.png": [
+            "inp_password"
+        ], 
+        "iter_00000_step_00016_20_div.png": [
+            "btn_sign_in"
+        ], 
+        "iter_00000_step_00016_3_a.png": [
+            "lnk_join_us"
+        ], 
+        "iter_00000_step_00017_10_input.png": [
+            "inp_email"
+        ], 
+        "iter_00000_step_00017_12_div.png": [
+            "btn_sign_in"
+        ], 
+        "iter_00000_step_00017_15_input.png": [
+            "inp_password"
+        ], 
+        "iter_00000_step_00017_17_label.png": [
+            "btn_keep_signed_in"
+        ], 
+        "iter_00000_step_00017_19_button.png": [
+            "btn_close_pop"
+        ], 
+        "iter_00000_step_00017_3_a.png": [
+            "lnk_join_us"
+        ], 
+        "iter_00000_step_00017_4_div.png": [
+            "pop_sign_in"
+        ]
+    }, 
+    "screens": {}
+}
