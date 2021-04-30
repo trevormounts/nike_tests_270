@@ -1,0 +1,72 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "M+YZ4G4yuus2PS1GtfhKvQ==\n", 
+    "height": 178, 
+    "hier_level": 0, 
+    "human_hash": "div_X3512_Y830_W176_H178", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "data-radium": "true"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 12, 
+            "height": 89, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Game Royal", 
+            "type": "", 
+            "value": "", 
+            "width": 88, 
+            "x": 1756, 
+            "xPercent": 91.44287109375, 
+            "y": 415, 
+            "yPercent": 46.05555555555556
+        }, 
+        "location": {
+            "x": 1756, 
+            "y": 415
+        }, 
+        "size": {
+            "height": 89, 
+            "width": 88
+        }, 
+        "tag_name": "div", 
+        "text": "Game Royal"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Game Royal", 
+    "transformed": true, 
+    "width": 176, 
+    "x": 3512, 
+    "y": 830
+}

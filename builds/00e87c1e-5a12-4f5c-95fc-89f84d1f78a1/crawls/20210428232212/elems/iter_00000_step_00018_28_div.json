@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "p1Us73lyEKI2/y9lu548Og==\n", 
+    "height": 1038, 
+    "hier_level": 0, 
+    "human_hash": "div_X1638_Y536_W1038_H1038", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "content-card css-1ub4lz9 css-z5nr6i css-11ziap1 css-14d76vy css-dpr2cn product-grid__card"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "content-card css-1ub4lz9 css-z5nr6i css-11ziap1 css-14d76vy css-dpr2cn product-grid__card", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 519, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "UP TO 40% OFFShop all styles.Shop", 
+            "type": "", 
+            "value": "", 
+            "width": 519, 
+            "x": 819, 
+            "xPercent": 42.99130577427822, 
+            "y": 268, 
+            "yPercent": 20.089955022488756
+        }, 
+        "location": {
+            "x": 819, 
+            "y": 268
+        }, 
+        "size": {
+            "height": 519, 
+            "width": 519
+        }, 
+        "tag_name": "div", 
+        "text": "UP TO 40% OFFShop all styles.Shop"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "UP TO 40% OFFShop all styles.Shop", 
+    "transformed": true, 
+    "width": 1038, 
+    "x": 1638, 
+    "y": 536
+}

@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "svg", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "KBhmyPW0E3qelm1z3Ewewg==\n", 
+    "height": 42, 
+    "hier_level": 0, 
+    "human_hash": "svg_X2744_Y584_W44_H42", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "height": "21", 
+                "viewBox": "0 0 20 18", 
+                "width": "20", 
+                "xmlns": "http://www.w3.org/2000/svg"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "svg", 
+            "color": "rgb(17, 17, 17)", 
+            "domLevel": 18, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 14, 
+            "height": 21, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "svg", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 22, 
+            "x": 1372, 
+            "xPercent": 72.02460501763451, 
+            "y": 292, 
+            "yPercent": 15.77118134022531
+        }, 
+        "location": {
+            "x": 1372, 
+            "y": 292
+        }, 
+        "size": {
+            "height": 21, 
+            "width": 22
+        }, 
+        "tag_name": "svg", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "svg", 
+    "text": "", 
+    "transformed": true, 
+    "width": 44, 
+    "x": 2744, 
+    "y": 584
+}

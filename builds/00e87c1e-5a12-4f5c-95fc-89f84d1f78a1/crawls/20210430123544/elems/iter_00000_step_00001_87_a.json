@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "uEMcpESF7JFkAoY7qZtN9A==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "a_X1968_Y838_W368_H48", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "body-2", 
+                "data-analytics-action-id": "7044ee8c-260a-40dd-b5ba-f10a81bb4e09", 
+                "href": "https://www.nike.com/w/hoodies-pullovers-6rive", 
+                "role": "listitem", 
+                "tabindex": "0"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(117, 117, 117)", 
+            "cssClass": "body-2", 
+            "domLevel": 13, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Hoodies & Pullovers", 
+            "type": "", 
+            "value": "", 
+            "width": 184, 
+            "x": 984, 
+            "xPercent": 51.24999999999999, 
+            "y": 419, 
+            "yPercent": 5.894237526352776
+        }, 
+        "location": {
+            "x": 984, 
+            "y": 419
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 184
+        }, 
+        "tag_name": "a", 
+        "text": "Hoodies & Pullovers"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Hoodies & Pullovers", 
+    "transformed": true, 
+    "width": 368, 
+    "x": 1968, 
+    "y": 838
+}

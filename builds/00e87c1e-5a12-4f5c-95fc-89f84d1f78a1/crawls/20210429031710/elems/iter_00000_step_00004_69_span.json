@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "elem_shot_file_path": "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210429031710/tmpZ/span_X96_Y1082_W384_H96.png", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "4HHeg+753HJ/ZYg1KviLdg==\n", 
+    "height": 96, 
+    "hier_level": 0, 
+    "human_hash": "span_X96_Y1082_W384_H96", 
+    "human_readable": "span_96_1082_384_96_span_ffffffffffffffffffffffff57ff01fc00fc01ffb9fffdffffffffffffffffff_b307d16142d92c74a116b83fc57a53a6", 
+    "img_hash": "96f43ec70fd5f079e2ea005c9a8996aa", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "Collapsible__trigger is-open  filter-group__btn headline-5 is--open"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "Collapsible__trigger is-open  filter-group__btn headline-5 is--open", 
+            "domLevel": 19, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 48, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Technology\u00a0(0)", 
+            "type": "", 
+            "value": "", 
+            "width": 192, 
+            "x": 48, 
+            "xPercent": 2.5196850393700787, 
+            "y": 541, 
+            "yPercent": 13.011063011063012
+        }, 
+        "location": {
+            "x": 48, 
+            "y": 541
+        }, 
+        "size": {
+            "height": 48, 
+            "width": 192
+        }, 
+        "tag_name": "span", 
+        "text": "Technology\u00a0(0)"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Technology\u00a0(0)", 
+    "text_hash": "b307d16142d92c74a116b83fc57a53a6", 
+    "transformed": true, 
+    "width": 384, 
+    "x": 96, 
+    "y": 1082
+}

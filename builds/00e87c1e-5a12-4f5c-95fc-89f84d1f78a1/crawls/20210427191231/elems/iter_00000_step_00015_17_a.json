@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "Fme4FC+Tq0Wby0d8hPudQA==\n", 
+    "height": 54, 
+    "hier_level": 0, 
+    "human_hash": "a_X1934_Y384_W292_H54", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "Nike Luxe Leggings", 
+                "class": "JSftBPEZ", 
+                "data-analytics-action-id": "c51053c2-3455-4ecb-9d31-fb579870404f", 
+                "href": "https://www.nike.com/women/compare-pants-tights"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "JSftBPEZ", 
+            "domLevel": 14, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 27, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Nike Luxe Leggings", 
+            "type": "", 
+            "value": "", 
+            "width": 146, 
+            "x": 967, 
+            "xPercent": 50.77673884514435, 
+            "y": 192, 
+            "yPercent": 2.570281124497992
+        }, 
+        "location": {
+            "x": 967, 
+            "y": 192
+        }, 
+        "size": {
+            "height": 27, 
+            "width": 146
+        }, 
+        "tag_name": "a", 
+        "text": "Nike Luxe Leggings"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Nike Luxe Leggings", 
+    "transformed": true, 
+    "width": 292, 
+    "x": 1934, 
+    "y": 384
+}

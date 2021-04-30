@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "img", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "O6f9hS/PeCrx5x8FELyGMQ==\n", 
+    "height": 72, 
+    "hier_level": 0, 
+    "human_hash": "img_X784_Y1566_W72_H72", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "Black/Black/Dark Grey", 
+                "loading": "lazy", 
+                "src": "https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/4252b535-f3e5-4562-be89-e5bb7aafb292/air-vapormax-2020-fk-mens-shoe-kn9vwZ.png"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "img", 
+            "color": "rgb(17, 17, 17)", 
+            "domLevel": 23, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 0, 
+            "height": 36, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "img", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 36, 
+            "x": 392, 
+            "xPercent": 20.57742782152231, 
+            "y": 783, 
+            "yPercent": 10.634040133097923
+        }, 
+        "location": {
+            "x": 392, 
+            "y": 783
+        }, 
+        "size": {
+            "height": 36, 
+            "width": 36
+        }, 
+        "tag_name": "img", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "img", 
+    "text": "", 
+    "transformed": true, 
+    "width": 72, 
+    "x": 784, 
+    "y": 1566
+}

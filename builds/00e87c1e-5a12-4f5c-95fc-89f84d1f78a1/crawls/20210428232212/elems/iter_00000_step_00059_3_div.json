@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "PUtYj7SMrR1Ps6COaD5E5Q==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "div_X2704_Y702_W168_H48", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "fs16-sm ncss-brand text-color-accent total", 
+                "data-attr": "cart-total"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(250, 84, 0)", 
+            "cssClass": "fs16-sm ncss-brand text-color-accent total", 
+            "domLevel": 15, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Nike TG\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "$138.00", 
+            "type": "", 
+            "value": "", 
+            "width": 84, 
+            "x": 1352, 
+            "xPercent": 70.9727690288714, 
+            "y": 351, 
+            "yPercent": 32.79205607476636
+        }, 
+        "location": {
+            "x": 1352, 
+            "y": 351
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 84
+        }, 
+        "tag_name": "div", 
+        "text": "$138.00"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "$138.00", 
+    "transformed": true, 
+    "width": 168, 
+    "x": 2704, 
+    "y": 702
+}

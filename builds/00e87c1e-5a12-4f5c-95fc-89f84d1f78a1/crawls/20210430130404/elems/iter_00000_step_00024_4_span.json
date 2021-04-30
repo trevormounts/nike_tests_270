@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "hIW+eJhzRRyf3jjWLGFTKA==\n", 
+    "height": 8, 
+    "hier_level": 0, 
+    "human_hash": "span_X576_Y1516_W246_H8", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "data-radium": "true", 
+                "style": "position: relative; align-content: flex-start; transition: transform 400ms ease 0s; background-color: rgb(76, 76, 76); will-change: transform; height: 100%; flex-shrink: 0; border-radius: 2px; transform: translateX(0%); width: 14.2857%;"
+            }, 
+            "background-color": "rgb(76, 76, 76)", 
+            "class": "span", 
+            "color": "rgb(17, 17, 17)", 
+            "domLevel": 8, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 4, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 123, 
+            "x": 288, 
+            "xPercent": 15, 
+            "y": 758, 
+            "yPercent": 84.22222222222221
+        }, 
+        "location": {
+            "x": 288, 
+            "y": 758
+        }, 
+        "size": {
+            "height": 4, 
+            "width": 123
+        }, 
+        "tag_name": "span", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "", 
+    "transformed": true, 
+    "width": 246, 
+    "x": 576, 
+    "y": 1516
+}

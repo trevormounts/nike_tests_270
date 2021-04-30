@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "j1A90AuWkppqv1CSlajBeg==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "a_X1504_Y838_W368_H48", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "body-2", 
+                "data-analytics-action-id": "cb3407e9-3e33-4aec-970c-e6180437a353", 
+                "href": "https://www.nike.com/w/basketball-shoes-3glsmzy7ok", 
+                "role": "listitem", 
+                "tabindex": "0"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(117, 117, 117)", 
+            "cssClass": "body-2", 
+            "domLevel": 13, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Basketball Shoes", 
+            "type": "", 
+            "value": "", 
+            "width": 184, 
+            "x": 752, 
+            "xPercent": 39.166666666666664, 
+            "y": 419, 
+            "yPercent": 5.894237526352776
+        }, 
+        "location": {
+            "x": 752, 
+            "y": 419
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 184
+        }, 
+        "tag_name": "a", 
+        "text": "Basketball Shoes"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Basketball Shoes", 
+    "transformed": true, 
+    "width": 368, 
+    "x": 1504, 
+    "y": 838
+}

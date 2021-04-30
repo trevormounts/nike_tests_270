@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "img", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "8v7wuZZ5qTdUWELKLgqKwg==\n", 
+    "height": 1006, 
+    "hier_level": 0, 
+    "human_hash": "img_X1654_Y536_W1006_H1006", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "UP TO 40% OFF", 
+                "loading": "lazy", 
+                "src": "https://static.nike.com/a/images/w_1536,c_limit/99a98ce2-4b47-4cc7-9cd3-7ee78dfa18dc/image.jpg"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "img", 
+            "color": "rgb(17, 17, 17)", 
+            "domLevel": 16, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 503, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "img", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 503, 
+            "x": 827, 
+            "xPercent": 43.411253280839894, 
+            "y": 268, 
+            "yPercent": 20.089955022488756
+        }, 
+        "location": {
+            "x": 827, 
+            "y": 268
+        }, 
+        "size": {
+            "height": 503, 
+            "width": 503
+        }, 
+        "tag_name": "img", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "img", 
+    "text": "", 
+    "transformed": true, 
+    "width": 1006, 
+    "x": 1654, 
+    "y": 536
+}

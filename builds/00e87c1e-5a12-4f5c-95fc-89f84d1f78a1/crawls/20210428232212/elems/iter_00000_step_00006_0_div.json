@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "WiV3zCXv5A2H4h6Nm+8Khw==\n", 
+    "height": 8, 
+    "hier_level": 0, 
+    "human_hash": "div_X806_Y1390_W2198_H8", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "swiper-scrollbar"
+            }, 
+            "background-color": "rgb(245, 245, 245)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "swiper-scrollbar", 
+            "domLevel": 13, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 4, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 1099, 
+            "x": 403, 
+            "xPercent": 21.166338582677167, 
+            "y": 695, 
+            "yPercent": 9.293060200668897
+        }, 
+        "location": {
+            "x": 403, 
+            "y": 695
+        }, 
+        "size": {
+            "height": 4, 
+            "width": 1099
+        }, 
+        "tag_name": "div", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "", 
+    "transformed": true, 
+    "width": 2198, 
+    "x": 806, 
+    "y": 1390
+}

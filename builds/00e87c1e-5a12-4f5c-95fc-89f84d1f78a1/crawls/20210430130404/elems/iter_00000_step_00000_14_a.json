@@ -1,0 +1,78 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "ceFLnO+vNM2frL4LgK0rrA==\n", 
+    "height": 120, 
+    "hier_level": 0, 
+    "human_hash": "a_X1314_Y72_W250_H120", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "Gifts for Mom", 
+                "class": "pre-desktop-menu-link headline-5 prl3-lg pt4-sm d-sm-b no-outline", 
+                "data-nav": "0,0,-1", 
+                "data-path": "gifts for mom", 
+                "data-pre": "ILink", 
+                "data-type": "click_navShoppingMenu", 
+                "href": "https://www.nike.com/w/gifts-3b0uf"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "pre-desktop-menu-link headline-5 prl3-lg pt4-sm d-sm-b no-outline", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 60, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Gifts for Mom", 
+            "type": "", 
+            "value": "", 
+            "width": 125, 
+            "x": 657, 
+            "xPercent": 34.215494791666664, 
+            "y": 36, 
+            "yPercent": 0.5059732958538299
+        }, 
+        "location": {
+            "x": 657, 
+            "y": 36
+        }, 
+        "size": {
+            "height": 60, 
+            "width": 125
+        }, 
+        "tag_name": "a", 
+        "text": "Gifts for Mom"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Gifts for Mom", 
+    "transformed": true, 
+    "width": 250, 
+    "x": 1314, 
+    "y": 72
+}

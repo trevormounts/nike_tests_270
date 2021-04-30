@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "UkHDrcJPwUYaGyxVkYqCnw==\n", 
+    "height": 96, 
+    "hier_level": 0, 
+    "human_hash": "div_X96_Y1180_W376_H96", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-expanded": "true", 
+                "aria-label": "Shoe Height", 
+                "aria-owns": "wallNavFG5", 
+                "class": "trigger-content", 
+                "role": "button", 
+                "tabindex": "0"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "trigger-content", 
+            "domLevel": 20, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 48, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Shoe Height\u00a0(0)", 
+            "type": "", 
+            "value": "", 
+            "width": 188, 
+            "x": 48, 
+            "xPercent": 2.5196850393700787, 
+            "y": 590, 
+            "yPercent": 21.485797523670794
+        }, 
+        "location": {
+            "x": 48, 
+            "y": 590
+        }, 
+        "size": {
+            "height": 48, 
+            "width": 188
+        }, 
+        "tag_name": "div", 
+        "text": "Shoe Height\u00a0(0)"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Shoe Height\u00a0(0)", 
+    "transformed": true, 
+    "width": 376, 
+    "x": 96, 
+    "y": 1180
+}

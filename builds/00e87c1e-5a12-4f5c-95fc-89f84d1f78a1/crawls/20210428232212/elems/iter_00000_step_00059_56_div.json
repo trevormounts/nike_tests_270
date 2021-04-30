@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "b+tkmDOD7ScapE+yhn8C5A==\n", 
+    "height": 50, 
+    "hier_level": 0, 
+    "human_hash": "div_X3634_Y132_W136_H50", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "d-sm-ib va-sm-m ml4-sm"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "d-sm-ib va-sm-m ml4-sm", 
+            "domLevel": 7, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 25, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Live Chat", 
+            "type": "", 
+            "value": "", 
+            "width": 68, 
+            "x": 1817, 
+            "xPercent": 95.38221784776903, 
+            "y": 66, 
+            "yPercent": 6.156542056074767
+        }, 
+        "location": {
+            "x": 1817, 
+            "y": 66
+        }, 
+        "size": {
+            "height": 25, 
+            "width": 68
+        }, 
+        "tag_name": "div", 
+        "text": "Live Chat"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Live Chat", 
+    "transformed": true, 
+    "width": 136, 
+    "x": 3634, 
+    "y": 132
+}

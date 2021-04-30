@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "ziUdR0wZdVL12AiLVr9U2w==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "span_X144_Y1432_W122_H48", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "filter-item__item-label"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "filter-item__item-label", 
+            "domLevel": 23, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Low Top", 
+            "type": "", 
+            "value": "", 
+            "width": 61, 
+            "x": 72, 
+            "xPercent": 3.779527559055118, 
+            "y": 716, 
+            "yPercent": 26.07428987618354
+        }, 
+        "location": {
+            "x": 72, 
+            "y": 716
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 61
+        }, 
+        "tag_name": "span", 
+        "text": "Low Top"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Low Top", 
+    "transformed": true, 
+    "width": 122, 
+    "x": 144, 
+    "y": 1432
+}

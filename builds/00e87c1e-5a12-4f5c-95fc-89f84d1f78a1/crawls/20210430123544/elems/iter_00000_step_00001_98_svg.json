@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "svg", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "b7DBG6H/ZkXZyCVdADD5Fw==\n", 
+    "height": 30, 
+    "hier_level": 0, 
+    "human_hash": "svg_X560_Y1624_W36_H30", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "fill": "#111", 
+                "height": "15px", 
+                "viewBox": "0 0 42 58", 
+                "width": "18px"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "svg", 
+            "color": "rgb(117, 117, 117)", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 10, 
+            "height": 15, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "svg", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 18, 
+            "x": 280, 
+            "xPercent": 14.583333333333334, 
+            "y": 812, 
+            "yPercent": 11.417779339423753
+        }, 
+        "location": {
+            "x": 280, 
+            "y": 812
+        }, 
+        "size": {
+            "height": 15, 
+            "width": 18
+        }, 
+        "tag_name": "svg", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "svg", 
+    "text": "", 
+    "transformed": true, 
+    "width": 36, 
+    "x": 560, 
+    "y": 1624
+}

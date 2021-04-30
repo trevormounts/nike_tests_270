@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "w+5yu9RL/dxb4lfWc2BSWA==\n", 
+    "height": 28, 
+    "hier_level": 0, 
+    "human_hash": "a_X1988_Y1060_W150_H28", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "javascript:void(0)", 
+                "onclick": "javascript:nike.unite.openLegalLink('policyLink');"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(141, 141, 141)", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Helvetica", 
+            "font-weight": "500", 
+            "fontSize": 12, 
+            "height": 14, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Privacy Policy", 
+            "type": "", 
+            "value": "", 
+            "width": 75, 
+            "x": 994, 
+            "xPercent": 52.178477690288716, 
+            "y": 530, 
+            "yPercent": 6.959779179810726
+        }, 
+        "location": {
+            "x": 994, 
+            "y": 530
+        }, 
+        "size": {
+            "height": 14, 
+            "width": 75
+        }, 
+        "tag_name": "a", 
+        "text": "Privacy Policy"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Privacy Policy", 
+    "transformed": true, 
+    "width": 150, 
+    "x": 1988, 
+    "y": 1060
+}

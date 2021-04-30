@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "bXMve8fe5VK5hJ3sd2FxrA==\n", 
+    "height": 390, 
+    "hier_level": 0, 
+    "human_hash": "div_X1060_Y1102_W516_H390", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "hf-accordion footer-accordion ncss-col-sm-12 ncss-col-md-4 ncss-col-lg-3 va-sm-t is-open-md", 
+                "data-index": "1", 
+                "data-maxheight": "400", 
+                "data-pre": "Accordion"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "hf-accordion footer-accordion ncss-col-sm-12 ncss-col-md-4 ncss-col-lg-3 va-sm-t is-open-md", 
+            "domLevel": 8, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 195, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Get HelpGet HelpOrder StatusShipping and DeliveryReturnsPayment OptionsGift Card BalanceContact Us", 
+            "type": "", 
+            "value": "", 
+            "width": 258, 
+            "x": 530, 
+            "xPercent": 27.604166666666668, 
+            "y": 551, 
+            "yPercent": 7.749472944483486
+        }, 
+        "location": {
+            "x": 530, 
+            "y": 551
+        }, 
+        "size": {
+            "height": 195, 
+            "width": 258
+        }, 
+        "tag_name": "div", 
+        "text": "Get HelpGet HelpOrder StatusShipping and DeliveryReturnsPayment OptionsGift Card BalanceContact Us"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Get HelpGet HelpOrder StatusShipping and DeliveryReturnsPayment OptionsGift Card BalanceContact Us", 
+    "transformed": true, 
+    "width": 516, 
+    "x": 1060, 
+    "y": 1102
+}

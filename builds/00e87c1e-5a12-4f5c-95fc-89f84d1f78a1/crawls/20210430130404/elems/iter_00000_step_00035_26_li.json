@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "li", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "JxE8H2GphSQ7X1okfYlyuA==\n", 
+    "height": 90, 
+    "hier_level": 0, 
+    "human_hash": "li_X2714_Y554_W224_H90", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-labelledby": "Your Designs", 
+                "class": "tab-list-item tab-list-active", 
+                "role": "menuitem", 
+                "tabindex": "1"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "li", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "tab-list-item tab-list-active", 
+            "domLevel": 13, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "700", 
+            "fontSize": 16, 
+            "height": 45, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "li", 
+            "text": "Your Designs", 
+            "type": "", 
+            "value": 0, 
+            "width": 112, 
+            "x": 1357, 
+            "xPercent": 70.68440755208333, 
+            "y": 277, 
+            "yPercent": 10.56848531095002
+        }, 
+        "location": {
+            "x": 1357, 
+            "y": 277
+        }, 
+        "size": {
+            "height": 45, 
+            "width": 112
+        }, 
+        "tag_name": "li", 
+        "text": "Your Designs"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "li", 
+    "text": "Your Designs", 
+    "transformed": true, 
+    "width": 224, 
+    "x": 2714, 
+    "y": 554
+}

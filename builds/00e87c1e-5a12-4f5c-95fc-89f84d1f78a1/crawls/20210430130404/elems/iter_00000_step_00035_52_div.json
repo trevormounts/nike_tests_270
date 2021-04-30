@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "8Z1wB+Z/hxU9Gau9rak7SA==\n", 
+    "height": 80, 
+    "hier_level": 0, 
+    "human_hash": "div_X608_Y376_W246_H80", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "card-overlay__content"
+            }, 
+            "background-color": "rgb(255, 255, 255)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "card-overlay__content", 
+            "domLevel": 13, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 14, 
+            "height": 40, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Customize", 
+            "type": "", 
+            "value": "", 
+            "width": 123, 
+            "x": 304, 
+            "xPercent": 15.833333333333332, 
+            "y": 188, 
+            "yPercent": 7.172834795879435
+        }, 
+        "location": {
+            "x": 304, 
+            "y": 188
+        }, 
+        "size": {
+            "height": 40, 
+            "width": 123
+        }, 
+        "tag_name": "div", 
+        "text": "Customize"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Customize", 
+    "transformed": true, 
+    "width": 246, 
+    "x": 608, 
+    "y": 376
+}

@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "8vvxCGxNhpQCxH/maCfcPg==\n", 
+    "height": 130, 
+    "hier_level": 0, 
+    "human_hash": "div_X0_Y344_W3840_H130", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "header-position css-iqr4dm", 
+                "style": "top: 0px;"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "header-position css-iqr4dm", 
+            "domLevel": 7, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 65, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Neutrals By You(35)Hide FiltersSort ByFeaturedNewestPrice: High-LowPrice: Low-High", 
+            "type": "", 
+            "value": "", 
+            "width": 1920, 
+            "x": 0, 
+            "xPercent": 0, 
+            "y": 172, 
+            "yPercent": 2.678293366552476
+        }, 
+        "location": {
+            "x": 0, 
+            "y": 172
+        }, 
+        "size": {
+            "height": 65, 
+            "width": 1920
+        }, 
+        "tag_name": "div", 
+        "text": "Neutrals By You(35)Hide FiltersSort ByFeaturedNewestPrice: High-LowPrice: Low-High"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Neutrals By You(35)Hide FiltersSort ByFeaturedNewestPrice: High-LowPrice: Low-High", 
+    "transformed": true, 
+    "width": 3840, 
+    "x": 0, 
+    "y": 344
+}

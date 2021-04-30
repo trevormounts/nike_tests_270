@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "1qrUV5EAZ2S4IKtfK4Qrqg==\n", 
+    "height": 92, 
+    "hier_level": 0, 
+    "human_hash": "div_X186_Y928_W2688_H92", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "_3T7SP3hk", 
+                "data-qa": "card-overlay-content"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "_3T7SP3hk", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 46, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Watch", 
+            "type": "", 
+            "value": "", 
+            "width": 1344, 
+            "x": 93, 
+            "xPercent": 4.8556430446194225, 
+            "y": 464, 
+            "yPercent": 5.953096933538619
+        }, 
+        "location": {
+            "x": 93, 
+            "y": 464
+        }, 
+        "size": {
+            "height": 46, 
+            "width": 1344
+        }, 
+        "tag_name": "div", 
+        "text": "Watch"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Watch", 
+    "transformed": true, 
+    "width": 2688, 
+    "x": 186, 
+    "y": 928
+}

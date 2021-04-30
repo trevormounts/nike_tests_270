@@ -1,0 +1,78 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "6z8pVWMKpxMhqqtBq1B+ug==\n", 
+    "height": 80, 
+    "hier_level": 0, 
+    "human_hash": "a_X2472_Y1606_W154_H80", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "sub-footer-menu-link nav-sm-b footer-link pt2-sm pb2-sm prl2-md d-sm-b", 
+                "data-path": "terms of sale", 
+                "data-pre": "ILink", 
+                "data-type": "click_navFooter", 
+                "href": "https://agreementservice.svs.nike.com/us/en_us/rest/agreement?agreementType=termsOfSale&uxId=com.nike.commerce.nikedotcom.web&country=US&language=en&requestType=redirect", 
+                "target": "_blank"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(126, 126, 126)", 
+            "cssClass": "sub-footer-menu-link nav-sm-b footer-link pt2-sm pb2-sm prl2-md d-sm-b", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 10, 
+            "height": 40, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Terms of Sale", 
+            "type": "", 
+            "value": "", 
+            "width": 77, 
+            "x": 1236, 
+            "xPercent": 64.38802083333334, 
+            "y": 803, 
+            "yPercent": 11.291286015460294
+        }, 
+        "location": {
+            "x": 1236, 
+            "y": 803
+        }, 
+        "size": {
+            "height": 40, 
+            "width": 77
+        }, 
+        "tag_name": "a", 
+        "text": "Terms of Sale"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Terms of Sale", 
+    "transformed": true, 
+    "width": 154, 
+    "x": 2472, 
+    "y": 1606
+}

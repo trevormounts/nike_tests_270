@@ -1,0 +1,79 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "3oFYsYkenR58ocLVtRSS6A==\n", 
+    "height": 80, 
+    "hier_level": 0, 
+    "human_hash": "button_X2354_Y1606_W96_H80", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-controls": "SubFooterDropdown-0-Menu", 
+                "aria-expanded": "false", 
+                "class": "nav-btn p0-sm sub-footer-menu-link nav-sm-b footer-link pt2-sm pb2-sm prl2-md d-sm-b", 
+                "data-path": "guides", 
+                "data-pre": "ILink", 
+                "data-type": "click_navFooter", 
+                "role": "listbox"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "button", 
+            "color": "rgb(126, 126, 126)", 
+            "cssClass": "nav-btn p0-sm sub-footer-menu-link nav-sm-b footer-link pt2-sm pb2-sm prl2-md d-sm-b", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 10, 
+            "height": 40, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "Guides", 
+            "type": "", 
+            "value": "", 
+            "width": 48, 
+            "x": 1177, 
+            "xPercent": 61.280110677083336, 
+            "y": 803, 
+            "yPercent": 11.291286015460294
+        }, 
+        "location": {
+            "x": 1177, 
+            "y": 803
+        }, 
+        "size": {
+            "height": 40, 
+            "width": 48
+        }, 
+        "tag_name": "button", 
+        "text": "Guides"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "Guides", 
+    "transformed": true, 
+    "width": 96, 
+    "x": 2354, 
+    "y": 1606
+}

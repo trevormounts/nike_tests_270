@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "avMij9EMycl4MLgdzb+OuQ==\n", 
+    "height": 40, 
+    "hier_level": 0, 
+    "human_hash": "span_X250_Y876_W60_H40", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "filter-item__item-label"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "filter-item__item-label", 
+            "domLevel": 23, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 20, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Black", 
+            "type": "", 
+            "value": "", 
+            "width": 30, 
+            "x": 125, 
+            "xPercent": 6.565780839895013, 
+            "y": 438, 
+            "yPercent": 10.533910533910534
+        }, 
+        "location": {
+            "x": 125, 
+            "y": 438
+        }, 
+        "size": {
+            "height": 20, 
+            "width": 30
+        }, 
+        "tag_name": "span", 
+        "text": "Black"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Black", 
+    "transformed": true, 
+    "width": 60, 
+    "x": 250, 
+    "y": 876
+}

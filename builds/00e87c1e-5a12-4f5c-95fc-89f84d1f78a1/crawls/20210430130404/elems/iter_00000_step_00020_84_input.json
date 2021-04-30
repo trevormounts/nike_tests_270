@@ -1,0 +1,80 @@
+{
+    "behavior": "", 
+    "checkable": true, 
+    "checked": false, 
+    "class": "input", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "pJKEukVJT2S/Hq1qzRr80Q==\n", 
+    "height": 2, 
+    "hier_level": 0, 
+    "human_hash": "input_X2880_Y1176_W2_H2", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "M 4 / W 5.5", 
+                "class": "visually-hidden", 
+                "id": "skuAndSize__LTITEM8151", 
+                "name": "skuAndSize", 
+                "type": "radio", 
+                "value": "LTITEM8151:M 4 / W 5.5"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "input", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "visually-hidden", 
+            "domLevel": 15, 
+            "flags": {
+                "checkable": true, 
+                "checked": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 1, 
+            "identifier": "skuAndSize__LTITEM8151", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "skuAndSize", 
+            "tagName": "input", 
+            "text": "", 
+            "type": "radio", 
+            "value": "LTITEM8151:M 4 / W 5.5", 
+            "width": 1, 
+            "x": 1440, 
+            "xPercent": 74.97395833333333, 
+            "y": 588, 
+            "yPercent": 21.818181818181817
+        }, 
+        "location": {
+            "x": 1440, 
+            "y": 588
+        }, 
+        "size": {
+            "height": 1, 
+            "width": 1
+        }, 
+        "tag_name": "input", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "input", 
+    "text": "LTITEM8151:M 4 / W 5.5", 
+    "transformed": true, 
+    "width": 2, 
+    "x": 2880, 
+    "y": 1176
+}

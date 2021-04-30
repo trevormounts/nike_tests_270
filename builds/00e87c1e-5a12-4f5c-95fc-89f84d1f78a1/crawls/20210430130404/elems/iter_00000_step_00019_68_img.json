@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "img", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "6TK56l7VPy2H7avuIQw9uA==\n", 
+    "height": 138, 
+    "hier_level": 0, 
+    "human_hash": "img_X3080_Y750_W138_H138", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "Multi-Color/Multi-Color", 
+                "class": "bg-lighter-grey", 
+                "src": "https://static.nike.com/a/images/t_PDP_144_v1/f_auto/b186c3e7-d22b-4d46-8dd0-34a31336671e/custom-nike-metcon-6-by-you.png"
+            }, 
+            "background-color": "rgb(245, 245, 245)", 
+            "class": "img", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "bg-lighter-grey", 
+            "domLevel": 21, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 69, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "img", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 69, 
+            "x": 1540, 
+            "xPercent": 80.20833333333334, 
+            "y": 375, 
+            "yPercent": 13.91465677179963
+        }, 
+        "location": {
+            "x": 1540, 
+            "y": 375
+        }, 
+        "size": {
+            "height": 69, 
+            "width": 69
+        }, 
+        "tag_name": "img", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "img", 
+    "text": "", 
+    "transformed": true, 
+    "width": 138, 
+    "x": 3080, 
+    "y": 750
+}

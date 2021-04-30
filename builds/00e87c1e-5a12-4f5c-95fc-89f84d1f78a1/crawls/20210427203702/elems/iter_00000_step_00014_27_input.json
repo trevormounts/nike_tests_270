@@ -1,0 +1,78 @@
+{
+    "behavior": "", 
+    "checkable": true, 
+    "checked": true, 
+    "class": "input", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "8OjubLRLT7xO5LBZDk+0QQ==\n", 
+    "height": 2, 
+    "hier_level": 0, 
+    "human_hash": "input_X1566_Y1432_W64_H2", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "checked": "checked", 
+                "data-componentname": "emailSignup", 
+                "id": "2d6ab370-a48c-4ab5-bc8a-80b2936299b8", 
+                "name": "receiveEmail", 
+                "type": "checkbox"
+            }, 
+            "background-color": "rgb(255, 255, 255)", 
+            "class": "input", 
+            "color": "rgb(141, 141, 141)", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": true, 
+                "checked": true, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Helvetica", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 1, 
+            "identifier": "2d6ab370-a48c-4ab5-bc8a-80b2936299b8", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "receiveEmail", 
+            "tagName": "input", 
+            "text": "", 
+            "type": "checkbox", 
+            "value": "on", 
+            "width": 32, 
+            "x": 783, 
+            "xPercent": 41.10236220472441, 
+            "y": 716, 
+            "yPercent": 9.376636982713462
+        }, 
+        "location": {
+            "x": 783, 
+            "y": 716
+        }, 
+        "size": {
+            "height": 1, 
+            "width": 32
+        }, 
+        "tag_name": "input", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "input", 
+    "text": "", 
+    "transformed": true, 
+    "width": 64, 
+    "x": 1566, 
+    "y": 1432
+}

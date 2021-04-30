@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "SK50L7kswSZFoSkmFTQVSQ==\n", 
+    "height": 62, 
+    "hier_level": 0, 
+    "human_hash": "button_X2258_Y332_W64_H62", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "pre-modal-btn-close bg-transparent", 
+                "data-var": "closeBtn", 
+                "style": "display: block;"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "button", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "pre-modal-btn-close bg-transparent", 
+            "domLevel": 5, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Arial", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 31, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 32, 
+            "x": 1129, 
+            "xPercent": 59.23884514435696, 
+            "y": 166, 
+            "yPercent": 2.1298434693353863
+        }, 
+        "location": {
+            "x": 1129, 
+            "y": 166
+        }, 
+        "size": {
+            "height": 31, 
+            "width": 32
+        }, 
+        "tag_name": "button", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "", 
+    "transformed": true, 
+    "width": 64, 
+    "x": 2258, 
+    "y": 332
+}

@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "gdo/uvZJ/0YiYihJkh1INw==\n", 
+    "height": 30, 
+    "hier_level": 0, 
+    "human_hash": "a_X560_Y1624_W190_H30", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "Selected Location: US", 
+                "class": "fs10-nav-sm nav-color-white country-pin", 
+                "data-pre": "ILink", 
+                "href": "//www.nike.com/language_tunnel", 
+                "title": "Selected Location: US"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(117, 117, 117)", 
+            "cssClass": "fs10-nav-sm nav-color-white country-pin", 
+            "domLevel": 8, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 10, 
+            "height": 15, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "United States", 
+            "type": "", 
+            "value": "", 
+            "width": 95, 
+            "x": 280, 
+            "xPercent": 14.583333333333334, 
+            "y": 812, 
+            "yPercent": 11.417779339423753
+        }, 
+        "location": {
+            "x": 280, 
+            "y": 812
+        }, 
+        "size": {
+            "height": 15, 
+            "width": 95
+        }, 
+        "tag_name": "a", 
+        "text": "United States"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "United States", 
+    "transformed": true, 
+    "width": 190, 
+    "x": 560, 
+    "y": 1624
+}

@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "C8FRUGeOhR1aW2Xg1hIITA==\n", 
+    "height": 1016, 
+    "hier_level": 0, 
+    "human_hash": "div_X2712_Y504_W1016_H1016", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "wall-image-loader css-1la3v4n "
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "wall-image-loader css-1la3v4n ", 
+            "domLevel": 16, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 508, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "<img class=\"css-1fxh5tw product-card__hero-image\" src=\"https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/eddfe438-a92e-4c4c-b636-f690ec9e83c5/custom-nike-metcon-6-by-you.png\" alt=\"Nike Metcon 6 By You Custom Training Shoe\" loading=\"lazy\" width=\"400\" height=\"400\"/>", 
+            "type": "", 
+            "value": "", 
+            "width": 508, 
+            "x": 1356, 
+            "xPercent": 70.62337239583333, 
+            "y": 252, 
+            "yPercent": 6.047516198704104
+        }, 
+        "location": {
+            "x": 1356, 
+            "y": 252
+        }, 
+        "size": {
+            "height": 508, 
+            "width": 508
+        }, 
+        "tag_name": "div", 
+        "text": "<img class=\"css-1fxh5tw product-card__hero-image\" src=\"https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/eddfe438-a92e-4c4c-b636-f690ec9e83c5/custom-nike-metcon-6-by-you.png\" alt=\"Nike Metcon 6 By You Custom Training Shoe\" loading=\"lazy\" width=\"400\" height=\"400\"/>"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "<img class=\"css-1fxh5tw product-card__hero-image\" src=\"https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/eddfe438-a92e-4c4c-b636-f690ec9e83c5/custom-nike-metcon-6-by-you.png\" alt=\"Nike Metcon 6 By You Custom Training Shoe\" loading=\"lazy\" width=\"400\" height=\"400\"/>", 
+    "transformed": true, 
+    "width": 1016, 
+    "x": 2712, 
+    "y": 504
+}

@@ -1,0 +1,72 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "7cYlox5xxEI7Pnx5EBJPlQ==\n", 
+    "height": 216, 
+    "hier_level": 0, 
+    "human_hash": "div_X2990_Y506_W264_H216", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "data-radium": "true"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 12, 
+            "height": 108, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Metallic Red Bronze--", 
+            "type": "", 
+            "value": "", 
+            "width": 132, 
+            "x": 1495, 
+            "xPercent": 77.84830729166666, 
+            "y": 253, 
+            "yPercent": 28.111111111111107
+        }, 
+        "location": {
+            "x": 1495, 
+            "y": 253
+        }, 
+        "size": {
+            "height": 108, 
+            "width": 132
+        }, 
+        "tag_name": "div", 
+        "text": "Metallic Red Bronze--"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Metallic Red Bronze--", 
+    "transformed": true, 
+    "width": 264, 
+    "x": 2990, 
+    "y": 506
+}

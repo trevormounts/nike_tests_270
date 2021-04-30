@@ -1,0 +1,81 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "input", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "ShP+y1oMDpDcZyvmdVLZJg==\n", 
+    "height": 80, 
+    "hier_level": 0, 
+    "human_hash": "input_X1138_Y902_W672_H80", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "autocapitalize": "off", 
+                "autocomplete": "current-password", 
+                "autocorrect": "off", 
+                "data-componentname": "password", 
+                "id": "ef84588b-0208-480d-8cc5-b83922314e58", 
+                "name": "password", 
+                "placeholder": "Password", 
+                "spellcheck": "false", 
+                "type": "password", 
+                "value": ""
+            }, 
+            "background-color": "rgb(255, 255, 255)", 
+            "class": "input", 
+            "color": "rgb(17, 17, 17)", 
+            "domLevel": 14, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 40, 
+            "identifier": "ef84588b-0208-480d-8cc5-b83922314e58", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "password", 
+            "tagName": "input", 
+            "text": "", 
+            "type": "password", 
+            "value": "", 
+            "width": 336, 
+            "x": 569, 
+            "xPercent": 29.84251968503937, 
+            "y": 451, 
+            "yPercent": 47.56065400843882
+        }, 
+        "location": {
+            "x": 569, 
+            "y": 451
+        }, 
+        "size": {
+            "height": 40, 
+            "width": 336
+        }, 
+        "tag_name": "input", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "input", 
+    "text": "", 
+    "transformed": true, 
+    "width": 672, 
+    "x": 1138, 
+    "y": 902
+}

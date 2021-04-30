@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "label", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "cCMjbxgs/Zw6No6EcLlcnQ==\n", 
+    "height": 38, 
+    "hier_level": 0, 
+    "human_hash": "label_X1968_Y888_W124_H38", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-expanded": "false", 
+                "for": "toggle2", 
+                "role": "button", 
+                "tabindex": "-1"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "label", 
+            "color": "rgb(17, 17, 17)", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 19, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "label", 
+            "text": "Clothing", 
+            "type": "", 
+            "value": "", 
+            "width": 62, 
+            "x": 984, 
+            "xPercent": 51.24999999999999, 
+            "y": 444, 
+            "yPercent": 5.770151603687832
+        }, 
+        "location": {
+            "x": 984, 
+            "y": 444
+        }, 
+        "size": {
+            "height": 19, 
+            "width": 62
+        }, 
+        "tag_name": "label", 
+        "text": "Clothing"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "label", 
+    "text": "Clothing", 
+    "transformed": true, 
+    "width": 124, 
+    "x": 1968, 
+    "y": 888
+}

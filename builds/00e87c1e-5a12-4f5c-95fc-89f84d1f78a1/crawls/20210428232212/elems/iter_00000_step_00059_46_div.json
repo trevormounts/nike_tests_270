@@ -1,0 +1,78 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "bzTUDD1fzkBku02OuGwkbw==\n", 
+    "height": 112, 
+    "hier_level": 0, 
+    "human_hash": "div_X1564_Y576_W626_H112", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-checked": "false", 
+                "class": "ncss-label ncss-brand pt4-sm pr5-sm pb4-sm pl5-sm ta-sm-c ncss-col-sm-6 border-medium-grey text-color-grey u-cursor-pointer", 
+                "data-delivery-type": "PICKUP", 
+                "for": "PICKUP", 
+                "role": "radio", 
+                "tabindex": "0"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(109, 109, 109)", 
+            "cssClass": "ncss-label ncss-brand pt4-sm pr5-sm pb4-sm pl5-sm ta-sm-c ncss-col-sm-6 border-medium-grey text-color-grey u-cursor-pointer", 
+            "domLevel": 15, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Nike TG\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 56, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "PICK UP", 
+            "type": "", 
+            "value": "", 
+            "width": 313, 
+            "x": 782, 
+            "xPercent": 41.04084645669291, 
+            "y": 288, 
+            "yPercent": 26.904205607476634
+        }, 
+        "location": {
+            "x": 782, 
+            "y": 288
+        }, 
+        "size": {
+            "height": 56, 
+            "width": 313
+        }, 
+        "tag_name": "div", 
+        "text": "PICK UP"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "PICK UP", 
+    "transformed": true, 
+    "width": 626, 
+    "x": 1564, 
+    "y": 576
+}

@@ -1,0 +1,78 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "ieu0z2Pcib9guYef8q3cYw==\n", 
+    "height": 32, 
+    "hier_level": 0, 
+    "human_hash": "a_X560_Y1114_W118_H32", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "fs12-nav-sm", 
+                "data-path": "gift cards", 
+                "data-pre": "ILink", 
+                "data-type": "click_navFooter", 
+                "href": "https://www.nike.com/gift-cards", 
+                "target": "_self"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "fs12-nav-sm", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Nike TG\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 16, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "GIFT CARDS", 
+            "type": "", 
+            "value": "", 
+            "width": 59, 
+            "x": 280, 
+            "xPercent": 14.583333333333334, 
+            "y": 557, 
+            "yPercent": 7.83380182712579
+        }, 
+        "location": {
+            "x": 280, 
+            "y": 557
+        }, 
+        "size": {
+            "height": 16, 
+            "width": 59
+        }, 
+        "tag_name": "a", 
+        "text": "GIFT CARDS"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "GIFT CARDS", 
+    "transformed": true, 
+    "width": 118, 
+    "x": 560, 
+    "y": 1114
+}

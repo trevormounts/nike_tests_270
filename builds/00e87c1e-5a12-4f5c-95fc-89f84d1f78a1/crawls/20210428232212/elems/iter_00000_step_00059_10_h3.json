@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "h3", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "xxyVQrWWsr04JbctW+zweg==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "h3_X2302_Y838_W570_H48", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "ncss-brand fs16-sm u-uppercase"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "h3", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "ncss-brand fs16-sm u-uppercase", 
+            "domLevel": 16, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Nike TG\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "h3", 
+            "text": "Arrives by Mon, May 10", 
+            "type": "", 
+            "value": "", 
+            "width": 285, 
+            "x": 1151, 
+            "xPercent": 60.42814960629921, 
+            "y": 419, 
+            "yPercent": 39.14719626168225
+        }, 
+        "location": {
+            "x": 1151, 
+            "y": 419
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 285
+        }, 
+        "tag_name": "h3", 
+        "text": "Arrives by Mon, May 10"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "h3", 
+    "text": "Arrives by Mon, May 10", 
+    "transformed": true, 
+    "width": 570, 
+    "x": 2302, 
+    "y": 838
+}

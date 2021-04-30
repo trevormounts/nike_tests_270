@@ -1,0 +1,72 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "83kFVBUeY7rV5je6dtcEug==\n", 
+    "height": 120, 
+    "hier_level": 0, 
+    "human_hash": "div_X0_Y192_W3810_H120", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "d-lg-b"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "d-lg-b", 
+            "domLevel": 5, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 60, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Save Up to 40%Shop All Our New MarkdownsFree Shipping & 60-Day Free ReturnsJoin Now", 
+            "type": "", 
+            "value": "", 
+            "width": 1905, 
+            "x": 0, 
+            "xPercent": 0, 
+            "y": 96, 
+            "yPercent": 1.3038163791932635
+        }, 
+        "location": {
+            "x": 0, 
+            "y": 96
+        }, 
+        "size": {
+            "height": 60, 
+            "width": 1905
+        }, 
+        "tag_name": "div", 
+        "text": "Save Up to 40%Shop All Our New MarkdownsFree Shipping & 60-Day Free ReturnsJoin Now"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Save Up to 40%Shop All Our New MarkdownsFree Shipping & 60-Day Free ReturnsJoin Now", 
+    "transformed": true, 
+    "width": 3810, 
+    "x": 0, 
+    "y": 192
+}

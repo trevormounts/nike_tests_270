@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "ZpVJV+nCUg2V9fFHJ4Qs+Q==\n", 
+    "height": 64, 
+    "hier_level": 0, 
+    "human_hash": "div_X2496_Y490_W754_H64", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "pb-lg"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "pb-lg", 
+            "domLevel": 13, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 32, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Member Access", 
+            "type": "", 
+            "value": "", 
+            "width": 377, 
+            "x": 1248, 
+            "xPercent": 65, 
+            "y": 245, 
+            "yPercent": 9.347577260587563
+        }, 
+        "location": {
+            "x": 1248, 
+            "y": 245
+        }, 
+        "size": {
+            "height": 32, 
+            "width": 377
+        }, 
+        "tag_name": "div", 
+        "text": "Member Access"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Member Access", 
+    "transformed": true, 
+    "width": 754, 
+    "x": 2496, 
+    "y": 490
+}

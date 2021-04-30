@@ -1,0 +1,78 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "img", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "8v7wuZZ5qTdUWELKLgqKwg==\n", 
+    "height": 1006, 
+    "hier_level": 0, 
+    "human_hash": "img_X1654_Y536_W1006_H1006", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "Nike Air Max 90 Men's Shoe", 
+                "class": "css-1fxh5tw product-card__hero-image", 
+                "loading": "eager", 
+                "sizes": "(max-width: 1023px) 318px, (max-width: 1023px) and (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) 592px, (min-width: 1024px) 592px", 
+                "src": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/baa2520d-49da-4a27-ab2c-7fb133fb3008/air-max-90-mens-shoe-6n3vKB.png", 
+                "srcset": "https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/baa2520d-49da-4a27-ab2c-7fb133fb3008/air-max-90-mens-shoe-6n3vKB.png 318w, https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/baa2520d-49da-4a27-ab2c-7fb133fb3008/air-max-90-mens-shoe-6n3vKB.png 592w, https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/baa2520d-49da-4a27-ab2c-7fb133fb3008/air-max-90-mens-shoe-6n3vKB.png 400w"
+            }, 
+            "background-color": "rgb(245, 245, 245)", 
+            "class": "img", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "css-1fxh5tw product-card__hero-image", 
+            "domLevel": 18, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 503, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "img", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 503, 
+            "x": 827, 
+            "xPercent": 43.411253280839894, 
+            "y": 268, 
+            "yPercent": 6.445406445406446
+        }, 
+        "location": {
+            "x": 827, 
+            "y": 268
+        }, 
+        "size": {
+            "height": 503, 
+            "width": 503
+        }, 
+        "tag_name": "img", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "img", 
+    "text": "", 
+    "transformed": true, 
+    "width": 1006, 
+    "x": 1654, 
+    "y": 536
+}

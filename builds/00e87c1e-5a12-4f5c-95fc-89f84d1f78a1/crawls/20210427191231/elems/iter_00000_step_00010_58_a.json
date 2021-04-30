@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "5yIqp1TtKdiCnaIt5ClJWg==\n", 
+    "height": 54, 
+    "hier_level": 0, 
+    "human_hash": "a_X1376_Y384_W124_H54", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "Clothing", 
+                "class": "JSftBPEZ", 
+                "data-analytics-action-id": "1a8f93c4-843c-4364-b4db-1b2b7ef8afa6", 
+                "href": "https://www.nike.com/w/womens-clothing-5e1x6z6ymx6"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "JSftBPEZ", 
+            "domLevel": 14, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 27, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Clothing", 
+            "type": "", 
+            "value": "", 
+            "width": 62, 
+            "x": 688, 
+            "xPercent": 36.10564304461942, 
+            "y": 192, 
+            "yPercent": 2.570281124497992
+        }, 
+        "location": {
+            "x": 688, 
+            "y": 192
+        }, 
+        "size": {
+            "height": 27, 
+            "width": 62
+        }, 
+        "tag_name": "a", 
+        "text": "Clothing"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Clothing", 
+    "transformed": true, 
+    "width": 124, 
+    "x": 1376, 
+    "y": 384
+}

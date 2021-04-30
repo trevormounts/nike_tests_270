@@ -1,0 +1,79 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "input", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "ECTFJZ9u83G8BKaMewucOg==\n", 
+    "height": 96, 
+    "hier_level": 0, 
+    "human_hash": "input_X1580_Y1144_W610_H96", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "autocomplete": "tel", 
+                "class": "ncss-input pt2-sm pr4-sm pb2-sm pl4-sm fs-exclude css-qawpgn", 
+                "id": "phoneNumber", 
+                "name": "address.phoneNumber", 
+                "required": "", 
+                "type": "tel", 
+                "value": ""
+            }, 
+            "background-color": "rgb(255, 255, 255)", 
+            "class": "input", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "ncss-input pt2-sm pr4-sm pb2-sm pl4-sm fs-exclude css-qawpgn", 
+            "domLevel": 20, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 48, 
+            "identifier": "phoneNumber", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "address.phoneNumber", 
+            "tagName": "input", 
+            "text": "", 
+            "type": "tel", 
+            "value": "", 
+            "width": 305, 
+            "x": 790, 
+            "xPercent": 41.460793963254595, 
+            "y": 572, 
+            "yPercent": 53.44626168224299
+        }, 
+        "location": {
+            "x": 790, 
+            "y": 572
+        }, 
+        "size": {
+            "height": 48, 
+            "width": 305
+        }, 
+        "tag_name": "input", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "input", 
+    "text": "", 
+    "transformed": true, 
+    "width": 610, 
+    "x": 1580, 
+    "y": 1144
+}

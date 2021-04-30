@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "li", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "Knz2+ZdFVH6Tk1mH9rDcTw==\n", 
+    "height": 84, 
+    "hier_level": 0, 
+    "human_hash": "li_X2354_Y1602_W96_H84", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "ml3-md mr0-md d-sm-b d-md-ib fs12-nav-sm fs10-nav-md"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "li", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "ml3-md mr0-md d-sm-b d-md-ib fs12-nav-sm fs10-nav-md", 
+            "domLevel": 8, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 10, 
+            "height": 42, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "li", 
+            "text": "GuidesNike AdaptNike AirNike Air Force 1Nike Air MaxNike FlyEaseNike FlyknitNike FlyleatherNike FreeNike JoyrideNike ReactNike VaporflyNike ZoomXSpace Hippie", 
+            "type": "", 
+            "value": 0, 
+            "width": 48, 
+            "x": 1177, 
+            "xPercent": 61.280110677083336, 
+            "y": 801, 
+            "yPercent": 11.26317638791286
+        }, 
+        "location": {
+            "x": 1177, 
+            "y": 801
+        }, 
+        "size": {
+            "height": 42, 
+            "width": 48
+        }, 
+        "tag_name": "li", 
+        "text": "GuidesNike AdaptNike AirNike Air Force 1Nike Air MaxNike FlyEaseNike FlyknitNike FlyleatherNike FreeNike JoyrideNike ReactNike VaporflyNike ZoomXSpace Hippie"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "li", 
+    "text": "GuidesNike AdaptNike AirNike Air Force 1Nike Air MaxNike FlyEaseNike FlyknitNike FlyleatherNike FreeNike JoyrideNike ReactNike VaporflyNike ZoomXSpace Hippie", 
+    "transformed": true, 
+    "width": 96, 
+    "x": 2354, 
+    "y": 1602
+}

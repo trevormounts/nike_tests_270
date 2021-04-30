@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "RzIN8gTx7Lub1CQdQhP1tQ==\n", 
+    "height": 272, 
+    "hier_level": 0, 
+    "human_hash": "div_X114_Y852_W1174_H272", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "_3T7SP3hk", 
+                "data-qa": "card-overlay-content"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "_3T7SP3hk", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 136, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Audio-Guided Runs\t Focus your mind and body on your next run with the voice of Nike Coaches who show you how. Available in the Nike Run Club app. Download NRC", 
+            "type": "", 
+            "value": "", 
+            "width": 587, 
+            "x": 57, 
+            "xPercent": 2.9658792650918633, 
+            "y": 426, 
+            "yPercent": 5.465742879137799
+        }, 
+        "location": {
+            "x": 57, 
+            "y": 426
+        }, 
+        "size": {
+            "height": 136, 
+            "width": 587
+        }, 
+        "tag_name": "div", 
+        "text": "Audio-Guided Runs\t Focus your mind and body on your next run with the voice of Nike Coaches who show you how. Available in the Nike Run Club app. Download NRC"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Audio-Guided Runs\t Focus your mind and body on your next run with the voice of Nike Coaches who show you how. Available in the Nike Run Club app. Download NRC", 
+    "transformed": true, 
+    "width": 1174, 
+    "x": 114, 
+    "y": 852
+}

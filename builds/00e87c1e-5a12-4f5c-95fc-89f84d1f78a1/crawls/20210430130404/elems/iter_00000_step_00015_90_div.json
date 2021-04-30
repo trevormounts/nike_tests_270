@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "8WaSfmyMsWU678Am0ELkAQ==\n", 
+    "height": 80, 
+    "hier_level": 0, 
+    "human_hash": "div_X648_Y536_W246_H80", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "card-overlay__content"
+            }, 
+            "background-color": "rgb(255, 255, 255)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "card-overlay__content", 
+            "domLevel": 17, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 14, 
+            "height": 40, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Customize", 
+            "type": "", 
+            "value": "", 
+            "width": 123, 
+            "x": 324, 
+            "xPercent": 16.875, 
+            "y": 268, 
+            "yPercent": 6.431485481161507
+        }, 
+        "location": {
+            "x": 324, 
+            "y": 268
+        }, 
+        "size": {
+            "height": 40, 
+            "width": 123
+        }, 
+        "tag_name": "div", 
+        "text": "Customize"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Customize", 
+    "transformed": true, 
+    "width": 246, 
+    "x": 648, 
+    "y": 536
+}

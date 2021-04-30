@@ -1,0 +1,78 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "w80LhSqKnWi/hLpgHFx4kQ==\n", 
+    "height": 28, 
+    "hier_level": 0, 
+    "human_hash": "a_X1076_Y1448_W122_H28", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "fs12-nav-sm", 
+                "data-path": "get help:contact us", 
+                "data-pre": "ILink", 
+                "data-type": "click_navFooter", 
+                "href": "https://www.nike.com/help/#contact", 
+                "target": "_self"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(126, 126, 126)", 
+            "cssClass": "fs12-nav-sm", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 14, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Contact Us", 
+            "type": "", 
+            "value": "", 
+            "width": 61, 
+            "x": 538, 
+            "xPercent": 28.020833333333332, 
+            "y": 724, 
+            "yPercent": 10.180955727336613
+        }, 
+        "location": {
+            "x": 538, 
+            "y": 724
+        }, 
+        "size": {
+            "height": 14, 
+            "width": 61
+        }, 
+        "tag_name": "a", 
+        "text": "Contact Us"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Contact Us", 
+    "transformed": true, 
+    "width": 122, 
+    "x": 1076, 
+    "y": 1448
+}

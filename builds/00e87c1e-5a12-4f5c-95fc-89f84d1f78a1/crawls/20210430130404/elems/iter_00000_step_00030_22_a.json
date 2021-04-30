@@ -1,0 +1,78 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "ys+3fqybsyEk2RNF9Bt0Iw==\n", 
+    "height": 304, 
+    "hier_level": 0, 
+    "human_hash": "a_X2884_Y608_W952_H304", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "rmq-5d80e751 rmq-2129583e", 
+                "data-automation": "combination-marketing-component", 
+                "data-automation-enforced-view": "2", 
+                "data-radium": "true", 
+                "href": "", 
+                "style": "text-align: center; height: 142px; flex-shrink: 0; cursor: pointer; display: block; text-decoration: none; background-color: rgb(255, 255, 255);"
+            }, 
+            "background-color": "rgb(255, 255, 255)", 
+            "class": "a", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "rmq-5d80e751 rmq-2129583e", 
+            "domLevel": 8, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 152, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Tongue", 
+            "type": "", 
+            "value": "", 
+            "width": 476, 
+            "x": 1442, 
+            "xPercent": 75.10416666666667, 
+            "y": 304, 
+            "yPercent": 33.77777777777778
+        }, 
+        "location": {
+            "x": 1442, 
+            "y": 304
+        }, 
+        "size": {
+            "height": 152, 
+            "width": 476
+        }, 
+        "tag_name": "a", 
+        "text": "Tongue"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Tongue", 
+    "transformed": true, 
+    "width": 952, 
+    "x": 2884, 
+    "y": 608
+}

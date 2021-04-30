@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "7atGkJax7faA7X7fq0rk1A==\n", 
+    "height": 28, 
+    "hier_level": 0, 
+    "human_hash": "a_X96_Y154_W80_H28", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "css-hrsjq4 css-xhk1pl css-1t2ydyg wall-breadcrumbs__item  is--link", 
+                "data-ndx": "0", 
+                "href": "https://www.nike.com/w/shoes-y7ok"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "css-hrsjq4 css-xhk1pl css-1t2ydyg wall-breadcrumbs__item  is--link", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 14, 
+            "height": 14, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Shoes", 
+            "type": "", 
+            "value": "", 
+            "width": 40, 
+            "x": 48, 
+            "xPercent": 2.5196850393700787, 
+            "y": 77, 
+            "yPercent": 2.8040786598689005
+        }, 
+        "location": {
+            "x": 48, 
+            "y": 77
+        }, 
+        "size": {
+            "height": 14, 
+            "width": 40
+        }, 
+        "tag_name": "a", 
+        "text": "Shoes"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Shoes", 
+    "transformed": true, 
+    "width": 80, 
+    "x": 96, 
+    "y": 154
+}

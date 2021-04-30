@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "img", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "4VAXXzi30RbXVnN62fx7kA==\n", 
+    "height": 24, 
+    "hier_level": 0, 
+    "human_hash": "img_X3106_Y1672_W24_H24", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "decline", 
+                "data-radium": "true", 
+                "src": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMTJweCIgaGVpZ2h0PSIxMnB4IiB2aWV3Qm94PSIwIDAgMTIgMTIiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CiAgICA8IS0tIEdlbmVyYXRvcjogU2tldGNoIDYxICg4OTU4MSkgLSBodHRwczovL3NrZXRjaC5jb20gLS0+CiAgICA8dGl0bGU+TkJZX0J1aWxkZXJfWDwvdGl0bGU+CiAgICA8ZGVzYz5DcmVhdGVkIHdpdGggU2tldGNoLjwvZGVzYz4KICAgIDxnIGlkPSJQYWdlLTEiIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgogICAgICAgIDxwYXRoIGQ9Ik02LC0yIEM2LjU1MjI4NDc1LC0yIDcsLTEuNTUyMjg0NzUgNywtMSBMNi45OTksNSBMMTMsNSBDMTMuNTUyMjg0Nyw1IDE0LDUuNDQ3NzE1MjUgMTQsNiBDMTQsNi41NTIyODQ3NSAxMy41NTIyODQ3LDcgMTMsNyBMNi45OTksNyBMNywxMyBDNywxMy41NTIyODQ3IDYuNTUyMjg0NzUsMTQgNiwxNCBDNS40NDc3MTUyNSwxNCA1LDEzLjU1MjI4NDcgNSwxMyBMNC45OTksNyBMLTEsNyBDLTEuNTUyMjg0NzUsNyAtMiw2LjU1MjI4NDc1IC0yLDYgQy0yLDUuNDQ3NzE1MjUgLTEuNTUyMjg0NzUsNSAtMSw1IEw0Ljk5OSw0Ljk5OSBMNSwtMSBDNSwtMS41NTIyODQ3NSA1LjQ0NzcxNTI1LC0yIDYsLTIgWiIgaWQ9Ik5CWV9CdWlsZGVyX1giIGZpbGw9IiMxMTExMTEiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDYuMDAwMDAwLCA2LjAwMDAwMCkgcm90YXRlKC00NS4wMDAwMDApIHRyYW5zbGF0ZSgtNi4wMDAwMDAsIC02LjAwMDAwMCkgIj48L3BhdGg+CiAgICA8L2c+Cjwvc3ZnPg==", 
+                "style": "height: 12px; width: 12px; display: flex; margin: auto;"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "img", 
+            "color": "rgb(0, 0, 0)", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Arial", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 12, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "img", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 12, 
+            "x": 1553, 
+            "xPercent": 80.88541666666667, 
+            "y": 836, 
+            "yPercent": 92.88888888888889
+        }, 
+        "location": {
+            "x": 1553, 
+            "y": 836
+        }, 
+        "size": {
+            "height": 12, 
+            "width": 12
+        }, 
+        "tag_name": "img", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "img", 
+    "text": "", 
+    "transformed": true, 
+    "width": 24, 
+    "x": 3106, 
+    "y": 1672
+}

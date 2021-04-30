@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "DTBrps4TWlQcsMENjk1ZxA==\n", 
+    "height": 112, 
+    "hier_level": 0, 
+    "human_hash": "div_X1122_Y790_W704_H112", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "nike-unite-text-input emailAddress nike-unite-component empty", 
+                "id": "7e46f5e9-49d4-42d6-a781-b4968bf6cf91"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "nike-unite-text-input emailAddress nike-unite-component empty", 
+            "domLevel": 13, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 56, 
+            "identifier": "7e46f5e9-49d4-42d6-a781-b4968bf6cf91", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Email address\n  \n  Please enter a valid email address.\n  \n  It looks like you're already a Member.\n  Sign in.", 
+            "type": "", 
+            "value": "", 
+            "width": 352, 
+            "x": 561, 
+            "xPercent": 29.42257217847769, 
+            "y": 395, 
+            "yPercent": 41.653481012658226
+        }, 
+        "location": {
+            "x": 561, 
+            "y": 395
+        }, 
+        "size": {
+            "height": 56, 
+            "width": 352
+        }, 
+        "tag_name": "div", 
+        "text": "Email address\n  \n  Please enter a valid email address.\n  \n  It looks like you're already a Member.\n  Sign in."
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Email address\n  \n  Please enter a valid email address.\n  \n  It looks like you're already a Member.\n  Sign in.", 
+    "transformed": true, 
+    "width": 704, 
+    "x": 1122, 
+    "y": 790
+}

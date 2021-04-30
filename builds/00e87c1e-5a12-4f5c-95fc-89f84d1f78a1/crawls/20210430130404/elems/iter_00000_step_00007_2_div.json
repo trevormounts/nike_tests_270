@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "1C3FkMwD5baK0aKPCFeMYQ==\n", 
+    "height": 350, 
+    "hier_level": 0, 
+    "human_hash": "div_X128_Y620_W3584_H350", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "vmLDU1wi _38689zM8 _15UrorU4", 
+                "data-analytics-has-landmark": "true", 
+                "data-analytics-placement-id": "69984b46-a37f-493f-9d8a-fb3241a799c4", 
+                "data-qa": "text-card", 
+                "style": "background-color:transparent"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "vmLDU1wi _38689zM8 _15UrorU4", 
+            "domLevel": 8, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 175, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "NEUTRALS BY YOUCustomize a pair to wear with anything.Customize", 
+            "type": "", 
+            "value": "", 
+            "width": 1792, 
+            "x": 64, 
+            "xPercent": 3.3333333333333335, 
+            "y": 310, 
+            "yPercent": 6.431535269709543
+        }, 
+        "location": {
+            "x": 64, 
+            "y": 310
+        }, 
+        "size": {
+            "height": 175, 
+            "width": 1792
+        }, 
+        "tag_name": "div", 
+        "text": "NEUTRALS BY YOUCustomize a pair to wear with anything.Customize"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "NEUTRALS BY YOUCustomize a pair to wear with anything.Customize", 
+    "transformed": true, 
+    "width": 3584, 
+    "x": 128, 
+    "y": 620
+}

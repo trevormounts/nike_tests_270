@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "vASWtbwcW6W34wbMZWGV3Q==\n", 
+    "height": 106, 
+    "hier_level": 0, 
+    "human_hash": "div_X3158_Y384_W92_H106", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "headline-5 ta-sm-r mt3-sm css-1122yjz"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "headline-5 ta-sm-r mt3-sm css-1122yjz", 
+            "domLevel": 14, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 53, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "$150", 
+            "type": "", 
+            "value": "", 
+            "width": 46, 
+            "x": 1579, 
+            "xPercent": 82.26318359375, 
+            "y": 192, 
+            "yPercent": 7.325448302174742
+        }, 
+        "location": {
+            "x": 1579, 
+            "y": 192
+        }, 
+        "size": {
+            "height": 53, 
+            "width": 46
+        }, 
+        "tag_name": "div", 
+        "text": "$150"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "$150", 
+    "transformed": true, 
+    "width": 92, 
+    "x": 3158, 
+    "y": 384
+}

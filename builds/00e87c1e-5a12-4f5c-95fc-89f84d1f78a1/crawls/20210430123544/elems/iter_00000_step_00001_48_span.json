@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "KiAzTWs9xVY3R1C5Yi6FTA==\n", 
+    "height": 20, 
+    "hier_level": 0, 
+    "human_hash": "span_X612_Y1634_W122_H20", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "country-pin-label"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "country-pin-label", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 10, 
+            "height": 10, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "United States", 
+            "type": "", 
+            "value": "", 
+            "width": 61, 
+            "x": 306, 
+            "xPercent": 15.937499999999998, 
+            "y": 817, 
+            "yPercent": 11.48805340829234
+        }, 
+        "location": {
+            "x": 306, 
+            "y": 817
+        }, 
+        "size": {
+            "height": 10, 
+            "width": 61
+        }, 
+        "tag_name": "span", 
+        "text": "United States"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "United States", 
+    "transformed": true, 
+    "width": 122, 
+    "x": 612, 
+    "y": 1634
+}

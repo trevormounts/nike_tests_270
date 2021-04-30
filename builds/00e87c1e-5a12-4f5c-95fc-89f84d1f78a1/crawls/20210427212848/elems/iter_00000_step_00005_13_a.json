@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "y81MCZbo8BS+8PDues2XfQ==\n", 
+    "height": 28, 
+    "hier_level": 0, 
+    "human_hash": "a_X2036_Y978_W192_H28", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "javascript:void(0);", 
+                "id": "0c52c325-c0c5-4b7c-9633-4a6a7c02d44a"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(188, 188, 188)", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Helvetica", 
+            "font-weight": "500", 
+            "fontSize": 12, 
+            "height": 14, 
+            "identifier": "0c52c325-c0c5-4b7c-9633-4a6a7c02d44a", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Forgot password?", 
+            "type": "", 
+            "value": "", 
+            "width": 96, 
+            "x": 1018, 
+            "xPercent": 53.4621062992126, 
+            "y": 489, 
+            "yPercent": 6.42087276550999
+        }, 
+        "location": {
+            "x": 1018, 
+            "y": 489
+        }, 
+        "size": {
+            "height": 14, 
+            "width": 96
+        }, 
+        "tag_name": "a", 
+        "text": "Forgot password?"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Forgot password?", 
+    "transformed": true, 
+    "width": 192, 
+    "x": 2036, 
+    "y": 978
+}

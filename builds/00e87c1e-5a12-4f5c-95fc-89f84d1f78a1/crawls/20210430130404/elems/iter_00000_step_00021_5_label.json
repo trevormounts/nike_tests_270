@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "label", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "PbbkNVKqDXB7Ch5/SLv5rw==\n", 
+    "height": 96, 
+    "hier_level": 0, 
+    "human_hash": "label_X2498_Y172_W368_H96", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "css-xf3ahq", 
+                "for": "skuAndSize__LTITEM8135", 
+                "tabindex": "-1"
+            }, 
+            "background-color": "rgb(255, 255, 255)", 
+            "class": "label", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "css-xf3ahq", 
+            "domLevel": 15, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 48, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "label", 
+            "text": "M 9.5 / W 11", 
+            "type": "", 
+            "value": "", 
+            "width": 184, 
+            "x": 1249, 
+            "xPercent": 65.05208333333333, 
+            "y": 86, 
+            "yPercent": 3.1910946196660483
+        }, 
+        "location": {
+            "x": 1249, 
+            "y": 86
+        }, 
+        "size": {
+            "height": 48, 
+            "width": 184
+        }, 
+        "tag_name": "label", 
+        "text": "M 9.5 / W 11"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "label", 
+    "text": "M 9.5 / W 11", 
+    "transformed": true, 
+    "width": 368, 
+    "x": 2498, 
+    "y": 172
+}

@@ -1,0 +1,70 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "li", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "l+faHIfRreq9UKqa/q5TDw==\n", 
+    "height": 32, 
+    "hier_level": 0, 
+    "human_hash": "li_X344_Y376_W138_H32", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {}, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "li", 
+            "color": "rgb(17, 17, 17)", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 16, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "li", 
+            "text": "Air Max 90", 
+            "type": "", 
+            "value": 0, 
+            "width": 69, 
+            "x": 172, 
+            "xPercent": 9.009186351706036, 
+            "y": 188, 
+            "yPercent": 4.521404521404522
+        }, 
+        "location": {
+            "x": 172, 
+            "y": 188
+        }, 
+        "size": {
+            "height": 16, 
+            "width": 69
+        }, 
+        "tag_name": "li", 
+        "text": "Air Max 90"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "li", 
+    "text": "Air Max 90", 
+    "transformed": true, 
+    "width": 138, 
+    "x": 344, 
+    "y": 376
+}

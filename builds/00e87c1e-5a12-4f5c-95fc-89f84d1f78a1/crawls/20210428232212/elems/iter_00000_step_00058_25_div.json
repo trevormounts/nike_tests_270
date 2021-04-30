@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "qYfIMtSqsBzBrG55ZdLheg==\n", 
+    "height": 232, 
+    "hier_level": 0, 
+    "human_hash": "div_X1138_Y524_W672_H232", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "unite-content"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "unite-content", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 116, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "CHECK OUT AS A MEMBER FOR FREE SHIPPINGCHECK OUT AS A MEMBER FOR FREE SHIPPINGUse your Nike Member sign-in for Nike.com, NRC, NTC, SNKRS or the Nike app.SIGN IN\n  Not a member?\n  Join Us.\n\n  \n    \n  \n  \n    \n  \n\n  \n  \n  Email address\n  \n  Please enter a valid email address.\n  \n  It looks like you're already a Member.\n  Sign in.\n\n\n  \n  \n  Password\n  \n  Please enter a password.\n  \n\n  \n  \n  \n  Keep me signed in\n  \n\n  \n  Forgot password?\n\n  \n\n  \n\n  Not a member?\n  Join Us.\norGuest Checkout", 
+            "type": "", 
+            "value": "", 
+            "width": 336, 
+            "x": 569, 
+            "xPercent": 29.84251968503937, 
+            "y": 262, 
+            "yPercent": 27.623945147679326
+        }, 
+        "location": {
+            "x": 569, 
+            "y": 262
+        }, 
+        "size": {
+            "height": 116, 
+            "width": 336
+        }, 
+        "tag_name": "div", 
+        "text": "CHECK OUT AS A MEMBER FOR FREE SHIPPINGCHECK OUT AS A MEMBER FOR FREE SHIPPINGUse your Nike Member sign-in for Nike.com, NRC, NTC, SNKRS or the Nike app.SIGN IN\n  Not a member?\n  Join Us.\n\n  \n    \n  \n  \n    \n  \n\n  \n  \n  Email address\n  \n  Please enter a valid email address.\n  \n  It looks like you're already a Member.\n  Sign in.\n\n\n  \n  \n  Password\n  \n  Please enter a password.\n  \n\n  \n  \n  \n  Keep me signed in\n  \n\n  \n  Forgot password?\n\n  \n\n  \n\n  Not a member?\n  Join Us.\norGuest Checkout"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "CHECK OUT AS A MEMBER FOR FREE SHIPPINGCHECK OUT AS A MEMBER FOR FREE SHIPPINGUse your Nike Member sign-in for Nike.com, NRC, NTC, SNKRS or the Nike app.SIGN IN\n  Not a member?\n  Join Us.\n\n  \n    \n  \n  \n    \n  \n\n  \n  \n  Email address\n  \n  Please enter a valid email address.\n  \n  It looks like you're already a Member.\n  Sign in.\n\n\n  \n  \n  Password\n  \n  Please enter a password.\n  \n\n  \n  \n  \n  Keep me signed in\n  \n\n  \n  Forgot password?\n\n  \n\n  \n\n  Not a member?\n  Join Us.\norGuest Checkout", 
+    "transformed": true, 
+    "width": 672, 
+    "x": 1138, 
+    "y": 524
+}

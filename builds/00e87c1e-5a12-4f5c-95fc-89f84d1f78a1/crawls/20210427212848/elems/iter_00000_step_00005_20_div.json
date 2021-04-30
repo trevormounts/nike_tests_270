@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "Om+rXGZW1bBAob4oQ8Fi/A==\n", 
+    "height": 80, 
+    "hier_level": 0, 
+    "human_hash": "div_X1582_Y1180_W648_H80", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "nike-unite-submit-button loginSubmit nike-unite-component", 
+                "id": "36538cfa-d4fd-460d-8f4d-95de741a55af"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(141, 141, 141)", 
+            "cssClass": "nike-unite-submit-button loginSubmit nike-unite-component", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Helvetica", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 40, 
+            "identifier": "36538cfa-d4fd-460d-8f4d-95de741a55af", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 324, 
+            "x": 791, 
+            "xPercent": 41.496062992125985, 
+            "y": 590, 
+            "yPercent": 7.748422712933754
+        }, 
+        "location": {
+            "x": 791, 
+            "y": 590
+        }, 
+        "size": {
+            "height": 40, 
+            "width": 324
+        }, 
+        "tag_name": "div", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "", 
+    "transformed": true, 
+    "width": 648, 
+    "x": 1582, 
+    "y": 1180
+}

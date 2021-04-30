@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "uEU0jTImGk9X1HYW+07Dzw==\n", 
+    "height": 120, 
+    "hier_level": 0, 
+    "human_hash": "button_X1138_Y192_W212_H120", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "Previous", 
+                "class": "css-12s4rz4 carousel-btn prev-btn carousel-btn-floating-false", 
+                "data-automation": "carousel-nav-prev"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "button", 
+            "color": "rgb(51, 51, 51)", 
+            "cssClass": "css-12s4rz4 carousel-btn prev-btn carousel-btn-floating-false", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Arial", 
+            "font-weight": "400", 
+            "fontSize": 26, 
+            "height": 60, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 106, 
+            "x": 569, 
+            "xPercent": 29.84251968503937, 
+            "y": 96, 
+            "yPercent": 1.3038163791932635
+        }, 
+        "location": {
+            "x": 569, 
+            "y": 96
+        }, 
+        "size": {
+            "height": 60, 
+            "width": 106
+        }, 
+        "tag_name": "button", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "", 
+    "transformed": true, 
+    "width": 212, 
+    "x": 1138, 
+    "y": 192
+}

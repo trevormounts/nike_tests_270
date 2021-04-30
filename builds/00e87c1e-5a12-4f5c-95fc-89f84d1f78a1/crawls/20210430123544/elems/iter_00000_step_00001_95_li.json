@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "li", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "A7scTSa8dS4vDBTqgylcpw==\n", 
+    "height": 50, 
+    "hier_level": 0, 
+    "human_hash": "li_X1592_Y1268_W484_H50", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "footer-link"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "li", 
+            "color": "rgb(126, 126, 126)", 
+            "cssClass": "footer-link", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 25, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "li", 
+            "text": "Investors", 
+            "type": "", 
+            "value": 0, 
+            "width": 242, 
+            "x": 796, 
+            "xPercent": 41.458333333333336, 
+            "y": 634, 
+            "yPercent": 8.916022487702039
+        }, 
+        "location": {
+            "x": 796, 
+            "y": 634
+        }, 
+        "size": {
+            "height": 25, 
+            "width": 242
+        }, 
+        "tag_name": "li", 
+        "text": "Investors"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "li", 
+    "text": "Investors", 
+    "transformed": true, 
+    "width": 484, 
+    "x": 1592, 
+    "y": 1268
+}

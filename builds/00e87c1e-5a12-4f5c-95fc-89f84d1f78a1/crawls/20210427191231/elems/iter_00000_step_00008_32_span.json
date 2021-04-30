@@ -1,0 +1,72 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "eSbgM5TT4DSh5DuoI97XrQ==\n", 
+    "height": 30, 
+    "hier_level": 0, 
+    "human_hash": "span_X3638_Y22_W76_H30", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "id": "hf_title_signin_membership"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(0, 0, 0)", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 12, 
+            "height": 15, 
+            "identifier": "hf_title_signin_membership", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Sign In", 
+            "type": "", 
+            "value": "", 
+            "width": 38, 
+            "x": 1819, 
+            "xPercent": 95.47326115485563, 
+            "y": 11, 
+            "yPercent": 0.13801261829652997
+        }, 
+        "location": {
+            "x": 1819, 
+            "y": 11
+        }, 
+        "size": {
+            "height": 15, 
+            "width": 38
+        }, 
+        "tag_name": "span", 
+        "text": "Sign In"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Sign In", 
+    "transformed": true, 
+    "width": 76, 
+    "x": 3638, 
+    "y": 22
+}

@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "AfEmP/cfo7SLT85ltfRYLQ==\n", 
+    "height": 62, 
+    "hier_level": 0, 
+    "human_hash": "a_X104_Y784_W368_H62", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "Category for Air Max 95", 
+                "class": "css-hrsjq4 css-xhk1pl css-1t2ydyg categories__item  is--link", 
+                "data-group-type": "category", 
+                "data-ndx": "4", 
+                "href": "https://www.nike.com/w/air-max-95-shoes-b0mibzy7ok"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "css-hrsjq4 css-xhk1pl css-1t2ydyg categories__item  is--link", 
+            "domLevel": 18, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 31, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Air Max 95", 
+            "type": "", 
+            "value": "", 
+            "width": 184, 
+            "x": 52, 
+            "xPercent": 2.729658792650919, 
+            "y": 392, 
+            "yPercent": 5.355922940292389
+        }, 
+        "location": {
+            "x": 52, 
+            "y": 392
+        }, 
+        "size": {
+            "height": 31, 
+            "width": 184
+        }, 
+        "tag_name": "a", 
+        "text": "Air Max 95"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Air Max 95", 
+    "transformed": true, 
+    "width": 368, 
+    "x": 104, 
+    "y": 784
+}

@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "ZdItESSmrXUf6Gn9DH9dSw==\n", 
+    "height": 56, 
+    "hier_level": 0, 
+    "human_hash": "div_X126_Y606_W56_H56", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "filter-item__color-patch is--purple "
+            }, 
+            "background-color": "rgb(141, 66, 159)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "filter-item__color-patch is--purple ", 
+            "domLevel": 23, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 28, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 28, 
+            "x": 63, 
+            "xPercent": 3.325951443569554, 
+            "y": 303, 
+            "yPercent": 22.713643178410795
+        }, 
+        "location": {
+            "x": 63, 
+            "y": 303
+        }, 
+        "size": {
+            "height": 28, 
+            "width": 28
+        }, 
+        "tag_name": "div", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "", 
+    "transformed": true, 
+    "width": 56, 
+    "x": 126, 
+    "y": 606
+}

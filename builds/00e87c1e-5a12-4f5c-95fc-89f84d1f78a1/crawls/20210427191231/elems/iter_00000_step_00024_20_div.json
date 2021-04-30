@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "FJCiyq547Wc+Ppty0+j1Yg==\n", 
+    "height": 1376, 
+    "hier_level": 0, 
+    "human_hash": "div_X98_Y204_W3616_H1376", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "ncss-row grid-row", 
+                "data-qa": "grid-row", 
+                "id": "5d105514-6c03-454f-a1b5-310852444b17"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "ncss-row grid-row", 
+            "domLevel": 5, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 0, 
+            "height": 688, 
+            "identifier": "5d105514-6c03-454f-a1b5-310852444b17", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Nike AppShop: Everything that Nike has to offer\u2014tailored to you. DownloadNike Run ClubRun: The motivation you need to run better and more often. DownloadNike Training ClubTrain: Break a sweat to over 160 guided workouts. DownloadSNKRSCollect: Get hooked-up with the latest sneaker drops.  Download", 
+            "type": "", 
+            "value": "", 
+            "width": 1808, 
+            "x": 49, 
+            "xPercent": 2.5459317585301835, 
+            "y": 102, 
+            "yPercent": 1.308698999230177
+        }, 
+        "location": {
+            "x": 49, 
+            "y": 102
+        }, 
+        "size": {
+            "height": 688, 
+            "width": 1808
+        }, 
+        "tag_name": "div", 
+        "text": "Nike AppShop: Everything that Nike has to offer\u2014tailored to you. DownloadNike Run ClubRun: The motivation you need to run better and more often. DownloadNike Training ClubTrain: Break a sweat to over 160 guided workouts. DownloadSNKRSCollect: Get hooked-up with the latest sneaker drops.  Download"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Nike AppShop: Everything that Nike has to offer\u2014tailored to you. DownloadNike Run ClubRun: The motivation you need to run better and more often. DownloadNike Training ClubTrain: Break a sweat to over 160 guided workouts. DownloadSNKRSCollect: Get hooked-up with the latest sneaker drops.  Download", 
+    "transformed": true, 
+    "width": 3616, 
+    "x": 98, 
+    "y": 204
+}

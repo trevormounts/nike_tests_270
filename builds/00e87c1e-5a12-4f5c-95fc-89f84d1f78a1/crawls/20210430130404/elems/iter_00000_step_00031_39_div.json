@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "fsgMHgM+asebkc1F7n3MiQ==\n", 
+    "height": 76, 
+    "hier_level": 0, 
+    "human_hash": "div_X3540_Y950_W120_H76", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "data-radium": "true", 
+                "style": "margin-top: 10px;"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 12, 
+            "height": 38, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "WhiteSolid", 
+            "type": "", 
+            "value": "", 
+            "width": 60, 
+            "x": 1770, 
+            "xPercent": 92.16145833333333, 
+            "y": 475, 
+            "yPercent": 52.77777777777778
+        }, 
+        "location": {
+            "x": 1770, 
+            "y": 475
+        }, 
+        "size": {
+            "height": 38, 
+            "width": 60
+        }, 
+        "tag_name": "div", 
+        "text": "WhiteSolid"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "WhiteSolid", 
+    "transformed": true, 
+    "width": 120, 
+    "x": 3540, 
+    "y": 950
+}

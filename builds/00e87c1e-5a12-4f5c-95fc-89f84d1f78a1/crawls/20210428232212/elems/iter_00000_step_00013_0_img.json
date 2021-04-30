@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "img", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "sFEqt11MCoodx8Y1wkqmzQ==\n", 
+    "height": 72, 
+    "hier_level": 0, 
+    "human_hash": "img_X700_Y1566_W72_H72", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "Deep Royal Blue/Multi-Color/White", 
+                "loading": "lazy", 
+                "src": "https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/cd49183e-8b1f-4f95-b2a2-9f5d9ffd6d55/air-vapormax-2020-fk-mens-shoe-kn9vwZ.png"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "img", 
+            "color": "rgb(17, 17, 17)", 
+            "domLevel": 23, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 0, 
+            "height": 36, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "img", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 36, 
+            "x": 350, 
+            "xPercent": 18.37270341207349, 
+            "y": 783, 
+            "yPercent": 10.634040133097923
+        }, 
+        "location": {
+            "x": 350, 
+            "y": 783
+        }, 
+        "size": {
+            "height": 36, 
+            "width": 36
+        }, 
+        "tag_name": "img", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "img", 
+    "text": "", 
+    "transformed": true, 
+    "width": 72, 
+    "x": 700, 
+    "y": 1566
+}

@@ -1,0 +1,81 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "5HoUzgwbwpiMF+tuKsqMmw==\n", 
+    "height": 52, 
+    "hier_level": 0, 
+    "human_hash": "a_X1922_Y1528_W150_H52", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "Download (https://www.nike.com/ntc-app)", 
+                "class": "dz_xjzja ncss-cta-primary-dark underline _2f6-rMqJ bihGx79a", 
+                "data-analytics-action-id": "2888bbaf-e020-46cf-8c2d-5b6759f64519", 
+                "data-analytics-allow": "false", 
+                "data-qa": "cta-text-link", 
+                "data-qa-card-id": "529e5cdd-394d-4b4f-bc0a-7146b86d33ef", 
+                "href": "https://www.nike.com/ntc-app", 
+                "tabindex": "0", 
+                "target": "_self"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "dz_xjzja ncss-cta-primary-dark underline _2f6-rMqJ bihGx79a", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 26, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Download", 
+            "type": "", 
+            "value": "", 
+            "width": 75, 
+            "x": 961, 
+            "xPercent": 50.41994750656168, 
+            "y": 764, 
+            "yPercent": 9.802412111880935
+        }, 
+        "location": {
+            "x": 961, 
+            "y": 764
+        }, 
+        "size": {
+            "height": 26, 
+            "width": 75
+        }, 
+        "tag_name": "a", 
+        "text": "Download"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Download", 
+    "transformed": true, 
+    "width": 150, 
+    "x": 1922, 
+    "y": 1528
+}

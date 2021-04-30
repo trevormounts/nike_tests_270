@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "M0VJdbE5+Tq7TnZ3Vh552A==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "div_X2286_Y542_W402_H48", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "ncss-col-sm-8 va-sm-t"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "ncss-col-sm-8 va-sm-t", 
+            "domLevel": 14, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Subtotal", 
+            "type": "", 
+            "value": "", 
+            "width": 201, 
+            "x": 1143, 
+            "xPercent": 60.00820209973753, 
+            "y": 271, 
+            "yPercent": 25.315420560747665
+        }, 
+        "location": {
+            "x": 1143, 
+            "y": 271
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 201
+        }, 
+        "tag_name": "div", 
+        "text": "Subtotal"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Subtotal", 
+    "transformed": true, 
+    "width": 402, 
+    "x": 2286, 
+    "y": 542
+}

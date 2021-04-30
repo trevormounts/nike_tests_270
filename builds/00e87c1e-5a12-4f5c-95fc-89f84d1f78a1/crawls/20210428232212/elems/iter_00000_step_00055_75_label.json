@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "label", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "/IqF2mqRnpvGUP4S48BZkQ==\n", 
+    "height": 36, 
+    "hier_level": 0, 
+    "human_hash": "label_X1182_Y740_W60_H36", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "css-1i5zo8a e4f9riy1", 
+                "id": "size-select-f80f2241-5493-454f-a04c-326d81fcaf61"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "label", 
+            "color": "rgb(117, 117, 117)", 
+            "cssClass": "css-1i5zo8a e4f9riy1", 
+            "domLevel": 16, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 18, 
+            "identifier": "size-select-f80f2241-5493-454f-a04c-326d81fcaf61", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "label", 
+            "text": "Size", 
+            "type": "", 
+            "value": "", 
+            "width": 30, 
+            "x": 591, 
+            "xPercent": 30.997375328083987, 
+            "y": 370, 
+            "yPercent": 20.11963023382273
+        }, 
+        "location": {
+            "x": 591, 
+            "y": 370
+        }, 
+        "size": {
+            "height": 18, 
+            "width": 30
+        }, 
+        "tag_name": "label", 
+        "text": "Size"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "label", 
+    "text": "Size", 
+    "transformed": true, 
+    "width": 60, 
+    "x": 1182, 
+    "y": 740
+}

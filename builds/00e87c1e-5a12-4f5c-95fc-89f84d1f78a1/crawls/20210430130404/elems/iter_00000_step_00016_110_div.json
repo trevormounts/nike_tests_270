@@ -1,0 +1,82 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": true, 
+    "content-desc": "", 
+    "elem_shot_file_path": "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210430130404/tmpZ/div_X96_Y648_W376_H96.png", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "u58SwgI6IrVImAXLrfW2Zg==\n", 
+    "height": 96, 
+    "hier_level": 0, 
+    "human_hash": "div_X96_Y648_W376_H96", 
+    "human_readable": "div_96_648_376_96_div_ffffffffffffffffffffffff69ff01fc01fc01ff21ffffffffffffffffffffff_f998e52d06ad95a5e631e739499205ee", 
+    "img_hash": "2e5388d40da4cb862cf1ac39278030d7", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-expanded": "true", 
+                "aria-label": "Gender, 1 Selected", 
+                "aria-owns": "wallNavFG0", 
+                "class": "trigger-content", 
+                "role": "button", 
+                "tabindex": "0"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "trigger-content", 
+            "domLevel": 20, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 48, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Gender\u00a0(1)", 
+            "type": "", 
+            "value": "", 
+            "width": 188, 
+            "x": 48, 
+            "xPercent": 2.5, 
+            "y": 324, 
+            "yPercent": 7.775377969762419
+        }, 
+        "location": {
+            "x": 48, 
+            "y": 324
+        }, 
+        "size": {
+            "height": 48, 
+            "width": 188
+        }, 
+        "tag_name": "div", 
+        "text": "Gender\u00a0(1)"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Gender\u00a0(1)", 
+    "text_hash": "f998e52d06ad95a5e631e739499205ee", 
+    "transformed": true, 
+    "width": 376, 
+    "x": 96, 
+    "y": 648
+}

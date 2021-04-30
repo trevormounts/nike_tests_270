@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "label", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "/n6baQEJSLlldUS+qIPw7A==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "label_X970_Y982_W578_H48", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "ncss-label ncss-label-text pr6-sm", 
+                "for": "search-address-input", 
+                "id": "search-input-label"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "label", 
+            "color": "rgb(141, 141, 141)", 
+            "cssClass": "ncss-label ncss-label-text pr6-sm", 
+            "domLevel": 23, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 24, 
+            "identifier": "search-input-label", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "label", 
+            "text": "Start typing the first line of your address", 
+            "type": "", 
+            "value": "", 
+            "width": 289, 
+            "x": 485, 
+            "xPercent": 25.433070866141733, 
+            "y": 491, 
+            "yPercent": 45.893691588785046
+        }, 
+        "location": {
+            "x": 485, 
+            "y": 491
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 289
+        }, 
+        "tag_name": "label", 
+        "text": "Start typing the first line of your address"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "label", 
+    "text": "Start typing the first line of your address", 
+    "transformed": true, 
+    "width": 578, 
+    "x": 970, 
+    "y": 982
+}

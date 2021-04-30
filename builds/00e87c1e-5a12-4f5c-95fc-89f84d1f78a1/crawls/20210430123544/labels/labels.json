@@ -1,0 +1,23 @@
+{
+    "elems": {
+        "iter_00000_step_00001_3_a.png": [
+            "btn_air_max_2090"
+        ], 
+        "iter_00000_step_00004_14_a.png": [
+            "btn_air_max_2090"
+        ], 
+        "iter_00000_step_00006_118_a.png": [
+            "mi_air_max_90"
+        ], 
+        "iter_00000_step_00007_23_a.png": [
+            "mi_air_max_90"
+        ], 
+        "iter_00000_step_00007_38_a.png": [
+            "cbx_women"
+        ], 
+        "iter_00000_step_00007_6_a.png": [
+            "btn_women"
+        ]
+    }, 
+    "screens": {}
+}

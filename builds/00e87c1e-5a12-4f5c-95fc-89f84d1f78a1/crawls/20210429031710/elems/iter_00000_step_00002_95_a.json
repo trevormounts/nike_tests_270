@@ -1,0 +1,81 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "/Y7usS5et9TdMBMLIdDhGg==\n", 
+    "height": 136, 
+    "hier_level": 0, 
+    "human_hash": "a_X218_Y606_W126_H136", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-checked": "false", 
+                "aria-label": "Filter for Black", 
+                "class": "css-hrsjq4 css-xhk1pl css-1t2ydyg filter-item is--color css-11bod12  is--link", 
+                "data-group-ndx": "2", 
+                "data-group-type": "filter", 
+                "data-is-color": "true", 
+                "data-ndx": "1", 
+                "href": "https://www.nike.com/w/womens-black-air-max-90-shoes-5e1x6z90poyzauqmozy7ok", 
+                "role": "menuitemcheckbox"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "css-hrsjq4 css-xhk1pl css-1t2ydyg filter-item is--color css-11bod12  is--link", 
+            "domLevel": 22, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 68, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Black", 
+            "type": "", 
+            "value": "", 
+            "width": 63, 
+            "x": 109, 
+            "xPercent": 5.707020997375328, 
+            "y": 303, 
+            "yPercent": 7.287157287157287
+        }, 
+        "location": {
+            "x": 109, 
+            "y": 303
+        }, 
+        "size": {
+            "height": 68, 
+            "width": 63
+        }, 
+        "tag_name": "a", 
+        "text": "Black"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Black", 
+    "transformed": true, 
+    "width": 126, 
+    "x": 218, 
+    "y": 606
+}

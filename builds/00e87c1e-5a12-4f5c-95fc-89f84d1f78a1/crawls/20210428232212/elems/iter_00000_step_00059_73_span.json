@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "sMe8GfjwfCOp7/0/G/ZkuA==\n", 
+    "height": 32, 
+    "hier_level": 0, 
+    "human_hash": "span_X2302_Y646_W176_H32", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "taxText"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "taxText", 
+            "domLevel": 16, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 16, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Estimated Tax", 
+            "type": "", 
+            "value": "", 
+            "width": 88, 
+            "x": 1151, 
+            "xPercent": 60.42814960629921, 
+            "y": 323, 
+            "yPercent": 30.175233644859812
+        }, 
+        "location": {
+            "x": 1151, 
+            "y": 323
+        }, 
+        "size": {
+            "height": 16, 
+            "width": 88
+        }, 
+        "tag_name": "span", 
+        "text": "Estimated Tax"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Estimated Tax", 
+    "transformed": true, 
+    "width": 176, 
+    "x": 2302, 
+    "y": 646
+}

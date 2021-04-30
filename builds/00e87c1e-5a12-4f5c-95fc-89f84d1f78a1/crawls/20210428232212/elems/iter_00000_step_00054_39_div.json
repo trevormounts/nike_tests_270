@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "efXYahiST4wo1izpMYfRig==\n", 
+    "height": 72, 
+    "hier_level": 0, 
+    "human_hash": "div_X2272_Y146_W734_H72", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "ncss-row css-1clg7e7"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "ncss-row css-1clg7e7", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 0, 
+            "height": 36, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Estimated Shipping & Handling$0.00", 
+            "type": "", 
+            "value": "", 
+            "width": 367, 
+            "x": 1136, 
+            "xPercent": 59.623523622047244, 
+            "y": 73, 
+            "yPercent": 3.969548667754214
+        }, 
+        "location": {
+            "x": 1136, 
+            "y": 73
+        }, 
+        "size": {
+            "height": 36, 
+            "width": 367
+        }, 
+        "tag_name": "div", 
+        "text": "Estimated Shipping & Handling$0.00"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Estimated Shipping & Handling$0.00", 
+    "transformed": true, 
+    "width": 734, 
+    "x": 2272, 
+    "y": 146
+}

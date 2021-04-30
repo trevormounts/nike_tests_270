@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "img", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "8f6tZhFSVw4S6KqCExg64w==\n", 
+    "height": 138, 
+    "hier_level": 0, 
+    "human_hash": "img_X2482_Y628_W138_H138", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "Atomic Pink/Laser Blue/Solar Flare/Black", 
+                "class": "bg-lighter-grey", 
+                "src": "https://static.nike.com/a/images/t_PDP_144_v1/f_auto/797ce341-b27a-42b4-aa17-4cabcbfee14a/air-max-90-premium-womens-shoe-F2W2MJ.jpg"
+            }, 
+            "background-color": "rgb(245, 245, 245)", 
+            "class": "img", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "bg-lighter-grey", 
+            "domLevel": 19, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 69, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "img", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 69, 
+            "x": 1241, 
+            "xPercent": 65.11811023622047, 
+            "y": 314, 
+            "yPercent": 8.925525866969869
+        }, 
+        "location": {
+            "x": 1241, 
+            "y": 314
+        }, 
+        "size": {
+            "height": 69, 
+            "width": 69
+        }, 
+        "tag_name": "img", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "img", 
+    "text": "", 
+    "transformed": true, 
+    "width": 138, 
+    "x": 2482, 
+    "y": 628
+}

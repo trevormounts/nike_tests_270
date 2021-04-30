@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "2fjLEyC7hJtl/SyjJ4cF5w==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "div_X2462_Y1102_W226_H48", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "checkout-cart-item-price text-color-grey itemPrice"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(109, 109, 109)", 
+            "cssClass": "checkout-cart-item-price text-color-grey itemPrice", 
+            "domLevel": 18, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "$130.00", 
+            "type": "", 
+            "value": "", 
+            "width": 113, 
+            "x": 1231, 
+            "xPercent": 64.62762467191601, 
+            "y": 551, 
+            "yPercent": 51.48364485981308
+        }, 
+        "location": {
+            "x": 1231, 
+            "y": 551
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 113
+        }, 
+        "tag_name": "div", 
+        "text": "$130.00"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "$130.00", 
+    "transformed": true, 
+    "width": 226, 
+    "x": 2462, 
+    "y": 1102
+}

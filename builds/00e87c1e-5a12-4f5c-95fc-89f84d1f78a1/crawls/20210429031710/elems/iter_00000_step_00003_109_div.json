@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "f8Qsnx4jdy8h7oo9w4BSfw==\n", 
+    "height": 1412, 
+    "hier_level": 0, 
+    "human_hash": "div_X600_Y314_W1038_H1412", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "product-card css-ljrxiq css-z5nr6i css-11ziap1 css-14d76vy css-dpr2cn product-grid__card ", 
+                "data-product-position": "1"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "product-card css-ljrxiq css-z5nr6i css-11ziap1 css-14d76vy css-dpr2cn product-grid__card ", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 706, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Nike Air Max 90 Exeter EditionMember AccessNike Air Max 90 Exeter EditionWomen's Shoe1 Color$120", 
+            "type": "", 
+            "value": "", 
+            "width": 519, 
+            "x": 300, 
+            "xPercent": 15.748031496062993, 
+            "y": 157, 
+            "yPercent": 3.7758537758537756
+        }, 
+        "location": {
+            "x": 300, 
+            "y": 157
+        }, 
+        "size": {
+            "height": 706, 
+            "width": 519
+        }, 
+        "tag_name": "div", 
+        "text": "Nike Air Max 90 Exeter EditionMember AccessNike Air Max 90 Exeter EditionWomen's Shoe1 Color$120"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Nike Air Max 90 Exeter EditionMember AccessNike Air Max 90 Exeter EditionWomen's Shoe1 Color$120", 
+    "transformed": true, 
+    "width": 1038, 
+    "x": 600, 
+    "y": 314
+}

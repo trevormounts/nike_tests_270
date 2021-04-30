@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "wr1ZXffxtJQxp+QodHGKOw==\n", 
+    "height": 40, 
+    "hier_level": 0, 
+    "human_hash": "span_X122_Y1554_W64_H40", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "filter-item__item-label"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "filter-item__item-label", 
+            "domLevel": 23, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 20, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Green", 
+            "type": "", 
+            "value": "", 
+            "width": 32, 
+            "x": 61, 
+            "xPercent": 3.18359375, 
+            "y": 777, 
+            "yPercent": 12.099034568670195
+        }, 
+        "location": {
+            "x": 61, 
+            "y": 777
+        }, 
+        "size": {
+            "height": 20, 
+            "width": 32
+        }, 
+        "tag_name": "span", 
+        "text": "Green"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Green", 
+    "transformed": true, 
+    "width": 64, 
+    "x": 122, 
+    "y": 1554
+}

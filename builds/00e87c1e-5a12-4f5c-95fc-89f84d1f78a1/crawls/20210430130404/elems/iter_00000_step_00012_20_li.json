@@ -1,0 +1,70 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "li", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "HSukgkOmtcnueI653KERKQ==\n", 
+    "height": 56, 
+    "hier_level": 0, 
+    "human_hash": "li_X2242_Y384_W64_H56", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {}, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "li", 
+            "color": "rgb(17, 17, 17)", 
+            "domLevel": 13, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 28, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "li", 
+            "text": "Sale", 
+            "type": "", 
+            "value": 0, 
+            "width": 32, 
+            "x": 1121, 
+            "xPercent": 58.40413411458333, 
+            "y": 192, 
+            "yPercent": 2.623309195245252
+        }, 
+        "location": {
+            "x": 1121, 
+            "y": 192
+        }, 
+        "size": {
+            "height": 28, 
+            "width": 32
+        }, 
+        "tag_name": "li", 
+        "text": "Sale"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "li", 
+    "text": "Sale", 
+    "transformed": true, 
+    "width": 64, 
+    "x": 2242, 
+    "y": 384
+}

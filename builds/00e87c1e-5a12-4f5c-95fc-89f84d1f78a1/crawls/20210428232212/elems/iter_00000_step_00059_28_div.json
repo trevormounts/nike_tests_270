@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "ytFDqws5XooAqhOr7BTHEw==\n", 
+    "height": 96, 
+    "hier_level": 0, 
+    "human_hash": "div_X922_Y1144_W642_H96", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "no-overflow clearfix ncss-input-container animatedForm ncss-col-sm-12 ncss-col-md-6 ncss-input-container mod-ncss-input-container ncss mb2-sm mb0-md va-sm-t mb3-sm css-0"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "no-overflow clearfix ncss-input-container animatedForm ncss-col-sm-12 ncss-col-md-6 ncss-input-container mod-ncss-input-container ncss mb2-sm mb0-md va-sm-t mb3-sm css-0", 
+            "domLevel": 19, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 48, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Email", 
+            "type": "", 
+            "value": "", 
+            "width": 321, 
+            "x": 461, 
+            "xPercent": 24.173228346456693, 
+            "y": 572, 
+            "yPercent": 53.44626168224299
+        }, 
+        "location": {
+            "x": 461, 
+            "y": 572
+        }, 
+        "size": {
+            "height": 48, 
+            "width": 321
+        }, 
+        "tag_name": "div", 
+        "text": "Email"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Email", 
+    "transformed": true, 
+    "width": 642, 
+    "x": 922, 
+    "y": 1144
+}

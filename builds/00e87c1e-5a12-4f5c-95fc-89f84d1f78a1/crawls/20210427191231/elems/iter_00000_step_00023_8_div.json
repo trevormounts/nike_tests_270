@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "G4U1ss7dZYOM/Fa6lC1wxQ==\n", 
+    "height": 130, 
+    "hier_level": 0, 
+    "human_hash": "div_X1918_Y920_W312_H130", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "nike-unite-select shoppingGenderDropdown nike-unite-component empty", 
+                "id": "bdbf3847-d87d-4993-b8db-ef19ecaff47e", 
+                "style": "undefined"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(141, 141, 141)", 
+            "cssClass": "nike-unite-select shoppingGenderDropdown nike-unite-component empty", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Helvetica", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 65, 
+            "identifier": "bdbf3847-d87d-4993-b8db-ef19ecaff47e", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Shopping Preference\n  \n    \n      Choose\n    \n      Men's\n    \n      Women\u2019s\n    \n  \n  Please select a preference.", 
+            "type": "", 
+            "value": "", 
+            "width": 156, 
+            "x": 959, 
+            "xPercent": 50.33956692913386, 
+            "y": 460, 
+            "yPercent": 5.90197587888119
+        }, 
+        "location": {
+            "x": 959, 
+            "y": 460
+        }, 
+        "size": {
+            "height": 65, 
+            "width": 156
+        }, 
+        "tag_name": "div", 
+        "text": "Shopping Preference\n  \n    \n      Choose\n    \n      Men's\n    \n      Women\u2019s\n    \n  \n  Please select a preference."
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Shopping Preference\n  \n    \n      Choose\n    \n      Men's\n    \n      Women\u2019s\n    \n  \n  Please select a preference.", 
+    "transformed": true, 
+    "width": 312, 
+    "x": 1918, 
+    "y": 920
+}

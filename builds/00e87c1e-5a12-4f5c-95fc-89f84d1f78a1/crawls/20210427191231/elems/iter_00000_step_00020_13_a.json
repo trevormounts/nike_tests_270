@@ -1,0 +1,81 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "CT/lEquFtEwFt1ULC3oLsQ==\n", 
+    "height": 52, 
+    "hier_level": 0, 
+    "human_hash": "a_X1318_Y1072_W224_H52", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "Download NTC (https://niketraining.app.link/0rRPaDiF0db)", 
+                "class": "dz_xjzja ncss-cta-primary-dark underline _2f6-rMqJ bihGx79a", 
+                "data-analytics-action-id": "0ce57d60-04ae-4185-8689-6a53b47a5edb", 
+                "data-analytics-allow": "false", 
+                "data-qa": "cta-text-link", 
+                "data-qa-card-id": "f85d78c9-b208-4bc7-b1ea-bd036a86c7af", 
+                "href": "https://niketraining.app.link/0rRPaDiF0db", 
+                "tabindex": "0", 
+                "target": "_self"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "dz_xjzja ncss-cta-primary-dark underline _2f6-rMqJ bihGx79a", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 26, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Download NTC", 
+            "type": "", 
+            "value": "", 
+            "width": 112, 
+            "x": 659, 
+            "xPercent": 34.60137795275591, 
+            "y": 536, 
+            "yPercent": 6.8770849371311265
+        }, 
+        "location": {
+            "x": 659, 
+            "y": 536
+        }, 
+        "size": {
+            "height": 26, 
+            "width": 112
+        }, 
+        "tag_name": "a", 
+        "text": "Download NTC"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Download NTC", 
+    "transformed": true, 
+    "width": 224, 
+    "x": 1318, 
+    "y": 1072
+}

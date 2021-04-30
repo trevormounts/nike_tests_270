@@ -1,0 +1,70 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "li", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "mNSQFyPete9YSDbVJrJ2+w==\n", 
+    "height": 56, 
+    "hier_level": 0, 
+    "human_hash": "li_X1712_Y384_W110_H56", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {}, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "li", 
+            "color": "rgb(17, 17, 17)", 
+            "domLevel": 13, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 28, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "li", 
+            "text": "Newest", 
+            "type": "", 
+            "value": 0, 
+            "width": 55, 
+            "x": 856, 
+            "xPercent": 44.581705729166664, 
+            "y": 192, 
+            "yPercent": 3.522935779816514
+        }, 
+        "location": {
+            "x": 856, 
+            "y": 192
+        }, 
+        "size": {
+            "height": 28, 
+            "width": 55
+        }, 
+        "tag_name": "li", 
+        "text": "Newest"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "li", 
+    "text": "Newest", 
+    "transformed": true, 
+    "width": 110, 
+    "x": 1712, 
+    "y": 384
+}

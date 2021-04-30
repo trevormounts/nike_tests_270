@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "1Yl49T87Xhl8jv6MXr0lOg==\n", 
+    "height": 112, 
+    "hier_level": 0, 
+    "human_hash": "div_X2496_Y1330_W754_H112", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "prl5-sm", 
+                "data-test": "nby-delivery-message-container"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "prl5-sm", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 56, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Custom-made and delivered to you in 4 weeks or less.", 
+            "type": "", 
+            "value": "", 
+            "width": 377, 
+            "x": 1248, 
+            "xPercent": 65, 
+            "y": 665, 
+            "yPercent": 24.675324675324674
+        }, 
+        "location": {
+            "x": 1248, 
+            "y": 665
+        }, 
+        "size": {
+            "height": 56, 
+            "width": 377
+        }, 
+        "tag_name": "div", 
+        "text": "Custom-made and delivered to you in 4 weeks or less."
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Custom-made and delivered to you in 4 weeks or less.", 
+    "transformed": true, 
+    "width": 754, 
+    "x": 2496, 
+    "y": 1330
+}

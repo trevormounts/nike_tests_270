@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "LSpQVpm/2gNVdHA8xyNJPA==\n", 
+    "height": 38, 
+    "hier_level": 0, 
+    "human_hash": "span_X2302_Y706_W72_H38", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "u-uppercase"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "u-uppercase", 
+            "domLevel": 16, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Nike TG\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 19, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Total", 
+            "type": "", 
+            "value": "", 
+            "width": 36, 
+            "x": 1151, 
+            "xPercent": 60.42814960629921, 
+            "y": 353, 
+            "yPercent": 32.97897196261682
+        }, 
+        "location": {
+            "x": 1151, 
+            "y": 353
+        }, 
+        "size": {
+            "height": 19, 
+            "width": 36
+        }, 
+        "tag_name": "span", 
+        "text": "Total"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Total", 
+    "transformed": true, 
+    "width": 72, 
+    "x": 2302, 
+    "y": 706
+}

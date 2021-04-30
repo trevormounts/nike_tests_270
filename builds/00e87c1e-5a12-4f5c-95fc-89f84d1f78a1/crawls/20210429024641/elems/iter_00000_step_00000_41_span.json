@@ -1,0 +1,72 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "9BvjTYzCp7T6Joktb+9djQ==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "span_X144_Y1290_W62_H48", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "filter-item__item-label"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "filter-item__item-label", 
+            "domLevel": 23, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Men", 
+            "type": "", 
+            "value": "", 
+            "width": 31, 
+            "x": 72, 
+            "xPercent": 3.779527559055118, 
+            "y": 645, 
+            "yPercent": 8.76001629770474
+        }, 
+        "location": {
+            "x": 72, 
+            "y": 645
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 31
+        }, 
+        "tag_name": "span", 
+        "text": "Men"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Men", 
+    "transformed": true, 
+    "width": 62, 
+    "x": 144, 
+    "y": 1290
+}

@@ -1,0 +1,78 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "DXW48zxVc4e9drlfO4fOww==\n", 
+    "height": 32, 
+    "hier_level": 0, 
+    "human_hash": "a_X3730_Y40_W40_H32", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "cart 1", 
+                "class": "", 
+                "data-version": "__VERSION_HERE__", 
+                "href": "https://www.nike.com/cart", 
+                "tabindex": "0", 
+                "title": "cart 1"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "", 
+            "domLevel": 8, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 16, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "1", 
+            "type": "", 
+            "value": "", 
+            "width": 20, 
+            "x": 1865, 
+            "xPercent": 97.90600393700788, 
+            "y": 20, 
+            "yPercent": 1.8341121495327104
+        }, 
+        "location": {
+            "x": 1865, 
+            "y": 20
+        }, 
+        "size": {
+            "height": 16, 
+            "width": 20
+        }, 
+        "tag_name": "a", 
+        "text": "1"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "1", 
+    "transformed": true, 
+    "width": 40, 
+    "x": 3730, 
+    "y": 40
+}

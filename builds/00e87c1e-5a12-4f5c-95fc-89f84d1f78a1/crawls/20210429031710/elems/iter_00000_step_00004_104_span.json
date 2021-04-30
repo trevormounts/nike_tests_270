@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "elem_shot_file_path": "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210429031710/tmpZ/span_X144_Y928_W238_H48.png", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "TodKiG/ef6m25uIL24M2sg==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "span_X144_Y928_W238_H48", 
+    "human_readable": "span_144_928_238_48_span_ffffffffffffffff3bff1bff040000000800040008000000fdfffdffffffffff_4247e9cf676e48d01b65b47bb2a0bc16", 
+    "img_hash": "0aba3436cbb42387ddae5989bd060582", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "filter-item__item-label"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "filter-item__item-label", 
+            "domLevel": 23, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Nike Sportswear", 
+            "type": "", 
+            "value": "", 
+            "width": 119, 
+            "x": 72, 
+            "xPercent": 3.779527559055118, 
+            "y": 464, 
+            "yPercent": 11.159211159211159
+        }, 
+        "location": {
+            "x": 72, 
+            "y": 464
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 119
+        }, 
+        "tag_name": "span", 
+        "text": "Nike Sportswear"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Nike Sportswear", 
+    "text_hash": "4247e9cf676e48d01b65b47bb2a0bc16", 
+    "transformed": true, 
+    "width": 238, 
+    "x": 144, 
+    "y": 928
+}

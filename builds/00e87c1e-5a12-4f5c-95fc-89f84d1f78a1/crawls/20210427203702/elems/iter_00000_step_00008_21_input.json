@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "input", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "Z+eK+YDqZS25s93wW0XHwQ==\n", 
+    "height": 80, 
+    "hier_level": 0, 
+    "human_hash": "input_X1582_Y1492_W648_H80", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "id": "7d37f7e2-dc8d-4b22-afcc-dcffb9eefc3b", 
+                "type": "button", 
+                "value": "JOIN US"
+            }, 
+            "background-color": "rgb(0, 0, 0)", 
+            "class": "input", 
+            "color": "rgb(255, 255, 255)", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "TradeGothicforNike365-BdCn, Helvetica", 
+            "font-weight": "400", 
+            "fontSize": 15, 
+            "height": 40, 
+            "identifier": "7d37f7e2-dc8d-4b22-afcc-dcffb9eefc3b", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "input", 
+            "text": "", 
+            "type": "button", 
+            "value": "JOIN US", 
+            "width": 324, 
+            "x": 791, 
+            "xPercent": 41.496062992125985, 
+            "y": 746, 
+            "yPercent": 9.769512833944475
+        }, 
+        "location": {
+            "x": 791, 
+            "y": 746
+        }, 
+        "size": {
+            "height": 40, 
+            "width": 324
+        }, 
+        "tag_name": "input", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "input", 
+    "text": "JOIN US", 
+    "transformed": true, 
+    "width": 648, 
+    "x": 1582, 
+    "y": 1492
+}

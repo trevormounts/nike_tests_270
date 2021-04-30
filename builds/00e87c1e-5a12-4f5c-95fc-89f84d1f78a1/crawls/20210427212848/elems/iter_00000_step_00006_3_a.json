@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "cSR34A8y83nMGMYjkxj4AA==\n", 
+    "height": 28, 
+    "hier_level": 0, 
+    "human_hash": "a_X1948_Y1300_W86_H28", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "javascript:void(0);", 
+                "id": "1d319dfb-9be1-48b9-9d4c-e2d4aa600201"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(17, 17, 17)", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Helvetica", 
+            "font-weight": "500", 
+            "fontSize": 12, 
+            "height": 14, 
+            "identifier": "1d319dfb-9be1-48b9-9d4c-e2d4aa600201", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Join Us.", 
+            "type": "", 
+            "value": "", 
+            "width": 43, 
+            "x": 974, 
+            "xPercent": 51.12040682414698, 
+            "y": 650, 
+            "yPercent": 8.537066246056781
+        }, 
+        "location": {
+            "x": 974, 
+            "y": 650
+        }, 
+        "size": {
+            "height": 14, 
+            "width": 43
+        }, 
+        "tag_name": "a", 
+        "text": "Join Us."
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Join Us.", 
+    "transformed": true, 
+    "width": 86, 
+    "x": 1948, 
+    "y": 1300
+}

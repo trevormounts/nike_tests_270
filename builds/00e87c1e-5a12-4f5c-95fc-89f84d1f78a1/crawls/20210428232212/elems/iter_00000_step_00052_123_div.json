@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "itm+3ACmjJ8rbJB0jRvXZw==\n", 
+    "height": 196, 
+    "hier_level": 0, 
+    "human_hash": "div_X2482_Y416_W752_H196", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "d-lg-ib mb0-sm u-full-width css-3rkuu4 css-1mzzuk6"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "d-lg-ib mb0-sm u-full-width css-3rkuu4 css-1mzzuk6", 
+            "domLevel": 13, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 98, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Women's ShoeNike Air Max 90 Premium$130", 
+            "type": "", 
+            "value": "", 
+            "width": 376, 
+            "x": 1241, 
+            "xPercent": 65.11811023622047, 
+            "y": 208, 
+            "yPercent": 5.912450255827174
+        }, 
+        "location": {
+            "x": 1241, 
+            "y": 208
+        }, 
+        "size": {
+            "height": 98, 
+            "width": 376
+        }, 
+        "tag_name": "div", 
+        "text": "Women's ShoeNike Air Max 90 Premium$130"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Women's ShoeNike Air Max 90 Premium$130", 
+    "transformed": true, 
+    "width": 752, 
+    "x": 2482, 
+    "y": 416
+}

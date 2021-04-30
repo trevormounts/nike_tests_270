@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "elem_shot_file_path": "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210430130404/tmpZ/span_X3582_Y396_W106_H36.png", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "d85WRpSEF7+8VQlZI0Flmw==\n", 
+    "height": 36, 
+    "hier_level": 0, 
+    "human_hash": "span_X3582_Y396_W106_H36", 
+    "human_readable": "span_3582_396_106_36_span_ffffffffffff3fc71f475e53645a20408940c950495849500144b765fffdfffd_403faf488842d42bf1304857ec5ab999", 
+    "img_hash": "6df933a459d4c909f8b7dd2fdc483730", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "dropdown__btn-text"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "dropdown__btn-text", 
+            "domLevel": 14, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 18, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Sort By", 
+            "type": "", 
+            "value": "", 
+            "width": 53, 
+            "x": 1791, 
+            "xPercent": 93.26416015625, 
+            "y": 198, 
+            "yPercent": 4.751619870410368
+        }, 
+        "location": {
+            "x": 1791, 
+            "y": 198
+        }, 
+        "size": {
+            "height": 18, 
+            "width": 53
+        }, 
+        "tag_name": "span", 
+        "text": "Sort By"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Sort By", 
+    "text_hash": "403faf488842d42bf1304857ec5ab999", 
+    "transformed": true, 
+    "width": 106, 
+    "x": 3582, 
+    "y": 396
+}

@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "yctjtsHEYwK2BLn79SVi2g==\n", 
+    "height": 120, 
+    "hier_level": 0, 
+    "human_hash": "div_X1778_Y192_W776_H120", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "banner-node css-gb9zhi"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "banner-node css-gb9zhi", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 60, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Free Shipping & 60-Day Free ReturnsJoin Now", 
+            "type": "", 
+            "value": "", 
+            "width": 388, 
+            "x": 889, 
+            "xPercent": 46.692868530593834, 
+            "y": 96, 
+            "yPercent": 1.311654597622626
+        }, 
+        "location": {
+            "x": 889, 
+            "y": 96
+        }, 
+        "size": {
+            "height": 60, 
+            "width": 388
+        }, 
+        "tag_name": "div", 
+        "text": "Free Shipping & 60-Day Free ReturnsJoin Now"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Free Shipping & 60-Day Free ReturnsJoin Now", 
+    "transformed": true, 
+    "width": 776, 
+    "x": 1778, 
+    "y": 192
+}

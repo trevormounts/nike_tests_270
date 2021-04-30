@@ -1,0 +1,72 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "TSzqnfOfgtIRCv7kvJmtRg==\n", 
+    "height": 30, 
+    "hier_level": 0, 
+    "human_hash": "span_X3396_Y22_W52_H30", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "id": "hf_header_label_help"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(17, 17, 17)", 
+            "domLevel": 13, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 12, 
+            "height": 15, 
+            "identifier": "hf_header_label_help", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Help", 
+            "type": "", 
+            "value": "", 
+            "width": 26, 
+            "x": 1698, 
+            "xPercent": 89.125656167979, 
+            "y": 11, 
+            "yPercent": 0.1434622216149747
+        }, 
+        "location": {
+            "x": 1698, 
+            "y": 11
+        }, 
+        "size": {
+            "height": 15, 
+            "width": 26
+        }, 
+        "tag_name": "span", 
+        "text": "Help"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Help", 
+    "transformed": true, 
+    "width": 52, 
+    "x": 3396, 
+    "y": 22
+}

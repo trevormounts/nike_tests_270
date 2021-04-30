@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "MijRqv6cJTC6k6iHppFPrA==\n", 
+    "height": 1376, 
+    "hier_level": 0, 
+    "human_hash": "div_X1002_Y204_W904_H1376", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "grid-col va-sm-t ncss-col-lg-3 ncss-col-md-3 ncss-col-sm-12 ncss-col-lg-offset-0 ncss-col-md-offset-0 ncss-col-sm-offset-0", 
+                "data-qa": "grid-col", 
+                "id": "642a91e4-58b7-4d60-9172-0e14ef0d1bad"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "grid-col va-sm-t ncss-col-lg-3 ncss-col-md-3 ncss-col-sm-12 ncss-col-lg-offset-0 ncss-col-md-offset-0 ncss-col-sm-offset-0", 
+            "domLevel": 6, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 688, 
+            "identifier": "642a91e4-58b7-4d60-9172-0e14ef0d1bad", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Nike Run ClubRun: The motivation you need to run better and more often. Download", 
+            "type": "", 
+            "value": "", 
+            "width": 452, 
+            "x": 501, 
+            "xPercent": 26.272965879265094, 
+            "y": 102, 
+            "yPercent": 1.308698999230177
+        }, 
+        "location": {
+            "x": 501, 
+            "y": 102
+        }, 
+        "size": {
+            "height": 688, 
+            "width": 452
+        }, 
+        "tag_name": "div", 
+        "text": "Nike Run ClubRun: The motivation you need to run better and more often. Download"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Nike Run ClubRun: The motivation you need to run better and more often. Download", 
+    "transformed": true, 
+    "width": 904, 
+    "x": 1002, 
+    "y": 204
+}

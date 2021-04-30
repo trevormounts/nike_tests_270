@@ -1,0 +1,82 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "elem_shot_file_path": "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210430130404/tmpZ/button_X3310_Y386_W260_H56.png", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "p2lT8tYDFfQRHveLcXLVOQ==\n", 
+    "height": 56, 
+    "hier_level": 0, 
+    "human_hash": "button_X3310_Y386_W260_H56", 
+    "human_readable": "button_3310_386_260_56_button_fffffffffffffffffbf711e70427003f002f000700278c3fffffffffffffffff_5309530763887494b095468a860671ba", 
+    "img_hash": "80bd9e910777d5224cf476758f5fc36c", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-controls": "left-nav", 
+                "aria-describedby": "Mens-Neutrals-By-You", 
+                "aria-expanded": "true", 
+                "aria-label": "Hide Filters Mens Neutrals By You", 
+                "aria-pressed": "true", 
+                "class": "wall-header__filters-btn css-hrsjq4"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "button", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "wall-header__filters-btn css-hrsjq4", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 24, 
+            "height": 28, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "Hide Filters", 
+            "type": "", 
+            "value": "", 
+            "width": 130, 
+            "x": 1655, 
+            "xPercent": 86.1865234375, 
+            "y": 193, 
+            "yPercent": 4.631629469642428
+        }, 
+        "location": {
+            "x": 1655, 
+            "y": 193
+        }, 
+        "size": {
+            "height": 28, 
+            "width": 130
+        }, 
+        "tag_name": "button", 
+        "text": "Hide Filters"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "Hide Filters", 
+    "text_hash": "5309530763887494b095468a860671ba", 
+    "transformed": true, 
+    "width": 260, 
+    "x": 3310, 
+    "y": 386
+}

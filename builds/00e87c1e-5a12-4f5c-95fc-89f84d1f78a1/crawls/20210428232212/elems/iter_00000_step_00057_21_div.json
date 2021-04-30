@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "dKQNT/1Nb/3cVW6pC7fWow==\n", 
+    "height": 100, 
+    "hier_level": 0, 
+    "human_hash": "div_X1906_Y1216_W864_H100", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "d-lg-tc mod-border-right-light-grey prl12-sm ta-sm-l"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "d-lg-tc mod-border-right-light-grey prl12-sm ta-sm-l", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 50, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Guest Checkout", 
+            "type": "", 
+            "value": "", 
+            "width": 432, 
+            "x": 953, 
+            "xPercent": 50, 
+            "y": 608, 
+            "yPercent": 64.12183544303798
+        }, 
+        "location": {
+            "x": 953, 
+            "y": 608
+        }, 
+        "size": {
+            "height": 50, 
+            "width": 432
+        }, 
+        "tag_name": "div", 
+        "text": "Guest Checkout"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Guest Checkout", 
+    "transformed": true, 
+    "width": 864, 
+    "x": 1906, 
+    "y": 1216
+}

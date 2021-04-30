@@ -1,0 +1,78 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "rZJNf8RrGIaRqFr+qTBvPQ==\n", 
+    "height": 32, 
+    "hier_level": 0, 
+    "human_hash": "a_X560_Y1424_W140_H32", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "fs12-nav-sm", 
+                "data-path": "nike journal", 
+                "data-pre": "ILink", 
+                "data-type": "click_navFooter", 
+                "href": "https://www.nike.com/stories", 
+                "target": "_self"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "fs12-nav-sm", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Nike TG\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 16, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "NIKE JOURNAL", 
+            "type": "", 
+            "value": "", 
+            "width": 70, 
+            "x": 280, 
+            "xPercent": 14.583333333333334, 
+            "y": 712, 
+            "yPercent": 10.012297962052003
+        }, 
+        "location": {
+            "x": 280, 
+            "y": 712
+        }, 
+        "size": {
+            "height": 16, 
+            "width": 70
+        }, 
+        "tag_name": "a", 
+        "text": "NIKE JOURNAL"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "NIKE JOURNAL", 
+    "transformed": true, 
+    "width": 140, 
+    "x": 560, 
+    "y": 1424
+}

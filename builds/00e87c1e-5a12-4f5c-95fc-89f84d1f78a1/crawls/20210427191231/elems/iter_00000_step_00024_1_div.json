@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "udfBXxiQFRyAVYzAlodV4A==\n", 
+    "height": 1376, 
+    "hier_level": 0, 
+    "human_hash": "div_X98_Y204_W904_H1376", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "grid-col va-sm-t ncss-col-lg-3 ncss-col-md-3 ncss-col-sm-12 ncss-col-lg-offset-0 ncss-col-md-offset-0 ncss-col-sm-offset-0", 
+                "data-qa": "grid-col", 
+                "id": "b0a59175-c45d-4755-9f9f-98fa533176b9"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "grid-col va-sm-t ncss-col-lg-3 ncss-col-md-3 ncss-col-sm-12 ncss-col-lg-offset-0 ncss-col-md-offset-0 ncss-col-sm-offset-0", 
+            "domLevel": 6, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 688, 
+            "identifier": "b0a59175-c45d-4755-9f9f-98fa533176b9", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Nike AppShop: Everything that Nike has to offer\u2014tailored to you. Download", 
+            "type": "", 
+            "value": "", 
+            "width": 452, 
+            "x": 49, 
+            "xPercent": 2.5459317585301835, 
+            "y": 102, 
+            "yPercent": 1.308698999230177
+        }, 
+        "location": {
+            "x": 49, 
+            "y": 102
+        }, 
+        "size": {
+            "height": 688, 
+            "width": 452
+        }, 
+        "tag_name": "div", 
+        "text": "Nike AppShop: Everything that Nike has to offer\u2014tailored to you. Download"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Nike AppShop: Everything that Nike has to offer\u2014tailored to you. Download", 
+    "transformed": true, 
+    "width": 904, 
+    "x": 98, 
+    "y": 204
+}

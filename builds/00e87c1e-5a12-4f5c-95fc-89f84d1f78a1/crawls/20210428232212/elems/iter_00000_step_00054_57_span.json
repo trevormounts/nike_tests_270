@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "UggN85golwDWuVt2b18FVw==\n", 
+    "height": 38, 
+    "hier_level": 0, 
+    "human_hash": "span_X2902_Y354_W64_H38", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "price css-1uihcua ew71yvl1", 
+                "data-version": "__VERSION_HERE__"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "price css-1uihcua ew71yvl1", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Nike TG\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 19, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "$0.00", 
+            "type": "", 
+            "value": "", 
+            "width": 32, 
+            "x": 1451, 
+            "xPercent": 76.14255249343832, 
+            "y": 177, 
+            "yPercent": 9.624796084828711
+        }, 
+        "location": {
+            "x": 1451, 
+            "y": 177
+        }, 
+        "size": {
+            "height": 19, 
+            "width": 32
+        }, 
+        "tag_name": "span", 
+        "text": "$0.00"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "$0.00", 
+    "transformed": true, 
+    "width": 64, 
+    "x": 2902, 
+    "y": 354
+}

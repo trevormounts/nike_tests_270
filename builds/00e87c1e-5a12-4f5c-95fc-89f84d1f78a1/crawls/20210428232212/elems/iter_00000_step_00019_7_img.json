@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "img", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "XV1ifQCb9O3VI3h8+JOx4w==\n", 
+    "height": 72, 
+    "hier_level": 0, 
+    "human_hash": "img_X700_Y1344_W72_H72", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "Black/Turf Orange/White/Aquamarine", 
+                "loading": "lazy", 
+                "src": "https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/ce172f02-470b-4917-b4a3-94b9b46f8e6c/air-max-95-mens-shoe-Md44MM.png"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "img", 
+            "color": "rgb(17, 17, 17)", 
+            "domLevel": 23, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 0, 
+            "height": 36, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "img", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 36, 
+            "x": 350, 
+            "xPercent": 18.37270341207349, 
+            "y": 672, 
+            "yPercent": 24.471390203932994
+        }, 
+        "location": {
+            "x": 350, 
+            "y": 672
+        }, 
+        "size": {
+            "height": 36, 
+            "width": 36
+        }, 
+        "tag_name": "img", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "img", 
+    "text": "", 
+    "transformed": true, 
+    "width": 72, 
+    "x": 700, 
+    "y": 1344
+}

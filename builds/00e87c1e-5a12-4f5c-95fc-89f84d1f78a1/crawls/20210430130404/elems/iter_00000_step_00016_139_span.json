@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "elem_shot_file_path": "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210430130404/tmpZ/span_X144_Y1138_W148_H48.png", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "bixQ07N7CkTwO5QfcVS+wA==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "span_X144_Y1138_W148_H48", 
+    "human_readable": "span_144_1138_148_48_span_ffffffffffffffff3f301f005004402041a0418801002120ffbfffffffffffff_ea9f653b88640408b1633a074554010e", 
+    "img_hash": "2425245ec4dbc9598279e5e918bd18dc", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "filter-item__item-label"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "filter-item__item-label", 
+            "domLevel": 23, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Over $150", 
+            "type": "", 
+            "value": "", 
+            "width": 74, 
+            "x": 72, 
+            "xPercent": 3.75, 
+            "y": 569, 
+            "yPercent": 13.654907607391408
+        }, 
+        "location": {
+            "x": 72, 
+            "y": 569
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 74
+        }, 
+        "tag_name": "span", 
+        "text": "Over $150"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Over $150", 
+    "text_hash": "ea9f653b88640408b1633a074554010e", 
+    "transformed": true, 
+    "width": 148, 
+    "x": 144, 
+    "y": 1138
+}

@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "pEZJJ3/Bqd6dFaKvSFjUJg==\n", 
+    "height": 30, 
+    "hier_level": 0, 
+    "human_hash": "a_X958_Y172_W180_H30", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "banner-link", 
+                "data-id": "2f6d9ce6-492d-4e73-aaf5-fbacb80a27b6", 
+                "href": "https://www.nike.com/help/a/shipping-delivery", 
+                "target": "_blank"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "banner-link", 
+            "domLevel": 22, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 12, 
+            "height": 15, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "shipping FAQ", 
+            "type": "", 
+            "value": "", 
+            "width": 90, 
+            "x": 479, 
+            "xPercent": 25.164862204724407, 
+            "y": 86, 
+            "yPercent": 4.6764545948885266
+        }, 
+        "location": {
+            "x": 479, 
+            "y": 86
+        }, 
+        "size": {
+            "height": 15, 
+            "width": 90
+        }, 
+        "tag_name": "a", 
+        "text": "shipping FAQ"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "shipping FAQ", 
+    "transformed": true, 
+    "width": 180, 
+    "x": 958, 
+    "y": 172
+}

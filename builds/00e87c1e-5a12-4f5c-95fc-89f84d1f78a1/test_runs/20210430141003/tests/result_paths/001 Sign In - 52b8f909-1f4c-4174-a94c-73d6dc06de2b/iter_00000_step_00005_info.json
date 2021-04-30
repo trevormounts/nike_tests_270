@@ -1,0 +1,27 @@
+{
+    "action_info": {
+        "elem_class": "screen", 
+        "elem_info": {
+            "class": "screen", 
+            "hash": "9t2OLGkvS5amJjdy/tkIlA==\n", 
+            "height": 1744, 
+            "hier_level": 0, 
+            "human_hash": "screen_X0_Y0_W3840_H1744", 
+            "index": -1, 
+            "is_transformed": true, 
+            "tag_name": "screen", 
+            "text": "", 
+            "width": 3840, 
+            "x": 0, 
+            "y": 0
+        }, 
+        "gesture": "tap", 
+        "text": ""
+    }, 
+    "all_elems": [], 
+    "cpu": 0.0, 
+    "jank": 0.0, 
+    "mem": 0.0, 
+    "net": 0.0, 
+    "timing": 0.25405406951904297
+}

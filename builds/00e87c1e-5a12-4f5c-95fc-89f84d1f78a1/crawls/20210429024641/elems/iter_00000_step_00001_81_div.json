@@ -1,0 +1,70 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "l4FewID+Ui/GSRqVaN824A==\n", 
+    "height": 1006, 
+    "hier_level": 0, 
+    "human_hash": "div_X1654_Y536_W1006_H1006", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {}, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "domLevel": 17, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 503, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "<img class=\"css-1fxh5tw product-card__hero-image\" src=\"https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/c6699427-2518-4d14-941a-c421ee31e58b/air-max-96-ii-mens-shoe-0C8Dm8.png\" alt=\"Nike Air Max 96 II Men&#x27;s Shoe\" loading=\"lazy\" width=\"400\" height=\"400\"/>", 
+            "type": "", 
+            "value": "", 
+            "width": 503, 
+            "x": 827, 
+            "xPercent": 43.411253280839894, 
+            "y": 268, 
+            "yPercent": 3.639820725247861
+        }, 
+        "location": {
+            "x": 827, 
+            "y": 268
+        }, 
+        "size": {
+            "height": 503, 
+            "width": 503
+        }, 
+        "tag_name": "div", 
+        "text": "<img class=\"css-1fxh5tw product-card__hero-image\" src=\"https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/c6699427-2518-4d14-941a-c421ee31e58b/air-max-96-ii-mens-shoe-0C8Dm8.png\" alt=\"Nike Air Max 96 II Men&#x27;s Shoe\" loading=\"lazy\" width=\"400\" height=\"400\"/>"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "<img class=\"css-1fxh5tw product-card__hero-image\" src=\"https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/c6699427-2518-4d14-941a-c421ee31e58b/air-max-96-ii-mens-shoe-0C8Dm8.png\" alt=\"Nike Air Max 96 II Men&#x27;s Shoe\" loading=\"lazy\" width=\"400\" height=\"400\"/>", 
+    "transformed": true, 
+    "width": 1006, 
+    "x": 1654, 
+    "y": 536
+}

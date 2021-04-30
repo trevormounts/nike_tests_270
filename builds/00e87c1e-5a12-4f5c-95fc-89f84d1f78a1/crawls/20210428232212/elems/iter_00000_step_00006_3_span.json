@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "ed/EMW9SCB9/WwnpcX07Bg==\n", 
+    "height": 38, 
+    "hier_level": 0, 
+    "human_hash": "span_X1182_Y1182_W72_H38", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "price css-1uihcua ew71yvl1", 
+                "data-version": "@nike/nr-sole-price@3.0.3"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "price css-1uihcua ew71yvl1", 
+            "domLevel": 20, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 19, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "$100", 
+            "type": "", 
+            "value": "", 
+            "width": 36, 
+            "x": 591, 
+            "xPercent": 31.018700787401578, 
+            "y": 591, 
+            "yPercent": 7.901755852842809
+        }, 
+        "location": {
+            "x": 591, 
+            "y": 591
+        }, 
+        "size": {
+            "height": 19, 
+            "width": 36
+        }, 
+        "tag_name": "span", 
+        "text": "$100"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "$100", 
+    "transformed": true, 
+    "width": 72, 
+    "x": 1182, 
+    "y": 1182
+}

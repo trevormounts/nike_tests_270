@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "cBe4LJud5rpEQjiOjKSVDQ==\n", 
+    "height": 28, 
+    "hier_level": 0, 
+    "human_hash": "span_X3668_Y140_W102_H28", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "u-underline"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(109, 109, 109)", 
+            "cssClass": "u-underline", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 14, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Live Chat", 
+            "type": "", 
+            "value": "", 
+            "width": 51, 
+            "x": 1834, 
+            "xPercent": 96.28937007874015, 
+            "y": 70, 
+            "yPercent": 7.370780590717299
+        }, 
+        "location": {
+            "x": 1834, 
+            "y": 70
+        }, 
+        "size": {
+            "height": 14, 
+            "width": 51
+        }, 
+        "tag_name": "span", 
+        "text": "Live Chat"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Live Chat", 
+    "transformed": true, 
+    "width": 102, 
+    "x": 3668, 
+    "y": 140
+}

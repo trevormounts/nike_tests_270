@@ -1,0 +1,70 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "JkfcfKBZlSAaYA1P9O1uEg==\n", 
+    "height": 1016, 
+    "hier_level": 0, 
+    "human_hash": "div_X616_Y536_W1016_H1016", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {}, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "domLevel": 17, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 508, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "<img class=\"css-1fxh5tw product-card__hero-image\" src=\"https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/e88a7585-4406-4ecd-b61d-06d562757933/air-max-2090-womens-shoe-nk9ZbX.png\" alt=\"Nike Air Max 2090 Women&#x27;s Shoe\" loading=\"lazy\" width=\"400\" height=\"400\"/>", 
+            "type": "", 
+            "value": "", 
+            "width": 508, 
+            "x": 308, 
+            "xPercent": 16.041666666666668, 
+            "y": 268, 
+            "yPercent": 6.406885010757829
+        }, 
+        "location": {
+            "x": 308, 
+            "y": 268
+        }, 
+        "size": {
+            "height": 508, 
+            "width": 508
+        }, 
+        "tag_name": "div", 
+        "text": "<img class=\"css-1fxh5tw product-card__hero-image\" src=\"https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/e88a7585-4406-4ecd-b61d-06d562757933/air-max-2090-womens-shoe-nk9ZbX.png\" alt=\"Nike Air Max 2090 Women&#x27;s Shoe\" loading=\"lazy\" width=\"400\" height=\"400\"/>"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "<img class=\"css-1fxh5tw product-card__hero-image\" src=\"https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/e88a7585-4406-4ecd-b61d-06d562757933/air-max-2090-womens-shoe-nk9ZbX.png\" alt=\"Nike Air Max 2090 Women&#x27;s Shoe\" loading=\"lazy\" width=\"400\" height=\"400\"/>", 
+    "transformed": true, 
+    "width": 1016, 
+    "x": 616, 
+    "y": 536
+}

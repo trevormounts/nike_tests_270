@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "tgC8m0/oawvVvVSo5vrPzQ==\n", 
+    "height": 28, 
+    "hier_level": 0, 
+    "human_hash": "a_X1830_Y1308_W142_H28", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "javascript:void(0)", 
+                "onclick": "javascript:nike.unite.openLegalLink('termsLink');"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(141, 141, 141)", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Helvetica", 
+            "font-weight": "500", 
+            "fontSize": 12, 
+            "height": 14, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Terms of Use", 
+            "type": "", 
+            "value": "", 
+            "width": 71, 
+            "x": 915, 
+            "xPercent": 48.05692257217848, 
+            "y": 654, 
+            "yPercent": 8.391070053887606
+        }, 
+        "location": {
+            "x": 915, 
+            "y": 654
+        }, 
+        "size": {
+            "height": 14, 
+            "width": 71
+        }, 
+        "tag_name": "a", 
+        "text": "Terms of Use"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Terms of Use", 
+    "transformed": true, 
+    "width": 142, 
+    "x": 1830, 
+    "y": 1308
+}

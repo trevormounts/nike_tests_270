@@ -1,0 +1,72 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "T+6xvamjAWzb1E8PdnKNvQ==\n", 
+    "height": 216, 
+    "hier_level": 0, 
+    "human_hash": "div_X3506_Y202_W186_H216", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "data-radium": "true"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 12, 
+            "height": 108, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Metallic Gold--", 
+            "type": "", 
+            "value": "", 
+            "width": 93, 
+            "x": 1753, 
+            "xPercent": 91.29801432291667, 
+            "y": 101, 
+            "yPercent": 11.222222222222221
+        }, 
+        "location": {
+            "x": 1753, 
+            "y": 101
+        }, 
+        "size": {
+            "height": 108, 
+            "width": 93
+        }, 
+        "tag_name": "div", 
+        "text": "Metallic Gold--"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Metallic Gold--", 
+    "transformed": true, 
+    "width": 186, 
+    "x": 3506, 
+    "y": 202
+}

@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "9eIyfNy95KIsN+XhaBM9pQ==\n", 
+    "height": 1412, 
+    "hier_level": 0, 
+    "human_hash": "div_X1638_Y176_W1038_H1412", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "product-card css-ljrxiq css-z5nr6i css-11ziap1 css-14d76vy css-dpr2cn product-grid__card ", 
+                "data-product-position": "2"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "product-card css-ljrxiq css-z5nr6i css-11ziap1 css-14d76vy css-dpr2cn product-grid__card ", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 706, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Nike Air Max 95Sustainable MaterialsNike Air Max 95Men's Shoe1 Color$153.97$180", 
+            "type": "", 
+            "value": "", 
+            "width": 519, 
+            "x": 819, 
+            "xPercent": 42.99130577427822, 
+            "y": 88, 
+            "yPercent": 3.204661325564458
+        }, 
+        "location": {
+            "x": 819, 
+            "y": 88
+        }, 
+        "size": {
+            "height": 706, 
+            "width": 519
+        }, 
+        "tag_name": "div", 
+        "text": "Nike Air Max 95Sustainable MaterialsNike Air Max 95Men's Shoe1 Color$153.97$180"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Nike Air Max 95Sustainable MaterialsNike Air Max 95Men's Shoe1 Color$153.97$180", 
+    "transformed": true, 
+    "width": 1038, 
+    "x": 1638, 
+    "y": 176
+}

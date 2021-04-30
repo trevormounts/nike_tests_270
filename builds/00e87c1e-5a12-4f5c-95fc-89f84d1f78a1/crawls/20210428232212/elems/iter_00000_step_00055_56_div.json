@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "9ETcGHN8VgYKfqye6IJShA==\n", 
+    "height": 72, 
+    "hier_level": 0, 
+    "human_hash": "div_X2272_Y578_W734_H72", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "ncss-row css-1clg7e7"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "ncss-row css-1clg7e7", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 0, 
+            "height": 36, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Estimated TaxThe actual tax will be calculated based on the applicable state and local sales taxes when your order is shipped.\u00a0Learn More\u2014", 
+            "type": "", 
+            "value": "", 
+            "width": 367, 
+            "x": 1136, 
+            "xPercent": 59.623523622047244, 
+            "y": 289, 
+            "yPercent": 15.715062533985863
+        }, 
+        "location": {
+            "x": 1136, 
+            "y": 289
+        }, 
+        "size": {
+            "height": 36, 
+            "width": 367
+        }, 
+        "tag_name": "div", 
+        "text": "Estimated TaxThe actual tax will be calculated based on the applicable state and local sales taxes when your order is shipped.\u00a0Learn More\u2014"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Estimated TaxThe actual tax will be calculated based on the applicable state and local sales taxes when your order is shipped.\u00a0Learn More\u2014", 
+    "transformed": true, 
+    "width": 734, 
+    "x": 2272, 
+    "y": 578
+}

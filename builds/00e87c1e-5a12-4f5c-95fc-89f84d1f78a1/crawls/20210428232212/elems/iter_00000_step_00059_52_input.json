@@ -1,0 +1,79 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "input", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "H0K5XQcQm4nvxp60tl+SuQ==\n", 
+    "height": 96, 
+    "hier_level": 0, 
+    "human_hash": "input_X938_Y1144_W610_H96", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "autocomplete": "email", 
+                "class": "ncss-input pt2-sm pr4-sm pb2-sm pl4-sm fs-exclude css-qawpgn", 
+                "id": "email", 
+                "name": "address.email", 
+                "required": "", 
+                "type": "email", 
+                "value": ""
+            }, 
+            "background-color": "rgb(255, 255, 255)", 
+            "class": "input", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "ncss-input pt2-sm pr4-sm pb2-sm pl4-sm fs-exclude css-qawpgn", 
+            "domLevel": 20, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 48, 
+            "identifier": "email", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "address.email", 
+            "tagName": "input", 
+            "text": "", 
+            "type": "email", 
+            "value": "", 
+            "width": 305, 
+            "x": 469, 
+            "xPercent": 24.593175853018373, 
+            "y": 572, 
+            "yPercent": 53.44626168224299
+        }, 
+        "location": {
+            "x": 469, 
+            "y": 572
+        }, 
+        "size": {
+            "height": 48, 
+            "width": 305
+        }, 
+        "tag_name": "input", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "input", 
+    "text": "", 
+    "transformed": true, 
+    "width": 610, 
+    "x": 938, 
+    "y": 1144
+}

@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "IR8P2zJ2fFuowRcxdgWLtQ==\n", 
+    "height": 72, 
+    "hier_level": 0, 
+    "human_hash": "div_X3514_Y0_W250_H72", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "d-lg-flx", 
+                "data-var": "desktopLoginButtons"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "d-lg-flx", 
+            "domLevel": 7, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 36, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Join Us|Sign In", 
+            "type": "", 
+            "value": "", 
+            "width": 125, 
+            "x": 1757, 
+            "xPercent": 91.51448567708333, 
+            "y": 0, 
+            "yPercent": 0
+        }, 
+        "location": {
+            "x": 1757, 
+            "y": 0
+        }, 
+        "size": {
+            "height": 36, 
+            "width": 125
+        }, 
+        "tag_name": "div", 
+        "text": "Join Us|Sign In"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Join Us|Sign In", 
+    "transformed": true, 
+    "width": 250, 
+    "x": 3514, 
+    "y": 0
+}

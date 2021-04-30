@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "6f6lS+Wesv07Phtslvw7Cw==\n", 
+    "height": 68, 
+    "hier_level": 0, 
+    "human_hash": "div_X1566_Y1080_W648_H68", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "error"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(254, 0, 0)", 
+            "cssClass": "error", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Helvetica", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 34, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Please enter a valid date of birth.", 
+            "type": "", 
+            "value": "", 
+            "width": 324, 
+            "x": 783, 
+            "xPercent": 41.10236220472441, 
+            "y": 540, 
+            "yPercent": 7.071765322158198
+        }, 
+        "location": {
+            "x": 783, 
+            "y": 540
+        }, 
+        "size": {
+            "height": 34, 
+            "width": 324
+        }, 
+        "tag_name": "div", 
+        "text": "Please enter a valid date of birth."
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Please enter a valid date of birth.", 
+    "transformed": true, 
+    "width": 648, 
+    "x": 1566, 
+    "y": 1080
+}

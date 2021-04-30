@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "AHmhjktRw7tU3TogaENk0Q==\n", 
+    "height": 92, 
+    "hier_level": 0, 
+    "human_hash": "div_X114_Y1504_W3584_H92", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "YEqpdVMc cta-container hasText", 
+                "data-qa": "cta-container"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "YEqpdVMc cta-container hasText", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 46, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Explore", 
+            "type": "", 
+            "value": "", 
+            "width": 1792, 
+            "x": 57, 
+            "xPercent": 2.9658792650918633, 
+            "y": 752, 
+            "yPercent": 9.648447523736207
+        }, 
+        "location": {
+            "x": 57, 
+            "y": 752
+        }, 
+        "size": {
+            "height": 46, 
+            "width": 1792
+        }, 
+        "tag_name": "div", 
+        "text": "Explore"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Explore", 
+    "transformed": true, 
+    "width": 3584, 
+    "x": 114, 
+    "y": 1504
+}

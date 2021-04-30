@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "77c0JHD1M6wps0fHE1QtwQ==\n", 
+    "height": 434, 
+    "hier_level": 0, 
+    "human_hash": "div_X544_Y1102_W516_H434", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "hf-accordion footer-accordion ncss-col-sm-12 ncss-col-md-4 ncss-col-lg-3 va-sm-t is-open-md", 
+                "data-index": "0", 
+                "data-maxheight": "400", 
+                "data-pre": "Accordion"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "hf-accordion footer-accordion ncss-col-sm-12 ncss-col-md-4 ncss-col-lg-3 va-sm-t is-open-md", 
+            "domLevel": 8, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 217, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "GIFT CARDSPROMOTIONSFIND A STORESIGN UP FOR EMAILBECOME A MEMBERNIKE JOURNALSEND US FEEDBACK", 
+            "type": "", 
+            "value": "", 
+            "width": 258, 
+            "x": 272, 
+            "xPercent": 14.166666666666666, 
+            "y": 551, 
+            "yPercent": 7.749472944483486
+        }, 
+        "location": {
+            "x": 272, 
+            "y": 551
+        }, 
+        "size": {
+            "height": 217, 
+            "width": 258
+        }, 
+        "tag_name": "div", 
+        "text": "GIFT CARDSPROMOTIONSFIND A STORESIGN UP FOR EMAILBECOME A MEMBERNIKE JOURNALSEND US FEEDBACK"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "GIFT CARDSPROMOTIONSFIND A STORESIGN UP FOR EMAILBECOME A MEMBERNIKE JOURNALSEND US FEEDBACK", 
+    "transformed": true, 
+    "width": 516, 
+    "x": 544, 
+    "y": 1102
+}

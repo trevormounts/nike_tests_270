@@ -4144,14 +4144,14 @@
             "iter_00000_step_00002_screenshot.png": "iter_00000_step_00001_screenshot.png", 
             "iter_00000_step_00003_screenshot.png": "iter_00000_step_00003_screenshot.png", 
             "iter_00000_step_00004_screenshot.png": "iter_00000_step_00004_screenshot.png", 
-            "iter_00000_step_00005_screenshot.png": "iter_00000_step_00005_screenshot.png", 
-            "iter_00000_step_00006_screenshot.png": "iter_00000_step_00005_screenshot.png", 
-            "iter_00000_step_00007_screenshot.png": "iter_00000_step_00007_screenshot.png", 
-            "iter_00000_step_00008_screenshot.png": "iter_00000_step_00007_screenshot.png", 
+            "iter_00000_step_00005_screenshot.png": "iter_00000_step_00006_screenshot.png", 
+            "iter_00000_step_00006_screenshot.png": "iter_00000_step_00006_screenshot.png", 
+            "iter_00000_step_00007_screenshot.png": "iter_00000_step_00008_screenshot.png", 
+            "iter_00000_step_00008_screenshot.png": "iter_00000_step_00008_screenshot.png", 
             "iter_00000_step_00009_screenshot.png": "iter_00000_step_00009_screenshot.png", 
             "iter_00000_step_00010_screenshot.png": "iter_00000_step_00010_screenshot.png", 
-            "iter_00000_step_00011_screenshot.png": "iter_00000_step_00007_screenshot.png", 
-            "iter_00000_step_00012_screenshot.png": "iter_00000_step_00007_screenshot.png", 
+            "iter_00000_step_00011_screenshot.png": "iter_00000_step_00008_screenshot.png", 
+            "iter_00000_step_00012_screenshot.png": "iter_00000_step_00008_screenshot.png", 
             "iter_00000_step_00013_screenshot.png": "iter_00000_step_00013_screenshot.png", 
             "iter_00000_step_00014_screenshot.png": "iter_00000_step_00013_screenshot.png", 
             "iter_00000_step_00015_screenshot.png": "iter_00000_step_00015_screenshot.png", 
@@ -4303,7 +4303,7 @@
                 "iter_00000_step_00017_18_input.png", 
                 "iter_00000_step_00017_19_button.png"
             ], 
-            "iter_00000_step_00005_screenshot.png": [
+            "iter_00000_step_00006_screenshot.png": [
                 "iter_00000_step_00016_0_input.png", 
                 "iter_00000_step_00006_1_div.png", 
                 "iter_00000_step_00016_2_div.png", 
@@ -4326,7 +4326,7 @@
                 "iter_00000_step_00016_19_a.png", 
                 "iter_00000_step_00016_20_div.png"
             ], 
-            "iter_00000_step_00007_screenshot.png": [
+            "iter_00000_step_00008_screenshot.png": [
                 "iter_00000_step_00017_0_a.png", 
                 "iter_00000_step_00017_1_div.png", 
                 "iter_00000_step_00017_2_div.png", 
@@ -4611,13 +4611,13 @@
                     "your_account_for_everything_nike\n__\n____\n__\n__\n____\n__\n\n__\n__\n__email_address\n__\n__please_enter_a_valid_email_address.\n__\n__it_looks_like_you're_already_a_member.\n__sign_in.\n\n\n__\n__\n__password\n__\n__please_enter_a_password.\n__\n\n__\n__\n__\n__keep_me_signed_in\n__\n\n__\n__forgot_password?\nby_logging_in,_you_agree_to_nike's_privacy_policy_and_terms_of_use.\n__\n\n__not_a_member?\n__join_us."
                 ]
             }, 
-            "iter_00000_step_00005_screenshot.png": {
+            "iter_00000_step_00006_screenshot.png": {
                 "dupe_count": [
                     2
                 ], 
                 "dupes": [
-                    "iter_00000_step_00005_screenshot.png", 
-                    "iter_00000_step_00006_screenshot.png"
+                    "iter_00000_step_00006_screenshot.png", 
+                    "iter_00000_step_00005_screenshot.png"
                 ], 
                 "tags": [
                     "a", 
@@ -4643,15 +4643,15 @@
                     "your_account_for_everything_nike"
                 ]
             }, 
-            "iter_00000_step_00007_screenshot.png": {
+            "iter_00000_step_00008_screenshot.png": {
                 "dupe_count": [
                     4
                 ], 
                 "dupes": [
-                    "iter_00000_step_00007_screenshot.png", 
                     "iter_00000_step_00008_screenshot.png", 
-                    "iter_00000_step_00011_screenshot.png", 
-                    "iter_00000_step_00012_screenshot.png"
+                    "iter_00000_step_00012_screenshot.png", 
+                    "iter_00000_step_00007_screenshot.png", 
+                    "iter_00000_step_00011_screenshot.png"
                 ], 
                 "tags": [
                     "a", 
@@ -4854,13 +4854,13 @@
         "sorted_screens": [
             "iter_00000_step_00000_screenshot.png", 
             "iter_00000_step_00001_screenshot.png", 
-            "iter_00000_step_00016_screenshot.png", 
-            "iter_00000_step_00005_screenshot.png", 
             "iter_00000_step_00015_screenshot.png", 
+            "iter_00000_step_00016_screenshot.png", 
+            "iter_00000_step_00006_screenshot.png", 
             "iter_00000_step_00003_screenshot.png", 
             "iter_00000_step_00004_screenshot.png", 
-            "iter_00000_step_00007_screenshot.png", 
             "iter_00000_step_00017_screenshot.png", 
+            "iter_00000_step_00008_screenshot.png", 
             "iter_00000_step_00013_screenshot.png", 
             "iter_00000_step_00010_screenshot.png", 
             "iter_00000_step_00009_screenshot.png"
@@ -4879,15 +4879,15 @@
             "iter_00000_step_00004_screenshot.png": [
                 "iter_00000_step_00004_screenshot.png"
             ], 
-            "iter_00000_step_00005_screenshot.png": [
-                "iter_00000_step_00005_screenshot.png", 
-                "iter_00000_step_00006_screenshot.png"
+            "iter_00000_step_00006_screenshot.png": [
+                "iter_00000_step_00006_screenshot.png", 
+                "iter_00000_step_00005_screenshot.png"
             ], 
-            "iter_00000_step_00007_screenshot.png": [
-                "iter_00000_step_00007_screenshot.png", 
+            "iter_00000_step_00008_screenshot.png": [
                 "iter_00000_step_00008_screenshot.png", 
-                "iter_00000_step_00011_screenshot.png", 
-                "iter_00000_step_00012_screenshot.png"
+                "iter_00000_step_00012_screenshot.png", 
+                "iter_00000_step_00007_screenshot.png", 
+                "iter_00000_step_00011_screenshot.png"
             ], 
             "iter_00000_step_00009_screenshot.png": [
                 "iter_00000_step_00009_screenshot.png"

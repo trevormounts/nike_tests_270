@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "h1", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "/cn8vwKs0tz3sMnI6HFbRQ==\n", 
+    "height": 132, 
+    "hier_level": 0, 
+    "human_hash": "h1_X2482_Y480_W646_H132", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "headline-2 css-zis9ta", 
+                "data-test": "product-title", 
+                "id": "pdp_product_title"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "h1", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "headline-2 css-zis9ta", 
+            "domLevel": 15, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 28, 
+            "height": 66, 
+            "identifier": "pdp_product_title", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "h1", 
+            "text": "Nike Air Max 90 Premium", 
+            "type": "", 
+            "value": "", 
+            "width": 323, 
+            "x": 1241, 
+            "xPercent": 65.11811023622047, 
+            "y": 240, 
+            "yPercent": 6.822057987492894
+        }, 
+        "location": {
+            "x": 1241, 
+            "y": 240
+        }, 
+        "size": {
+            "height": 66, 
+            "width": 323
+        }, 
+        "tag_name": "h1", 
+        "text": "Nike Air Max 90 Premium"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "h1", 
+    "text": "Nike Air Max 90 Premium", 
+    "transformed": true, 
+    "width": 646, 
+    "x": 2482, 
+    "y": 480
+}

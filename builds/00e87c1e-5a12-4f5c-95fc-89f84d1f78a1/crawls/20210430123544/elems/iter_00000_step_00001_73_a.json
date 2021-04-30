@@ -1,0 +1,78 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "itw5jbI7HDo646nGWrXZNQ==\n", 
+    "height": 80, 
+    "hier_level": 0, 
+    "human_hash": "a_X3050_Y1606_W230_H80", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "sub-footer-menu-link nav-sm-b footer-link pt2-sm pb2-sm prl2-md d-sm-b", 
+                "data-path": "ca supply chains act", 
+                "data-pre": "ILink", 
+                "data-type": "click_navFooter", 
+                "href": "https://purpose.nike.com/nike-statement-on-forced-labor", 
+                "target": "_self"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(126, 126, 126)", 
+            "cssClass": "sub-footer-menu-link nav-sm-b footer-link pt2-sm pb2-sm prl2-md d-sm-b", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 10, 
+            "height": 40, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "CA Supply Chains Act", 
+            "type": "", 
+            "value": "", 
+            "width": 115, 
+            "x": 1525, 
+            "xPercent": 79.42220052083333, 
+            "y": 803, 
+            "yPercent": 11.291286015460294
+        }, 
+        "location": {
+            "x": 1525, 
+            "y": 803
+        }, 
+        "size": {
+            "height": 40, 
+            "width": 115
+        }, 
+        "tag_name": "a", 
+        "text": "CA Supply Chains Act"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "CA Supply Chains Act", 
+    "transformed": true, 
+    "width": 230, 
+    "x": 3050, 
+    "y": 1606
+}

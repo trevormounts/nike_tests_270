@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "cot629f+/4ihfpV8Wnnz7Q==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "span_X388_Y1646_W68_H48", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "filter-item__item-label"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "filter-item__item-label", 
+            "domLevel": 23, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "11", 
+            "type": "", 
+            "value": "", 
+            "width": 34, 
+            "x": 194, 
+            "xPercent": 10.205872703412073, 
+            "y": 823, 
+            "yPercent": 44.414463032919585
+        }, 
+        "location": {
+            "x": 194, 
+            "y": 823
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 34
+        }, 
+        "tag_name": "span", 
+        "text": "11"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "11", 
+    "transformed": true, 
+    "width": 68, 
+    "x": 388, 
+    "y": 1646
+}

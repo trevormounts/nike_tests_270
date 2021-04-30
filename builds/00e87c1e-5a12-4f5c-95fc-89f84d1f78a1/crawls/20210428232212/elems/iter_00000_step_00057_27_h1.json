@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "h1", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "hwkPxrkhne69OLNKM3ydWQ==\n", 
+    "height": 86, 
+    "hier_level": 0, 
+    "human_hash": "h1_X1042_Y342_W1728_H86", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "ncss-brand u-uppercase lh20-sm fs36-sm"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "h1", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "ncss-brand u-uppercase lh20-sm fs36-sm", 
+            "domLevel": 7, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Nike TG\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 36, 
+            "height": 43, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "h1", 
+            "text": "Choose How You Would Like To Check out", 
+            "type": "", 
+            "value": "", 
+            "width": 864, 
+            "x": 521, 
+            "xPercent": 27.322834645669293, 
+            "y": 171, 
+            "yPercent": 18.024789029535864
+        }, 
+        "location": {
+            "x": 521, 
+            "y": 171
+        }, 
+        "size": {
+            "height": 43, 
+            "width": 864
+        }, 
+        "tag_name": "h1", 
+        "text": "Choose How You Would Like To Check out"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "h1", 
+    "text": "Choose How You Would Like To Check out", 
+    "transformed": true, 
+    "width": 1728, 
+    "x": 1042, 
+    "y": 342
+}

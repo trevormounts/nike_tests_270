@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "MC2ts37JrhST0o7Mznshbg==\n", 
+    "height": 38, 
+    "hier_level": 0, 
+    "human_hash": "a_X1728_Y364_W104_H38", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "css-9xb3j0 el9whzi3", 
+                "data-automation": "membership-messaging-login"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(88, 88, 88)", 
+            "cssClass": "css-9xb3j0 el9whzi3", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 19, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Sign-in", 
+            "type": "", 
+            "value": "", 
+            "width": 52, 
+            "x": 864, 
+            "xPercent": 45.34530839895013, 
+            "y": 182, 
+            "yPercent": 9.896682979880369
+        }, 
+        "location": {
+            "x": 864, 
+            "y": 182
+        }, 
+        "size": {
+            "height": 19, 
+            "width": 52
+        }, 
+        "tag_name": "a", 
+        "text": "Sign-in"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Sign-in", 
+    "transformed": true, 
+    "width": 104, 
+    "x": 1728, 
+    "y": 364
+}

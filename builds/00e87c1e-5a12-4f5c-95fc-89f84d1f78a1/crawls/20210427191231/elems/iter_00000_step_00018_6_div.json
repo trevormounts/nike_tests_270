@@ -1,0 +1,70 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "BG7zgqieKNyn7mn5MraQRw==\n", 
+    "height": 56, 
+    "hier_level": 0, 
+    "human_hash": "div_X114_Y1260_W3584_H56", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {}, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "domLevel": 7, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 28, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Featured", 
+            "type": "", 
+            "value": "", 
+            "width": 1792, 
+            "x": 57, 
+            "xPercent": 2.9658792650918633, 
+            "y": 630, 
+            "yPercent": 8.083140877598153
+        }, 
+        "location": {
+            "x": 57, 
+            "y": 630
+        }, 
+        "size": {
+            "height": 28, 
+            "width": 1792
+        }, 
+        "tag_name": "div", 
+        "text": "Featured"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Featured", 
+    "transformed": true, 
+    "width": 3584, 
+    "x": 114, 
+    "y": 1260
+}

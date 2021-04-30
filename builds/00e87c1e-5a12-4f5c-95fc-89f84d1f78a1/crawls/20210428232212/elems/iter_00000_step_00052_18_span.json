@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "Mz3G4U1xTN4JJmecAF+2VA==\n", 
+    "height": 54, 
+    "hier_level": 0, 
+    "human_hash": "span_X2760_Y1432_W168_H54", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "wishlist-btn__tooltip prl3-sm pt1-sm pb1-sm"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "wishlist-btn__tooltip prl3-sm pt1-sm pb1-sm", 
+            "domLevel": 17, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 27, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Favorite", 
+            "type": "", 
+            "value": "", 
+            "width": 84, 
+            "x": 1380, 
+            "xPercent": 72.4384842519685, 
+            "y": 716, 
+            "yPercent": 20.352472996020467
+        }, 
+        "location": {
+            "x": 1380, 
+            "y": 716
+        }, 
+        "size": {
+            "height": 27, 
+            "width": 84
+        }, 
+        "tag_name": "span", 
+        "text": "Favorite"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Favorite", 
+    "transformed": true, 
+    "width": 168, 
+    "x": 2760, 
+    "y": 1432
+}

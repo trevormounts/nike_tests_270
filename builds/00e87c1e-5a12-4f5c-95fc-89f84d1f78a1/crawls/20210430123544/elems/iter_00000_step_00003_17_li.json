@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "li", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "B2Xp/3cW4kGjoqKnSO3PZg==\n", 
+    "height": 56, 
+    "hier_level": 0, 
+    "human_hash": "li_X560_Y1460_W484_H56", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "footer-link"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "li", 
+            "color": "rgb(126, 126, 126)", 
+            "cssClass": "footer-link", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 28, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "li", 
+            "text": "GIFT CARDS", 
+            "type": "", 
+            "value": 0, 
+            "width": 242, 
+            "x": 280, 
+            "xPercent": 14.583333333333334, 
+            "y": 730, 
+            "yPercent": 9.483955005843397
+        }, 
+        "location": {
+            "x": 280, 
+            "y": 730
+        }, 
+        "size": {
+            "height": 28, 
+            "width": 242
+        }, 
+        "tag_name": "li", 
+        "text": "GIFT CARDS"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "li", 
+    "text": "GIFT CARDS", 
+    "transformed": true, 
+    "width": 484, 
+    "x": 560, 
+    "y": 1460
+}

@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "li", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "uDtpsckoDDf+IXj6A233Sw==\n", 
+    "height": 80, 
+    "hier_level": 0, 
+    "human_hash": "li_X3050_Y1606_W230_H80", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "ml3-md mr0-md d-sm-b d-md-ib fs12-nav-sm fs10-nav-md"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "li", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "ml3-md mr0-md d-sm-b d-md-ib fs12-nav-sm fs10-nav-md", 
+            "domLevel": 8, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 10, 
+            "height": 40, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "li", 
+            "text": "CA Supply Chains Act", 
+            "type": "", 
+            "value": 0, 
+            "width": 115, 
+            "x": 1525, 
+            "xPercent": 79.42220052083333, 
+            "y": 803, 
+            "yPercent": 11.291286015460294
+        }, 
+        "location": {
+            "x": 1525, 
+            "y": 803
+        }, 
+        "size": {
+            "height": 40, 
+            "width": 115
+        }, 
+        "tag_name": "li", 
+        "text": "CA Supply Chains Act"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "li", 
+    "text": "CA Supply Chains Act", 
+    "transformed": true, 
+    "width": 230, 
+    "x": 3050, 
+    "y": 1606
+}

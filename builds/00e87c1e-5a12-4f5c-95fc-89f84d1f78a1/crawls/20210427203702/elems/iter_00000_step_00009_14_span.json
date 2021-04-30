@@ -1,0 +1,70 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "ofYGIsemVwKpzcF+fmXGMg==\n", 
+    "height": 32, 
+    "hier_level": 0, 
+    "human_hash": "span_X1566_Y1390_W308_H32", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {}, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(17, 17, 17)", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Helvetica", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 16, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Male", 
+            "type": "", 
+            "value": "", 
+            "width": 154, 
+            "x": 783, 
+            "xPercent": 41.10236220472441, 
+            "y": 695, 
+            "yPercent": 9.101623886851755
+        }, 
+        "location": {
+            "x": 783, 
+            "y": 695
+        }, 
+        "size": {
+            "height": 16, 
+            "width": 154
+        }, 
+        "tag_name": "span", 
+        "text": "Male"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Male", 
+    "transformed": true, 
+    "width": 308, 
+    "x": 1566, 
+    "y": 1390
+}

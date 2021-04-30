@@ -1,0 +1,78 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "elem_shot_file_path": "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210429031710/tmpZ/div_X88_Y368_W392_H444.png", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "gxwZ/IjA3XER67zCUa/Ndg==\n", 
+    "height": 444, 
+    "hier_level": 0, 
+    "human_hash": "div_X88_Y368_W392_H444", 
+    "human_readable": "div_88_368_392_444_div_ce738c73ce738e73fffffe73fc73fe73cc73ffffde73cc73de73c9b3ffffffff_d42cc5c411bc3c45837562ba953938ab", 
+    "img_hash": "5a03b7226d3c64394d1ca2ef1f1b8f1d", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "Collapsible__contentOuter filter-group__outer", 
+                "style": "height: auto; transition: none 0s ease 0s; overflow: hidden;"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "Collapsible__contentOuter filter-group__outer", 
+            "domLevel": 19, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 222, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "PurpleBlackRedWhiteBrownGreenYellowMulti-ColorGrey", 
+            "type": "", 
+            "value": "", 
+            "width": 196, 
+            "x": 44, 
+            "xPercent": 2.3097112860892386, 
+            "y": 184, 
+            "yPercent": 4.425204425204425
+        }, 
+        "location": {
+            "x": 44, 
+            "y": 184
+        }, 
+        "size": {
+            "height": 222, 
+            "width": 196
+        }, 
+        "tag_name": "div", 
+        "text": "PurpleBlackRedWhiteBrownGreenYellowMulti-ColorGrey"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "PurpleBlackRedWhiteBrownGreenYellowMulti-ColorGrey", 
+    "text_hash": "d42cc5c411bc3c45837562ba953938ab", 
+    "transformed": true, 
+    "width": 392, 
+    "x": 88, 
+    "y": 368
+}

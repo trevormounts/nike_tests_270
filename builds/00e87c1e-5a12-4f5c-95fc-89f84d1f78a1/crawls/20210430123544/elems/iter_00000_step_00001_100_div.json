@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "zLE6vQZb3qVeLvFJkAzeHQ==\n", 
+    "height": 334, 
+    "hier_level": 0, 
+    "human_hash": "div_X1576_Y1102_W516_H334", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "hf-accordion footer-accordion ncss-col-sm-12 ncss-col-md-4 ncss-col-lg-3 va-sm-t is-open-md", 
+                "data-index": "2", 
+                "data-maxheight": "400", 
+                "data-pre": "Accordion"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "hf-accordion footer-accordion ncss-col-sm-12 ncss-col-md-4 ncss-col-lg-3 va-sm-t is-open-md", 
+            "domLevel": 8, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 167, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "About NikeAbout NikeNewsCareersInvestorsPurposeSustainability", 
+            "type": "", 
+            "value": "", 
+            "width": 258, 
+            "x": 788, 
+            "xPercent": 41.041666666666664, 
+            "y": 551, 
+            "yPercent": 7.749472944483486
+        }, 
+        "location": {
+            "x": 788, 
+            "y": 551
+        }, 
+        "size": {
+            "height": 167, 
+            "width": 258
+        }, 
+        "tag_name": "div", 
+        "text": "About NikeAbout NikeNewsCareersInvestorsPurposeSustainability"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "About NikeAbout NikeNewsCareersInvestorsPurposeSustainability", 
+    "transformed": true, 
+    "width": 516, 
+    "x": 1576, 
+    "y": 1102
+}

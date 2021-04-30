@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "29uhnfSN8wz9EP4w/Blhlw==\n", 
+    "height": 54, 
+    "hier_level": 0, 
+    "human_hash": "a_X1886_Y384_W64_H54", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "Men", 
+                "class": "JSftBPEZ", 
+                "data-analytics-action-id": "d9f8ece5-ccf9-40be-a949-c86645edd08e", 
+                "href": "https://www.nike.com/w/mens-nike-by-you-shoes-6ealhznik1zy7ok"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "JSftBPEZ", 
+            "domLevel": 14, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 27, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Men", 
+            "type": "", 
+            "value": "", 
+            "width": 32, 
+            "x": 943, 
+            "xPercent": 49.1357421875, 
+            "y": 192, 
+            "yPercent": 3.522935779816514
+        }, 
+        "location": {
+            "x": 943, 
+            "y": 192
+        }, 
+        "size": {
+            "height": 27, 
+            "width": 32
+        }, 
+        "tag_name": "a", 
+        "text": "Men"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Men", 
+    "transformed": true, 
+    "width": 64, 
+    "x": 1886, 
+    "y": 384
+}

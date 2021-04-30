@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "elem_shot_file_path": "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210430130404/tmpZ/span_X3310_Y386_W178_H56.png", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "l7E4oJpwMPsXs96yCUFIuw==\n", 
+    "height": 56, 
+    "hier_level": 0, 
+    "human_hash": "span_X3310_Y386_W178_H56", 
+    "human_readable": "span_3310_386_178_56_span_fffffffffffffffffeff143f01830001000301010001c389ffffffffffffffff_5309530763887494b095468a860671ba", 
+    "img_hash": "0feee028cc39ab7294d9434f4d4f0ee6", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "wall-header__filter_text"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "wall-header__filter_text", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 28, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Hide Filters", 
+            "type": "", 
+            "value": "", 
+            "width": 89, 
+            "x": 1655, 
+            "xPercent": 86.1865234375, 
+            "y": 193, 
+            "yPercent": 4.631629469642428
+        }, 
+        "location": {
+            "x": 1655, 
+            "y": 193
+        }, 
+        "size": {
+            "height": 28, 
+            "width": 89
+        }, 
+        "tag_name": "span", 
+        "text": "Hide Filters"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Hide Filters", 
+    "text_hash": "5309530763887494b095468a860671ba", 
+    "transformed": true, 
+    "width": 178, 
+    "x": 3310, 
+    "y": 386
+}

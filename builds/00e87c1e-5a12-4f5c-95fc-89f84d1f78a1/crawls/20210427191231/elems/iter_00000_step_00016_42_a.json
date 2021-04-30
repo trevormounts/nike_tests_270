@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "DsgydfB2TwSZlChYWvtOBA==\n", 
+    "height": 30, 
+    "hier_level": 0, 
+    "human_hash": "a_X1674_Y256_W332_H30", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "_2trpWJ_I", 
+                "data-analytics-action-id": "0b2171ef-32fc-4af3-9cd7-ac5b10e8ac71", 
+                "href": "https://www.nike.com/w/sale-3yaep"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "_2trpWJ_I", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 12, 
+            "height": 15, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Shop All Our New Markdowns", 
+            "type": "", 
+            "value": "", 
+            "width": 166, 
+            "x": 837, 
+            "xPercent": 43.920286483964894, 
+            "y": 128, 
+            "yPercent": 1.633069660627711
+        }, 
+        "location": {
+            "x": 837, 
+            "y": 128
+        }, 
+        "size": {
+            "height": 15, 
+            "width": 166
+        }, 
+        "tag_name": "a", 
+        "text": "Shop All Our New Markdowns"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Shop All Our New Markdowns", 
+    "transformed": true, 
+    "width": 332, 
+    "x": 1674, 
+    "y": 256
+}

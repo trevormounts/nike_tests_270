@@ -1,0 +1,72 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "IviMv2XUCJnxbfarAWHcFw==\n", 
+    "height": 250, 
+    "hier_level": 0, 
+    "human_hash": "div_X2884_Y912_W952_H250", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "data-radium": "true"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 125, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Swoosh", 
+            "type": "", 
+            "value": "", 
+            "width": 476, 
+            "x": 1442, 
+            "xPercent": 75.10416666666667, 
+            "y": 456, 
+            "yPercent": 50.66666666666667
+        }, 
+        "location": {
+            "x": 1442, 
+            "y": 456
+        }, 
+        "size": {
+            "height": 125, 
+            "width": 476
+        }, 
+        "tag_name": "div", 
+        "text": "Swoosh"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Swoosh", 
+    "transformed": true, 
+    "width": 952, 
+    "x": 2884, 
+    "y": 912
+}

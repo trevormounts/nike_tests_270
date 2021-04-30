@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "pBMXPmcmLm/Bo+Oi/IrWaw==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "a_X2832_Y422_W42_H48", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "Edit", 
+                "class": "u-underline fl-sm-r pr0-sm small text-color-black bg-light-grey", 
+                "href": "https://www.nike.com/cart", 
+                "role": "button"
+            }, 
+            "background-color": "rgb(229, 229, 229)", 
+            "class": "a", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "u-underline fl-sm-r pr0-sm small text-color-black bg-light-grey", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Edit", 
+            "type": "", 
+            "value": "", 
+            "width": 21, 
+            "x": 1416, 
+            "xPercent": 74.30856299212599, 
+            "y": 211, 
+            "yPercent": 19.707943925233646
+        }, 
+        "location": {
+            "x": 1416, 
+            "y": 211
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 21
+        }, 
+        "tag_name": "a", 
+        "text": "Edit"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Edit", 
+    "transformed": true, 
+    "width": 42, 
+    "x": 2832, 
+    "y": 422
+}

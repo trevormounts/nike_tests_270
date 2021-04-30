@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "PFJ/8le0NviQ+oLVkLcTfQ==\n", 
+    "height": 664, 
+    "hier_level": 0, 
+    "human_hash": "div_X480_Y1022_W2880_H664", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "ncss-container nav-fixed-fluid prl5-md pt5-sm pt10-md pb0-md prl10-lg"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "ncss-container nav-fixed-fluid prl5-md pt5-sm pt10-md pb0-md prl10-lg", 
+            "domLevel": 4, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 332, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "GIFT CARDSPROMOTIONSFIND A STORESIGN UP FOR EMAILBECOME A MEMBERNIKE JOURNALSEND US FEEDBACKGet HelpGet HelpOrder StatusShipping and DeliveryReturnsPayment OptionsGift Card BalanceContact UsAbout NikeAbout NikeNewsCareersInvestorsPurposeSustainabilityUnited States\u00a9 2021 Nike, Inc. All Rights ReservedGuidesNike AdaptNike AirNike Air Force 1Nike Air MaxNike FlyEaseNike FlyknitNike FlyleatherNike FreeNike JoyrideNike ReactNike VaporflyNike ZoomXSpace HippieTerms of SaleTerms of UseNike Privacy PolicyCA Supply Chains Act", 
+            "type": "", 
+            "value": "", 
+            "width": 1440, 
+            "x": 240, 
+            "xPercent": 12.5, 
+            "y": 511, 
+            "yPercent": 7.1872803935347855
+        }, 
+        "location": {
+            "x": 240, 
+            "y": 511
+        }, 
+        "size": {
+            "height": 332, 
+            "width": 1440
+        }, 
+        "tag_name": "div", 
+        "text": "GIFT CARDSPROMOTIONSFIND A STORESIGN UP FOR EMAILBECOME A MEMBERNIKE JOURNALSEND US FEEDBACKGet HelpGet HelpOrder StatusShipping and DeliveryReturnsPayment OptionsGift Card BalanceContact UsAbout NikeAbout NikeNewsCareersInvestorsPurposeSustainabilityUnited States\u00a9 2021 Nike, Inc. All Rights ReservedGuidesNike AdaptNike AirNike Air Force 1Nike Air MaxNike FlyEaseNike FlyknitNike FlyleatherNike FreeNike JoyrideNike ReactNike VaporflyNike ZoomXSpace HippieTerms of SaleTerms of UseNike Privacy PolicyCA Supply Chains Act"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "GIFT CARDSPROMOTIONSFIND A STORESIGN UP FOR EMAILBECOME A MEMBERNIKE JOURNALSEND US FEEDBACKGet HelpGet HelpOrder StatusShipping and DeliveryReturnsPayment OptionsGift Card BalanceContact UsAbout NikeAbout NikeNewsCareersInvestorsPurposeSustainabilityUnited States\u00a9 2021 Nike, Inc. All Rights ReservedGuidesNike AdaptNike AirNike Air Force 1Nike Air MaxNike FlyEaseNike FlyknitNike FlyleatherNike FreeNike JoyrideNike ReactNike VaporflyNike ZoomXSpace HippieTerms of SaleTerms of UseNike Privacy PolicyCA Supply Chains Act", 
+    "transformed": true, 
+    "width": 2880, 
+    "x": 480, 
+    "y": 1022
+}

@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "JYnr280Vl+dUjB4hEveC2g==\n", 
+    "height": 96, 
+    "hier_level": 0, 
+    "human_hash": "div_X1564_Y832_W642_H96", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "no-overflow clearfix ncss-input-container animatedForm ncss-col-md-6 ncss-col-sm-12 mod-ncss-input-container mb2-sm mb4-md va-sm-t mb3-sm css-0"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "no-overflow clearfix ncss-input-container animatedForm ncss-col-md-6 ncss-col-sm-12 mod-ncss-input-container mb2-sm mb4-md va-sm-t mb3-sm css-0", 
+            "domLevel": 18, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 48, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Last Name", 
+            "type": "", 
+            "value": "", 
+            "width": 321, 
+            "x": 782, 
+            "xPercent": 41.04084645669291, 
+            "y": 416, 
+            "yPercent": 38.86682242990654
+        }, 
+        "location": {
+            "x": 782, 
+            "y": 416
+        }, 
+        "size": {
+            "height": 48, 
+            "width": 321
+        }, 
+        "tag_name": "div", 
+        "text": "Last Name"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Last Name", 
+    "transformed": true, 
+    "width": 642, 
+    "x": 1564, 
+    "y": 832
+}

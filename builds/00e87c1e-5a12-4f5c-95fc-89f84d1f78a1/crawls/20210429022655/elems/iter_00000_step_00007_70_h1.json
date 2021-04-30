@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "h1", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "C6YJ1vMrRKC7kUXYxUuFow==\n", 
+    "height": 66, 
+    "hier_level": 0, 
+    "human_hash": "h1_X96_Y410_W3184_H66", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "wall-header__title css-hrsjq4 css-7m6ucd css-yj4gxb", 
+                "id": "Women's-Air-Max-Shoes"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "h1", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "wall-header__title css-hrsjq4 css-7m6ucd css-yj4gxb", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 24, 
+            "height": 33, 
+            "identifier": "Women's-Air-Max-Shoes", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "h1", 
+            "text": "Women's Air Max Shoes(50)", 
+            "type": "", 
+            "value": "", 
+            "width": 1592, 
+            "x": 48, 
+            "xPercent": 2.5196850393700787, 
+            "y": 205, 
+            "yPercent": 2.7841912264022817
+        }, 
+        "location": {
+            "x": 48, 
+            "y": 205
+        }, 
+        "size": {
+            "height": 33, 
+            "width": 1592
+        }, 
+        "tag_name": "h1", 
+        "text": "Women's Air Max Shoes(50)"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "h1", 
+    "text": "Women's Air Max Shoes(50)", 
+    "transformed": true, 
+    "width": 3184, 
+    "x": 96, 
+    "y": 410
+}

@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "li", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "gW0FOZB+2w9mstuqIZpa3w==\n", 
+    "height": 120, 
+    "hier_level": 0, 
+    "human_hash": "li_X1794_Y72_W160_H120", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "pre-desktop-menu-item d-lg-ib is-static is-header"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "li", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "pre-desktop-menu-item d-lg-ib is-static is-header", 
+            "domLevel": 13, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 60, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "li", 
+            "text": "WomenNew & FeaturedNew ReleasesBest SellersBest of Air MaxTop Picks for MomRec Club Collection Trending: Bike ShortsSale - Up to 40% OffShoesLifestyleRunningTraining & GymBasketballJordanSoccerTennisTrack & FieldSandals & SlidesSkateboardingSoftballShoes $100 & UnderAll ShoesClothingPants & LeggingsSports BrasMatching SetsTops & T-ShirtsShortsHoodies & SweatshirtsJackets & VestsSwimwearNike ProPlus SizeSkirts & DressesNike MaternityYogaSocksAll ClothingAccessories & EquipmentBags & BackpacksHats, Visors & HeadbandsApple Watch NikeShop CollectionRunningGolfSoccerJordanTraining & GymTennisNike SportswearACGNikeLabVolleyballBasketballSoftballSkateboardingLacrosseFan GearNike FlyEase", 
+            "type": "", 
+            "value": 0, 
+            "width": 80, 
+            "x": 897, 
+            "xPercent": 47.09153543307087, 
+            "y": 36, 
+            "yPercent": 0.4899959167006942
+        }, 
+        "location": {
+            "x": 897, 
+            "y": 36
+        }, 
+        "size": {
+            "height": 60, 
+            "width": 80
+        }, 
+        "tag_name": "li", 
+        "text": "WomenNew & FeaturedNew ReleasesBest SellersBest of Air MaxTop Picks for MomRec Club Collection Trending: Bike ShortsSale - Up to 40% OffShoesLifestyleRunningTraining & GymBasketballJordanSoccerTennisTrack & FieldSandals & SlidesSkateboardingSoftballShoes $100 & UnderAll ShoesClothingPants & LeggingsSports BrasMatching SetsTops & T-ShirtsShortsHoodies & SweatshirtsJackets & VestsSwimwearNike ProPlus SizeSkirts & DressesNike MaternityYogaSocksAll ClothingAccessories & EquipmentBags & BackpacksHats, Visors & HeadbandsApple Watch NikeShop CollectionRunningGolfSoccerJordanTraining & GymTennisNike SportswearACGNikeLabVolleyballBasketballSoftballSkateboardingLacrosseFan GearNike FlyEase"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "li", 
+    "text": "WomenNew & FeaturedNew ReleasesBest SellersBest of Air MaxTop Picks for MomRec Club Collection Trending: Bike ShortsSale - Up to 40% OffShoesLifestyleRunningTraining & GymBasketballJordanSoccerTennisTrack & FieldSandals & SlidesSkateboardingSoftballShoes $100 & UnderAll ShoesClothingPants & LeggingsSports BrasMatching SetsTops & T-ShirtsShortsHoodies & SweatshirtsJackets & VestsSwimwearNike ProPlus SizeSkirts & DressesNike MaternityYogaSocksAll ClothingAccessories & EquipmentBags & BackpacksHats, Visors & HeadbandsApple Watch NikeShop CollectionRunningGolfSoccerJordanTraining & GymTennisNike SportswearACGNikeLabVolleyballBasketballSoftballSkateboardingLacrosseFan GearNike FlyEase", 
+    "transformed": true, 
+    "width": 160, 
+    "x": 1794, 
+    "y": 72
+}

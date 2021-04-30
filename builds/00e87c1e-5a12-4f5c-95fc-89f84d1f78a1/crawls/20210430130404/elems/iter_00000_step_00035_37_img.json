@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "img", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "3pf2Ty/a3VIWffC6J6zKbg==\n", 
+    "height": 138, 
+    "hier_level": 0, 
+    "human_hash": "img_X2496_Y694_W138_H138", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "Multi-Color/Multi-Color", 
+                "class": "bg-medium-grey", 
+                "src": "https://secure-render.nike.com/ir/render/nikeidrender/Met6FA20_v9?obj=/s/shadow/shad&show&color=000000&obj=/s/g1&color=282828&show&obj=/s/g4/eye&color=dfdfdf&show&obj=/s/g3&color=2c2c2c&show&obj=/s/g6&color=282828&show&obj=/s/g7&color=2b2a2c&show&obj=/s/g9&color=252628&show&obj=/s/g28&color=26252a&show&obj=/s/g27&color=EAF0F8&show&obj=/s/g12&color=f96699&show&obj=/s/g13&color=f96699&show&obj=/s/g14&color=f96699&show&obj=/s/g17&color=26252a&show&obj=/s/g32&color=141414&show&obj=/s/g18&color=212121&show&obj=/s/g29&color=59595B&show&obj=/s/g19&color=212121&show&obj=/s/g5/geye&color=343536&show&obj=/s/g8/nopid&color=3e3d3f&show&obj=/s/g10/solid&color=f7f7f7&show&obj=/s/g20/iri&show&obj=/s/g21&color=818680&show&obj=/s/g23/8mm&show&obj=/s/g24/solid&color=2f2f2f&show&obj=/s/g11&color=343536&show&obj=/s/g15&color=525252&show&obj=/s/g16&color=212121&show&obj=/s/g22&color=f0f0ef&show&obj=/s&req=object&fmt=png-alpha&icc=AdobeRGB&wid=250"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "img", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "bg-medium-grey", 
+            "domLevel": 21, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 69, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "img", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 69, 
+            "x": 1248, 
+            "xPercent": 65, 
+            "y": 347, 
+            "yPercent": 13.239221671117892
+        }, 
+        "location": {
+            "x": 1248, 
+            "y": 347
+        }, 
+        "size": {
+            "height": 69, 
+            "width": 69
+        }, 
+        "tag_name": "img", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "img", 
+    "text": "", 
+    "transformed": true, 
+    "width": 138, 
+    "x": 2496, 
+    "y": 694
+}

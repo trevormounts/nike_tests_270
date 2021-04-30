@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "FxkO57otUU6bLxTrUIh7jQ==\n", 
+    "height": 80, 
+    "hier_level": 0, 
+    "human_hash": "button_X1126_Y1586_W306_H80", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "ncss-btn-primary-dark", 
+                "data-automation": "done-button", 
+                "data-radium": "true", 
+                "style": "width: 100%; cursor: pointer; outline: none; border-radius: 24px;"
+            }, 
+            "background-color": "rgb(17, 17, 17)", 
+            "class": "button", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "ncss-btn-primary-dark", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 40, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "Done", 
+            "type": "", 
+            "value": "", 
+            "width": 153, 
+            "x": 563, 
+            "xPercent": 29.296875, 
+            "y": 793, 
+            "yPercent": 88.1111111111111
+        }, 
+        "location": {
+            "x": 563, 
+            "y": 793
+        }, 
+        "size": {
+            "height": 40, 
+            "width": 153
+        }, 
+        "tag_name": "button", 
+        "text": "Done"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "Done", 
+    "transformed": true, 
+    "width": 306, 
+    "x": 1126, 
+    "y": 1586
+}

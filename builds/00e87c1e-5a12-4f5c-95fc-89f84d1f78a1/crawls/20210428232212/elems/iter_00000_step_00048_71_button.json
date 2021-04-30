@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "7XqVQH1WhK4jhRh9BBT63A==\n", 
+    "height": 120, 
+    "hier_level": 0, 
+    "human_hash": "button_X2482_Y1400_W752_H120", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "Favorite", 
+                "aria-pressed": "false", 
+                "class": "wishlist-btn ncss-btn-secondary-dark btn-lg mt3-sm", 
+                "data-test": "wishlistBtn", 
+                "type": "button"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "button", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "wishlist-btn ncss-btn-secondary-dark btn-lg mt3-sm", 
+            "domLevel": 16, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 60, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "Favorite", 
+            "type": "button", 
+            "value": "", 
+            "width": 376, 
+            "x": 1241, 
+            "xPercent": 65.11811023622047, 
+            "y": 700, 
+            "yPercent": 19.897669130187605
+        }, 
+        "location": {
+            "x": 1241, 
+            "y": 700
+        }, 
+        "size": {
+            "height": 60, 
+            "width": 376
+        }, 
+        "tag_name": "button", 
+        "text": "Favorite"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "Favorite", 
+    "transformed": true, 
+    "width": 752, 
+    "x": 2482, 
+    "y": 1400
+}

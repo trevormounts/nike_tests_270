@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "li", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "ULn2KuPZp6CCxK80PmzuVA==\n", 
+    "height": 50, 
+    "hier_level": 0, 
+    "human_hash": "li_X1076_Y1682_W484_H50", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "footer-link"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "li", 
+            "color": "rgb(126, 126, 126)", 
+            "cssClass": "footer-link", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 25, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "li", 
+            "text": "Payment Options", 
+            "type": "", 
+            "value": 0, 
+            "width": 242, 
+            "x": 538, 
+            "xPercent": 28.020833333333332, 
+            "y": 841, 
+            "yPercent": 10.925326256330345
+        }, 
+        "location": {
+            "x": 538, 
+            "y": 841
+        }, 
+        "size": {
+            "height": 25, 
+            "width": 242
+        }, 
+        "tag_name": "li", 
+        "text": "Payment Options"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "li", 
+    "text": "Payment Options", 
+    "transformed": true, 
+    "width": 484, 
+    "x": 1076, 
+    "y": 1682
+}

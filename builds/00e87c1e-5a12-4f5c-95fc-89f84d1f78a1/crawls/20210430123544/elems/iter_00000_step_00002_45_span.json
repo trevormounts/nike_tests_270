@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "WBzP3Sw8CIMNJs0ty60v4Q==\n", 
+    "height": 42, 
+    "hier_level": 0, 
+    "human_hash": "span_X3692_Y116_W72_H42", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "pre-jewel pre-cart-jewel text-color-primary-dark", 
+                "data-var": "jewel", 
+                "style": "visibility:hidden"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "pre-jewel pre-cart-jewel text-color-primary-dark", 
+            "domLevel": 13, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 12, 
+            "height": 21, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "0", 
+            "type": "", 
+            "value": "", 
+            "width": 36, 
+            "x": 1846, 
+            "xPercent": 96.14583333333333, 
+            "y": 58, 
+            "yPercent": 1.3865646665072915
+        }, 
+        "location": {
+            "x": 1846, 
+            "y": 58
+        }, 
+        "size": {
+            "height": 21, 
+            "width": 36
+        }, 
+        "tag_name": "span", 
+        "text": "0"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "0", 
+    "transformed": true, 
+    "width": 72, 
+    "x": 3692, 
+    "y": 116
+}

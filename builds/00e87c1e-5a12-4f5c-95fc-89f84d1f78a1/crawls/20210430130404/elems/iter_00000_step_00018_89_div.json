@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "iktH2Q33jYVntGWCbmTkUg==\n", 
+    "height": 272, 
+    "hier_level": 0, 
+    "human_hash": "div_X88_Y1358_W392_H272", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "Color, 1 Selected", 
+                "class": "filter-group__items-group", 
+                "id": "wallNavFG2", 
+                "role": "group"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "filter-group__items-group", 
+            "domLevel": 21, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 136, 
+            "identifier": "wallNavFG2", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "BlackWhiteBrownYellowMulti-Color", 
+            "type": "", 
+            "value": "", 
+            "width": 196, 
+            "x": 44, 
+            "xPercent": 2.2916666666666665, 
+            "y": 679, 
+            "yPercent": 24.735883424408016
+        }, 
+        "location": {
+            "x": 44, 
+            "y": 679
+        }, 
+        "size": {
+            "height": 136, 
+            "width": 196
+        }, 
+        "tag_name": "div", 
+        "text": "BlackWhiteBrownYellowMulti-Color"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "BlackWhiteBrownYellowMulti-Color", 
+    "transformed": true, 
+    "width": 392, 
+    "x": 88, 
+    "y": 1358
+}

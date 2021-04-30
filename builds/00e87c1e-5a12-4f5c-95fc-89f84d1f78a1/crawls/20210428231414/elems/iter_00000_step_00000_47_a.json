@@ -1,0 +1,81 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "+vaotZlj2033+La2p66qcg==\n", 
+    "height": 120, 
+    "hier_level": 0, 
+    "human_hash": "a_X1670_Y72_W112_H120", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-controls": "DesktopMenu-0-1-0", 
+                "aria-expanded": "false", 
+                "aria-label": "Men", 
+                "class": "pre-desktop-menu-link headline-5 prl3-lg pt4-sm d-sm-b no-outline", 
+                "data-nav": "1,0,-1", 
+                "data-path": "men", 
+                "data-pre": "ILink", 
+                "data-type": "click_navShoppingMenu", 
+                "href": "https://www.nike.com/men", 
+                "role": "menu"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "pre-desktop-menu-link headline-5 prl3-lg pt4-sm d-sm-b no-outline", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 60, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Men", 
+            "type": "", 
+            "value": "", 
+            "width": 56, 
+            "x": 835, 
+            "xPercent": 43.816437007874015, 
+            "y": 36, 
+            "yPercent": 0.47145102147721324
+        }, 
+        "location": {
+            "x": 835, 
+            "y": 36
+        }, 
+        "size": {
+            "height": 60, 
+            "width": 56
+        }, 
+        "tag_name": "a", 
+        "text": "Men"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Men", 
+    "transformed": true, 
+    "width": 112, 
+    "x": 1670, 
+    "y": 72
+}

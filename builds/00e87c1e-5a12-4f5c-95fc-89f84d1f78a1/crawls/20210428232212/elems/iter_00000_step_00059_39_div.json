@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "jbCKtFt0UB356UvdVAGftg==\n", 
+    "height": 192, 
+    "hier_level": 0, 
+    "human_hash": "div_X466_Y198_W2880_H192", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "checkout-banner ncss-row"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "checkout-banner ncss-row", 
+            "domLevel": 6, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 0, 
+            "height": 96, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Checkout1 item$138.00", 
+            "type": "", 
+            "value": "", 
+            "width": 1440, 
+            "x": 233, 
+            "xPercent": 12.204724409448819, 
+            "y": 99, 
+            "yPercent": 9.240654205607477
+        }, 
+        "location": {
+            "x": 233, 
+            "y": 99
+        }, 
+        "size": {
+            "height": 96, 
+            "width": 1440
+        }, 
+        "tag_name": "div", 
+        "text": "Checkout1 item$138.00"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Checkout1 item$138.00", 
+    "transformed": true, 
+    "width": 2880, 
+    "x": 466, 
+    "y": 198
+}

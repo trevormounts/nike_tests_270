@@ -1,0 +1,82 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "elem_shot_file_path": "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210430130404/tmpZ/a_X168_Y0_W96_H72.png", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "iwLzoIuzHIy7kpWjoSX2jw==\n", 
+    "height": 72, 
+    "hier_level": 0, 
+    "human_hash": "a_X168_Y0_W96_H72", 
+    "human_readable": "a_168_0_96_72_a_fffffffffffffc7ffe3ffe1ff11ff18ff18ff11ffe1ffe3ffc7fffffffffffff_9d4568c009d203ab10e33ea9953a0264", 
+    "img_hash": "eb9a635ecc30748698a6d62e6548cefb", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "Converse", 
+                "class": "pre-brand-item d-sm-ib prl3-sm", 
+                "data-path": "Converse", 
+                "data-pre": "ILink", 
+                "data-type": "click_navBrandBar", 
+                "href": "https://www.nike.com/w/converse-shoes-akmjxzy7ok"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "pre-brand-item d-sm-ib prl3-sm", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 36, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 48, 
+            "x": 84, 
+            "xPercent": 4.375, 
+            "y": 0, 
+            "yPercent": 0
+        }, 
+        "location": {
+            "x": 84, 
+            "y": 0
+        }, 
+        "size": {
+            "height": 36, 
+            "width": 48
+        }, 
+        "tag_name": "a", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "", 
+    "text_hash": "9d4568c009d203ab10e33ea9953a0264", 
+    "transformed": true, 
+    "width": 96, 
+    "x": 168, 
+    "y": 0
+}

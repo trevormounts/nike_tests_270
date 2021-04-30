@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "jFwBDXXWh8bqV7PiwNSl6A==\n", 
+    "height": 408, 
+    "hier_level": 0, 
+    "human_hash": "div_X88_Y384_W392_H408", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "Color", 
+                "class": "filter-group__items-group", 
+                "id": "wallNavFG2", 
+                "role": "group"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "filter-group__items-group", 
+            "domLevel": 21, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 204, 
+            "identifier": "wallNavFG2", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "PurpleBlackRedWhiteBrownGreenYellowMulti-ColorGrey", 
+            "type": "", 
+            "value": "", 
+            "width": 196, 
+            "x": 44, 
+            "xPercent": 2.3097112860892386, 
+            "y": 192, 
+            "yPercent": 4.617604617604617
+        }, 
+        "location": {
+            "x": 44, 
+            "y": 192
+        }, 
+        "size": {
+            "height": 204, 
+            "width": 196
+        }, 
+        "tag_name": "div", 
+        "text": "PurpleBlackRedWhiteBrownGreenYellowMulti-ColorGrey"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "PurpleBlackRedWhiteBrownGreenYellowMulti-ColorGrey", 
+    "transformed": true, 
+    "width": 392, 
+    "x": 88, 
+    "y": 384
+}

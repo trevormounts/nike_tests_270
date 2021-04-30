@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "JEin/RYWxaAJcLND2zCIkw==\n", 
+    "height": 32, 
+    "hier_level": 0, 
+    "human_hash": "span_X2302_Y550_W106_H32", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "subtotalText"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "subtotalText", 
+            "domLevel": 16, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 16, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Subtotal", 
+            "type": "", 
+            "value": "", 
+            "width": 53, 
+            "x": 1151, 
+            "xPercent": 60.42814960629921, 
+            "y": 275, 
+            "yPercent": 25.689252336448597
+        }, 
+        "location": {
+            "x": 1151, 
+            "y": 275
+        }, 
+        "size": {
+            "height": 16, 
+            "width": 53
+        }, 
+        "tag_name": "span", 
+        "text": "Subtotal"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Subtotal", 
+    "transformed": true, 
+    "width": 106, 
+    "x": 2302, 
+    "y": 550
+}

@@ -1,0 +1,1905 @@
+{
+    "00e87c1e-5a12-4f5c-95fc-89f84d1f78a1": {
+        "pass": [
+            {
+                "carbon_log_file_path": null, 
+                "crawl_directory": "test_runs/20210430134830", 
+                "created": "2021-04-30 13:52:02", 
+                "curr_label": null, 
+                "curr_nav_substep": 0, 
+                "curr_step": 17, 
+                "curr_sub_step": 0, 
+                "custom_data": [
+                    {
+                        "id": "browser_name", 
+                        "label": "Browser", 
+                        "value": "Chrome"
+                    }
+                ], 
+                "custom_hidden_data": [
+                    {
+                        "id": "test_case_name", 
+                        "label": "Original Test Case Name", 
+                        "value": "003 Customize Shoe"
+                    }
+                ], 
+                "description": "", 
+                "failures": {}, 
+                "is_deactivated": false, 
+                "log": [
+                    "step:0sub_step:0  found:btn_customize", 
+                    "step:5sub_step:0  found:btn_customize", 
+                    "step:7sub_step:0  found:cbx_men", 
+                    "step:8sub_step:0  found:btn_black", 
+                    "step:9sub_step:0  found:div_nike_metcon_6_by_you", 
+                    "step:11sub_step:0  found:btn_customize", 
+                    "step:12sub_step:0  found:btn_nike_tape", 
+                    "step:13sub_step:0  found:btn_pinksicle", 
+                    "step:14sub_step:0  found:btn_confirm", 
+                    "step:15sub_step:0  found:btn_nike_swoosh", 
+                    "step:16sub_step:0  found:btn_white_solid", 
+                    "step:17sub_step:0  found:btn_done"
+                ], 
+                "note": "", 
+                "original_title": "003 Customize Shoe", 
+                "result": "pass", 
+                "step_details": {
+                    "00000": {
+                        "action_info": {
+                            "elem_class": "a", 
+                            "elem_info": {
+                                "behavior": "", 
+                                "checkable": false, 
+                                "class": "a", 
+                                "clickable": true, 
+                                "content-desc": "", 
+                                "enabled": false, 
+                                "focusable": true, 
+                                "focused": false, 
+                                "hash": "J8gIVlbpT9Sszp7tNrAmdg==\n", 
+                                "height": 120, 
+                                "hier_level": 0, 
+                                "human_hash": "a_X2210_Y72_W206_H120", 
+                                "human_readable": "a_2210_72_206_120_a_ffffffffffffffffffffdfff800380038003c263ffffffffffffffffffffffff_bfb42de6f7cab5127b9ff0ab47354a06", 
+                                "img_hash": "0c8b26b59129d001b515dd2146fb42bb", 
+                                "index": -1, 
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "aria-controls": "DesktopMenu-0-5-0", 
+                                            "aria-expanded": "false", 
+                                            "aria-label": "Customize", 
+                                            "class": "pre-desktop-menu-link headline-5 prl3-lg pt4-sm d-sm-b no-outline", 
+                                            "data-nav": "5,0,-1", 
+                                            "data-path": "customize", 
+                                            "data-pre": "ILink", 
+                                            "data-type": "click_navShoppingMenu", 
+                                            "href": "https://www.nike.com/nike-by-you", 
+                                            "role": "menu"
+                                        }, 
+                                        "background-color": "rgba(0, 0, 0, 0)", 
+                                        "class": "a", 
+                                        "color": "rgb(17, 17, 17)", 
+                                        "cssClass": "pre-desktop-menu-link headline-5 prl3-lg pt4-sm d-sm-b no-outline", 
+                                        "domLevel": 12, 
+                                        "flags": {
+                                            "checkable": false, 
+                                            "clickable": true, 
+                                            "enabled": false, 
+                                            "focusable": true, 
+                                            "focused": false, 
+                                            "scrollable": false
+                                        }, 
+                                        "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+                                        "font-weight": "500", 
+                                        "fontSize": 16, 
+                                        "height": 60, 
+                                        "identifier": "", 
+                                        "is-focused": false, 
+                                        "is-hidden": false, 
+                                        "name": "", 
+                                        "tagName": "a", 
+                                        "text": "Customize", 
+                                        "type": "", 
+                                        "value": "", 
+                                        "width": 103, 
+                                        "x": 1105, 
+                                        "xPercent": 57.52604166666667, 
+                                        "y": 36, 
+                                        "yPercent": 0.5059732958538299
+                                    }, 
+                                    "location": {
+                                        "x": 1105, 
+                                        "y": 36
+                                    }, 
+                                    "size": {
+                                        "height": 60, 
+                                        "width": 103
+                                    }, 
+                                    "tag_name": "a", 
+                                    "text": "Customize"
+                                }, 
+                                "is_transformed": true, 
+                                "package": "", 
+                                "password": false, 
+                                "resource-id": "", 
+                                "scrollable": false, 
+                                "tag_name": "a", 
+                                "text": "Customize", 
+                                "text_hash": "bfb42de6f7cab5127b9ff0ab47354a06", 
+                                "transformed": true, 
+                                "width": 206, 
+                                "x": 2210, 
+                                "y": 72
+                            }, 
+                            "gesture": "tap", 
+                            "text": ""
+                        }, 
+                        "conditional_step_skipped": false, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [
+                            "btn_customize"
+                        ], 
+                        "screenshot_file_name": "iter_00000_step_00000_screenshot.png", 
+                        "screenshot_file_path": "tests/result_paths/003 Customize Shoe - 4805c2f6-8833-4d72-8423-1d701d50c18a/iter_00000_step_00000_screenshot.png", 
+                        "step_num": 0, 
+                        "test_labels": [
+                            "btn_customize"
+                        ], 
+                        "timing": 5.04188084602356
+                    }, 
+                    "00001": {
+                        "action_info": {
+                            "elem_class": "screen", 
+                            "elem_info": {
+                                "class": "screen", 
+                                "hash": "+pFND0lSMN22aWztG4ViVw==\n", 
+                                "height": 0, 
+                                "hier_level": 0, 
+                                "human_hash": "screen_X0_Y0_W0_H0", 
+                                "index": -1, 
+                                "tag_name": "screen", 
+                                "text": "", 
+                                "width": 0, 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "gesture": "execute_script", 
+                            "text": ""
+                        }, 
+                        "conditional_step_skipped": false, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [], 
+                        "screenshot_file_name": "iter_00000_step_00001_screenshot.png", 
+                        "screenshot_file_path": "tests/result_paths/003 Customize Shoe - 4805c2f6-8833-4d72-8423-1d701d50c18a/iter_00000_step_00001_screenshot.png", 
+                        "step_num": 1, 
+                        "test_labels": [], 
+                        "timing": 9.149616003036499
+                    }, 
+                    "00002": {
+                        "action_info": {
+                            "elem_class": "screen", 
+                            "elem_info": {
+                                "class": "screen", 
+                                "hash": "9t2OLGkvS5amJjdy/tkIlA==\n", 
+                                "height": 1744, 
+                                "hier_level": 0, 
+                                "human_hash": "screen_X0_Y0_W3840_H1744", 
+                                "index": -1, 
+                                "is_transformed": true, 
+                                "tag_name": "screen", 
+                                "text": "", 
+                                "width": 3840, 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "gesture": "swipe_up", 
+                            "text": "swipe_up"
+                        }, 
+                        "conditional_step_skipped": false, 
+                        "cpu": 0, 
+                        "found_all_labels": true, 
+                        "jank": 0, 
+                        "mem": 0, 
+                        "net": 0, 
+                        "page_labels": [
+                            ""
+                        ], 
+                        "screenshot_file_name": "iter_00000_step_00002_screenshot.png", 
+                        "screenshot_file_path": "tests/result_paths/003 Customize Shoe - 4805c2f6-8833-4d72-8423-1d701d50c18a/iter_00000_step_00002_screenshot.png", 
+                        "step_num": 2, 
+                        "test_labels": [
+                            ""
+                        ], 
+                        "timing": 0
+                    }, 
+                    "00003": {
+                        "action_info": {
+                            "elem_class": "screen", 
+                            "elem_info": {
+                                "class": "screen", 
+                                "hash": "9t2OLGkvS5amJjdy/tkIlA==\n", 
+                                "height": 1744, 
+                                "hier_level": 0, 
+                                "human_hash": "screen_X0_Y0_W3840_H1744", 
+                                "index": -1, 
+                                "is_transformed": true, 
+                                "tag_name": "screen", 
+                                "text": "", 
+                                "width": 3840, 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "gesture": "swipe_up", 
+                            "text": "swipe_up"
+                        }, 
+                        "conditional_step_skipped": false, 
+                        "cpu": 0, 
+                        "found_all_labels": true, 
+                        "jank": 0, 
+                        "mem": 0, 
+                        "net": 0, 
+                        "page_labels": [
+                            ""
+                        ], 
+                        "screenshot_file_name": "iter_00000_step_00003_screenshot.png", 
+                        "screenshot_file_path": "tests/result_paths/003 Customize Shoe - 4805c2f6-8833-4d72-8423-1d701d50c18a/iter_00000_step_00003_screenshot.png", 
+                        "step_num": 3, 
+                        "test_labels": [
+                            ""
+                        ], 
+                        "timing": 0
+                    }, 
+                    "00004": {
+                        "action_info": {
+                            "elem_class": "div", 
+                            "elem_info": {
+                                "behavior": "", 
+                                "checkable": false, 
+                                "class": "div", 
+                                "clickable": false, 
+                                "content-desc": "", 
+                                "enabled": false, 
+                                "focusable": false, 
+                                "focused": false, 
+                                "hash": "TO3xOcFuSNDe6jNgn7whlw==\n", 
+                                "height": 350, 
+                                "hier_level": 0, 
+                                "human_hash": "div_X112_Y624_W3616_H350", 
+                                "human_readable": "div_112_624_3616_350_div_f81ff81ff81ff81ff81ffffffffffffffc3ffc3ffffffffffe7ffe7ffe7ffe7f_4afa758c6b9177757c305945ce97d524", 
+                                "img_hash": "b66dca1ec079e1fa597385689816ac51", 
+                                "index": -1, 
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "class": "ncss-row grid-row", 
+                                            "data-qa": "grid-row", 
+                                            "id": "52ef0235-c242-4345-95af-082c08c3c49a"
+                                        }, 
+                                        "background-color": "rgba(0, 0, 0, 0)", 
+                                        "class": "div", 
+                                        "color": "rgb(17, 17, 17)", 
+                                        "cssClass": "ncss-row grid-row", 
+                                        "domLevel": 5, 
+                                        "flags": {
+                                            "checkable": false, 
+                                            "clickable": false, 
+                                            "enabled": false, 
+                                            "focusable": false, 
+                                            "focused": false, 
+                                            "scrollable": false
+                                        }, 
+                                        "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+                                        "font-weight": "400", 
+                                        "fontSize": 0, 
+                                        "height": 175, 
+                                        "identifier": "52ef0235-c242-4345-95af-082c08c3c49a", 
+                                        "is-focused": false, 
+                                        "is-hidden": false, 
+                                        "name": "", 
+                                        "tagName": "div", 
+                                        "text": "NEUTRALS BY YOUCustomize a pair to wear with anything.Customize", 
+                                        "type": "", 
+                                        "value": "", 
+                                        "width": 1808, 
+                                        "x": 56, 
+                                        "xPercent": 2.9166666666666665, 
+                                        "y": 312, 
+                                        "yPercent": 6.4730290456431545
+                                    }, 
+                                    "location": {
+                                        "x": 56, 
+                                        "y": 312
+                                    }, 
+                                    "size": {
+                                        "height": 175, 
+                                        "width": 1808
+                                    }, 
+                                    "tag_name": "div", 
+                                    "text": "NEUTRALS BY YOUCustomize a pair to wear with anything.Customize"
+                                }, 
+                                "is_transformed": true, 
+                                "package": "", 
+                                "password": false, 
+                                "resource-id": "", 
+                                "scrollable": false, 
+                                "tag_name": "div", 
+                                "text": "NEUTRALS BY YOUCustomize a pair to wear with anything.Customize", 
+                                "text_hash": "4afa758c6b9177757c305945ce97d524", 
+                                "transformed": true, 
+                                "width": 3616, 
+                                "x": 112, 
+                                "y": 624
+                            }, 
+                            "gesture": "no_op", 
+                            "text": "no_op"
+                        }, 
+                        "conditional_step_skipped": false, 
+                        "cpu": 0, 
+                        "found_all_labels": true, 
+                        "jank": 0, 
+                        "matched_grep": true, 
+                        "mem": 0, 
+                        "net": 0, 
+                        "page_labels": [
+                            "div_neutrals_by_you"
+                        ], 
+                        "screenshot_file_name": "iter_00000_step_00004_screenshot.png", 
+                        "screenshot_file_path": "tests/result_paths/003 Customize Shoe - 4805c2f6-8833-4d72-8423-1d701d50c18a/iter_00000_step_00004_screenshot.png", 
+                        "step_num": 4, 
+                        "test_labels": [
+                            "div_neutrals_by_you"
+                        ], 
+                        "timing": 0
+                    }, 
+                    "00005": {
+                        "action_info": {
+                            "elem_class": "a", 
+                            "elem_info": {
+                                "behavior": "", 
+                                "checkable": false, 
+                                "class": "a", 
+                                "clickable": true, 
+                                "content-desc": "", 
+                                "enabled": false, 
+                                "focusable": true, 
+                                "focused": false, 
+                                "hash": "XU+//kcikKhuISL3mIXFZA==\n", 
+                                "height": 80, 
+                                "hier_level": 0, 
+                                "human_hash": "a_X1780_Y894_W270_H80", 
+                                "human_readable": "a_1780_894_270_80_a_c003800380018001800100011b211ff81ff81ff91fb98001800180018003c003_bfb42de6f7cab5127b9ff0ab47354a06", 
+                                "img_hash": "cb7d0f3c21d0a6dcab255f69696119f1", 
+                                "index": -1, 
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "aria-label": "Customize (https://www.nike.com/w/neutrals-by-you-4aveh)", 
+                                            "class": "dz_xjzja _2minRfAM ncss-btn-primary-dark bihGx79a", 
+                                            "data-analytics-action-id": "e3bbfd6a-c2e7-4d0f-9c5b-d40fef6885b7", 
+                                            "data-analytics-allow": "false", 
+                                            "data-qa": "cta-button", 
+                                            "href": "https://www.nike.com/w/neutrals-by-you-4aveh", 
+                                            "tabindex": "0", 
+                                            "target": "_self"
+                                        }, 
+                                        "background-color": "rgb(17, 17, 17)", 
+                                        "class": "a", 
+                                        "color": "rgb(255, 255, 255)", 
+                                        "cssClass": "dz_xjzja _2minRfAM ncss-btn-primary-dark bihGx79a", 
+                                        "domLevel": 10, 
+                                        "flags": {
+                                            "checkable": false, 
+                                            "clickable": true, 
+                                            "enabled": false, 
+                                            "focusable": true, 
+                                            "focused": false, 
+                                            "scrollable": false
+                                        }, 
+                                        "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+                                        "font-weight": "500", 
+                                        "fontSize": 16, 
+                                        "height": 40, 
+                                        "identifier": "", 
+                                        "is-focused": false, 
+                                        "is-hidden": false, 
+                                        "name": "", 
+                                        "tagName": "a", 
+                                        "text": "Customize", 
+                                        "type": "", 
+                                        "value": "", 
+                                        "width": 135, 
+                                        "x": 890, 
+                                        "xPercent": 46.34033203125, 
+                                        "y": 447, 
+                                        "yPercent": 9.273858921161827
+                                    }, 
+                                    "location": {
+                                        "x": 890, 
+                                        "y": 447
+                                    }, 
+                                    "size": {
+                                        "height": 40, 
+                                        "width": 135
+                                    }, 
+                                    "tag_name": "a", 
+                                    "text": "Customize"
+                                }, 
+                                "is_transformed": true, 
+                                "package": "", 
+                                "password": false, 
+                                "resource-id": "", 
+                                "scrollable": false, 
+                                "tag_name": "a", 
+                                "text": "Customize", 
+                                "text_hash": "bfb42de6f7cab5127b9ff0ab47354a06", 
+                                "transformed": true, 
+                                "width": 270, 
+                                "x": 1780, 
+                                "y": 894
+                            }, 
+                            "gesture": "tap", 
+                            "text": ""
+                        }, 
+                        "conditional_step_skipped": false, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [
+                            "btn_customize"
+                        ], 
+                        "screenshot_file_name": "iter_00000_step_00005_screenshot.png", 
+                        "screenshot_file_path": "tests/result_paths/003 Customize Shoe - 4805c2f6-8833-4d72-8423-1d701d50c18a/iter_00000_step_00005_screenshot.png", 
+                        "step_num": 5, 
+                        "test_labels": [
+                            "btn_customize"
+                        ], 
+                        "timing": 0.9014091491699219
+                    }, 
+                    "00006": {
+                        "action_info": {
+                            "elem_class": "screen", 
+                            "elem_info": {
+                                "class": "screen", 
+                                "hash": "+pFND0lSMN22aWztG4ViVw==\n", 
+                                "height": 0, 
+                                "hier_level": 0, 
+                                "human_hash": "screen_X0_Y0_W0_H0", 
+                                "index": -1, 
+                                "tag_name": "screen", 
+                                "text": "", 
+                                "width": 0, 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "gesture": "execute_script", 
+                            "text": ""
+                        }, 
+                        "conditional_step_skipped": false, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [], 
+                        "screenshot_file_name": "iter_00000_step_00006_screenshot.png", 
+                        "screenshot_file_path": "tests/result_paths/003 Customize Shoe - 4805c2f6-8833-4d72-8423-1d701d50c18a/iter_00000_step_00006_screenshot.png", 
+                        "step_num": 6, 
+                        "test_labels": [], 
+                        "timing": 7.468339920043945
+                    }, 
+                    "00007": {
+                        "action_info": {
+                            "elem_class": "button", 
+                            "elem_info": {
+                                "behavior": "", 
+                                "checkable": false, 
+                                "class": "button", 
+                                "clickable": true, 
+                                "content-desc": "", 
+                                "enabled": true, 
+                                "focusable": true, 
+                                "focused": false, 
+                                "hash": "2AplGERWflJxpmxHi/2kaA==\n", 
+                                "height": 48, 
+                                "hier_level": 0, 
+                                "human_hash": "button_X92_Y762_W376_H48", 
+                                "human_readable": "button_92_762_376_48_button_ffff3fff3fffffffcfffcfffc7ffc7ffc7ffc7ffc7ffc7ffffff3fff3fffffff_4cfd213d82c3360d355f819a111d11d0", 
+                                "img_hash": "91f837047d9bc838c53d0ef15dc9595a", 
+                                "index": -1, 
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "aria-checked": "false", 
+                                            "aria-label": "Filter for Men", 
+                                            "class": "css-hrsjq4 css-xhk1pl css-1t2ydyg filter-item is--default css-1kqgukw  is--button", 
+                                            "data-group-ndx": "0", 
+                                            "data-group-type": "filter", 
+                                            "data-is-color": "false", 
+                                            "data-ndx": "0", 
+                                            "data-url": "https://www.nike.com/w/mens-neutrals-by-you-4avehznik1", 
+                                            "role": "menuitemcheckbox"
+                                        }, 
+                                        "background-color": "rgba(0, 0, 0, 0)", 
+                                        "class": "button", 
+                                        "color": "rgb(0, 0, 0)", 
+                                        "cssClass": "css-hrsjq4 css-xhk1pl css-1t2ydyg filter-item is--default css-1kqgukw  is--button", 
+                                        "domLevel": 22, 
+                                        "flags": {
+                                            "checkable": false, 
+                                            "clickable": true, 
+                                            "enabled": true, 
+                                            "focusable": true, 
+                                            "focused": false, 
+                                            "scrollable": false
+                                        }, 
+                                        "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+                                        "font-weight": "400", 
+                                        "fontSize": 16, 
+                                        "height": 24, 
+                                        "identifier": "", 
+                                        "is-focused": false, 
+                                        "is-hidden": false, 
+                                        "name": "", 
+                                        "tagName": "button", 
+                                        "text": "Men", 
+                                        "type": "", 
+                                        "value": "", 
+                                        "width": 188, 
+                                        "x": 46, 
+                                        "xPercent": 2.3958333333333335, 
+                                        "y": 381, 
+                                        "yPercent": 5.932731236374962
+                                    }, 
+                                    "location": {
+                                        "x": 46, 
+                                        "y": 381
+                                    }, 
+                                    "size": {
+                                        "height": 24, 
+                                        "width": 188
+                                    }, 
+                                    "tag_name": "button", 
+                                    "text": "Men"
+                                }, 
+                                "is_transformed": true, 
+                                "package": "", 
+                                "password": false, 
+                                "resource-id": "", 
+                                "scrollable": false, 
+                                "tag_name": "button", 
+                                "text": "Men", 
+                                "text_hash": "4cfd213d82c3360d355f819a111d11d0", 
+                                "transformed": true, 
+                                "width": 376, 
+                                "x": 92, 
+                                "y": 762
+                            }, 
+                            "gesture": "tap", 
+                            "text": ""
+                        }, 
+                        "conditional_step_skipped": false, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [
+                            "cbx_men"
+                        ], 
+                        "screenshot_file_name": "iter_00000_step_00007_screenshot.png", 
+                        "screenshot_file_path": "tests/result_paths/003 Customize Shoe - 4805c2f6-8833-4d72-8423-1d701d50c18a/iter_00000_step_00007_screenshot.png", 
+                        "step_num": 7, 
+                        "test_labels": [
+                            "cbx_men"
+                        ], 
+                        "timing": 0.2650740146636963
+                    }, 
+                    "00008": {
+                        "action_info": {
+                            "elem_class": "button", 
+                            "elem_info": {
+                                "behavior": "", 
+                                "checkable": false, 
+                                "class": "button", 
+                                "clickable": true, 
+                                "content-desc": "", 
+                                "enabled": true, 
+                                "focusable": true, 
+                                "focused": false, 
+                                "hash": "5wybnQUzNvsp1ra06h3ecw==\n", 
+                                "height": 136, 
+                                "hier_level": 0, 
+                                "human_hash": "button_X92_Y1358_W126_H136", 
+                                "human_readable": "button_92_1358_126_136_button_f83ff81ff00ff00ff00ff81ffc3ffffff0dff00fffffffffffffffffffffffff_7865feed0b0bf434da04d498688d9e76", 
+                                "img_hash": "be4c8e389ff08959744d36c0b4a0e1a8", 
+                                "index": -1, 
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "aria-checked": "false", 
+                                            "aria-label": "Filter for Black", 
+                                            "class": "css-hrsjq4 css-xhk1pl css-1t2ydyg filter-item is--color css-1kqgukw  is--button", 
+                                            "data-group-ndx": "2", 
+                                            "data-group-type": "filter", 
+                                            "data-is-color": "true", 
+                                            "data-ndx": "0", 
+                                            "data-url": "https://www.nike.com/w/mens-neutrals-by-you-black-4avehz90poyznik1", 
+                                            "role": "menuitemcheckbox"
+                                        }, 
+                                        "background-color": "rgba(0, 0, 0, 0)", 
+                                        "class": "button", 
+                                        "color": "rgb(0, 0, 0)", 
+                                        "cssClass": "css-hrsjq4 css-xhk1pl css-1t2ydyg filter-item is--color css-1kqgukw  is--button", 
+                                        "domLevel": 22, 
+                                        "flags": {
+                                            "checkable": false, 
+                                            "clickable": true, 
+                                            "enabled": true, 
+                                            "focusable": true, 
+                                            "focused": false, 
+                                            "scrollable": false
+                                        }, 
+                                        "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+                                        "font-weight": "400", 
+                                        "fontSize": 16, 
+                                        "height": 68, 
+                                        "identifier": "", 
+                                        "is-focused": false, 
+                                        "is-hidden": false, 
+                                        "name": "", 
+                                        "tagName": "button", 
+                                        "text": "Black", 
+                                        "type": "", 
+                                        "value": "", 
+                                        "width": 63, 
+                                        "x": 46, 
+                                        "xPercent": 2.3958333333333335, 
+                                        "y": 679, 
+                                        "yPercent": 16.294696424286055
+                                    }, 
+                                    "location": {
+                                        "x": 46, 
+                                        "y": 679
+                                    }, 
+                                    "size": {
+                                        "height": 68, 
+                                        "width": 63
+                                    }, 
+                                    "tag_name": "button", 
+                                    "text": "Black"
+                                }, 
+                                "is_transformed": true, 
+                                "package": "", 
+                                "password": false, 
+                                "resource-id": "", 
+                                "scrollable": false, 
+                                "tag_name": "button", 
+                                "text": "Black", 
+                                "text_hash": "7865feed0b0bf434da04d498688d9e76", 
+                                "transformed": true, 
+                                "width": 126, 
+                                "x": 92, 
+                                "y": 1358
+                            }, 
+                            "gesture": "tap", 
+                            "text": ""
+                        }, 
+                        "conditional_step_skipped": false, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [
+                            "btn_black"
+                        ], 
+                        "screenshot_file_name": "iter_00000_step_00008_screenshot.png", 
+                        "screenshot_file_path": "tests/result_paths/003 Customize Shoe - 4805c2f6-8833-4d72-8423-1d701d50c18a/iter_00000_step_00008_screenshot.png", 
+                        "step_num": 8, 
+                        "test_labels": [
+                            "btn_black"
+                        ], 
+                        "timing": 2.7287909984588623
+                    }, 
+                    "00009": {
+                        "action_info": {
+                            "elem_class": "div", 
+                            "elem_info": {
+                                "behavior": "", 
+                                "checkable": false, 
+                                "class": "div", 
+                                "clickable": false, 
+                                "content-desc": "", 
+                                "enabled": false, 
+                                "focusable": false, 
+                                "focused": false, 
+                                "hash": "eefNQ6Pbpj5S6vGC9IqWkA==\n", 
+                                "height": 1016, 
+                                "hier_level": 0, 
+                                "human_hash": "div_X1664_Y504_W1016_H1016", 
+                                "human_readable": "div_1664_504_1016_1016_div_ffffffffffffffffffffffffff9fff1ffc03c0018001c001e0ffffffffffffff_f0ad6ffcafd8cc907513d1476db2175a", 
+                                "img_hash": "4139d51a2acfac856e8b87778f8ea0ff", 
+                                "index": -1, 
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "class": "wall-image-loader css-1la3v4n "
+                                        }, 
+                                        "background-color": "rgba(0, 0, 0, 0)", 
+                                        "class": "div", 
+                                        "color": "rgb(17, 17, 17)", 
+                                        "cssClass": "wall-image-loader css-1la3v4n ", 
+                                        "domLevel": 16, 
+                                        "flags": {
+                                            "checkable": false, 
+                                            "clickable": false, 
+                                            "enabled": false, 
+                                            "focusable": false, 
+                                            "focused": false, 
+                                            "scrollable": false
+                                        }, 
+                                        "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+                                        "font-weight": "500", 
+                                        "fontSize": 16, 
+                                        "height": 508, 
+                                        "identifier": "", 
+                                        "is-focused": false, 
+                                        "is-hidden": false, 
+                                        "name": "", 
+                                        "tagName": "div", 
+                                        "text": "<img class=\"css-1fxh5tw product-card__hero-image\" src=\"https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/eddfe438-a92e-4c4c-b636-f690ec9e83c5/custom-nike-metcon-6-by-you.png\" alt=\"Nike Metcon 6 By You Custom Training Shoe\" loading=\"lazy\" width=\"400\" height=\"400\"/>", 
+                                        "type": "", 
+                                        "value": "", 
+                                        "width": 508, 
+                                        "x": 832, 
+                                        "xPercent": 43.33251953125, 
+                                        "y": 252, 
+                                        "yPercent": 9.180327868852459
+                                    }, 
+                                    "location": {
+                                        "x": 832, 
+                                        "y": 252
+                                    }, 
+                                    "size": {
+                                        "height": 508, 
+                                        "width": 508
+                                    }, 
+                                    "tag_name": "div", 
+                                    "text": "<img class=\"css-1fxh5tw product-card__hero-image\" src=\"https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/eddfe438-a92e-4c4c-b636-f690ec9e83c5/custom-nike-metcon-6-by-you.png\" alt=\"Nike Metcon 6 By You Custom Training Shoe\" loading=\"lazy\" width=\"400\" height=\"400\"/>"
+                                }, 
+                                "is_transformed": true, 
+                                "package": "", 
+                                "password": false, 
+                                "resource-id": "", 
+                                "scrollable": false, 
+                                "tag_name": "div", 
+                                "text": "<img class=\"css-1fxh5tw product-card__hero-image\" src=\"https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/eddfe438-a92e-4c4c-b636-f690ec9e83c5/custom-nike-metcon-6-by-you.png\" alt=\"Nike Metcon 6 By You Custom Training Shoe\" loading=\"lazy\" width=\"400\" height=\"400\"/>", 
+                                "text_hash": "f0ad6ffcafd8cc907513d1476db2175a", 
+                                "transformed": true, 
+                                "width": 1016, 
+                                "x": 1664, 
+                                "y": 504
+                            }, 
+                            "gesture": "tap", 
+                            "text": ""
+                        }, 
+                        "conditional_step_skipped": false, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [
+                            "div_nike_metcon_6_by_you"
+                        ], 
+                        "screenshot_file_name": "iter_00000_step_00009_screenshot.png", 
+                        "screenshot_file_path": "tests/result_paths/003 Customize Shoe - 4805c2f6-8833-4d72-8423-1d701d50c18a/iter_00000_step_00009_screenshot.png", 
+                        "step_num": 9, 
+                        "test_labels": [
+                            "div_nike_metcon_6_by_you"
+                        ], 
+                        "timing": 2.1747310161590576
+                    }, 
+                    "00010": {
+                        "action_info": {
+                            "elem_class": "screen", 
+                            "elem_info": {
+                                "class": "screen", 
+                                "hash": "9t2OLGkvS5amJjdy/tkIlA==\n", 
+                                "height": 1744, 
+                                "hier_level": 0, 
+                                "human_hash": "screen_X0_Y0_W3840_H1744", 
+                                "index": -1, 
+                                "is_transformed": true, 
+                                "tag_name": "screen", 
+                                "text": "", 
+                                "width": 3840, 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "gesture": "swipe_up", 
+                            "text": ""
+                        }, 
+                        "conditional_step_skipped": false, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [], 
+                        "screenshot_file_name": "iter_00000_step_00010_screenshot.png", 
+                        "screenshot_file_path": "tests/result_paths/003 Customize Shoe - 4805c2f6-8833-4d72-8423-1d701d50c18a/iter_00000_step_00010_screenshot.png", 
+                        "step_num": 10, 
+                        "test_labels": [], 
+                        "timing": 9.114534139633179
+                    }, 
+                    "00011": {
+                        "action_info": {
+                            "elem_class": "div", 
+                            "elem_info": {
+                                "behavior": "", 
+                                "checkable": false, 
+                                "class": "div", 
+                                "clickable": false, 
+                                "content-desc": "", 
+                                "enabled": false, 
+                                "focusable": false, 
+                                "focused": false, 
+                                "hash": "0eITgUCyvmnQ8PX/JYEc3g==\n", 
+                                "height": 120, 
+                                "hier_level": 0, 
+                                "human_hash": "div_X2496_Y994_W754_H120", 
+                                "human_readable": "div_2496_994_754_120_div_8001ffffffffffffffffff9ff99ff81ff83ff81fffbfffffffffffffffff8001_bfb42de6f7cab5127b9ff0ab47354a06", 
+                                "img_hash": "7270db42b5aaf4a88d9c205f38cd05fe", 
+                                "index": -1, 
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {}, 
+                                        "background-color": "rgba(0, 0, 0, 0)", 
+                                        "class": "div", 
+                                        "color": "rgb(17, 17, 17)", 
+                                        "domLevel": 11, 
+                                        "flags": {
+                                            "checkable": false, 
+                                            "clickable": false, 
+                                            "enabled": false, 
+                                            "focusable": false, 
+                                            "focused": false, 
+                                            "scrollable": false
+                                        }, 
+                                        "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+                                        "font-weight": "400", 
+                                        "fontSize": 16, 
+                                        "height": 60, 
+                                        "identifier": "", 
+                                        "is-focused": false, 
+                                        "is-hidden": false, 
+                                        "name": "", 
+                                        "tagName": "div", 
+                                        "text": "Customize", 
+                                        "type": "", 
+                                        "value": "", 
+                                        "width": 377, 
+                                        "x": 1248, 
+                                        "xPercent": 65, 
+                                        "y": 497, 
+                                        "yPercent": 18.251928020565554
+                                    }, 
+                                    "location": {
+                                        "x": 1248, 
+                                        "y": 497
+                                    }, 
+                                    "size": {
+                                        "height": 60, 
+                                        "width": 377
+                                    }, 
+                                    "tag_name": "div", 
+                                    "text": "Customize"
+                                }, 
+                                "is_transformed": true, 
+                                "package": "", 
+                                "password": false, 
+                                "resource-id": "", 
+                                "scrollable": false, 
+                                "tag_name": "div", 
+                                "text": "Customize", 
+                                "text_hash": "bfb42de6f7cab5127b9ff0ab47354a06", 
+                                "transformed": true, 
+                                "width": 754, 
+                                "x": 2496, 
+                                "y": 994
+                            }, 
+                            "gesture": "tap", 
+                            "text": ""
+                        }, 
+                        "conditional_step_skipped": false, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [
+                            "btn_customize"
+                        ], 
+                        "screenshot_file_name": "iter_00000_step_00011_screenshot.png", 
+                        "screenshot_file_path": "tests/result_paths/003 Customize Shoe - 4805c2f6-8833-4d72-8423-1d701d50c18a/iter_00000_step_00011_screenshot.png", 
+                        "step_num": 11, 
+                        "test_labels": [
+                            "btn_customize"
+                        ], 
+                        "timing": 1.3030641078948975
+                    }, 
+                    "00012": {
+                        "action_info": {
+                            "elem_class": "a", 
+                            "elem_info": {
+                                "behavior": "", 
+                                "checkable": false, 
+                                "class": "a", 
+                                "clickable": true, 
+                                "content-desc": "", 
+                                "enabled": false, 
+                                "focusable": true, 
+                                "focused": false, 
+                                "hash": "WCXegSOAJYi361H03UqwVA==\n", 
+                                "height": 304, 
+                                "hier_level": 0, 
+                                "human_hash": "a_X2884_Y1216_W952_H304", 
+                                "human_readable": "a_2884_1216_952_304_a_ffffffffffffffffff7ffe3ffc3ffc3ffc3ffffffffffe7ffe7fffffffffffff_714948a0c876cb2524ce716b52c6282c", 
+                                "img_hash": "66649b4da4154a48c6288564e93771be", 
+                                "index": -1, 
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "class": "rmq-5d80e751 rmq-2129583e", 
+                                            "data-automation": "combination-marketing-component", 
+                                            "data-automation-enforced-view": "1", 
+                                            "data-radium": "true", 
+                                            "href": "", 
+                                            "style": "text-align: center; height: 142px; flex-shrink: 0; cursor: pointer; display: block; text-decoration: none; background-color: rgb(255, 255, 255);"
+                                        }, 
+                                        "background-color": "rgb(255, 255, 255)", 
+                                        "class": "a", 
+                                        "color": "rgb(17, 17, 17)", 
+                                        "cssClass": "rmq-5d80e751 rmq-2129583e", 
+                                        "domLevel": 8, 
+                                        "flags": {
+                                            "checkable": false, 
+                                            "clickable": true, 
+                                            "enabled": false, 
+                                            "focusable": true, 
+                                            "focused": false, 
+                                            "scrollable": false
+                                        }, 
+                                        "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+                                        "font-weight": "500", 
+                                        "fontSize": 16, 
+                                        "height": 152, 
+                                        "identifier": "", 
+                                        "is-focused": false, 
+                                        "is-hidden": false, 
+                                        "name": "", 
+                                        "tagName": "a", 
+                                        "text": "Tape", 
+                                        "type": "", 
+                                        "value": "", 
+                                        "width": 476, 
+                                        "x": 1442, 
+                                        "xPercent": 75.10416666666667, 
+                                        "y": 608, 
+                                        "yPercent": 65.51724137931035
+                                    }, 
+                                    "location": {
+                                        "x": 1442, 
+                                        "y": 608
+                                    }, 
+                                    "size": {
+                                        "height": 152, 
+                                        "width": 476
+                                    }, 
+                                    "tag_name": "a", 
+                                    "text": "Tape"
+                                }, 
+                                "is_transformed": true, 
+                                "package": "", 
+                                "password": false, 
+                                "resource-id": "", 
+                                "scrollable": false, 
+                                "tag_name": "a", 
+                                "text": "Tape", 
+                                "text_hash": "714948a0c876cb2524ce716b52c6282c", 
+                                "transformed": true, 
+                                "width": 952, 
+                                "x": 2884, 
+                                "y": 1216
+                            }, 
+                            "gesture": "tap", 
+                            "text": ""
+                        }, 
+                        "conditional_step_skipped": false, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [
+                            "btn_nike_tape"
+                        ], 
+                        "screenshot_file_name": "iter_00000_step_00012_screenshot.png", 
+                        "screenshot_file_path": "tests/result_paths/003 Customize Shoe - 4805c2f6-8833-4d72-8423-1d701d50c18a/iter_00000_step_00012_screenshot.png", 
+                        "step_num": 12, 
+                        "test_labels": [
+                            "btn_nike_tape"
+                        ], 
+                        "timing": 0.30127501487731934
+                    }, 
+                    "00013": {
+                        "action_info": {
+                            "elem_class": "a", 
+                            "elem_info": {
+                                "behavior": "", 
+                                "checkable": false, 
+                                "class": "a", 
+                                "clickable": true, 
+                                "content-desc": "", 
+                                "enabled": false, 
+                                "focusable": true, 
+                                "focused": false, 
+                                "hash": "kK2zfZqKrEedh0Nugvs0Gw==\n", 
+                                "height": 304, 
+                                "hier_level": 0, 
+                                "human_hash": "a_X3362_Y1376_W474_H304", 
+                                "human_readable": "a_3362_1376_474_304_a_fffffffffffffe7ffc3ffc3ffc3ffc3ffc3ffe7ffffffc3ffc3fffffffffff7f_8b5c1fdb9a5e11391a49030eaf0899dc", 
+                                "img_hash": "91f4d233171504c7e57303ce3fe854c2", 
+                                "index": -1, 
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "class": "rmq-92fe81a6 nsg-font-family--base nsg-text--near-black bg-white", 
+                                            "data-automation": "combination-swatch", 
+                                            "data-automation-selected": "false", 
+                                            "data-radium": "true", 
+                                            "href": "", 
+                                            "style": "text-align: center; display: flex; align-items: center; font-size: 12px; height: 142px; justify-content: center; cursor: pointer; flex-wrap: wrap; overflow: hidden; text-decoration: none;"
+                                        }, 
+                                        "background-color": "rgb(255, 255, 255)", 
+                                        "class": "a", 
+                                        "color": "rgb(17, 17, 17)", 
+                                        "cssClass": "rmq-92fe81a6 nsg-font-family--base nsg-text--near-black bg-white", 
+                                        "domLevel": 8, 
+                                        "flags": {
+                                            "checkable": false, 
+                                            "clickable": true, 
+                                            "enabled": false, 
+                                            "focusable": true, 
+                                            "focused": false, 
+                                            "scrollable": false
+                                        }, 
+                                        "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+                                        "font-weight": "500", 
+                                        "fontSize": 12, 
+                                        "height": 152, 
+                                        "identifier": "", 
+                                        "is-focused": false, 
+                                        "is-hidden": false, 
+                                        "name": "", 
+                                        "tagName": "a", 
+                                        "text": "Pinksicle", 
+                                        "type": "", 
+                                        "value": "", 
+                                        "width": 237, 
+                                        "x": 1681, 
+                                        "xPercent": 87.55208333333333, 
+                                        "y": 688, 
+                                        "yPercent": 74.13793103448276
+                                    }, 
+                                    "location": {
+                                        "x": 1681, 
+                                        "y": 688
+                                    }, 
+                                    "size": {
+                                        "height": 152, 
+                                        "width": 237
+                                    }, 
+                                    "tag_name": "a", 
+                                    "text": "Pinksicle"
+                                }, 
+                                "is_transformed": true, 
+                                "package": "", 
+                                "password": false, 
+                                "resource-id": "", 
+                                "scrollable": false, 
+                                "tag_name": "a", 
+                                "text": "Pinksicle", 
+                                "text_hash": "8b5c1fdb9a5e11391a49030eaf0899dc", 
+                                "transformed": true, 
+                                "width": 474, 
+                                "x": 3362, 
+                                "y": 1376
+                            }, 
+                            "gesture": "tap", 
+                            "text": ""
+                        }, 
+                        "conditional_step_skipped": false, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [
+                            "btn_pinksicle"
+                        ], 
+                        "screenshot_file_name": "iter_00000_step_00013_screenshot.png", 
+                        "screenshot_file_path": "tests/result_paths/003 Customize Shoe - 4805c2f6-8833-4d72-8423-1d701d50c18a/iter_00000_step_00013_screenshot.png", 
+                        "step_num": 13, 
+                        "test_labels": [
+                            "btn_pinksicle"
+                        ], 
+                        "timing": 2.2664570808410645
+                    }, 
+                    "00014": {
+                        "action_info": {
+                            "elem_class": "button", 
+                            "elem_info": {
+                                "behavior": "", 
+                                "checkable": false, 
+                                "class": "button", 
+                                "clickable": true, 
+                                "content-desc": "", 
+                                "enabled": true, 
+                                "focusable": true, 
+                                "focused": false, 
+                                "hash": "y+zAGo1fnFjpxLa56KyW1A==\n", 
+                                "height": 36, 
+                                "hier_level": 0, 
+                                "human_hash": "button_X3356_Y1666_W484_H36", 
+                                "human_readable": "button_3356_1666_484_36_button_ffffffffff7fff7ffe7ffe7ffe7ffe7ffe7ffe7ffe7ffe7ffe7fffffffffffff_9d4568c009d203ab10e33ea9953a0264", 
+                                "img_hash": "a878348e4eadd4fab2254039e2e80fac", 
+                                "index": -1, 
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "aria-disabled": "false", 
+                                            "class": "nsg-bg--white bg-white", 
+                                            "data-automation": "answer-controls-accept", 
+                                            "data-radium": "true", 
+                                            "id": "palette-controls__answer-controls__check-button", 
+                                            "style": "opacity: 1; cursor: pointer; border: none; flex-grow: 1; box-sizing: border-box; outline: none; background-color: rgb(255, 255, 255);"
+                                        }, 
+                                        "background-color": "rgb(255, 255, 255)", 
+                                        "class": "button", 
+                                        "color": "rgb(0, 0, 0)", 
+                                        "cssClass": "nsg-bg--white bg-white", 
+                                        "domLevel": 9, 
+                                        "flags": {
+                                            "checkable": false, 
+                                            "clickable": true, 
+                                            "enabled": true, 
+                                            "focusable": true, 
+                                            "focused": false, 
+                                            "scrollable": false
+                                        }, 
+                                        "font-family": "Arial", 
+                                        "font-weight": "400", 
+                                        "fontSize": 16, 
+                                        "height": 18, 
+                                        "identifier": "palette-controls__answer-controls__check-button", 
+                                        "is-focused": false, 
+                                        "is-hidden": false, 
+                                        "name": "", 
+                                        "tagName": "button", 
+                                        "text": "", 
+                                        "type": "", 
+                                        "value": "", 
+                                        "width": 242, 
+                                        "x": 1678, 
+                                        "xPercent": 87.39583333333333, 
+                                        "y": 833, 
+                                        "yPercent": 89.76293103448276
+                                    }, 
+                                    "location": {
+                                        "x": 1678, 
+                                        "y": 833
+                                    }, 
+                                    "size": {
+                                        "height": 18, 
+                                        "width": 242
+                                    }, 
+                                    "tag_name": "button", 
+                                    "text": ""
+                                }, 
+                                "is_transformed": true, 
+                                "package": "", 
+                                "password": false, 
+                                "resource-id": "", 
+                                "scrollable": false, 
+                                "tag_name": "button", 
+                                "text": "", 
+                                "text_hash": "9d4568c009d203ab10e33ea9953a0264", 
+                                "transformed": true, 
+                                "width": 484, 
+                                "x": 3356, 
+                                "y": 1666
+                            }, 
+                            "gesture": "tap", 
+                            "text": ""
+                        }, 
+                        "conditional_step_skipped": false, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [
+                            "btn_confirm"
+                        ], 
+                        "screenshot_file_name": "iter_00000_step_00014_screenshot.png", 
+                        "screenshot_file_path": "tests/result_paths/003 Customize Shoe - 4805c2f6-8833-4d72-8423-1d701d50c18a/iter_00000_step_00014_screenshot.png", 
+                        "step_num": 14, 
+                        "test_labels": [
+                            "btn_confirm"
+                        ], 
+                        "timing": 0.290924072265625
+                    }, 
+                    "00015": {
+                        "action_info": {
+                            "elem_class": "a", 
+                            "elem_info": {
+                                "behavior": "", 
+                                "checkable": false, 
+                                "class": "a", 
+                                "clickable": true, 
+                                "content-desc": "", 
+                                "enabled": false, 
+                                "focusable": true, 
+                                "focused": false, 
+                                "hash": "7XRBCfIwcKiz19R31BeAFQ==\n", 
+                                "height": 304, 
+                                "hier_level": 0, 
+                                "human_hash": "a_X2884_Y912_W952_H304", 
+                                "human_readable": "a_2884_912_952_304_a_ffffffffffffffffff7ffe3ffc3ffc3ffc3ffffffffffe7ffe7fffffffffffff_f41d9581351e4a7c8f7fac0d58eed4ec", 
+                                "img_hash": "1249ad101382ec16c9f5115b6f02b46f", 
+                                "index": -1, 
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "class": "rmq-5d80e751 rmq-2129583e", 
+                                            "data-automation": "combination-marketing-component", 
+                                            "data-automation-enforced-view": "1", 
+                                            "data-radium": "true", 
+                                            "href": "", 
+                                            "style": "text-align: center; height: 142px; flex-shrink: 0; cursor: pointer; display: block; text-decoration: none; background-color: rgb(255, 255, 255);"
+                                        }, 
+                                        "background-color": "rgb(255, 255, 255)", 
+                                        "class": "a", 
+                                        "color": "rgb(17, 17, 17)", 
+                                        "cssClass": "rmq-5d80e751 rmq-2129583e", 
+                                        "domLevel": 8, 
+                                        "flags": {
+                                            "checkable": false, 
+                                            "clickable": true, 
+                                            "enabled": false, 
+                                            "focusable": true, 
+                                            "focused": false, 
+                                            "scrollable": false
+                                        }, 
+                                        "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+                                        "font-weight": "500", 
+                                        "fontSize": 16, 
+                                        "height": 152, 
+                                        "identifier": "", 
+                                        "is-focused": false, 
+                                        "is-hidden": false, 
+                                        "name": "", 
+                                        "tagName": "a", 
+                                        "text": "Swoosh", 
+                                        "type": "", 
+                                        "value": "", 
+                                        "width": 476, 
+                                        "x": 1442, 
+                                        "xPercent": 75.10416666666667, 
+                                        "y": 456, 
+                                        "yPercent": 49.137931034482754
+                                    }, 
+                                    "location": {
+                                        "x": 1442, 
+                                        "y": 456
+                                    }, 
+                                    "size": {
+                                        "height": 152, 
+                                        "width": 476
+                                    }, 
+                                    "tag_name": "a", 
+                                    "text": "Swoosh"
+                                }, 
+                                "is_transformed": true, 
+                                "package": "", 
+                                "password": false, 
+                                "resource-id": "", 
+                                "scrollable": false, 
+                                "tag_name": "a", 
+                                "text": "Swoosh", 
+                                "text_hash": "f41d9581351e4a7c8f7fac0d58eed4ec", 
+                                "transformed": true, 
+                                "width": 952, 
+                                "x": 2884, 
+                                "y": 912
+                            }, 
+                            "gesture": "tap", 
+                            "text": ""
+                        }, 
+                        "conditional_step_skipped": false, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [
+                            "btn_nike_swoosh"
+                        ], 
+                        "screenshot_file_name": "iter_00000_step_00015_screenshot.png", 
+                        "screenshot_file_path": "tests/result_paths/003 Customize Shoe - 4805c2f6-8833-4d72-8423-1d701d50c18a/iter_00000_step_00015_screenshot.png", 
+                        "step_num": 15, 
+                        "test_labels": [
+                            "btn_nike_swoosh"
+                        ], 
+                        "timing": 1.542849063873291
+                    }, 
+                    "00016": {
+                        "action_info": {
+                            "elem_class": "a", 
+                            "elem_info": {
+                                "behavior": "", 
+                                "checkable": false, 
+                                "class": "a", 
+                                "clickable": true, 
+                                "content-desc": "", 
+                                "enabled": false, 
+                                "focusable": true, 
+                                "focused": false, 
+                                "hash": "Wo93RveiI4nQUwt5wFO0Qg==\n", 
+                                "height": 304, 
+                                "hier_level": 0, 
+                                "human_hash": "a_X3362_Y768_W474_H304", 
+                                "human_readable": "a_3362_768_474_304_a_fffffffffe7ffc3ffc3ffc3ffc3ffc3ffe7ffffffc3ffe3ffc3ffe7fffffffff_3f34f899ad2d0e91bc04e6092b2e97f0", 
+                                "img_hash": "179481c9994ed9d3810e6b9fa221b296", 
+                                "index": -1, 
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "class": "rmq-92fe81a6 nsg-font-family--base nsg-text--near-black bg-white", 
+                                            "data-automation": "combination-swatch", 
+                                            "data-automation-selected": "false", 
+                                            "data-radium": "true", 
+                                            "href": "", 
+                                            "style": "text-align: center; display: flex; align-items: center; font-size: 12px; height: 142px; justify-content: center; cursor: pointer; flex-wrap: wrap; overflow: hidden; text-decoration: none;"
+                                        }, 
+                                        "background-color": "rgb(255, 255, 255)", 
+                                        "class": "a", 
+                                        "color": "rgb(17, 17, 17)", 
+                                        "cssClass": "rmq-92fe81a6 nsg-font-family--base nsg-text--near-black bg-white", 
+                                        "domLevel": 8, 
+                                        "flags": {
+                                            "checkable": false, 
+                                            "clickable": true, 
+                                            "enabled": false, 
+                                            "focusable": true, 
+                                            "focused": false, 
+                                            "scrollable": false
+                                        }, 
+                                        "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+                                        "font-weight": "500", 
+                                        "fontSize": 12, 
+                                        "height": 152, 
+                                        "identifier": "", 
+                                        "is-focused": false, 
+                                        "is-hidden": false, 
+                                        "name": "", 
+                                        "tagName": "a", 
+                                        "text": "WhiteSolid", 
+                                        "type": "", 
+                                        "value": "", 
+                                        "width": 237, 
+                                        "x": 1681, 
+                                        "xPercent": 87.55208333333333, 
+                                        "y": 384, 
+                                        "yPercent": 41.37931034482759
+                                    }, 
+                                    "location": {
+                                        "x": 1681, 
+                                        "y": 384
+                                    }, 
+                                    "size": {
+                                        "height": 152, 
+                                        "width": 237
+                                    }, 
+                                    "tag_name": "a", 
+                                    "text": "WhiteSolid"
+                                }, 
+                                "is_transformed": true, 
+                                "package": "", 
+                                "password": false, 
+                                "resource-id": "", 
+                                "scrollable": false, 
+                                "tag_name": "a", 
+                                "text": "WhiteSolid", 
+                                "text_hash": "3f34f899ad2d0e91bc04e6092b2e97f0", 
+                                "transformed": true, 
+                                "width": 474, 
+                                "x": 3362, 
+                                "y": 768
+                            }, 
+                            "gesture": "tap", 
+                            "text": ""
+                        }, 
+                        "conditional_step_skipped": false, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [
+                            "btn_white_solid"
+                        ], 
+                        "screenshot_file_name": "iter_00000_step_00016_screenshot.png", 
+                        "screenshot_file_path": "tests/result_paths/003 Customize Shoe - 4805c2f6-8833-4d72-8423-1d701d50c18a/iter_00000_step_00016_screenshot.png", 
+                        "step_num": 16, 
+                        "test_labels": [
+                            "btn_white_solid"
+                        ], 
+                        "timing": 2.307765007019043
+                    }, 
+                    "00017": {
+                        "action_info": {
+                            "elem_class": "button", 
+                            "elem_info": {
+                                "behavior": "", 
+                                "checkable": false, 
+                                "class": "button", 
+                                "clickable": true, 
+                                "content-desc": "", 
+                                "enabled": true, 
+                                "focusable": true, 
+                                "focused": false, 
+                                "hash": "FxkO57otUU6bLxTrUIh7jQ==\n", 
+                                "height": 80, 
+                                "hier_level": 0, 
+                                "human_hash": "button_X1126_Y1586_W306_H80", 
+                                "human_readable": "button_1126_1586_306_80_button_c00380018001800180010201060103c003c003c103c18001800180018001c003_317de16bfee215df653650e9b04c5ebb", 
+                                "img_hash": "aab85e81de6c9561f3ae8ff4ffcae4f0", 
+                                "index": -1, 
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "class": "ncss-btn-primary-dark", 
+                                            "data-automation": "done-button", 
+                                            "data-radium": "true", 
+                                            "style": "width: 100%; cursor: pointer; outline: none; border-radius: 24px;"
+                                        }, 
+                                        "background-color": "rgb(17, 17, 17)", 
+                                        "class": "button", 
+                                        "color": "rgb(255, 255, 255)", 
+                                        "cssClass": "ncss-btn-primary-dark", 
+                                        "domLevel": 9, 
+                                        "flags": {
+                                            "checkable": false, 
+                                            "clickable": true, 
+                                            "enabled": true, 
+                                            "focusable": true, 
+                                            "focused": false, 
+                                            "scrollable": false
+                                        }, 
+                                        "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+                                        "font-weight": "500", 
+                                        "fontSize": 16, 
+                                        "height": 40, 
+                                        "identifier": "", 
+                                        "is-focused": false, 
+                                        "is-hidden": false, 
+                                        "name": "", 
+                                        "tagName": "button", 
+                                        "text": "Done", 
+                                        "type": "", 
+                                        "value": "", 
+                                        "width": 153, 
+                                        "x": 563, 
+                                        "xPercent": 29.296875, 
+                                        "y": 793, 
+                                        "yPercent": 85.45258620689656
+                                    }, 
+                                    "location": {
+                                        "x": 563, 
+                                        "y": 793
+                                    }, 
+                                    "size": {
+                                        "height": 40, 
+                                        "width": 153
+                                    }, 
+                                    "tag_name": "button", 
+                                    "text": "Done"
+                                }, 
+                                "is_transformed": true, 
+                                "package": "", 
+                                "password": false, 
+                                "resource-id": "", 
+                                "scrollable": false, 
+                                "tag_name": "button", 
+                                "text": "Done", 
+                                "text_hash": "317de16bfee215df653650e9b04c5ebb", 
+                                "transformed": true, 
+                                "width": 306, 
+                                "x": 1126, 
+                                "y": 1586
+                            }, 
+                            "gesture": "tap", 
+                            "text": ""
+                        }, 
+                        "conditional_step_skipped": false, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [
+                            "btn_done"
+                        ], 
+                        "screenshot_file_name": "iter_00000_step_00017_screenshot.png", 
+                        "screenshot_file_path": "tests/result_paths/003 Customize Shoe - 4805c2f6-8833-4d72-8423-1d701d50c18a/iter_00000_step_00017_screenshot.png", 
+                        "step_num": 17, 
+                        "test_labels": [
+                            "btn_done"
+                        ], 
+                        "timing": 0.2949240207672119
+                    }, 
+                    "00018": {
+                        "action_info": {
+                            "elem_class": "screen", 
+                            "elem_info": {
+                                "class": "screen", 
+                                "hash": "9t2OLGkvS5amJjdy/tkIlA==\n", 
+                                "height": 1744, 
+                                "hier_level": 0, 
+                                "human_hash": "screen_X0_Y0_W3840_H1744", 
+                                "index": -1, 
+                                "is_transformed": true, 
+                                "tag_name": "screen", 
+                                "text": "", 
+                                "width": 3840, 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "gesture": "tap", 
+                            "text": ""
+                        }, 
+                        "conditional_step_skipped": false, 
+                        "cpu": 0.0, 
+                        "jank": 0.0, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "screenshot_file_name": "iter_00000_step_00018_screenshot.png", 
+                        "screenshot_file_path": "tests/result_paths/003 Customize Shoe - 4805c2f6-8833-4d72-8423-1d701d50c18a/iter_00000_step_00018_screenshot.png", 
+                        "step_num": 18, 
+                        "timing": 1.5670201778411865
+                    }
+                }, 
+                "steps": [
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "tap", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "btn_customize"
+                        ], 
+                        "run_only_if_label_present": false, 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "swipes until neutrals by you div on Customize page", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [], 
+                        "run_only_if_label_present": false, 
+                        "script_name": "swipe_until_div_neutrals_by_you.py", 
+                        "type": "execute_script", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "Script Step", 
+                        "grep": null, 
+                        "grep_count": null, 
+                        "input": "swipe_up", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            ""
+                        ], 
+                        "run_only_if_label_present": false, 
+                        "script_name": "swipe_until_div_neutrals_by_you.py", 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "Script Step", 
+                        "grep": null, 
+                        "grep_count": null, 
+                        "input": "swipe_up", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            ""
+                        ], 
+                        "run_only_if_label_present": false, 
+                        "script_name": "swipe_until_div_neutrals_by_you.py", 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "Script Step", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "div_neutrals_by_you"
+                        ], 
+                        "run_only_if_label_present": false, 
+                        "script_name": "swipe_until_div_neutrals_by_you.py", 
+                        "tag": "labels: div_neutrals_by_you, text:  (count = None)", 
+                        "type": "verification", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "tap", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "btn_customize"
+                        ], 
+                        "run_only_if_label_present": false, 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "verifies neutrals by you h3 element ", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [], 
+                        "run_only_if_label_present": false, 
+                        "script_name": "verify_labels_present_neutrals_by_you.py", 
+                        "type": "execute_script", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "tap", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "cbx_men"
+                        ], 
+                        "run_only_if_label_present": false, 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "tap", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "btn_black"
+                        ], 
+                        "run_only_if_label_present": false, 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "tap", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "div_nike_metcon_6_by_you"
+                        ], 
+                        "run_only_if_label_present": false, 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "swipe_up", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [], 
+                        "run_only_if_label_present": false, 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "tap", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "btn_customize"
+                        ], 
+                        "run_only_if_label_present": false, 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "tap", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "btn_nike_tape"
+                        ], 
+                        "run_only_if_label_present": false, 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "tap", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "btn_pinksicle"
+                        ], 
+                        "run_only_if_label_present": false, 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "tap", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "btn_confirm"
+                        ], 
+                        "run_only_if_label_present": false, 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "tap", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "btn_nike_swoosh"
+                        ], 
+                        "run_only_if_label_present": false, 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "tap", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "btn_white_solid"
+                        ], 
+                        "run_only_if_label_present": false, 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "tap", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "btn_done"
+                        ], 
+                        "run_only_if_label_present": false, 
+                        "type": "action", 
+                        "widget": "default"
+                    }
+                ], 
+                "tags": [], 
+                "temp_id": "fc92d6b2-a8a1-11eb-bfd8-0242ac120002", 
+                "title": "003 Customize Shoe - 4805c2f6-8833-4d72-8423-1d701d50c18a", 
+                "use_qlearning_matrix": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "elem_shot_file_path": "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210430130404/tmpZ/div_X88_Y758_W392_H208.png", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "mdKPM9fs4YxKqZOvI3lTRg==\n", 
+    "height": 208, 
+    "hier_level": 0, 
+    "human_hash": "div_X88_Y758_W392_H208", 
+    "human_readable": "div_88_758_392_208_div_3fff07ff07ff3fffffffc1ffc1ffefffffffcfffc1ffc3ffffffffffffffffff_a78eb457e4e2b30267584c25879fa855", 
+    "img_hash": "eb68e659e3b25494321a6980be07526f", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "Collapsible__contentInner filter-group__content  css-1az01ki"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "Collapsible__contentInner filter-group__content  css-1az01ki", 
+            "domLevel": 20, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 104, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "MenWomenUnisex", 
+            "type": "", 
+            "value": "", 
+            "width": 196, 
+            "x": 44, 
+            "xPercent": 2.2916666666666665, 
+            "y": 379, 
+            "yPercent": 9.095272378209742
+        }, 
+        "location": {
+            "x": 44, 
+            "y": 379
+        }, 
+        "size": {
+            "height": 104, 
+            "width": 196
+        }, 
+        "tag_name": "div", 
+        "text": "MenWomenUnisex"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "MenWomenUnisex", 
+    "text_hash": "a78eb457e4e2b30267584c25879fa855", 
+    "transformed": true, 
+    "width": 392, 
+    "x": 88, 
+    "y": 758
+}

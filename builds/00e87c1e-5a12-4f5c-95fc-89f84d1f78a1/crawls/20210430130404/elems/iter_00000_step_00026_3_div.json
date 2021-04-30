@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "m+AnOmwyQRDSgkEO+T0KFw==\n", 
+    "height": 38, 
+    "hier_level": 0, 
+    "human_hash": "div_X3498_Y1274_W202_H38", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "data-radium": "true", 
+                "style": "margin-top: 10px;"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 12, 
+            "height": 19, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "University Red", 
+            "type": "", 
+            "value": "", 
+            "width": 101, 
+            "x": 1749, 
+            "xPercent": 91.10107421875, 
+            "y": 637, 
+            "yPercent": 70.72222222222221
+        }, 
+        "location": {
+            "x": 1749, 
+            "y": 637
+        }, 
+        "size": {
+            "height": 19, 
+            "width": 101
+        }, 
+        "tag_name": "div", 
+        "text": "University Red"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "University Red", 
+    "transformed": true, 
+    "width": 202, 
+    "x": 3498, 
+    "y": 1274
+}

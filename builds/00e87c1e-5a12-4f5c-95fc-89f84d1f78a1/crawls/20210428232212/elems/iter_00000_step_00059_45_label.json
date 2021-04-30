@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "label", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "YUMs6j6a1Mf7R9VVdLD3Vw==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "label_X1192_Y744_W170_H48", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "ncss-label pl6-sm", 
+                "for": "toggleFPO"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "label", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "ncss-label pl6-sm", 
+            "domLevel": 16, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "label", 
+            "text": "APO/FPO", 
+            "type": "", 
+            "value": "", 
+            "width": 85, 
+            "x": 596, 
+            "xPercent": 31.26722440944882, 
+            "y": 372, 
+            "yPercent": 34.75467289719626
+        }, 
+        "location": {
+            "x": 596, 
+            "y": 372
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 85
+        }, 
+        "tag_name": "label", 
+        "text": "APO/FPO"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "label", 
+    "text": "APO/FPO", 
+    "transformed": true, 
+    "width": 170, 
+    "x": 1192, 
+    "y": 744
+}

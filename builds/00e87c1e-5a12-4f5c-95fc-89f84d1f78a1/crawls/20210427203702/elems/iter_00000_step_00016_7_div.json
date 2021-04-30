@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "juP6WXEK9duzJrGiUVHV1g==\n", 
+    "height": 90, 
+    "hier_level": 0, 
+    "human_hash": "div_X1566_Y616_W648_H90", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "nike-unite-password-complexity"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(188, 188, 188)", 
+            "cssClass": "nike-unite-password-complexity", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Helvetica", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 45, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Minimum of 8 characters\n    1 uppercase letter\n    1 lowercase letter\n    1 number", 
+            "type": "", 
+            "value": "", 
+            "width": 324, 
+            "x": 783, 
+            "xPercent": 41.10236220472441, 
+            "y": 308, 
+            "yPercent": 4.033525405971713
+        }, 
+        "location": {
+            "x": 783, 
+            "y": 308
+        }, 
+        "size": {
+            "height": 45, 
+            "width": 324
+        }, 
+        "tag_name": "div", 
+        "text": "Minimum of 8 characters\n    1 uppercase letter\n    1 lowercase letter\n    1 number"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Minimum of 8 characters\n    1 uppercase letter\n    1 lowercase letter\n    1 number", 
+    "transformed": true, 
+    "width": 648, 
+    "x": 1566, 
+    "y": 616
+}

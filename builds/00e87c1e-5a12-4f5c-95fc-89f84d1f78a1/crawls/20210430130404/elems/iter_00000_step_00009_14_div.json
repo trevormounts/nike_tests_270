@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "hYrd2bPV7PDXbexaD7oLIQ==\n", 
+    "height": 56, 
+    "hier_level": 0, 
+    "human_hash": "div_X128_Y786_W3584_H56", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "_3zSzF4hL body-1 text-color-primary-dark", 
+                "data-qa": "body", 
+                "style": "color:#111111"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "_3zSzF4hL body-1 text-color-primary-dark", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 20, 
+            "height": 28, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Customize a pair to wear with anything.", 
+            "type": "", 
+            "value": "", 
+            "width": 1792, 
+            "x": 64, 
+            "xPercent": 3.3333333333333335, 
+            "y": 393, 
+            "yPercent": 8.153526970954356
+        }, 
+        "location": {
+            "x": 64, 
+            "y": 393
+        }, 
+        "size": {
+            "height": 28, 
+            "width": 1792
+        }, 
+        "tag_name": "div", 
+        "text": "Customize a pair to wear with anything."
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Customize a pair to wear with anything.", 
+    "transformed": true, 
+    "width": 3584, 
+    "x": 128, 
+    "y": 786
+}

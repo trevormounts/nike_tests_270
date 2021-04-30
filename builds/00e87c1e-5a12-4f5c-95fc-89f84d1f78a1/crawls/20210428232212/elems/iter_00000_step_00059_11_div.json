@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "qi+4Rui8ExEbR4NcdsSpNg==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "div_X2286_Y638_W602_H48", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "ncss-row"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "ncss-row", 
+            "domLevel": 13, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 0, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Estimated Tax $0.00", 
+            "type": "", 
+            "value": "", 
+            "width": 301, 
+            "x": 1143, 
+            "xPercent": 60.00820209973753, 
+            "y": 319, 
+            "yPercent": 29.801401869158877
+        }, 
+        "location": {
+            "x": 1143, 
+            "y": 319
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 301
+        }, 
+        "tag_name": "div", 
+        "text": "Estimated Tax $0.00"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Estimated Tax $0.00", 
+    "transformed": true, 
+    "width": 602, 
+    "x": 2286, 
+    "y": 638
+}

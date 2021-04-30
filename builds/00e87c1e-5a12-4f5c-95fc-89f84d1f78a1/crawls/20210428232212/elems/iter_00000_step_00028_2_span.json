@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "/s0qjLRH41yetpA8q0JN6w==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "span_X264_Y1478_W50_H48", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "filter-item__item-label"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "filter-item__item-label", 
+            "domLevel": 23, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "8", 
+            "type": "", 
+            "value": "", 
+            "width": 25, 
+            "x": 132, 
+            "xPercent": 6.9045275590551185, 
+            "y": 739, 
+            "yPercent": 39.881273610361575
+        }, 
+        "location": {
+            "x": 132, 
+            "y": 739
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 25
+        }, 
+        "tag_name": "span", 
+        "text": "8"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "8", 
+    "transformed": true, 
+    "width": 50, 
+    "x": 264, 
+    "y": 1478
+}

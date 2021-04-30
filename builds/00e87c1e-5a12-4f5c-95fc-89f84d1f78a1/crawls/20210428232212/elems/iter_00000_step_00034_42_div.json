@@ -1,0 +1,70 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "7kqyjtuMAFfWEQETGzOgIQ==\n", 
+    "height": 1006, 
+    "hier_level": 0, 
+    "human_hash": "div_X2692_Y536_W1006_H1006", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {}, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "domLevel": 17, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 503, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "<img class=\"css-1fxh5tw product-card__hero-image\" src=\"https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/0d2c9db6-3f84-48aa-9148-b0d94d4a3b40/air-max-90-exeter-edition-big-kids-shoe-z0gglD.png\" alt=\"Nike Air Max 90 Exeter Edition Big Kids&#x27; Shoe\" loading=\"lazy\" width=\"400\" height=\"400\"/>", 
+            "type": "", 
+            "value": "", 
+            "width": 503, 
+            "x": 1346, 
+            "xPercent": 70.65452755905511, 
+            "y": 268, 
+            "yPercent": 3.661702418363164
+        }, 
+        "location": {
+            "x": 1346, 
+            "y": 268
+        }, 
+        "size": {
+            "height": 503, 
+            "width": 503
+        }, 
+        "tag_name": "div", 
+        "text": "<img class=\"css-1fxh5tw product-card__hero-image\" src=\"https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/0d2c9db6-3f84-48aa-9148-b0d94d4a3b40/air-max-90-exeter-edition-big-kids-shoe-z0gglD.png\" alt=\"Nike Air Max 90 Exeter Edition Big Kids&#x27; Shoe\" loading=\"lazy\" width=\"400\" height=\"400\"/>"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "<img class=\"css-1fxh5tw product-card__hero-image\" src=\"https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/0d2c9db6-3f84-48aa-9148-b0d94d4a3b40/air-max-90-exeter-edition-big-kids-shoe-z0gglD.png\" alt=\"Nike Air Max 90 Exeter Edition Big Kids&#x27; Shoe\" loading=\"lazy\" width=\"400\" height=\"400\"/>", 
+    "transformed": true, 
+    "width": 1006, 
+    "x": 2692, 
+    "y": 536
+}

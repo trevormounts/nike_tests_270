@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "FHGqeiSO/Zkc2OVBN/lZBQ==\n", 
+    "height": 38, 
+    "hier_level": 0, 
+    "human_hash": "div_X3512_Y970_W176_H38", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "data-radium": "true", 
+                "style": "margin-top: 10px;"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 12, 
+            "height": 19, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Game Royal", 
+            "type": "", 
+            "value": "", 
+            "width": 88, 
+            "x": 1756, 
+            "xPercent": 91.44287109375, 
+            "y": 485, 
+            "yPercent": 53.833333333333336
+        }, 
+        "location": {
+            "x": 1756, 
+            "y": 485
+        }, 
+        "size": {
+            "height": 19, 
+            "width": 88
+        }, 
+        "tag_name": "div", 
+        "text": "Game Royal"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Game Royal", 
+    "transformed": true, 
+    "width": 176, 
+    "x": 3512, 
+    "y": 970
+}

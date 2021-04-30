@@ -1,0 +1,78 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "img", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "T9yWGgwz8CRl0dsBBNFZdA==\n", 
+    "height": 1016, 
+    "hier_level": 0, 
+    "human_hash": "img_X2712_Y536_W1016_H1016", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "Nike Air Max 2090 Big Kids' Shoe", 
+                "class": "css-1fxh5tw product-card__hero-image", 
+                "loading": "eager", 
+                "sizes": "(max-width: 1023px) 318px, (max-width: 1023px) and (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) 592px, (min-width: 1024px) 592px", 
+                "src": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/b2a8bc50-fa47-472e-9b99-1ec897b3d521/air-max-2090-big-kids-shoe-5ZxgsL.png", 
+                "srcset": "https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/b2a8bc50-fa47-472e-9b99-1ec897b3d521/air-max-2090-big-kids-shoe-5ZxgsL.png 318w, https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/b2a8bc50-fa47-472e-9b99-1ec897b3d521/air-max-2090-big-kids-shoe-5ZxgsL.png 592w, https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/b2a8bc50-fa47-472e-9b99-1ec897b3d521/air-max-2090-big-kids-shoe-5ZxgsL.png 400w"
+            }, 
+            "background-color": "rgb(245, 245, 245)", 
+            "class": "img", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "css-1fxh5tw product-card__hero-image", 
+            "domLevel": 18, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 508, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "img", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 508, 
+            "x": 1356, 
+            "xPercent": 70.62337239583333, 
+            "y": 268, 
+            "yPercent": 6.406885010757829
+        }, 
+        "location": {
+            "x": 1356, 
+            "y": 268
+        }, 
+        "size": {
+            "height": 508, 
+            "width": 508
+        }, 
+        "tag_name": "img", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "img", 
+    "text": "", 
+    "transformed": true, 
+    "width": 1016, 
+    "x": 2712, 
+    "y": 536
+}

@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "0K8GMoXLSLn/Y5xMyIUqZA==\n", 
+    "height": 80, 
+    "hier_level": 0, 
+    "human_hash": "div_X610_Y448_W286_H80", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "css-1pkdbnz d-sm-flx flx-jc-sm-c pt2-sm prl4-sm"
+            }, 
+            "background-color": "rgb(255, 255, 255)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "css-1pkdbnz d-sm-flx flx-jc-sm-c pt2-sm prl4-sm", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 14, 
+            "height": 40, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Highly Rated", 
+            "type": "", 
+            "value": "", 
+            "width": 143, 
+            "x": 305, 
+            "xPercent": 15.984251968503937, 
+            "y": 224, 
+            "yPercent": 6.367254121660035
+        }, 
+        "location": {
+            "x": 305, 
+            "y": 224
+        }, 
+        "size": {
+            "height": 40, 
+            "width": 143
+        }, 
+        "tag_name": "div", 
+        "text": "Highly Rated"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Highly Rated", 
+    "transformed": true, 
+    "width": 286, 
+    "x": 610, 
+    "y": 448
+}

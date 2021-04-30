@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "9+ShScg/FnxScB/qwLb07w==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "div_X2286_Y590_W452_H48", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "ncss-col-sm-9 va-sm-t"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "ncss-col-sm-9 va-sm-t", 
+            "domLevel": 14, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Estimated Shipping", 
+            "type": "", 
+            "value": "", 
+            "width": 226, 
+            "x": 1143, 
+            "xPercent": 60.00820209973753, 
+            "y": 295, 
+            "yPercent": 27.55841121495327
+        }, 
+        "location": {
+            "x": 1143, 
+            "y": 295
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 226
+        }, 
+        "tag_name": "div", 
+        "text": "Estimated Shipping"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Estimated Shipping", 
+    "transformed": true, 
+    "width": 452, 
+    "x": 2286, 
+    "y": 590
+}

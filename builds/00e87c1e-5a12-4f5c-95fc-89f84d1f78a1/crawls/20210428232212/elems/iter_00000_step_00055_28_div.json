@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "mQHifPNljC0khXvK6FgIXA==\n", 
+    "height": 56, 
+    "hier_level": 0, 
+    "human_hash": "div_X2296_Y362_W686_H56", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "ncss-col-sm-12 css-1umufxi"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "ncss-col-sm-12 css-1umufxi", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 28, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Do you have a Promo Code?If you are having trouble, please check the Terms & Conditions of the promotion, which are usually found by clicking \"See Details\" where the promotion was found online or in the footer of the email or mail. Promo Codes cannot be used with customized products.", 
+            "type": "", 
+            "value": "", 
+            "width": 343, 
+            "x": 1148, 
+            "xPercent": 60.25344488188976, 
+            "y": 181, 
+            "yPercent": 9.842305600870038
+        }, 
+        "location": {
+            "x": 1148, 
+            "y": 181
+        }, 
+        "size": {
+            "height": 28, 
+            "width": 343
+        }, 
+        "tag_name": "div", 
+        "text": "Do you have a Promo Code?If you are having trouble, please check the Terms & Conditions of the promotion, which are usually found by clicking \"See Details\" where the promotion was found online or in the footer of the email or mail. Promo Codes cannot be used with customized products."
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Do you have a Promo Code?If you are having trouble, please check the Terms & Conditions of the promotion, which are usually found by clicking \"See Details\" where the promotion was found online or in the footer of the email or mail. Promo Codes cannot be used with customized products.", 
+    "transformed": true, 
+    "width": 686, 
+    "x": 2296, 
+    "y": 362
+}

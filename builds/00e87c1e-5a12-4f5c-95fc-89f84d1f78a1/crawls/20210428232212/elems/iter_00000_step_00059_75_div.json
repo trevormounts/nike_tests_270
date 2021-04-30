@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "JEE1Vn0kVem0n7JovJhNfg==\n", 
+    "height": 112, 
+    "hier_level": 0, 
+    "human_hash": "div_X938_Y576_W1254_H112", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "tab-wrapper ncss-row border-medium-grey", 
+                "role": "radioGroup"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "tab-wrapper ncss-row border-medium-grey", 
+            "domLevel": 14, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 0, 
+            "height": 56, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "SHIPPICK UP", 
+            "type": "", 
+            "value": "", 
+            "width": 627, 
+            "x": 469, 
+            "xPercent": 24.593175853018373, 
+            "y": 288, 
+            "yPercent": 26.904205607476634
+        }, 
+        "location": {
+            "x": 469, 
+            "y": 288
+        }, 
+        "size": {
+            "height": 56, 
+            "width": 627
+        }, 
+        "tag_name": "div", 
+        "text": "SHIPPICK UP"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "SHIPPICK UP", 
+    "transformed": true, 
+    "width": 1254, 
+    "x": 938, 
+    "y": 576
+}

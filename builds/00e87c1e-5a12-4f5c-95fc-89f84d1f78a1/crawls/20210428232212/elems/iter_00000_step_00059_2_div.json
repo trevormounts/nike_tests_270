@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "pQJRFfb6SKq63eVXQ2+Ubw==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "div_X2754_Y590_W118_H48", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "shippingTotal"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "shippingTotal", 
+            "domLevel": 15, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "$8.00", 
+            "type": "", 
+            "value": "", 
+            "width": 59, 
+            "x": 1377, 
+            "xPercent": 72.29084645669292, 
+            "y": 295, 
+            "yPercent": 27.55841121495327
+        }, 
+        "location": {
+            "x": 1377, 
+            "y": 295
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 59
+        }, 
+        "tag_name": "div", 
+        "text": "$8.00"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "$8.00", 
+    "transformed": true, 
+    "width": 118, 
+    "x": 2754, 
+    "y": 590
+}

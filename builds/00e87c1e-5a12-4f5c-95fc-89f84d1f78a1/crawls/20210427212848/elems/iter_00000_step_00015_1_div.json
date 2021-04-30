@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "RXZeyPT8o6vkqCV5FGs6Ig==\n", 
+    "height": 40, 
+    "hier_level": 0, 
+    "human_hash": "div_X1582_Y970_W324_H40", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "nike-unite-checkbox keepMeLoggedIn nike-unite-component blurred valid", 
+                "id": "keepMeLoggedIn"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(141, 141, 141)", 
+            "cssClass": "nike-unite-checkbox keepMeLoggedIn nike-unite-component blurred valid", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Helvetica", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 20, 
+            "identifier": "keepMeLoggedIn", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Keep me signed in", 
+            "type": "", 
+            "value": "", 
+            "width": 162, 
+            "x": 791, 
+            "xPercent": 41.496062992125985, 
+            "y": 485, 
+            "yPercent": 6.368296529968455
+        }, 
+        "location": {
+            "x": 791, 
+            "y": 485
+        }, 
+        "size": {
+            "height": 20, 
+            "width": 162
+        }, 
+        "tag_name": "div", 
+        "text": "Keep me signed in"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Keep me signed in", 
+    "transformed": true, 
+    "width": 324, 
+    "x": 1582, 
+    "y": 970
+}

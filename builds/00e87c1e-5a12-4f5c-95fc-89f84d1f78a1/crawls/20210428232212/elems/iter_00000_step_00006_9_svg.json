@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "svg", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "s8zrxjLh+2Kf1pvUmkDMHA==\n", 
+    "height": 60, 
+    "hier_level": 0, 
+    "human_hash": "svg_X2582_Y32_W38_H60", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "fill": "#aa8375", 
+                "height": "30px", 
+                "viewBox": "0 0 20 32", 
+                "width": "30px"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "svg", 
+            "color": "rgb(17, 17, 17)", 
+            "domLevel": 20, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 30, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "svg", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 19, 
+            "x": 1291, 
+            "xPercent": 67.76902887139109, 
+            "y": 16, 
+            "yPercent": 0.20944816053511706
+        }, 
+        "location": {
+            "x": 1291, 
+            "y": 16
+        }, 
+        "size": {
+            "height": 30, 
+            "width": 19
+        }, 
+        "tag_name": "svg", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "svg", 
+    "text": "", 
+    "transformed": true, 
+    "width": 38, 
+    "x": 2582, 
+    "y": 32
+}

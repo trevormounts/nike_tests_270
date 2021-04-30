@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "jr1zqH7cgJS+uNPSNnCohg==\n", 
+    "height": 124, 
+    "hier_level": 0, 
+    "human_hash": "div_X1126_Y1564_W630_H124", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "data-radium": "true", 
+                "style": "position: absolute; width: 100%; top: 0px; opacity: 1;"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "domLevel": 7, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 62, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "DoneShare", 
+            "type": "", 
+            "value": "", 
+            "width": 315, 
+            "x": 563, 
+            "xPercent": 29.296875, 
+            "y": 782, 
+            "yPercent": 86.8888888888889
+        }, 
+        "location": {
+            "x": 563, 
+            "y": 782
+        }, 
+        "size": {
+            "height": 62, 
+            "width": 315
+        }, 
+        "tag_name": "div", 
+        "text": "DoneShare"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "DoneShare", 
+    "transformed": true, 
+    "width": 630, 
+    "x": 1126, 
+    "y": 1564
+}

@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "yOhhTb3wE5XpuHcQmDkmcg==\n", 
+    "height": 278, 
+    "hier_level": 0, 
+    "human_hash": "div_X1026_Y246_W1760_H278", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "ncss-row d-sm-h d-lg-b"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "ncss-row d-sm-h d-lg-b", 
+            "domLevel": 5, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 0, 
+            "height": 139, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Choose How You Would Like To Check out", 
+            "type": "", 
+            "value": "", 
+            "width": 880, 
+            "x": 513, 
+            "xPercent": 26.902887139107612, 
+            "y": 123, 
+            "yPercent": 12.961497890295359
+        }, 
+        "location": {
+            "x": 513, 
+            "y": 123
+        }, 
+        "size": {
+            "height": 139, 
+            "width": 880
+        }, 
+        "tag_name": "div", 
+        "text": "Choose How You Would Like To Check out"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Choose How You Would Like To Check out", 
+    "transformed": true, 
+    "width": 1760, 
+    "x": 1026, 
+    "y": 246
+}

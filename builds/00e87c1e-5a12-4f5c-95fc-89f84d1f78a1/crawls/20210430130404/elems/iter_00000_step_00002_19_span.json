@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "0qCqkDDHSSZvHCQepEDF7w==\n", 
+    "height": 30, 
+    "hier_level": 0, 
+    "human_hash": "span_X3500_Y22_W6_H30", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "pre-help-separator ml1-sm mr1-sm body-4"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "pre-help-separator ml1-sm mr1-sm body-4", 
+            "domLevel": 8, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 15, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "|", 
+            "type": "", 
+            "value": "", 
+            "width": 3, 
+            "x": 1750, 
+            "xPercent": 91.1669921875, 
+            "y": 11, 
+            "yPercent": 0.14757554462403372
+        }, 
+        "location": {
+            "x": 1750, 
+            "y": 11
+        }, 
+        "size": {
+            "height": 15, 
+            "width": 3
+        }, 
+        "tag_name": "span", 
+        "text": "|"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "|", 
+    "transformed": true, 
+    "width": 6, 
+    "x": 3500, 
+    "y": 22
+}

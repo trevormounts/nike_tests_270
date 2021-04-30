@@ -1,0 +1,78 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "h1", 
+    "clickable": false, 
+    "content-desc": "", 
+    "elem_shot_file_path": "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210429031710/tmpZ/h1_X96_Y188_W3184_H66.png", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "mZZsErdNg7MVHWe3Wy9iZQ==\n", 
+    "height": 66, 
+    "hier_level": 0, 
+    "human_hash": "h1_X96_Y188_W3184_H66", 
+    "human_readable": "h1_96_188_3184_66_h1_ffffffffffff0fff0fff0fff0fff0fff0fff0fff0fff0fffffffffffffffffff_66831177916ea4b36fe91bdf7d365ef6", 
+    "img_hash": "5756dd06197d4058667f8a2379b3937e", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "wall-header__title css-hrsjq4 css-7m6ucd css-yj4gxb", 
+                "id": "Womens-Air-Max-90-Shoes"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "h1", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "wall-header__title css-hrsjq4 css-7m6ucd css-yj4gxb", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 24, 
+            "height": 33, 
+            "identifier": "Womens-Air-Max-90-Shoes", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "h1", 
+            "text": "Womens Air Max 90 Shoes(13)", 
+            "type": "", 
+            "value": "", 
+            "width": 1592, 
+            "x": 48, 
+            "xPercent": 2.5196850393700787, 
+            "y": 94, 
+            "yPercent": 2.260702260702261
+        }, 
+        "location": {
+            "x": 48, 
+            "y": 94
+        }, 
+        "size": {
+            "height": 33, 
+            "width": 1592
+        }, 
+        "tag_name": "h1", 
+        "text": "Womens Air Max 90 Shoes(13)"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "h1", 
+    "text": "Womens Air Max 90 Shoes(13)", 
+    "text_hash": "66831177916ea4b36fe91bdf7d365ef6", 
+    "transformed": true, 
+    "width": 3184, 
+    "x": 96, 
+    "y": 188
+}

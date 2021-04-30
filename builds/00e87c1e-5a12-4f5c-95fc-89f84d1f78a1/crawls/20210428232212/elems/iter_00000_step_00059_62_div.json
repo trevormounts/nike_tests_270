@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "ITR3UN76ZUGLYs6VyZr5FA==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "div_X2302_Y702_W370_H48", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "fs16-sm ncss-brand totalText"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "fs16-sm ncss-brand totalText", 
+            "domLevel": 15, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Nike TG\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Total", 
+            "type": "", 
+            "value": "", 
+            "width": 185, 
+            "x": 1151, 
+            "xPercent": 60.42814960629921, 
+            "y": 351, 
+            "yPercent": 32.79205607476636
+        }, 
+        "location": {
+            "x": 1151, 
+            "y": 351
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 185
+        }, 
+        "tag_name": "div", 
+        "text": "Total"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Total", 
+    "transformed": true, 
+    "width": 370, 
+    "x": 2302, 
+    "y": 702
+}

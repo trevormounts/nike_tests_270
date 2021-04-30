@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "1Q3eQeURcpUltMtQ7g9DDg==\n", 
+    "height": 120, 
+    "hier_level": 0, 
+    "human_hash": "div_X3540_Y506_W120_H120", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "data-automation": "swatch", 
+                "data-radium": "true", 
+                "style": "display: flex; border-radius: 50%; overflow: hidden; margin: 0px auto; width: 60px; height: 60px; border: 1px solid rgb(221, 221, 221);"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 12, 
+            "height": 60, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 60, 
+            "x": 1770, 
+            "xPercent": 92.16145833333333, 
+            "y": 253, 
+            "yPercent": 28.111111111111107
+        }, 
+        "location": {
+            "x": 1770, 
+            "y": 253
+        }, 
+        "size": {
+            "height": 60, 
+            "width": 60
+        }, 
+        "tag_name": "div", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "", 
+    "transformed": true, 
+    "width": 120, 
+    "x": 3540, 
+    "y": 506
+}

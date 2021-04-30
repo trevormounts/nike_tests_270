@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "i", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "I+Mfxa6zKQeQ640HgpVGdA==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "i_X2490_Y638_W24_H48", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "js-tooltip tooltip-icn g72-help fs16-sm text-color-grey u-cursor-pointer"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "i", 
+            "color": "rgb(109, 109, 109)", 
+            "cssClass": "js-tooltip tooltip-icn g72-help fs16-sm text-color-grey u-cursor-pointer", 
+            "domLevel": 18, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "nike-glyphs", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "i", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 12, 
+            "x": 1245, 
+            "xPercent": 65.35761154855642, 
+            "y": 319, 
+            "yPercent": 29.801401869158877
+        }, 
+        "location": {
+            "x": 1245, 
+            "y": 319
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 12
+        }, 
+        "tag_name": "i", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "i", 
+    "text": "", 
+    "transformed": true, 
+    "width": 24, 
+    "x": 2490, 
+    "y": 638
+}

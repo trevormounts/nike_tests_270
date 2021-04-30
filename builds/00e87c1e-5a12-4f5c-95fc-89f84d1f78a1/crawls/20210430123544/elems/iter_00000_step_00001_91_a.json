@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "KuWKpwcYiPjcEAdHFbNmGg==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "a_X1040_Y622_W368_H48", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "body-2", 
+                "data-analytics-action-id": "5d4fdb4a-1426-4d1e-bc6c-fd4720f73129", 
+                "href": "https://www.nike.com/w/air-force-1-shoes-5sj3yzy7ok", 
+                "role": "listitem", 
+                "tabindex": "0"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(117, 117, 117)", 
+            "cssClass": "body-2", 
+            "domLevel": 13, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Air Force 1", 
+            "type": "", 
+            "value": "", 
+            "width": 184, 
+            "x": 520, 
+            "xPercent": 27.083333333333332, 
+            "y": 311, 
+            "yPercent": 4.376317638791286
+        }, 
+        "location": {
+            "x": 520, 
+            "y": 311
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 184
+        }, 
+        "tag_name": "a", 
+        "text": "Air Force 1"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Air Force 1", 
+    "transformed": true, 
+    "width": 368, 
+    "x": 1040, 
+    "y": 622
+}

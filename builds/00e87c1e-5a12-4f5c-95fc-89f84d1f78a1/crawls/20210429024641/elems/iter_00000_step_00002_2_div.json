@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "rfZQVMianlXS0m7HNwZB5A==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "div_X96_Y1200_W350_H48", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "trigger-content__label"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "trigger-content__label", 
+            "domLevel": 21, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Gender\u00a0(1)", 
+            "type": "", 
+            "value": "", 
+            "width": 175, 
+            "x": 48, 
+            "xPercent": 2.5196850393700787, 
+            "y": 600, 
+            "yPercent": 8.148852369957897
+        }, 
+        "location": {
+            "x": 48, 
+            "y": 600
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 175
+        }, 
+        "tag_name": "div", 
+        "text": "Gender\u00a0(1)"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Gender\u00a0(1)", 
+    "transformed": true, 
+    "width": 350, 
+    "x": 96, 
+    "y": 1200
+}

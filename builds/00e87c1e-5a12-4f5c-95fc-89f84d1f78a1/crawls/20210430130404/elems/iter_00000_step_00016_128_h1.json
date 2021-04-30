@@ -1,0 +1,78 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "h1", 
+    "clickable": false, 
+    "content-desc": "", 
+    "elem_shot_file_path": "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210430130404/tmpZ/h1_X96_Y378_W3214_H66.png", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "GTuZLiX1iQC4gs4JtJh2ww==\n", 
+    "height": 66, 
+    "hier_level": 0, 
+    "human_hash": "h1_X96_Y378_W3214_H66", 
+    "human_readable": "h1_96_378_3214_66_h1_ffffffffffff1fff1fff1fff1fff1fff1fff1fff1fff1fffdfffdfffffffffff_e2535a286aef204a3cabbb56eeeff7ca", 
+    "img_hash": "d54c7eb1a5d9052c0a802248423d1cf7", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "wall-header__title css-hrsjq4 css-7m6ucd css-yj4gxb", 
+                "id": "Mens-Neutrals-By-You"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "h1", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "wall-header__title css-hrsjq4 css-7m6ucd css-yj4gxb", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 24, 
+            "height": 33, 
+            "identifier": "Mens-Neutrals-By-You", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "h1", 
+            "text": "Mens Neutrals By You(13)", 
+            "type": "", 
+            "value": "", 
+            "width": 1607, 
+            "x": 48, 
+            "xPercent": 2.5, 
+            "y": 189, 
+            "yPercent": 4.535637149028078
+        }, 
+        "location": {
+            "x": 48, 
+            "y": 189
+        }, 
+        "size": {
+            "height": 33, 
+            "width": 1607
+        }, 
+        "tag_name": "h1", 
+        "text": "Mens Neutrals By You(13)"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "h1", 
+    "text": "Mens Neutrals By You(13)", 
+    "text_hash": "e2535a286aef204a3cabbb56eeeff7ca", 
+    "transformed": true, 
+    "width": 3214, 
+    "x": 96, 
+    "y": 378
+}

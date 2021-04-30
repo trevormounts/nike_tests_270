@@ -1,0 +1,72 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "CZ5hgZPJ+/r0S/CCavkaEg==\n", 
+    "height": 216, 
+    "hier_level": 0, 
+    "human_hash": "div_X3540_Y506_W120_H216", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "data-radium": "true"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 12, 
+            "height": 108, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "BlackSolid", 
+            "type": "", 
+            "value": "", 
+            "width": 60, 
+            "x": 1770, 
+            "xPercent": 92.16145833333333, 
+            "y": 253, 
+            "yPercent": 28.111111111111107
+        }, 
+        "location": {
+            "x": 1770, 
+            "y": 253
+        }, 
+        "size": {
+            "height": 108, 
+            "width": 60
+        }, 
+        "tag_name": "div", 
+        "text": "BlackSolid"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "BlackSolid", 
+    "transformed": true, 
+    "width": 120, 
+    "x": 3540, 
+    "y": 506
+}

@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "E6txlFBUzqDwZ5oZUIg8Dw==\n", 
+    "height": 120, 
+    "hier_level": 0, 
+    "human_hash": "button_X2496_Y1162_W754_H120", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "Sign In to Buy", 
+                "class": "ncss-btn-primary-dark btn-lg add-to-cart-btn"
+            }, 
+            "background-color": "rgb(17, 17, 17)", 
+            "class": "button", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "ncss-btn-primary-dark btn-lg add-to-cart-btn", 
+            "domLevel": 16, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 60, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "Sign In to Buy", 
+            "type": "", 
+            "value": "", 
+            "width": 377, 
+            "x": 1248, 
+            "xPercent": 65, 
+            "y": 581, 
+            "yPercent": 21.558441558441558
+        }, 
+        "location": {
+            "x": 1248, 
+            "y": 581
+        }, 
+        "size": {
+            "height": 60, 
+            "width": 377
+        }, 
+        "tag_name": "button", 
+        "text": "Sign In to Buy"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "Sign In to Buy", 
+    "transformed": true, 
+    "width": 754, 
+    "x": 2496, 
+    "y": 1162
+}

@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "fHdjYoQ47/0ZvQqejxH91Q==\n", 
+    "height": 80, 
+    "hier_level": 0, 
+    "human_hash": "button_X1450_Y1586_W306_H80", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "rmq-b1fc3bcc ncss-btn-secondary-dark", 
+                "data-automation": "share-button", 
+                "data-radium": "true", 
+                "style": "width: 100%; cursor: pointer; outline: none; margin-left: 10px; background-color: rgb(255, 255, 255);"
+            }, 
+            "background-color": "rgb(246, 246, 246)", 
+            "class": "button", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "rmq-b1fc3bcc ncss-btn-secondary-dark", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 40, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "Share", 
+            "type": "", 
+            "value": "", 
+            "width": 153, 
+            "x": 725, 
+            "xPercent": 37.76041666666667, 
+            "y": 793, 
+            "yPercent": 88.1111111111111
+        }, 
+        "location": {
+            "x": 725, 
+            "y": 793
+        }, 
+        "size": {
+            "height": 40, 
+            "width": 153
+        }, 
+        "tag_name": "button", 
+        "text": "Share"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "Share", 
+    "transformed": true, 
+    "width": 306, 
+    "x": 1450, 
+    "y": 1586
+}

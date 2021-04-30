@@ -1,0 +1,81 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "OC0YrFr1fITdM4mRqnZjzQ==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "button_X92_Y874_W376_H48", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-checked": "false", 
+                "aria-label": "Filter for Unisex", 
+                "class": "css-hrsjq4 css-xhk1pl css-1t2ydyg filter-item is--default css-1kqgukw  is--button", 
+                "data-group-ndx": "0", 
+                "data-group-type": "filter", 
+                "data-is-color": "false", 
+                "data-ndx": "2", 
+                "data-url": "https://www.nike.com/w/unisex-neutrals-by-you-3rauvz4aveh", 
+                "role": "menuitemcheckbox"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "button", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "css-hrsjq4 css-xhk1pl css-1t2ydyg filter-item is--default css-1kqgukw  is--button", 
+            "domLevel": 22, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "Unisex", 
+            "type": "", 
+            "value": "", 
+            "width": 188, 
+            "x": 46, 
+            "xPercent": 2.3958333333333335, 
+            "y": 437, 
+            "yPercent": 6.804733727810651
+        }, 
+        "location": {
+            "x": 46, 
+            "y": 437
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 188
+        }, 
+        "tag_name": "button", 
+        "text": "Unisex"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "Unisex", 
+    "transformed": true, 
+    "width": 376, 
+    "x": 92, 
+    "y": 874
+}

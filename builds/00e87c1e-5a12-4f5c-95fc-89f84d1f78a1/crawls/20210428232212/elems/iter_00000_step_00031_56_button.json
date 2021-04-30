@@ -1,0 +1,78 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "rx43hZx2QybAEUgNrmbYKw==\n", 
+    "height": 62, 
+    "hier_level": 0, 
+    "human_hash": "button_X104_Y908_W368_H62", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "Category for Air Max Plus", 
+                "class": "css-hrsjq4 css-xhk1pl css-1t2ydyg categories__item  is--button", 
+                "data-group-type": "category", 
+                "data-ndx": "6", 
+                "data-url": "https://www.nike.com/w/mens-air-max-plus-shoes-40x25zahvdnznik1zy7ok", 
+                "role": "link"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "button", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "css-hrsjq4 css-xhk1pl css-1t2ydyg categories__item  is--button", 
+            "domLevel": 18, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 31, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "Air Max Plus", 
+            "type": "", 
+            "value": "", 
+            "width": 184, 
+            "x": 52, 
+            "xPercent": 2.729658792650919, 
+            "y": 454, 
+            "yPercent": 10.91871091871092
+        }, 
+        "location": {
+            "x": 52, 
+            "y": 454
+        }, 
+        "size": {
+            "height": 31, 
+            "width": 184
+        }, 
+        "tag_name": "button", 
+        "text": "Air Max Plus"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "Air Max Plus", 
+    "transformed": true, 
+    "width": 368, 
+    "x": 104, 
+    "y": 908
+}

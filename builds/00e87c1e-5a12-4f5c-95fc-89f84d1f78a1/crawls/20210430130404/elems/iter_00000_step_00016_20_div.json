@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "elem_shot_file_path": "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210430130404/tmpZ/div_X1590_Y192_W660_H120.png", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "Ueo7T2wcK11ivqvny9q0dg==\n", 
+    "height": 120, 
+    "hier_level": 0, 
+    "human_hash": "div_X1590_Y192_W660_H120", 
+    "human_readable": "div_1590_192_660_120_div_ffffffffffffffffffffffff01bf000000000000ffffffffffffffffffffffff_79f1f98dd04f7560a7466c227f725a6c", 
+    "img_hash": "02715bd0a70faad6198345a40b0645b8", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "banner-node css-gb9zhi"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "banner-node css-gb9zhi", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 60, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Save Up to 40%Shop All Our New Markdowns", 
+            "type": "", 
+            "value": "", 
+            "width": 330, 
+            "x": 795, 
+            "xPercent": 41.40625, 
+            "y": 96, 
+            "yPercent": 2.3038156947444204
+        }, 
+        "location": {
+            "x": 795, 
+            "y": 96
+        }, 
+        "size": {
+            "height": 60, 
+            "width": 330
+        }, 
+        "tag_name": "div", 
+        "text": "Save Up to 40%Shop All Our New Markdowns"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Save Up to 40%Shop All Our New Markdowns", 
+    "text_hash": "79f1f98dd04f7560a7466c227f725a6c", 
+    "transformed": true, 
+    "width": 660, 
+    "x": 1590, 
+    "y": 192
+}

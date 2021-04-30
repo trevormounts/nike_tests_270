@@ -1,0 +1,78 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": true, 
+    "hash": "eK7uRDUpYFMiXfi+yEZMFQ==\n", 
+    "height": 62, 
+    "hier_level": 0, 
+    "human_hash": "button_X104_Y536_W368_H62", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "Category for Air Max 90", 
+                "class": "css-hrsjq4 css-xhk1pl css-1t2ydyg categories__item is--selected is--button", 
+                "data-group-type": "category", 
+                "data-ndx": "0", 
+                "data-url": "https://www.nike.com/w/mens-air-max-90-shoes-40x25zauqmoznik1zy7ok", 
+                "role": "link"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "button", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "css-hrsjq4 css-xhk1pl css-1t2ydyg categories__item is--selected is--button", 
+            "domLevel": 18, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": true, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 31, 
+            "identifier": "", 
+            "is-focused": true, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "Air Max 90", 
+            "type": "", 
+            "value": "", 
+            "width": 184, 
+            "x": 52, 
+            "xPercent": 2.729658792650919, 
+            "y": 268, 
+            "yPercent": 6.445406445406446
+        }, 
+        "location": {
+            "x": 52, 
+            "y": 268
+        }, 
+        "size": {
+            "height": 31, 
+            "width": 184
+        }, 
+        "tag_name": "button", 
+        "text": "Air Max 90"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "Air Max 90", 
+    "transformed": true, 
+    "width": 368, 
+    "x": 104, 
+    "y": 536
+}

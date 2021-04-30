@@ -1,0 +1,72 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "label", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "IBeNiTRljmesZ7MGfONvDQ==\n", 
+    "height": 32, 
+    "hier_level": 0, 
+    "human_hash": "label_X1918_Y920_W274_H32", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "for": "7deb4226-5db7-421a-8213-deb1a7552a2d"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "label", 
+            "color": "rgb(17, 17, 17)", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Helvetica", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 16, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "label", 
+            "text": "Shopping Preference", 
+            "type": "", 
+            "value": "", 
+            "width": 137, 
+            "x": 959, 
+            "xPercent": 50.33956692913386, 
+            "y": 460, 
+            "yPercent": 5.90197587888119
+        }, 
+        "location": {
+            "x": 959, 
+            "y": 460
+        }, 
+        "size": {
+            "height": 16, 
+            "width": 137
+        }, 
+        "tag_name": "label", 
+        "text": "Shopping Preference"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "label", 
+    "text": "Shopping Preference", 
+    "transformed": true, 
+    "width": 274, 
+    "x": 1918, 
+    "y": 920
+}

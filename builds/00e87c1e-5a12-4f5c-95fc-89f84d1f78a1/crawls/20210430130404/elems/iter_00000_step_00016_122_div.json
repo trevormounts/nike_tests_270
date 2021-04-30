@@ -1,0 +1,78 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "elem_shot_file_path": "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210430130404/tmpZ/div_X72_Y72_W168_H136.png", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "CYTnIAAYDMEFgh+WAqeAPQ==\n", 
+    "height": 136, 
+    "hier_level": 0, 
+    "human_hash": "div_X72_Y72_W168_H136", 
+    "human_readable": "div_72_72_168_136_div_fffffffffffffffffff7ef87cc1fc07fc1ffc7ffffffffffffffffffffffffff_a5df148bc35246c0596787b9eef4e2e6", 
+    "img_hash": "0d74fa4544663358734ce5dd0492a29f", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "pre-l-logo prl0-sm top-stack-context", 
+                "data-var": "swooshLogo"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "pre-l-logo prl0-sm top-stack-context", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 68, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Nike Home Page", 
+            "type": "", 
+            "value": "", 
+            "width": 84, 
+            "x": 36, 
+            "xPercent": 1.875, 
+            "y": 36, 
+            "yPercent": 0.8639308855291578
+        }, 
+        "location": {
+            "x": 36, 
+            "y": 36
+        }, 
+        "size": {
+            "height": 68, 
+            "width": 84
+        }, 
+        "tag_name": "div", 
+        "text": "Nike Home Page"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Nike Home Page", 
+    "text_hash": "a5df148bc35246c0596787b9eef4e2e6", 
+    "transformed": true, 
+    "width": 168, 
+    "x": 72, 
+    "y": 72
+}

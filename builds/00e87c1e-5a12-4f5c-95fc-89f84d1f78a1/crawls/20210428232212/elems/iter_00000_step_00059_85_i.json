@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "i", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "3FfGpIi6uTaQ4sBMHKVjQA==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "i_X1374_Y744_W24_H48", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "toggle tooltip", 
+                "class": "js-tooltip tooltip-icn g72-help fs16-sm text-color-grey u-cursor-pointer", 
+                "role": "button", 
+                "tabindex": "0"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "i", 
+            "color": "rgb(109, 109, 109)", 
+            "cssClass": "js-tooltip tooltip-icn g72-help fs16-sm text-color-grey u-cursor-pointer", 
+            "domLevel": 19, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "nike-glyphs", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "i", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 12, 
+            "x": 687, 
+            "xPercent": 36.05479002624672, 
+            "y": 372, 
+            "yPercent": 34.75467289719626
+        }, 
+        "location": {
+            "x": 687, 
+            "y": 372
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 12
+        }, 
+        "tag_name": "i", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "i", 
+    "text": "", 
+    "transformed": true, 
+    "width": 24, 
+    "x": 1374, 
+    "y": 744
+}
