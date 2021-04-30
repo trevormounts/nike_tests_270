@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "input", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "RQY7Chyr2mI05YAZ3Df8hw==\n", 
+    "height": 80, 
+    "hier_level": 0, 
+    "human_hash": "input_X1582_Y1148_W648_H80", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "id": "16fc6844-fbd0-47e5-9550-2da4111b3cf5", 
+                "type": "button", 
+                "value": "SIGN IN"
+            }, 
+            "background-color": "rgb(0, 0, 0)", 
+            "class": "input", 
+            "color": "rgb(255, 255, 255)", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "TradeGothicforNike365-BdCn, Helvetica", 
+            "font-weight": "400", 
+            "fontSize": 15, 
+            "height": 40, 
+            "identifier": "16fc6844-fbd0-47e5-9550-2da4111b3cf5", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "input", 
+            "text": "", 
+            "type": "button", 
+            "value": "SIGN IN", 
+            "width": 324, 
+            "x": 791, 
+            "xPercent": 41.496062992125985, 
+            "y": 574, 
+            "yPercent": 7.544689800210305
+        }, 
+        "location": {
+            "x": 791, 
+            "y": 574
+        }, 
+        "size": {
+            "height": 40, 
+            "width": 324
+        }, 
+        "tag_name": "input", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "input", 
+    "text": "SIGN IN", 
+    "transformed": true, 
+    "width": 648, 
+    "x": 1582, 
+    "y": 1148
+}

@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "TI/GhfvQYwq4DzKzrqlA6w==\n", 
+    "height": 80, 
+    "hier_level": 0, 
+    "human_hash": "div_X32_Y20_W3746_H80", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "d-sm-flx flx-jc-lg-fe u-position-rel"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "d-sm-flx flx-jc-lg-fe u-position-rel", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 40, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 1873, 
+            "x": 16, 
+            "xPercent": 0.8398950131233596, 
+            "y": 10, 
+            "yPercent": 0.13248542660307366
+        }, 
+        "location": {
+            "x": 16, 
+            "y": 10
+        }, 
+        "size": {
+            "height": 40, 
+            "width": 1873
+        }, 
+        "tag_name": "div", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "", 
+    "transformed": true, 
+    "width": 3746, 
+    "x": 32, 
+    "y": 20
+}

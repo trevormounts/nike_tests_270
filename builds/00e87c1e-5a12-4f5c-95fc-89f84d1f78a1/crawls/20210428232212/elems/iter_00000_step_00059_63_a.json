@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "K2uxJe3USQr3yiGFCfUPHA==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "a_X970_Y1064_W294_H48", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "Enter address manually", 
+                "class": "ncss-btn text-color-grey ncss-base p0-sm u-underline", 
+                "href": "", 
+                "id": "addressSuggestionOptOut", 
+                "role": "button"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(109, 109, 109)", 
+            "cssClass": "ncss-btn text-color-grey ncss-base p0-sm u-underline", 
+            "domLevel": 21, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 24, 
+            "identifier": "addressSuggestionOptOut", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Enter address manually", 
+            "type": "", 
+            "value": "", 
+            "width": 147, 
+            "x": 485, 
+            "xPercent": 25.433070866141733, 
+            "y": 532, 
+            "yPercent": 49.70794392523364
+        }, 
+        "location": {
+            "x": 485, 
+            "y": 532
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 147
+        }, 
+        "tag_name": "a", 
+        "text": "Enter address manually"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Enter address manually", 
+    "transformed": true, 
+    "width": 294, 
+    "x": 970, 
+    "y": 1064
+}

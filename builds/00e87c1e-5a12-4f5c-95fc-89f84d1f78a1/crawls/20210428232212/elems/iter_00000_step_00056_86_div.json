@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "yXKrRWkfqw+VGHY68CkrkQ==\n", 
+    "height": 56, 
+    "hier_level": 0, 
+    "human_hash": "div_X2810_Y506_W172_H56", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "ncss-col-sm-3 css-1hgawz4"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "ncss-col-sm-3 css-1hgawz4", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 28, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "$0.00", 
+            "type": "", 
+            "value": "", 
+            "width": 86, 
+            "x": 1405, 
+            "xPercent": 73.74343832020998, 
+            "y": 253, 
+            "yPercent": 13.75747688961392
+        }, 
+        "location": {
+            "x": 1405, 
+            "y": 253
+        }, 
+        "size": {
+            "height": 28, 
+            "width": 86
+        }, 
+        "tag_name": "div", 
+        "text": "$0.00"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "$0.00", 
+    "transformed": true, 
+    "width": 172, 
+    "x": 2810, 
+    "y": 506
+}

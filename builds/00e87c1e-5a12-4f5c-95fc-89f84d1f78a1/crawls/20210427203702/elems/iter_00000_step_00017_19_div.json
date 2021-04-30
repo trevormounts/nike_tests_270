@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "lNW1gkXaNIA09FH3gZeCyg==\n", 
+    "height": 168, 
+    "hier_level": 0, 
+    "human_hash": "div_X1602_Y86_W578_H168", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "view-header"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "view-header", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "TradeGothicforNike365-BdCn, Helvetica", 
+            "font-weight": "700", 
+            "fontSize": 26, 
+            "height": 84, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "BECOME A NIKE MEMBER", 
+            "type": "", 
+            "value": "", 
+            "width": 289, 
+            "x": 801, 
+            "xPercent": 42.03166010498688, 
+            "y": 43, 
+            "yPercent": 0.5631220534311158
+        }, 
+        "location": {
+            "x": 801, 
+            "y": 43
+        }, 
+        "size": {
+            "height": 84, 
+            "width": 289
+        }, 
+        "tag_name": "div", 
+        "text": "BECOME A NIKE MEMBER"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "BECOME A NIKE MEMBER", 
+    "transformed": true, 
+    "width": 578, 
+    "x": 1602, 
+    "y": 86
+}

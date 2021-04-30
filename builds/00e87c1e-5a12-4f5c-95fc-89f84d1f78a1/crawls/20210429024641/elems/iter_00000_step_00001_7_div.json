@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "V5hi1iChL/KxKvcEGlVQ+g==\n", 
+    "height": 216, 
+    "hier_level": 0, 
+    "human_hash": "div_X88_Y1282_W392_H216", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "Collapsible__contentOuter filter-group__outer", 
+                "style": "height: auto; transition: none 0s ease 0s; overflow: hidden;"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "Collapsible__contentOuter filter-group__outer", 
+            "domLevel": 19, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 108, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "MenWomenUnisex", 
+            "type": "", 
+            "value": "", 
+            "width": 196, 
+            "x": 44, 
+            "xPercent": 2.3097112860892386, 
+            "y": 641, 
+            "yPercent": 8.705690615238353
+        }, 
+        "location": {
+            "x": 44, 
+            "y": 641
+        }, 
+        "size": {
+            "height": 108, 
+            "width": 196
+        }, 
+        "tag_name": "div", 
+        "text": "MenWomenUnisex"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "MenWomenUnisex", 
+    "transformed": true, 
+    "width": 392, 
+    "x": 88, 
+    "y": 1282
+}

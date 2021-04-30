@@ -2,6 +2,7 @@
     "003 New Test": {
         "description": "", 
         "is_deactivated": false, 
+        "original_title": "003 New Test", 
         "steps": [], 
         "tags": [], 
         "temp_id": "fc92d6b2-a8a1-11eb-bfd8-0242ac120002", 

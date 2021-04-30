@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "ToBETnbET27YPA6REFYMCQ==\n", 
+    "height": 104, 
+    "hier_level": 0, 
+    "human_hash": "div_X88_Y1498_W392_H104", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "Collapsible__contentOuter filter-group__outer", 
+                "style": "height: auto; transition: none 0s ease 0s; overflow: hidden;"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "Collapsible__contentOuter filter-group__outer", 
+            "domLevel": 19, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 52, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Regular", 
+            "type": "", 
+            "value": "", 
+            "width": 196, 
+            "x": 44, 
+            "xPercent": 2.3097112860892386, 
+            "y": 749, 
+            "yPercent": 27.27603787327021
+        }, 
+        "location": {
+            "x": 44, 
+            "y": 749
+        }, 
+        "size": {
+            "height": 52, 
+            "width": 196
+        }, 
+        "tag_name": "div", 
+        "text": "Regular"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Regular", 
+    "transformed": true, 
+    "width": 392, 
+    "x": 88, 
+    "y": 1498
+}

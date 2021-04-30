@@ -1,267 +1,267 @@
 {
     "btn_add_to_bag": [
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210428232212/elems/iter_00000_step_00042_79_button.png"
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210428232212/elems/iter_00000_step_00042_79_button.png"
     ], 
     "btn_back": [
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00012_92_button.png"
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00012_92_button.png"
     ], 
     "btn_checkout": [
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210428232212/elems/iter_00000_step_00055_116_button.png"
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210428232212/elems/iter_00000_step_00055_116_button.png"
     ], 
     "btn_clear_search": [
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00003_3_button.png"
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00003_3_button.png"
     ], 
     "btn_close": [
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00003_4_button.png"
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00003_4_button.png"
     ], 
     "btn_close_pop": [
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427212848/elems/iter_00000_step_00003_19_button.png", 
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00004_0_button.png", 
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00022_7_button.png", 
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210429012633/elems/iter_00000_step_00002_4_button.png", 
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427212848/elems/iter_00000_step_00005_15_button.png"
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427212848/elems/iter_00000_step_00005_15_button.png", 
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00004_0_button.png", 
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210429012633/elems/iter_00000_step_00002_4_button.png", 
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00022_7_button.png", 
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427212848/elems/iter_00000_step_00003_19_button.png"
     ], 
     "btn_clothing_women": [
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00010_58_a.png"
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00010_58_a.png"
     ], 
     "btn_customize": [
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00000_33_a.png"
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00000_33_a.png"
     ], 
     "btn_dismiss_error": [
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427212848/elems/iter_00000_step_00009_5_input.png"
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427212848/elems/iter_00000_step_00009_5_input.png"
     ], 
     "btn_guest_checkout": [
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210428232212/elems/iter_00000_step_00057_3_button.png"
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210428232212/elems/iter_00000_step_00057_3_button.png"
     ], 
     "btn_help": [
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00000_34_a.png"
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00000_34_a.png"
     ], 
     "btn_join_us": [
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00017_7_input.png", 
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00016_25_a.png"
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00017_7_input.png", 
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00016_25_a.png"
     ], 
     "btn_keep_signed_in": [
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427212848/elems/iter_00000_step_00003_17_label.png", 
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427212848/elems/iter_00000_step_00005_17_label.png"
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427212848/elems/iter_00000_step_00003_17_label.png", 
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427212848/elems/iter_00000_step_00005_17_label.png"
     ], 
     "btn_kids": [
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00000_41_a.png"
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00000_41_a.png"
     ], 
     "btn_luxe_leggings": [
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00010_18_a.png"
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00010_18_a.png"
     ], 
     "btn_member_checkout": [
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210428232212/elems/iter_00000_step_00057_10_input.png"
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210428232212/elems/iter_00000_step_00057_10_input.png"
     ], 
     "btn_men": [
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210428232212/elems/iter_00000_step_00000_38_a.png"
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210428232212/elems/iter_00000_step_00000_38_a.png"
     ], 
     "btn_multi_color": [
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210428232212/elems/iter_00000_step_00016_43_button.png"
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210428232212/elems/iter_00000_step_00016_43_button.png"
     ], 
     "btn_nike_membership": [
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00000_31_a.png"
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00000_31_a.png"
     ], 
     "btn_purple": [
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210428232212/elems/iter_00000_step_00038_151_button.png", 
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210429031710/elems/iter_00000_step_00002_88_button.png"
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210428232212/elems/iter_00000_step_00038_151_button.png", 
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210429031710/elems/iter_00000_step_00002_88_button.png"
     ], 
     "btn_sale": [
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00000_30_a.png"
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00000_30_a.png"
     ], 
     "btn_save_continue": [
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210428232212/elems/iter_00000_step_00059_43_button.png"
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210428232212/elems/iter_00000_step_00059_43_button.png"
     ], 
     "btn_search": [
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00000_35_button.png", 
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00003_14_button.png"
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00003_14_button.png", 
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00000_35_button.png"
     ], 
     "btn_shoes_under_100": [
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00010_12_a.png"
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00010_12_a.png"
     ], 
     "btn_shoes_women": [
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00010_47_a.png"
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00010_47_a.png"
     ], 
     "btn_shop": [
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210429012633/elems/iter_00000_step_00001_0_a.png", 
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210428232212/elems/iter_00000_step_00010_3_a.png"
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210429012633/elems/iter_00000_step_00001_0_a.png", 
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210428232212/elems/iter_00000_step_00010_3_a.png"
     ], 
     "btn_sign_in": [
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427212848/elems/iter_00000_step_00005_20_div.png", 
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00016_52_a.png", 
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427212848/elems/iter_00000_step_00003_12_div.png"
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427212848/elems/iter_00000_step_00005_20_div.png", 
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00016_52_a.png", 
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427212848/elems/iter_00000_step_00003_12_div.png"
     ], 
     "btn_sign_in_home": [
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00000_17_button.png"
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00000_17_button.png"
     ], 
     "btn_sign_up": [
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00022_12_div.png"
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00022_12_div.png"
     ], 
     "btn_size_11": [
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210428232212/elems/iter_00000_step_00025_68_button.png"
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210428232212/elems/iter_00000_step_00025_68_button.png"
     ], 
     "btn_size_6": [
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210428232212/elems/iter_00000_step_00042_77_label.png"
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210428232212/elems/iter_00000_step_00042_77_label.png"
     ], 
     "btn_size_8_5": [
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210428232212/elems/iter_00000_step_00025_146_button.png"
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210428232212/elems/iter_00000_step_00025_146_button.png"
     ], 
     "btn_watch": [
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00018_0_button.png"
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00018_0_button.png"
     ], 
     "btn_white": [
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210428232212/elems/iter_00000_step_00020_25_a.png", 
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210428232212/elems/iter_00000_step_00019_4_a.png"
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210428232212/elems/iter_00000_step_00020_25_a.png", 
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210428232212/elems/iter_00000_step_00019_4_a.png"
     ], 
     "btn_women": [
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210428232212/elems/iter_00000_step_00000_15_a.png"
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210428232212/elems/iter_00000_step_00000_15_a.png"
     ], 
     "cbx_women": [
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210428232212/elems/iter_00000_step_00032_33_a.png"
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210428232212/elems/iter_00000_step_00032_33_a.png"
     ], 
     "ddl_country": [
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00004_2_select.png", 
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00009_10_select.png"
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00004_2_select.png", 
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00009_10_select.png"
     ], 
     "icn_air_jordan": [
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00000_19_a.png"
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00000_19_a.png"
     ], 
     "icn_cart": [
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210428232212/elems/iter_00000_step_00046_106_a.png", 
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00000_23_a.png"
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00000_23_a.png", 
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210428232212/elems/iter_00000_step_00046_106_a.png"
     ], 
     "icn_converse": [
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00000_45_a.png"
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00000_45_a.png"
     ], 
     "icn_favorites": [
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00000_7_a.png"
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00000_7_a.png"
     ], 
     "icn_home": [
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00000_39_a.png"
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00000_39_a.png"
     ], 
     "img_peg_38_le": [
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00012_83_img.png", 
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210428232212/elems/iter_00000_step_00040_80_img.png"
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210428232212/elems/iter_00000_step_00040_80_img.png", 
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00012_83_img.png"
     ], 
     "inp_dob": [
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00017_6_input.png", 
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00011_9_input.png", 
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00013_7_input.png", 
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00015_17_input.png", 
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00009_13_input.png"
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00017_6_input.png", 
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00013_7_input.png", 
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00011_9_input.png", 
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00009_13_input.png", 
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00015_17_input.png"
     ], 
     "inp_email": [
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427212848/elems/iter_00000_step_00015_14_input.png", 
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210428232212/elems/iter_00000_step_00057_28_input.png", 
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427212848/elems/iter_00000_step_00005_14_input.png", 
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00009_8_input.png", 
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427212848/elems/iter_00000_step_00007_10_input.png", 
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427212848/elems/iter_00000_step_00003_10_input.png", 
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00017_1_input.png", 
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00004_14_input.png"
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00017_1_input.png", 
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427212848/elems/iter_00000_step_00007_10_input.png", 
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210428232212/elems/iter_00000_step_00057_28_input.png", 
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00004_14_input.png", 
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427212848/elems/iter_00000_step_00003_10_input.png", 
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427212848/elems/iter_00000_step_00005_14_input.png", 
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427212848/elems/iter_00000_step_00015_14_input.png", 
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00009_8_input.png"
     ], 
     "inp_female": [
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00009_12_input.png", 
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00004_12_input.png", 
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00017_9_input.png", 
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00013_21_input.png", 
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00011_21_input.png", 
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00015_6_input.png"
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00011_21_input.png", 
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00004_12_input.png", 
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00017_9_input.png", 
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00015_6_input.png", 
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00013_21_input.png", 
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00009_12_input.png"
     ], 
     "inp_first_name": [
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00011_24_input.png", 
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00004_18_input.png", 
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00017_12_input.png", 
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00009_1_input.png"
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00009_1_input.png", 
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00004_18_input.png", 
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00017_12_input.png", 
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00011_24_input.png"
     ], 
     "inp_last_name": [
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00017_21_input.png", 
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00004_6_input.png", 
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00015_13_input.png", 
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00013_14_input.png", 
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00011_8_input.png", 
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00009_3_input.png"
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00009_3_input.png", 
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00015_13_input.png", 
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00013_14_input.png", 
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00004_6_input.png", 
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00017_21_input.png", 
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00011_8_input.png"
     ], 
     "inp_male": [
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00015_19_input.png", 
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00017_3_input.png", 
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00009_27_input.png", 
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00004_22_input.png", 
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00011_19_input.png"
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00011_19_input.png", 
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00015_19_input.png", 
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00009_27_input.png", 
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00004_22_input.png", 
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00017_3_input.png"
     ], 
     "inp_password": [
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00004_16_input.png", 
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427212848/elems/iter_00000_step_00015_18_input.png", 
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427212848/elems/iter_00000_step_00005_18_input.png", 
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00009_4_input.png", 
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427212848/elems/iter_00000_step_00003_15_input.png", 
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210428232212/elems/iter_00000_step_00057_16_input.png", 
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00017_16_input.png", 
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00013_23_input.png"
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427212848/elems/iter_00000_step_00005_18_input.png", 
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00013_23_input.png", 
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00017_16_input.png", 
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427212848/elems/iter_00000_step_00015_18_input.png", 
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00009_4_input.png", 
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210428232212/elems/iter_00000_step_00057_16_input.png", 
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00004_16_input.png", 
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427212848/elems/iter_00000_step_00003_15_input.png"
     ], 
     "inp_txt_search": [
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00003_5_input.png", 
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00000_46_input.png", 
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00006_3_input.png"
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00006_3_input.png", 
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00000_46_input.png", 
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00003_5_input.png"
     ], 
     "lnk_download_nrc": [
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00020_15_a.png"
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00020_15_a.png"
     ], 
     "lnk_download_ntc": [
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00020_13_a.png"
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00020_13_a.png"
     ], 
     "lnk_explore_coaching": [
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00020_12_a.png"
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00020_12_a.png"
     ], 
     "lnk_join_us": [
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427212848/elems/iter_00000_step_00005_3_a.png", 
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427212848/elems/iter_00000_step_00003_3_a.png"
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427212848/elems/iter_00000_step_00005_3_a.png", 
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427212848/elems/iter_00000_step_00003_3_a.png"
     ], 
     "lnkl_sign_in": [
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00004_3_a.png"
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00004_3_a.png"
     ], 
     "mi_air_max_90": [
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210429024641/elems/iter_00000_step_00000_117_a.png", 
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210428232212/elems/iter_00000_step_00030_24_a.png"
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210429024641/elems/iter_00000_step_00000_117_a.png", 
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210428232212/elems/iter_00000_step_00030_24_a.png"
     ], 
     "mi_air_max_95": [
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210428232212/elems/iter_00000_step_00014_97_a.png", 
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210428232212/elems/iter_00000_step_00012_97_a.png"
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210428232212/elems/iter_00000_step_00014_97_a.png", 
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210428232212/elems/iter_00000_step_00012_97_a.png"
     ], 
     "mnu_new_releases": [
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00000_44_a.png"
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00000_44_a.png"
     ], 
     "mnu_shoes_golf": [
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00012_46_a.png"
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00012_46_a.png"
     ], 
     "mnu_shoes_running": [
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00012_4_a.png"
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00012_4_a.png"
     ], 
     "mnu_shoes_skateboarding": [
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00012_57_a.png"
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00012_57_a.png"
     ], 
     "mnu_shoes_volleyball": [
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00012_6_a.png"
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00012_6_a.png"
     ], 
     "mnu_shoes_walking": [
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00012_43_a.png"
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00012_43_a.png"
     ], 
     "pop_offers_signup": [
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00022_0_div.png"
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00022_0_div.png"
     ], 
     "pop_sign_in": [
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427212848/elems/iter_00000_step_00003_4_div.png"
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427212848/elems/iter_00000_step_00003_4_div.png"
     ], 
     "tle_air_max_women": [
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210429012633/elems/iter_00000_step_00001_3_a.png"
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210429012633/elems/iter_00000_step_00001_3_a.png"
     ], 
     "tle_nike_app": [
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00024_16_a.png"
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00024_16_a.png"
     ], 
     "tmb_1": [
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210428232212/elems/iter_00000_step_00042_0_img.png"
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210428232212/elems/iter_00000_step_00042_0_img.png"
     ], 
     "ttl_women": [
-        "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00010_2_h1.png"
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00010_2_h1.png"
     ]
 }

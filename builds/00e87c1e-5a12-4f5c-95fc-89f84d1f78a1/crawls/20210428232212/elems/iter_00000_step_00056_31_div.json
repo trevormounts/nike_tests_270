@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "HZQGT6H5LIOjula1DCBhZg==\n", 
+    "height": 114, 
+    "hier_level": 0, 
+    "human_hash": "div_X806_Y1184_W2200_H114", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "ncss-col-sm-12"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "ncss-col-sm-12", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 57, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Favorites", 
+            "type": "", 
+            "value": "", 
+            "width": 1100, 
+            "x": 403, 
+            "xPercent": 21.128608923884514, 
+            "y": 592, 
+            "yPercent": 32.19140837411637
+        }, 
+        "location": {
+            "x": 403, 
+            "y": 592
+        }, 
+        "size": {
+            "height": 57, 
+            "width": 1100
+        }, 
+        "tag_name": "div", 
+        "text": "Favorites"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Favorites", 
+    "transformed": true, 
+    "width": 2200, 
+    "x": 806, 
+    "y": 1184
+}

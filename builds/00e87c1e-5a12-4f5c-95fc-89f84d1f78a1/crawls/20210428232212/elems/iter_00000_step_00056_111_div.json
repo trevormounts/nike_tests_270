@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "O8HUfh0OWLVeiOQRb9itnA==\n", 
+    "height": 156, 
+    "hier_level": 0, 
+    "human_hash": "div_X806_Y460_W1466_H156", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "ncss-row"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "ncss-row", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 0, 
+            "height": 78, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "IT\u2019S TAKING US A BIT LONGER THAN USUAL TO GET ORDERS TO YOUView the shipping FAQ for more detailsSave Up to 40%Shop All Our New MarkdownsFree Shipping & 60-Day Free ReturnsJoin Now", 
+            "type": "", 
+            "value": "", 
+            "width": 733, 
+            "x": 403, 
+            "xPercent": 21.128608923884514, 
+            "y": 230, 
+            "yPercent": 12.506797172376292
+        }, 
+        "location": {
+            "x": 403, 
+            "y": 230
+        }, 
+        "size": {
+            "height": 78, 
+            "width": 733
+        }, 
+        "tag_name": "div", 
+        "text": "IT\u2019S TAKING US A BIT LONGER THAN USUAL TO GET ORDERS TO YOUView the shipping FAQ for more detailsSave Up to 40%Shop All Our New MarkdownsFree Shipping & 60-Day Free ReturnsJoin Now"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "IT\u2019S TAKING US A BIT LONGER THAN USUAL TO GET ORDERS TO YOUView the shipping FAQ for more detailsSave Up to 40%Shop All Our New MarkdownsFree Shipping & 60-Day Free ReturnsJoin Now", 
+    "transformed": true, 
+    "width": 1466, 
+    "x": 806, 
+    "y": 460
+}

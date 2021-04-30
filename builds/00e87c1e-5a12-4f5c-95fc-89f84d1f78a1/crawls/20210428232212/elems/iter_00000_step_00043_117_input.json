@@ -1,0 +1,80 @@
+{
+    "behavior": "", 
+    "checkable": true, 
+    "checked": false, 
+    "class": "input", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "dgZ/CiEneRFzWKaltyyedQ==\n", 
+    "height": 2, 
+    "hier_level": 0, 
+    "human_hash": "input_X3094_Y904_W2_H2", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-describedby": "pdp-buytools-low-inventory-messaging", 
+                "class": "visually-hidden", 
+                "id": "skuAndSize__25440477", 
+                "name": "skuAndSize", 
+                "type": "radio", 
+                "value": "25440477:7"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "input", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "visually-hidden", 
+            "domLevel": 17, 
+            "flags": {
+                "checkable": true, 
+                "checked": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 1, 
+            "identifier": "skuAndSize__25440477", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "skuAndSize", 
+            "tagName": "input", 
+            "text": "", 
+            "type": "radio", 
+            "value": "25440477:7", 
+            "width": 1, 
+            "x": 1547, 
+            "xPercent": 81.2007874015748, 
+            "y": 452, 
+            "yPercent": 12.848209209778283
+        }, 
+        "location": {
+            "x": 1547, 
+            "y": 452
+        }, 
+        "size": {
+            "height": 1, 
+            "width": 1
+        }, 
+        "tag_name": "input", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "input", 
+    "text": "25440477:7", 
+    "transformed": true, 
+    "width": 2, 
+    "x": 3094, 
+    "y": 904
+}

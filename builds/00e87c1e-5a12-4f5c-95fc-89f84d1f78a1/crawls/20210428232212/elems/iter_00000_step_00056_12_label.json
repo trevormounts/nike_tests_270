@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "label", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "uoZraP0Jd2fGhGf7sEi9Hw==\n", 
+    "height": 36, 
+    "hier_level": 0, 
+    "human_hash": "label_X1348_Y740_W120_H36", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "css-1i5zo8a e4f9riy1", 
+                "id": "quantity-select-f80f2241-5493-454f-a04c-326d81fcaf61"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "label", 
+            "color": "rgb(117, 117, 117)", 
+            "cssClass": "css-1i5zo8a e4f9riy1", 
+            "domLevel": 16, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 18, 
+            "identifier": "quantity-select-f80f2241-5493-454f-a04c-326d81fcaf61", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "label", 
+            "text": "Quantity", 
+            "type": "", 
+            "value": "", 
+            "width": 60, 
+            "x": 674, 
+            "xPercent": 35.35433070866142, 
+            "y": 370, 
+            "yPercent": 20.11963023382273
+        }, 
+        "location": {
+            "x": 674, 
+            "y": 370
+        }, 
+        "size": {
+            "height": 18, 
+            "width": 60
+        }, 
+        "tag_name": "label", 
+        "text": "Quantity"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "label", 
+    "text": "Quantity", 
+    "transformed": true, 
+    "width": 120, 
+    "x": 1348, 
+    "y": 740
+}

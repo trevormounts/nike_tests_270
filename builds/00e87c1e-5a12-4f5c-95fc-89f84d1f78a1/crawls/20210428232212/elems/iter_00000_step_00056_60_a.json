@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "5c06Mh900OqAwXYMbcWXlA==\n", 
+    "height": 38, 
+    "hier_level": 0, 
+    "human_hash": "a_X1574_Y364_W106_H38", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "css-9xb3j0 el9whzi3", 
+                "data-automation": "membership-messaging-join"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(88, 88, 88)", 
+            "cssClass": "css-9xb3j0 el9whzi3", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 19, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Join us", 
+            "type": "", 
+            "value": "", 
+            "width": 53, 
+            "x": 787, 
+            "xPercent": 41.330380577427825, 
+            "y": 182, 
+            "yPercent": 9.896682979880369
+        }, 
+        "location": {
+            "x": 787, 
+            "y": 182
+        }, 
+        "size": {
+            "height": 19, 
+            "width": 53
+        }, 
+        "tag_name": "a", 
+        "text": "Join us"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Join us", 
+    "transformed": true, 
+    "width": 106, 
+    "x": 1574, 
+    "y": 364
+}

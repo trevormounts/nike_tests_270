@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "a+NIK+MqEWkDKd5Q7hngyg==\n", 
+    "height": 80, 
+    "hier_level": 0, 
+    "human_hash": "div_X2724_Y568_W80_H80", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "card-overlay__badge"
+            }, 
+            "background-color": "rgb(255, 255, 255)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "card-overlay__badge", 
+            "domLevel": 17, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 14, 
+            "height": 40, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 40, 
+            "x": 1362, 
+            "xPercent": 71.49442257217848, 
+            "y": 284, 
+            "yPercent": 15.326497571505667
+        }, 
+        "location": {
+            "x": 1362, 
+            "y": 284
+        }, 
+        "size": {
+            "height": 40, 
+            "width": 40
+        }, 
+        "tag_name": "div", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "", 
+    "transformed": true, 
+    "width": 80, 
+    "x": 2724, 
+    "y": 568
+}

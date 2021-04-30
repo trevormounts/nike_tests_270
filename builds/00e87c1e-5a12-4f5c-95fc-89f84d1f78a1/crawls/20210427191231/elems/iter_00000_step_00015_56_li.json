@@ -1,0 +1,70 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "li", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "9c5aQpxW3gUQbFa9tx93Bw==\n", 
+    "height": 56, 
+    "hier_level": 0, 
+    "human_hash": "li_X1376_Y384_W124_H56", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {}, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "li", 
+            "color": "rgb(17, 17, 17)", 
+            "domLevel": 13, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 28, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "li", 
+            "text": "Clothing", 
+            "type": "", 
+            "value": 0, 
+            "width": 62, 
+            "x": 688, 
+            "xPercent": 36.10564304461942, 
+            "y": 192, 
+            "yPercent": 2.570281124497992
+        }, 
+        "location": {
+            "x": 688, 
+            "y": 192
+        }, 
+        "size": {
+            "height": 28, 
+            "width": 62
+        }, 
+        "tag_name": "li", 
+        "text": "Clothing"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "li", 
+    "text": "Clothing", 
+    "transformed": true, 
+    "width": 124, 
+    "x": 1376, 
+    "y": 384
+}

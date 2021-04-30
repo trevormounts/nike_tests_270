@@ -1,0 +1,81 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "XwckuKhhIcwVrFg3Oo/MrQ==\n", 
+    "height": 60, 
+    "hier_level": 0, 
+    "human_hash": "a_X1048_Y36_W57_H60", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-controls": "DesktopMenu-0-4-0", 
+                "aria-expanded": "false", 
+                "aria-label": "Kids", 
+                "class": "pre-desktop-menu-link headline-5 prl3-lg pt4-sm d-sm-b no-outline", 
+                "data-nav": "4,0,-1", 
+                "data-path": "kids", 
+                "data-pre": "ILink", 
+                "data-type": "click_navShoppingMenu", 
+                "href": "https://www.nike.com/kids", 
+                "role": "menu"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "pre-desktop-menu-link headline-5 prl3-lg pt4-sm d-sm-b no-outline", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 60, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Kids", 
+            "type": "", 
+            "value": "", 
+            "width": 57, 
+            "x": 1048, 
+            "xPercent": 54.56217447916667, 
+            "y": 36, 
+            "yPercent": 0.5318363126015659
+        }, 
+        "location": {
+            "x": 1048, 
+            "y": 36
+        }, 
+        "size": {
+            "height": 60, 
+            "width": 57
+        }, 
+        "tag_name": "a", 
+        "text": "Kids"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Kids", 
+    "transformed": true, 
+    "width": 57, 
+    "x": 1048, 
+    "y": 36
+}

@@ -1,0 +1,81 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "zs8XaR4HSV+67Hld7jQOBg==\n", 
+    "height": 52, 
+    "hier_level": 0, 
+    "human_hash": "a_X2524_Y1024_W112_H52", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "Explore (https://www.nike.com/journal/coaching)", 
+                "class": "dz_xjzja ncss-cta-primary-dark underline _2f6-rMqJ bihGx79a", 
+                "data-analytics-action-id": "3754809c-c99a-4dab-bb91-8dcfa98ec564", 
+                "data-analytics-allow": "false", 
+                "data-qa": "cta-text-link", 
+                "data-qa-card-id": "5f134ca6-a56d-419e-9859-2cb4e3a65bd9", 
+                "href": "https://www.nike.com/journal/coaching", 
+                "tabindex": "0", 
+                "target": "_self"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "dz_xjzja ncss-cta-primary-dark underline _2f6-rMqJ bihGx79a", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 26, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Explore", 
+            "type": "", 
+            "value": "", 
+            "width": 56, 
+            "x": 1262, 
+            "xPercent": 66.23687664041995, 
+            "y": 512, 
+            "yPercent": 6.5691557608416735
+        }, 
+        "location": {
+            "x": 1262, 
+            "y": 512
+        }, 
+        "size": {
+            "height": 26, 
+            "width": 56
+        }, 
+        "tag_name": "a", 
+        "text": "Explore"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Explore", 
+    "transformed": true, 
+    "width": 112, 
+    "x": 2524, 
+    "y": 1024
+}

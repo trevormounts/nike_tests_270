@@ -1,0 +1,81 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "xPf1tOJ/ANV6k5ULqLQyTQ==\n", 
+    "height": 136, 
+    "hier_level": 0, 
+    "human_hash": "button_X218_Y606_W126_H136", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-checked": "false", 
+                "aria-label": "Filter for Black", 
+                "class": "css-hrsjq4 css-xhk1pl css-1t2ydyg filter-item is--color css-11bod12  is--button", 
+                "data-group-ndx": "2", 
+                "data-group-type": "filter", 
+                "data-is-color": "true", 
+                "data-ndx": "1", 
+                "data-url": "https://www.nike.com/w/womens-air-max-90-shoes-47w4rz5e1x6z90poyzauqmozy7ok", 
+                "role": "menuitemcheckbox"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "button", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "css-hrsjq4 css-xhk1pl css-1t2ydyg filter-item is--color css-11bod12  is--button", 
+            "domLevel": 22, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 68, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "Black", 
+            "type": "", 
+            "value": "", 
+            "width": 63, 
+            "x": 109, 
+            "xPercent": 5.707020997375328, 
+            "y": 303, 
+            "yPercent": 22.713643178410795
+        }, 
+        "location": {
+            "x": 109, 
+            "y": 303
+        }, 
+        "size": {
+            "height": 68, 
+            "width": 63
+        }, 
+        "tag_name": "button", 
+        "text": "Black"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "Black", 
+    "transformed": true, 
+    "width": 126, 
+    "x": 218, 
+    "y": 606
+}

@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "QlqL0luVcuKvGXI0UCeQnA==\n", 
+    "height": 224, 
+    "hier_level": 0, 
+    "human_hash": "div_X2524_Y852_W1174_H224", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "_3T7SP3hk", 
+                "data-qa": "card-overlay-content"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "_3T7SP3hk", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 112, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Nike Coaching\tThe expert advice you want and the friendly voice you need. Explore", 
+            "type": "", 
+            "value": "", 
+            "width": 587, 
+            "x": 1262, 
+            "xPercent": 66.23687664041995, 
+            "y": 426, 
+            "yPercent": 5.465742879137799
+        }, 
+        "location": {
+            "x": 1262, 
+            "y": 426
+        }, 
+        "size": {
+            "height": 112, 
+            "width": 587
+        }, 
+        "tag_name": "div", 
+        "text": "Nike Coaching\tThe expert advice you want and the friendly voice you need. Explore"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Nike Coaching\tThe expert advice you want and the friendly voice you need. Explore", 
+    "transformed": true, 
+    "width": 1174, 
+    "x": 2524, 
+    "y": 852
+}

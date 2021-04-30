@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "PVbSJ8t6B4iEzV3nmGS2ew==\n", 
+    "height": 28, 
+    "hier_level": 0, 
+    "human_hash": "div_X1566_Y640_W264_H28", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "charLength valid"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "charLength valid", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Helvetica", 
+            "font-weight": "400", 
+            "fontSize": 11, 
+            "height": 14, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Minimum of 8 characters", 
+            "type": "", 
+            "value": "", 
+            "width": 132, 
+            "x": 783, 
+            "xPercent": 41.10236220472441, 
+            "y": 320, 
+            "yPercent": 4.190675746464118
+        }, 
+        "location": {
+            "x": 783, 
+            "y": 320
+        }, 
+        "size": {
+            "height": 14, 
+            "width": 132
+        }, 
+        "tag_name": "div", 
+        "text": "Minimum of 8 characters"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Minimum of 8 characters", 
+    "transformed": true, 
+    "width": 264, 
+    "x": 1566, 
+    "y": 640
+}

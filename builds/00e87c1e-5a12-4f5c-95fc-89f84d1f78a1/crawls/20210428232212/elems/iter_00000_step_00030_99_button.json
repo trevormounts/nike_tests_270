@@ -1,0 +1,78 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "3rgjvg0G/l+jDkddxZC1bw==\n", 
+    "height": 56, 
+    "hier_level": 0, 
+    "human_hash": "button_X3280_Y418_W260_H56", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-controls": "left-nav", 
+                "aria-describedby": "Mens-Air-Max-90-Shoes", 
+                "aria-expanded": "true", 
+                "aria-label": "Hide Filters Mens Air Max 90 Shoes", 
+                "aria-pressed": "true", 
+                "class": "wall-header__filters-btn css-hrsjq4"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "button", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "wall-header__filters-btn css-hrsjq4", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 24, 
+            "height": 28, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "Hide Filters", 
+            "type": "", 
+            "value": "", 
+            "width": 130, 
+            "x": 1640, 
+            "xPercent": 86.07775590551181, 
+            "y": 209, 
+            "yPercent": 5.026455026455026
+        }, 
+        "location": {
+            "x": 1640, 
+            "y": 209
+        }, 
+        "size": {
+            "height": 28, 
+            "width": 130
+        }, 
+        "tag_name": "button", 
+        "text": "Hide Filters"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "Hide Filters", 
+    "transformed": true, 
+    "width": 260, 
+    "x": 3280, 
+    "y": 418
+}

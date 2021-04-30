@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "5XVB07W4MuvICoADCGW1nA==\n", 
+    "height": 54, 
+    "hier_level": 0, 
+    "human_hash": "a_X2290_Y384_W302_H54", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "Shoes $100 & Under", 
+                "class": "JSftBPEZ", 
+                "data-analytics-action-id": "e92dcaec-91c8-41aa-9bea-f34015d3c73a", 
+                "href": "https://www.nike.com/w/womens-100-and-under-shoes-3s37kz5e1x6zy7ok"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "JSftBPEZ", 
+            "domLevel": 14, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 27, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Shoes $100 & Under", 
+            "type": "", 
+            "value": "", 
+            "width": 151, 
+            "x": 1145, 
+            "xPercent": 60.09678477690289, 
+            "y": 192, 
+            "yPercent": 2.570281124497992
+        }, 
+        "location": {
+            "x": 1145, 
+            "y": 192
+        }, 
+        "size": {
+            "height": 27, 
+            "width": 151
+        }, 
+        "tag_name": "a", 
+        "text": "Shoes $100 & Under"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Shoes $100 & Under", 
+    "transformed": true, 
+    "width": 302, 
+    "x": 2290, 
+    "y": 384
+}

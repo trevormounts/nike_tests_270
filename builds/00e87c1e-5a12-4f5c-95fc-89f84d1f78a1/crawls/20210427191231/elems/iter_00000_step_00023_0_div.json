@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "HBBxHMdaMk20LzRQYU9V7g==\n", 
+    "height": 1140, 
+    "hier_level": 0, 
+    "human_hash": "div_X1526_Y302_W760_H1140", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "nike-unite", 
+                "data-view": "emailOnlyJoin", 
+                "id": "nike-unite-join-view", 
+                "style": "display: block;"
+            }, 
+            "background-color": "rgb(255, 255, 255)", 
+            "class": "div", 
+            "color": "rgb(141, 141, 141)", 
+            "cssClass": "nike-unite", 
+            "domLevel": 7, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Helvetica", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 570, 
+            "identifier": "nike-unite-join-view", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "GET NEWS AND OFFERS FROM NIKESign up for email to get special news and offers from the Nike family of brands.\n  \n    \n  \n  \n  \n  Email address\n  \n  Please enter a valid email address.\n  \n  It looks like you're already a Member.\n  Sign in.\n\n\n  \n  \n  Date of Birth\n  \n  Please enter a valid date of birth.\n  \n\n  \n  \n  Shopping Preference\n  \n    \n      Choose\n    \n      Men's\n    \n      Women\u2019s\n    \n  \n  Please select a preference.\n\n  \nBy signing up, you agree to Nike's Privacy Policy and Terms of Use.", 
+            "type": "", 
+            "value": "", 
+            "width": 380, 
+            "x": 763, 
+            "xPercent": 40.0262467191601, 
+            "y": 151, 
+            "yPercent": 1.937387734154478
+        }, 
+        "location": {
+            "x": 763, 
+            "y": 151
+        }, 
+        "size": {
+            "height": 570, 
+            "width": 380
+        }, 
+        "tag_name": "div", 
+        "text": "GET NEWS AND OFFERS FROM NIKESign up for email to get special news and offers from the Nike family of brands.\n  \n    \n  \n  \n  \n  Email address\n  \n  Please enter a valid email address.\n  \n  It looks like you're already a Member.\n  Sign in.\n\n\n  \n  \n  Date of Birth\n  \n  Please enter a valid date of birth.\n  \n\n  \n  \n  Shopping Preference\n  \n    \n      Choose\n    \n      Men's\n    \n      Women\u2019s\n    \n  \n  Please select a preference.\n\n  \nBy signing up, you agree to Nike's Privacy Policy and Terms of Use."
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "GET NEWS AND OFFERS FROM NIKESign up for email to get special news and offers from the Nike family of brands.\n  \n    \n  \n  \n  \n  Email address\n  \n  Please enter a valid email address.\n  \n  It looks like you're already a Member.\n  Sign in.\n\n\n  \n  \n  Date of Birth\n  \n  Please enter a valid date of birth.\n  \n\n  \n  \n  Shopping Preference\n  \n    \n      Choose\n    \n      Men's\n    \n      Women\u2019s\n    \n  \n  Please select a preference.\n\n  \nBy signing up, you agree to Nike's Privacy Policy and Terms of Use.", 
+    "transformed": true, 
+    "width": 760, 
+    "x": 1526, 
+    "y": 302
+}

@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "0HOu3+0lYkR7GCWI048ZmQ==\n", 
+    "height": 264, 
+    "hier_level": 0, 
+    "human_hash": "div_X2482_Y1256_W752_H264", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "data-in-view": "true", 
+                "id": "floating-atc-wrapper"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "domLevel": 14, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 132, 
+            "identifier": "floating-atc-wrapper", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Add to BagFavorite", 
+            "type": "", 
+            "value": "", 
+            "width": 376, 
+            "x": 1241, 
+            "xPercent": 65.11811023622047, 
+            "y": 628, 
+            "yPercent": 17.851051733939737
+        }, 
+        "location": {
+            "x": 1241, 
+            "y": 628
+        }, 
+        "size": {
+            "height": 132, 
+            "width": 376
+        }, 
+        "tag_name": "div", 
+        "text": "Add to BagFavorite"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Add to BagFavorite", 
+    "transformed": true, 
+    "width": 752, 
+    "x": 2482, 
+    "y": 1256
+}

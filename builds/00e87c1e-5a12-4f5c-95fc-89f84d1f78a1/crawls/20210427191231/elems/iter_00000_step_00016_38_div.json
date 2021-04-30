@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "fCTU02kg3fcYRwI5PgLesg==\n", 
+    "height": 360, 
+    "hier_level": 0, 
+    "human_hash": "div_X98_Y516_W3616_H360", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "ncss-row grid-row", 
+                "data-qa": "grid-row", 
+                "id": "220db7c4-2648-4ecf-982c-abb54f573764"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "ncss-row grid-row", 
+            "domLevel": 5, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 0, 
+            "height": 180, 
+            "identifier": "220db7c4-2648-4ecf-982c-abb54f573764", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Where All Athletes BelongWe want you to join us on a journey to give, move, and transform with Nike. When you\u2019re with us as a Member, you'll have access to inspiration, community, and the best Nike products.Join UsSign In", 
+            "type": "", 
+            "value": "", 
+            "width": 1808, 
+            "x": 49, 
+            "xPercent": 2.5459317585301835, 
+            "y": 258, 
+            "yPercent": 3.29165603470273
+        }, 
+        "location": {
+            "x": 49, 
+            "y": 258
+        }, 
+        "size": {
+            "height": 180, 
+            "width": 1808
+        }, 
+        "tag_name": "div", 
+        "text": "Where All Athletes BelongWe want you to join us on a journey to give, move, and transform with Nike. When you\u2019re with us as a Member, you'll have access to inspiration, community, and the best Nike products.Join UsSign In"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Where All Athletes BelongWe want you to join us on a journey to give, move, and transform with Nike. When you\u2019re with us as a Member, you'll have access to inspiration, community, and the best Nike products.Join UsSign In", 
+    "transformed": true, 
+    "width": 3616, 
+    "x": 98, 
+    "y": 516
+}

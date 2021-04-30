@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "9Rzsgqe4X+uduboHOuly+g==\n", 
+    "height": 56, 
+    "hier_level": 0, 
+    "human_hash": "div_X378_Y742_W56_H56", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "filter-item__color-patch is--green "
+            }, 
+            "background-color": "rgb(123, 186, 60)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "filter-item__color-patch is--green ", 
+            "domLevel": 23, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 28, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 28, 
+            "x": 189, 
+            "xPercent": 9.910597112860893, 
+            "y": 371, 
+            "yPercent": 27.811094452773617
+        }, 
+        "location": {
+            "x": 189, 
+            "y": 371
+        }, 
+        "size": {
+            "height": 28, 
+            "width": 28
+        }, 
+        "tag_name": "div", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "", 
+    "transformed": true, 
+    "width": 56, 
+    "x": 378, 
+    "y": 742
+}

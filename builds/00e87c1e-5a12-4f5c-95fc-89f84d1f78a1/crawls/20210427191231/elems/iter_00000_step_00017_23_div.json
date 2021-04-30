@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "mA8/PrhllGWMeOnai/7RSg==\n", 
+    "height": 112, 
+    "hier_level": 0, 
+    "human_hash": "div_X114_Y636_W3584_H112", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "_3zSzF4hL body-1 text-color-primary-dark", 
+                "data-qa": "body", 
+                "style": "color:#111111"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "_3zSzF4hL body-1 text-color-primary-dark", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 20, 
+            "height": 56, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "We want you to join us on a journey to give, move, and transform with Nike. When you\u2019re with us as a Member, you'll have access to inspiration, community, and the best Nike products.", 
+            "type": "", 
+            "value": "", 
+            "width": 1792, 
+            "x": 57, 
+            "xPercent": 2.9658792650918633, 
+            "y": 318, 
+            "yPercent": 4.05715743812197
+        }, 
+        "location": {
+            "x": 57, 
+            "y": 318
+        }, 
+        "size": {
+            "height": 56, 
+            "width": 1792
+        }, 
+        "tag_name": "div", 
+        "text": "We want you to join us on a journey to give, move, and transform with Nike. When you\u2019re with us as a Member, you'll have access to inspiration, community, and the best Nike products."
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "We want you to join us on a journey to give, move, and transform with Nike. When you\u2019re with us as a Member, you'll have access to inspiration, community, and the best Nike products.", 
+    "transformed": true, 
+    "width": 3584, 
+    "x": 114, 
+    "y": 636
+}

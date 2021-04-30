@@ -1,0 +1,78 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "tSWABviIlVgKkcDii67Tvw==\n", 
+    "height": 1376, 
+    "hier_level": 0, 
+    "human_hash": "a_X2826_Y204_W872_H1376", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "Visit https://www.nike.com/snkrs-app", 
+                "class": "_1GPQ9HJJ", 
+                "data-analytics-action-id": "279ff6e9-6775-4d50-82de-03e74f212bed", 
+                "data-qa-card-id": "f6772cb1-5ada-44ec-b72b-9b99f81b0beb", 
+                "href": "https://www.nike.com/snkrs-app", 
+                "target": "_self"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "_1GPQ9HJJ", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 688, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 436, 
+            "x": 1413, 
+            "xPercent": 74.1469816272966, 
+            "y": 102, 
+            "yPercent": 1.308698999230177
+        }, 
+        "location": {
+            "x": 1413, 
+            "y": 102
+        }, 
+        "size": {
+            "height": 688, 
+            "width": 436
+        }, 
+        "tag_name": "a", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "", 
+    "transformed": true, 
+    "width": 872, 
+    "x": 2826, 
+    "y": 204
+}

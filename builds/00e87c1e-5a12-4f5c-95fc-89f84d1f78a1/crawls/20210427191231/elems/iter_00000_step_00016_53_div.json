@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "4eruT+F7tUo8UXcEliSupg==\n", 
+    "height": 92, 
+    "hier_level": 0, 
+    "human_hash": "div_X114_Y784_W3584_H92", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "YEqpdVMc cta-container hasText", 
+                "data-qa": "cta-container"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "YEqpdVMc cta-container hasText", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 46, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Join UsSign In", 
+            "type": "", 
+            "value": "", 
+            "width": 1792, 
+            "x": 57, 
+            "xPercent": 2.9658792650918633, 
+            "y": 392, 
+            "yPercent": 5.001275835672366
+        }, 
+        "location": {
+            "x": 57, 
+            "y": 392
+        }, 
+        "size": {
+            "height": 46, 
+            "width": 1792
+        }, 
+        "tag_name": "div", 
+        "text": "Join UsSign In"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Join UsSign In", 
+    "transformed": true, 
+    "width": 3584, 
+    "x": 114, 
+    "y": 784
+}

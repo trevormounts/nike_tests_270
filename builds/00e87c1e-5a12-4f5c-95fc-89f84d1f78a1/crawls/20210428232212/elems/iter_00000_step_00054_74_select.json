@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "select", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "C1YCFe+760SZpTLkzaajjQ==\n", 
+    "height": 32, 
+    "hier_level": 0, 
+    "human_hash": "select_X1242_Y384_W104_H32", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-labelledby": "size-select-f80f2241-5493-454f-a04c-326d81fcaf61", 
+                "class": "css-w53gby e4f9riy4", 
+                "data-automation": "size-select"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "select", 
+            "color": "rgb(117, 117, 117)", 
+            "cssClass": "css-w53gby e4f9riy4", 
+            "domLevel": 17, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Arial", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 16, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "select", 
+            "text": "", 
+            "type": "", 
+            "value": null, 
+            "values": [], 
+            "valuesText": [], 
+            "width": 52, 
+            "x": 621, 
+            "xPercent": 32.582841207349084, 
+            "y": 192, 
+            "yPercent": 10.440456769983687
+        }, 
+        "location": {
+            "x": 621, 
+            "y": 192
+        }, 
+        "size": {
+            "height": 16, 
+            "width": 52
+        }, 
+        "tag_name": "select", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "select", 
+    "text": "", 
+    "transformed": true, 
+    "width": 104, 
+    "x": 1242, 
+    "y": 384
+}

@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "f0GV3WIf0n4AxfWMdsEH4w==\n", 
+    "height": 1376, 
+    "hier_level": 0, 
+    "human_hash": "div_X2810_Y204_W904_H1376", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "grid-col va-sm-t ncss-col-lg-3 ncss-col-md-3 ncss-col-sm-12 ncss-col-lg-offset-0 ncss-col-md-offset-0 ncss-col-sm-offset-0", 
+                "data-qa": "grid-col", 
+                "id": "01447d2f-613c-4ae3-b8cf-0bbccd469d86"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "grid-col va-sm-t ncss-col-lg-3 ncss-col-md-3 ncss-col-sm-12 ncss-col-lg-offset-0 ncss-col-md-offset-0 ncss-col-sm-offset-0", 
+            "domLevel": 6, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 688, 
+            "identifier": "01447d2f-613c-4ae3-b8cf-0bbccd469d86", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "SNKRSCollect: Get hooked-up with the latest sneaker drops.  Download", 
+            "type": "", 
+            "value": "", 
+            "width": 452, 
+            "x": 1405, 
+            "xPercent": 73.72703412073491, 
+            "y": 102, 
+            "yPercent": 1.308698999230177
+        }, 
+        "location": {
+            "x": 1405, 
+            "y": 102
+        }, 
+        "size": {
+            "height": 688, 
+            "width": 452
+        }, 
+        "tag_name": "div", 
+        "text": "SNKRSCollect: Get hooked-up with the latest sneaker drops.  Download"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "SNKRSCollect: Get hooked-up with the latest sneaker drops.  Download", 
+    "transformed": true, 
+    "width": 904, 
+    "x": 2810, 
+    "y": 204
+}

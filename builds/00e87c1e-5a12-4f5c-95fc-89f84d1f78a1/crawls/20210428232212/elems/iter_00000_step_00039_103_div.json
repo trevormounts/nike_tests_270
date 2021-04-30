@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "57sBDWsbxLy1sC7roDXpCg==\n", 
+    "height": 26, 
+    "hier_level": 0, 
+    "human_hash": "div_X98_Y556_W26_H26", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "icon-checkmark css-1iktvq5 "
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "icon-checkmark css-1iktvq5 ", 
+            "domLevel": 24, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 13, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 13, 
+            "x": 49, 
+            "xPercent": 2.5721784776902887, 
+            "y": 278, 
+            "yPercent": 6.685906685906685
+        }, 
+        "location": {
+            "x": 49, 
+            "y": 278
+        }, 
+        "size": {
+            "height": 13, 
+            "width": 13
+        }, 
+        "tag_name": "div", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "", 
+    "transformed": true, 
+    "width": 26, 
+    "x": 98, 
+    "y": 556
+}

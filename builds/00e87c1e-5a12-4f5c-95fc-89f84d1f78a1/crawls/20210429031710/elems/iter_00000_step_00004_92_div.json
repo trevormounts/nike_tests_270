@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "elem_shot_file_path": "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210429031710/tmpZ/div_X96_Y1486_W350_H48.png", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "7RNI0UJBiQ5WZY1r2v3X9g==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "div_X96_Y1486_W350_H48", 
+    "human_readable": "div_96_1486_350_48_div_ffffffffffffffff75ff36ff007f007f00ff00fe007f007ffdfffdffffffffff_3fc8e2f2fe41985e9423f4029e147040", 
+    "img_hash": "a2036414f79e13f6e0e9829c735b46ee", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "trigger-content__label"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "trigger-content__label", 
+            "domLevel": 21, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Shoe Height\u00a0(0)", 
+            "type": "", 
+            "value": "", 
+            "width": 175, 
+            "x": 48, 
+            "xPercent": 2.5196850393700787, 
+            "y": 743, 
+            "yPercent": 17.869167869167867
+        }, 
+        "location": {
+            "x": 48, 
+            "y": 743
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 175
+        }, 
+        "tag_name": "div", 
+        "text": "Shoe Height\u00a0(0)"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Shoe Height\u00a0(0)", 
+    "text_hash": "3fc8e2f2fe41985e9423f4029e147040", 
+    "transformed": true, 
+    "width": 350, 
+    "x": 96, 
+    "y": 1486
+}

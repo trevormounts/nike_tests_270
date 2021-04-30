@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "SGQnvBev+ffjIAdemZW6Aw==\n", 
+    "height": 400, 
+    "hier_level": 0, 
+    "human_hash": "div_X2262_Y790_W650_H400", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "mb5-sm"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "mb5-sm", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 200, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Arrives by Mon, May 10Style #: undefinedSize: undefinedColor: Qty: 1 @ $130.00$130.00", 
+            "type": "", 
+            "value": "", 
+            "width": 325, 
+            "x": 1131, 
+            "xPercent": 59.37828083989501, 
+            "y": 395, 
+            "yPercent": 36.904205607476634
+        }, 
+        "location": {
+            "x": 1131, 
+            "y": 395
+        }, 
+        "size": {
+            "height": 200, 
+            "width": 325
+        }, 
+        "tag_name": "div", 
+        "text": "Arrives by Mon, May 10Style #: undefinedSize: undefinedColor: Qty: 1 @ $130.00$130.00"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Arrives by Mon, May 10Style #: undefinedSize: undefinedColor: Qty: 1 @ $130.00$130.00", 
+    "transformed": true, 
+    "width": 650, 
+    "x": 2262, 
+    "y": 790
+}

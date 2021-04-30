@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "label", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "pL7RVVd2EWmTINoz5ilnow==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "label_X1138_Y1014_W288_H48", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "checkbox", 
+                "for": "360e52f6-e003-46de-bf0e-469d8871621b"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "label", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "checkbox", 
+            "domLevel": 14, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "label", 
+            "text": "Keep me signed in", 
+            "type": "", 
+            "value": "", 
+            "width": 144, 
+            "x": 569, 
+            "xPercent": 29.84251968503937, 
+            "y": 507, 
+            "yPercent": 53.467827004219416
+        }, 
+        "location": {
+            "x": 569, 
+            "y": 507
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 144
+        }, 
+        "tag_name": "label", 
+        "text": "Keep me signed in"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "label", 
+    "text": "Keep me signed in", 
+    "transformed": true, 
+    "width": 288, 
+    "x": 1138, 
+    "y": 1014
+}

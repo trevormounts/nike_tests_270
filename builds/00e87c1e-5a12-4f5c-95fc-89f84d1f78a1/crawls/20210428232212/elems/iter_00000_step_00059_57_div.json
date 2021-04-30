@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "AvjX6tqP9broLp7vtPYTdQ==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "div_X2302_Y638_W224_H48", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "d-sm-ib"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "d-sm-ib", 
+            "domLevel": 15, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Estimated Tax", 
+            "type": "", 
+            "value": "", 
+            "width": 112, 
+            "x": 1151, 
+            "xPercent": 60.42814960629921, 
+            "y": 319, 
+            "yPercent": 29.801401869158877
+        }, 
+        "location": {
+            "x": 1151, 
+            "y": 319
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 112
+        }, 
+        "tag_name": "div", 
+        "text": "Estimated Tax"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Estimated Tax", 
+    "transformed": true, 
+    "width": 224, 
+    "x": 2302, 
+    "y": 638
+}

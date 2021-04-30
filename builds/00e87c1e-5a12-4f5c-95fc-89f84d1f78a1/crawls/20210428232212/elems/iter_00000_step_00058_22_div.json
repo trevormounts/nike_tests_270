@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "PeMRoTh2Xv/eAKStKlDabA==\n", 
+    "height": 692, 
+    "hier_level": 0, 
+    "human_hash": "div_X1906_Y524_W864_H692", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "d-sm-h d-lg-tc pb8-lg mod-border-right-light-grey prl12-sm ta-sm-l"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "d-sm-h d-lg-tc pb8-lg mod-border-right-light-grey prl12-sm ta-sm-l", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 346, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Check out as a GuestYou can create a free Nike Member Profile at any point during the checkout process.", 
+            "type": "", 
+            "value": "", 
+            "width": 432, 
+            "x": 953, 
+            "xPercent": 50, 
+            "y": 262, 
+            "yPercent": 27.623945147679326
+        }, 
+        "location": {
+            "x": 953, 
+            "y": 262
+        }, 
+        "size": {
+            "height": 346, 
+            "width": 432
+        }, 
+        "tag_name": "div", 
+        "text": "Check out as a GuestYou can create a free Nike Member Profile at any point during the checkout process."
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Check out as a GuestYou can create a free Nike Member Profile at any point during the checkout process.", 
+    "transformed": true, 
+    "width": 864, 
+    "x": 1906, 
+    "y": 524
+}

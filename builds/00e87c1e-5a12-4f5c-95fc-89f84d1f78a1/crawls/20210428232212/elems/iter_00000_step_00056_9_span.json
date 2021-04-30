@@ -1,0 +1,70 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "7gMAqTSolsacL+efhvMYvQ==\n", 
+    "height": 36, 
+    "hier_level": 0, 
+    "human_hash": "span_X2512_Y588_W40_H36", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {}, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(17, 17, 17)", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 18, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "The actual tax will be calculated based on the applicable state and local sales taxes when your order is shipped.\u00a0Learn More", 
+            "type": "", 
+            "value": "", 
+            "width": 20, 
+            "x": 1256, 
+            "xPercent": 65.94734251968504, 
+            "y": 294, 
+            "yPercent": 15.98694942903752
+        }, 
+        "location": {
+            "x": 1256, 
+            "y": 294
+        }, 
+        "size": {
+            "height": 18, 
+            "width": 20
+        }, 
+        "tag_name": "span", 
+        "text": "The actual tax will be calculated based on the applicable state and local sales taxes when your order is shipped.\u00a0Learn More"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "The actual tax will be calculated based on the applicable state and local sales taxes when your order is shipped.\u00a0Learn More", 
+    "transformed": true, 
+    "width": 40, 
+    "x": 2512, 
+    "y": 588
+}

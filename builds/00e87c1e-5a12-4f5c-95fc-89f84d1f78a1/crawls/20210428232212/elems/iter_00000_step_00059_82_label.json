@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "label", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "jLODyKQHtH9+GKs7d0J+hA==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "label_X1612_Y1166_W236_H48", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "ncss-label ncss-label-text pr6-sm css-o9xj2n", 
+                "for": "phoneNumber"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "label", 
+            "color": "rgb(141, 141, 141)", 
+            "cssClass": "ncss-label ncss-label-text pr6-sm css-o9xj2n", 
+            "domLevel": 20, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "label", 
+            "text": "Phone Number", 
+            "type": "", 
+            "value": "", 
+            "width": 118, 
+            "x": 806, 
+            "xPercent": 42.300688976377955, 
+            "y": 583, 
+            "yPercent": 54.49182242990654
+        }, 
+        "location": {
+            "x": 806, 
+            "y": 583
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 118
+        }, 
+        "tag_name": "label", 
+        "text": "Phone Number"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "label", 
+    "text": "Phone Number", 
+    "transformed": true, 
+    "width": 236, 
+    "x": 1612, 
+    "y": 1166
+}

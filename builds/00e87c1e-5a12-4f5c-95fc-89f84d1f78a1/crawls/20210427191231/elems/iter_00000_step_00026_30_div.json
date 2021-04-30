@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "XQwRcK1V1ipWNuR9n+9FpQ==\n", 
+    "height": 576, 
+    "hier_level": 0, 
+    "human_hash": "div_X2286_Y1128_W1144_H576", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "_3T7SP3hk", 
+                "data-qa": "card-overlay-content"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "_3T7SP3hk", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 288, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Scan this code to download the Nike App.", 
+            "type": "", 
+            "value": "", 
+            "width": 572, 
+            "x": 1143, 
+            "xPercent": 60, 
+            "y": 564, 
+            "yPercent": 7.370622059592264
+        }, 
+        "location": {
+            "x": 1143, 
+            "y": 564
+        }, 
+        "size": {
+            "height": 288, 
+            "width": 572
+        }, 
+        "tag_name": "div", 
+        "text": "Scan this code to download the Nike App."
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Scan this code to download the Nike App.", 
+    "transformed": true, 
+    "width": 1144, 
+    "x": 2286, 
+    "y": 1128
+}

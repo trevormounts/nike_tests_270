@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "nCLV+E3Sn9OMLzz351ZXlA==\n", 
+    "height": 28, 
+    "hier_level": 0, 
+    "human_hash": "a_X2050_Y1546_W150_H28", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "javascript:void(0)", 
+                "onclick": "javascript:nike.unite.openLegalLink('policyLink');"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(141, 141, 141)", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Helvetica", 
+            "font-weight": "500", 
+            "fontSize": 12, 
+            "height": 14, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Privacy Policy", 
+            "type": "", 
+            "value": "", 
+            "width": 75, 
+            "x": 1025, 
+            "xPercent": 53.79839238845145, 
+            "y": 773, 
+            "yPercent": 10.123101100052384
+        }, 
+        "location": {
+            "x": 1025, 
+            "y": 773
+        }, 
+        "size": {
+            "height": 14, 
+            "width": 75
+        }, 
+        "tag_name": "a", 
+        "text": "Privacy Policy"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Privacy Policy", 
+    "transformed": true, 
+    "width": 150, 
+    "x": 2050, 
+    "y": 1546
+}

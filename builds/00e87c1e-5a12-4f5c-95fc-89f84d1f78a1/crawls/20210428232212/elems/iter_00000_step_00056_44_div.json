@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "d0ph0/6ZziEozPq/UTG0Nw==\n", 
+    "height": 56, 
+    "hier_level": 0, 
+    "human_hash": "div_X2296_Y434_W514_H56", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "ncss-col-sm-9 css-39v3er"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "ncss-col-sm-9 css-39v3er", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 28, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "SubtotalThe subtotal reflects the total price of your order before any applicable discounts. It does not include shipping costs and taxes.", 
+            "type": "", 
+            "value": "", 
+            "width": 257, 
+            "x": 1148, 
+            "xPercent": 60.25344488188976, 
+            "y": 217, 
+            "yPercent": 11.79989124524198
+        }, 
+        "location": {
+            "x": 1148, 
+            "y": 217
+        }, 
+        "size": {
+            "height": 28, 
+            "width": 257
+        }, 
+        "tag_name": "div", 
+        "text": "SubtotalThe subtotal reflects the total price of your order before any applicable discounts. It does not include shipping costs and taxes."
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "SubtotalThe subtotal reflects the total price of your order before any applicable discounts. It does not include shipping costs and taxes.", 
+    "transformed": true, 
+    "width": 514, 
+    "x": 2296, 
+    "y": 434
+}

@@ -1,0 +1,82 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "MxRWtWg86al/nbDkYAm/7A==\n", 
+    "height": 120, 
+    "hier_level": 0, 
+    "human_hash": "a_X1424_Y72_W258_H120", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-controls": "DesktopMenu-0-0-0", 
+                "aria-expanded": "false", 
+                "aria-label": "New Releases", 
+                "class": "pre-desktop-menu-link headline-5 prl3-lg pt4-sm d-sm-b no-outline", 
+                "data-nav": "0,0,-1", 
+                "data-path": "new releases", 
+                "data-pre": "ILink", 
+                "data-type": "click_navShoppingMenu", 
+                "href": "https://www.nike.com/w/new-3n82y", 
+                "role": "menu"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "pre-desktop-menu-link headline-5 prl3-lg pt4-sm d-sm-b no-outline", 
+            "domLevel": 14, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 60, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "New Releases", 
+            "type": "", 
+            "value": "", 
+            "width": 129, 
+            "x": 712, 
+            "xPercent": 37.38188976377953, 
+            "y": 36, 
+            "yPercent": 0.8658008658008658
+        }, 
+        "location": {
+            "x": 712, 
+            "y": 36
+        }, 
+        "size": {
+            "height": 60, 
+            "width": 129
+        }, 
+        "tag_name": "a", 
+        "text": "New Releases"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "New Releases", 
+    "transformed": true, 
+    "width": 258, 
+    "x": 1424, 
+    "y": 72
+}

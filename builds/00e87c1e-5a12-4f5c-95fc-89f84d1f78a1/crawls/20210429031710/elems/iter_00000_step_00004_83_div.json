@@ -1,0 +1,78 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "elem_shot_file_path": "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210429031710/tmpZ/div_X1638_Y314_W1038_H1412.png", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "oTq1c9TF8ztTVAimsUUyxw==\n", 
+    "height": 1412, 
+    "hier_level": 0, 
+    "human_hash": "div_X1638_Y314_W1038_H1412", 
+    "human_readable": "div_1638_314_1038_1412_div_ffffffffffffffffffbffc03f0018001c003ffffffffffffffffffffffffffff_cefcd120b1a13d63a1673b543e75bd81", 
+    "img_hash": "96aca3af65e9d89fa17055c6c8fe6bbd", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "product-card css-ljrxiq css-z5nr6i css-11ziap1 css-14d76vy css-dpr2cn product-grid__card ", 
+                "data-product-position": "2"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "product-card css-ljrxiq css-z5nr6i css-11ziap1 css-14d76vy css-dpr2cn product-grid__card ", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 706, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Nike Air Max 90Nike Air Max 90Men's Shoe1 Color$130", 
+            "type": "", 
+            "value": "", 
+            "width": 519, 
+            "x": 819, 
+            "xPercent": 42.99130577427822, 
+            "y": 157, 
+            "yPercent": 3.7758537758537756
+        }, 
+        "location": {
+            "x": 819, 
+            "y": 157
+        }, 
+        "size": {
+            "height": 706, 
+            "width": 519
+        }, 
+        "tag_name": "div", 
+        "text": "Nike Air Max 90Nike Air Max 90Men's Shoe1 Color$130"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Nike Air Max 90Nike Air Max 90Men's Shoe1 Color$130", 
+    "text_hash": "cefcd120b1a13d63a1673b543e75bd81", 
+    "transformed": true, 
+    "width": 1038, 
+    "x": 1638, 
+    "y": 314
+}

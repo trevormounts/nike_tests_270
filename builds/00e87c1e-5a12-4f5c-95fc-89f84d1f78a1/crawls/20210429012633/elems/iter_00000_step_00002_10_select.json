@@ -1,0 +1,84 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "select", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "DhcGQU0RzJXAzD+7vBoCDA==\n", 
+    "height": 80, 
+    "hier_level": 0, 
+    "human_hash": "select_X1918_Y966_W312_H80", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "data-componentname": "shoppingGenderDropdown", 
+                "id": "787d230f-1ab3-4810-8c4c-e625b1b9a2d7", 
+                "name": "shoppingGenderDropdown"
+            }, 
+            "background-color": "rgb(255, 255, 255)", 
+            "class": "select", 
+            "color": "rgb(141, 141, 141)", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Helvetica", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 40, 
+            "identifier": "787d230f-1ab3-4810-8c4c-e625b1b9a2d7", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "shoppingGenderDropdown", 
+            "tagName": "select", 
+            "text": "Choose\n    \n      Men's\n    \n      Women\u2019s", 
+            "type": "", 
+            "value": "", 
+            "values": [
+                "Choose", 
+                "Men's", 
+                "Women\u2019s"
+            ], 
+            "valuesText": [
+                "Choose", 
+                "Men's", 
+                "Women\u2019s"
+            ], 
+            "width": 156, 
+            "x": 959, 
+            "xPercent": 50.33956692913386, 
+            "y": 483, 
+            "yPercent": 6.45484949832776
+        }, 
+        "location": {
+            "x": 959, 
+            "y": 483
+        }, 
+        "size": {
+            "height": 40, 
+            "width": 156
+        }, 
+        "tag_name": "select", 
+        "text": "Choose\n    \n      Men's\n    \n      Women\u2019s"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "select", 
+    "text": "Choose\n    \n      Men's\n    \n      Women\u2019s", 
+    "transformed": true, 
+    "width": 312, 
+    "x": 1918, 
+    "y": 966
+}

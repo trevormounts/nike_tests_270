@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "U+WKJvUT2dxD11CIpEhQiw==\n", 
+    "height": 162, 
+    "hier_level": 0, 
+    "human_hash": "div_X1566_Y258_W648_H162", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "view-sub-header nike-unite-message", 
+                "id": "joinMessage"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(141, 141, 141)", 
+            "cssClass": "view-sub-header nike-unite-message", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "HelveticaNeue, Helvetica", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 81, 
+            "identifier": "joinMessage", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Create your Nike Member profile and get first access to the very best of Nike products, inspiration and community.", 
+            "type": "", 
+            "value": "", 
+            "width": 324, 
+            "x": 783, 
+            "xPercent": 41.10236220472441, 
+            "y": 129, 
+            "yPercent": 1.6893661602933472
+        }, 
+        "location": {
+            "x": 783, 
+            "y": 129
+        }, 
+        "size": {
+            "height": 81, 
+            "width": 324
+        }, 
+        "tag_name": "div", 
+        "text": "Create your Nike Member profile and get first access to the very best of Nike products, inspiration and community."
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Create your Nike Member profile and get first access to the very best of Nike products, inspiration and community.", 
+    "transformed": true, 
+    "width": 648, 
+    "x": 1566, 
+    "y": 258
+}

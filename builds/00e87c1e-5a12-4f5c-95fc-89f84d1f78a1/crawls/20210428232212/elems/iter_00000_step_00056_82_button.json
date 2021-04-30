@@ -1,0 +1,78 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "mD+vGQmLC20yIjIJtvVaxQ==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "button_X1182_Y1008_W254_H48", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "Move to Favorites", 
+                "class": "css-4igyh0 e1pfgppp2", 
+                "data-automation": "desktop-move-to-favorites-button", 
+                "data-version": "__VERSION_HERE__", 
+                "name": "move-to-favorites-button", 
+                "type": "button"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "button", 
+            "color": "rgb(117, 117, 117)", 
+            "cssClass": "css-4igyh0 e1pfgppp2", 
+            "domLevel": 14, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Arial", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "move-to-favorites-button", 
+            "tagName": "button", 
+            "text": "Move to Favorites", 
+            "type": "button", 
+            "value": "", 
+            "width": 127, 
+            "x": 591, 
+            "xPercent": 30.997375328083987, 
+            "y": 504, 
+            "yPercent": 27.40619902120718
+        }, 
+        "location": {
+            "x": 591, 
+            "y": 504
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 127
+        }, 
+        "tag_name": "button", 
+        "text": "Move to Favorites"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "Move to Favorites", 
+    "transformed": true, 
+    "width": 254, 
+    "x": 1182, 
+    "y": 1008
+}

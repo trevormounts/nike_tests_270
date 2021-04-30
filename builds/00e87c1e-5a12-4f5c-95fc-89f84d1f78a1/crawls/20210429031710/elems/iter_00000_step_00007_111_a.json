@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "ZXFvK63FTOEUb7mV3xW+lg==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "a_X3074_Y840_W158_H48", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "text-color-secondary pr0-sm d-sm-ib sizeGuide css-1i84jnn", 
+                "href": "https://www.nike.com/size-fit/womens-footwear", 
+                "rel": "noopener noreferrer", 
+                "target": "_blank"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(117, 117, 117)", 
+            "cssClass": "text-color-secondary pr0-sm d-sm-ib sizeGuide css-1i84jnn", 
+            "domLevel": 17, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Size Guide", 
+            "type": "", 
+            "value": "", 
+            "width": 79, 
+            "x": 1537, 
+            "xPercent": 80.68569553805774, 
+            "y": 420, 
+            "yPercent": 11.938601478112563
+        }, 
+        "location": {
+            "x": 1537, 
+            "y": 420
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 79
+        }, 
+        "tag_name": "a", 
+        "text": "Size Guide"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Size Guide", 
+    "transformed": true, 
+    "width": 158, 
+    "x": 3074, 
+    "y": 840
+}

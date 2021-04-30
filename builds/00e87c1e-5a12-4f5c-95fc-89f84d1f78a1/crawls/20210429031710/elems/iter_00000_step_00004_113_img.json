@@ -1,0 +1,82 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "img", 
+    "clickable": false, 
+    "content-desc": "", 
+    "elem_shot_file_path": "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210429031710/tmpZ/img_X2692_Y314_W1006_H1006.png", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "SYjMw/UIEzBFRg5qnl6EBg==\n", 
+    "height": 1006, 
+    "hier_level": 0, 
+    "human_hash": "img_X2692_Y314_W1006_H1006", 
+    "human_readable": "img_2692_314_1006_1006_img_ffffffffffffffffffffffffffbffe3bf801f8019e038001c001ffffffffffff_9d4568c009d203ab10e33ea9953a0264", 
+    "img_hash": "1fb6863d2b2584275eccd59dc537da7e", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "Nike Air Max 90 Women's Shoe", 
+                "class": "css-1fxh5tw product-card__hero-image", 
+                "loading": "eager", 
+                "sizes": "(max-width: 1023px) 318px, (max-width: 1023px) and (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) 592px, (min-width: 1024px) 592px", 
+                "src": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/021c727e-4301-48e0-937c-49a806bd1d33/air-max-90-womens-shoe-g5nqKN.png", 
+                "srcset": "https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/021c727e-4301-48e0-937c-49a806bd1d33/air-max-90-womens-shoe-g5nqKN.png 318w, https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/021c727e-4301-48e0-937c-49a806bd1d33/air-max-90-womens-shoe-g5nqKN.png 592w, https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/021c727e-4301-48e0-937c-49a806bd1d33/air-max-90-womens-shoe-g5nqKN.png 400w"
+            }, 
+            "background-color": "rgb(245, 245, 245)", 
+            "class": "img", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "css-1fxh5tw product-card__hero-image", 
+            "domLevel": 18, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 503, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "img", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 503, 
+            "x": 1346, 
+            "xPercent": 70.65452755905511, 
+            "y": 157, 
+            "yPercent": 3.7758537758537756
+        }, 
+        "location": {
+            "x": 1346, 
+            "y": 157
+        }, 
+        "size": {
+            "height": 503, 
+            "width": 503
+        }, 
+        "tag_name": "img", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "img", 
+    "text": "", 
+    "text_hash": "9d4568c009d203ab10e33ea9953a0264", 
+    "transformed": true, 
+    "width": 1006, 
+    "x": 2692, 
+    "y": 314
+}

@@ -1,0 +1,80 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "img", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "wut6GZWXlPkcmv6iLihCzQ==\n", 
+    "height": 328, 
+    "hier_level": 0, 
+    "human_hash": "img_X822_Y730_W328_H328", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "Unavailable", 
+                "class": "fallback-image css-t0c10x e11mz3fg0", 
+                "data-automation": "fallback-image", 
+                "data-version": "__VERSION_HERE__", 
+                "id": "f80f2241-5493-454f-a04c-326d81fcaf61", 
+                "level": "HIGH", 
+                "quantity": "1", 
+                "src": "https://images.nike.com/is/image/DotCom/XXXXX?align=0,1&cropN=0,0,0,0&resMode=sharp&fmt=jpg&wid=600&hei=600&bgc=f5f5f5"
+            }, 
+            "background-color": "rgb(245, 245, 245)", 
+            "class": "img", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "fallback-image css-t0c10x e11mz3fg0", 
+            "domLevel": 13, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 0, 
+            "height": 164, 
+            "identifier": "f80f2241-5493-454f-a04c-326d81fcaf61", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "img", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 164, 
+            "x": 411, 
+            "xPercent": 21.548556430446194, 
+            "y": 365, 
+            "yPercent": 19.84774333877107
+        }, 
+        "location": {
+            "x": 411, 
+            "y": 365
+        }, 
+        "size": {
+            "height": 164, 
+            "width": 164
+        }, 
+        "tag_name": "img", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "img", 
+    "text": "", 
+    "transformed": true, 
+    "width": 328, 
+    "x": 822, 
+    "y": 730
+}

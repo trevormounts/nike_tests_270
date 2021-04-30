@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "dy5kDBoYWEDW0WpcCieu2w==\n", 
+    "height": 1138, 
+    "hier_level": 0, 
+    "human_hash": "div_X806_Y272_W2200_H1138", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "ncss-row u-full-width css-1ykg761", 
+                "style": ""
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "ncss-row u-full-width css-1ykg761", 
+            "domLevel": 6, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 0, 
+            "height": 569, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Free Shipping for Members.Become a Nike Member for fast and free shipping. Join us\u00a0or\u00a0Sign-inIT\u2019S TAKING US A BIT LONGER THAN USUAL TO GET ORDERS TO YOUView the shipping FAQ for more detailsSave Up to 40%Shop All Our New MarkdownsFree Shipping & 60-Day Free ReturnsJoin NowBagSizeQuantity12345678910$130.00More OptionsMove to FavoritesRemoveCancelMove to FavoritesRemoveSummaryDo you have a Promo Code?If you are having trouble, please check the Terms & Conditions of the promotion, which are usually found by clicking \"See Details\" where the promotion was found online or in the footer of the email or mail. Promo Codes cannot be used with customized products. SubtotalThe subtotal reflects the total price of your order before any applicable discounts. It does not include shipping costs and taxes.$0.00Estimated Shipping & Handling$0.00Estimated TaxThe actual tax will be calculated based on the applicable state and local sales taxes when your order is shipped.\u00a0Learn More\u2014Total$0.00CheckoutFavoritesWant to view your favorites?\u00a0Join us\u00a0or\u00a0Sign-in", 
+            "type": "", 
+            "value": "", 
+            "width": 1100, 
+            "x": 403, 
+            "xPercent": 21.128608923884514, 
+            "y": 136, 
+            "yPercent": 7.395323545405111
+        }, 
+        "location": {
+            "x": 403, 
+            "y": 136
+        }, 
+        "size": {
+            "height": 569, 
+            "width": 1100
+        }, 
+        "tag_name": "div", 
+        "text": "Free Shipping for Members.Become a Nike Member for fast and free shipping. Join us\u00a0or\u00a0Sign-inIT\u2019S TAKING US A BIT LONGER THAN USUAL TO GET ORDERS TO YOUView the shipping FAQ for more detailsSave Up to 40%Shop All Our New MarkdownsFree Shipping & 60-Day Free ReturnsJoin NowBagSizeQuantity12345678910$130.00More OptionsMove to FavoritesRemoveCancelMove to FavoritesRemoveSummaryDo you have a Promo Code?If you are having trouble, please check the Terms & Conditions of the promotion, which are usually found by clicking \"See Details\" where the promotion was found online or in the footer of the email or mail. Promo Codes cannot be used with customized products. SubtotalThe subtotal reflects the total price of your order before any applicable discounts. It does not include shipping costs and taxes.$0.00Estimated Shipping & Handling$0.00Estimated TaxThe actual tax will be calculated based on the applicable state and local sales taxes when your order is shipped.\u00a0Learn More\u2014Total$0.00CheckoutFavoritesWant to view your favorites?\u00a0Join us\u00a0or\u00a0Sign-in"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Free Shipping for Members.Become a Nike Member for fast and free shipping. Join us\u00a0or\u00a0Sign-inIT\u2019S TAKING US A BIT LONGER THAN USUAL TO GET ORDERS TO YOUView the shipping FAQ for more detailsSave Up to 40%Shop All Our New MarkdownsFree Shipping & 60-Day Free ReturnsJoin NowBagSizeQuantity12345678910$130.00More OptionsMove to FavoritesRemoveCancelMove to FavoritesRemoveSummaryDo you have a Promo Code?If you are having trouble, please check the Terms & Conditions of the promotion, which are usually found by clicking \"See Details\" where the promotion was found online or in the footer of the email or mail. Promo Codes cannot be used with customized products. SubtotalThe subtotal reflects the total price of your order before any applicable discounts. It does not include shipping costs and taxes.$0.00Estimated Shipping & Handling$0.00Estimated TaxThe actual tax will be calculated based on the applicable state and local sales taxes when your order is shipped.\u00a0Learn More\u2014Total$0.00CheckoutFavoritesWant to view your favorites?\u00a0Join us\u00a0or\u00a0Sign-in", 
+    "transformed": true, 
+    "width": 2200, 
+    "x": 806, 
+    "y": 272
+}

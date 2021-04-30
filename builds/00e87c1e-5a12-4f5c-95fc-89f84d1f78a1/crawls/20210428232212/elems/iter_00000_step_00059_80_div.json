@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "F+zLMQzZVN6qcnlyR1kKDg==\n", 
+    "height": 304, 
+    "hier_level": 0, 
+    "human_hash": "div_X2302_Y886_W386_H304", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "d-sm-t bs5"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "d-sm-t bs5", 
+            "domLevel": 15, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 152, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Style #: undefinedSize: undefinedColor: Qty: 1 @ $130.00$130.00", 
+            "type": "", 
+            "value": "", 
+            "width": 193, 
+            "x": 1151, 
+            "xPercent": 60.42814960629921, 
+            "y": 443, 
+            "yPercent": 41.39018691588785
+        }, 
+        "location": {
+            "x": 1151, 
+            "y": 443
+        }, 
+        "size": {
+            "height": 152, 
+            "width": 193
+        }, 
+        "tag_name": "div", 
+        "text": "Style #: undefinedSize: undefinedColor: Qty: 1 @ $130.00$130.00"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Style #: undefinedSize: undefinedColor: Qty: 1 @ $130.00$130.00", 
+    "transformed": true, 
+    "width": 386, 
+    "x": 2302, 
+    "y": 886
+}

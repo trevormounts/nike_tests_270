@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "z8KJ9scCj8zKUTo/NttZBA==\n", 
+    "height": 400, 
+    "hier_level": 0, 
+    "human_hash": "div_X2302_Y790_W570_H400", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "pt5-sm border-top-light-grey test-cartDetails mr5-md ml5-md pt6-sm", 
+                "data-id": "cart-details"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "pt5-sm border-top-light-grey test-cartDetails mr5-md ml5-md pt6-sm", 
+            "domLevel": 13, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 200, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Arrives by Mon, May 10Style #: undefinedSize: undefinedColor: Qty: 1 @ $130.00$130.00", 
+            "type": "", 
+            "value": "", 
+            "width": 285, 
+            "x": 1151, 
+            "xPercent": 60.42814960629921, 
+            "y": 395, 
+            "yPercent": 36.904205607476634
+        }, 
+        "location": {
+            "x": 1151, 
+            "y": 395
+        }, 
+        "size": {
+            "height": 200, 
+            "width": 285
+        }, 
+        "tag_name": "div", 
+        "text": "Arrives by Mon, May 10Style #: undefinedSize: undefinedColor: Qty: 1 @ $130.00$130.00"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Arrives by Mon, May 10Style #: undefinedSize: undefinedColor: Qty: 1 @ $130.00$130.00", 
+    "transformed": true, 
+    "width": 570, 
+    "x": 2302, 
+    "y": 790
+}

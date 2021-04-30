@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "rGp1IJjrvetq3szWREgvBw==\n", 
+    "height": 56, 
+    "hier_level": 0, 
+    "human_hash": "div_X114_Y36_W350_H56", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "_1ZsY6zh2"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "_1ZsY6zh2", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 28, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Nike Membership", 
+            "type": "", 
+            "value": "", 
+            "width": 175, 
+            "x": 57, 
+            "xPercent": 2.9658792650918633, 
+            "y": 18, 
+            "yPercent": 0.23094688221709006
+        }, 
+        "location": {
+            "x": 57, 
+            "y": 18
+        }, 
+        "size": {
+            "height": 28, 
+            "width": 175
+        }, 
+        "tag_name": "div", 
+        "text": "Nike Membership"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Nike Membership", 
+    "transformed": true, 
+    "width": 350, 
+    "x": 114, 
+    "y": 36
+}

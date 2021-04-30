@@ -1,0 +1,72 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "DD6bTLtqL+Tq3raoLk/sNw==\n", 
+    "height": 38, 
+    "hier_level": 0, 
+    "human_hash": "span_X1250_Y156_W324_H38", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "id": "hf_header_label_popular_search_terms"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(117, 117, 117)", 
+            "domLevel": 13, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 19, 
+            "identifier": "hf_header_label_popular_search_terms", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Popular Search Terms", 
+            "type": "", 
+            "value": "", 
+            "width": 162, 
+            "x": 625, 
+            "xPercent": 32.78215223097113, 
+            "y": 78, 
+            "yPercent": 1.0333863275039745
+        }, 
+        "location": {
+            "x": 625, 
+            "y": 78
+        }, 
+        "size": {
+            "height": 19, 
+            "width": 162
+        }, 
+        "tag_name": "span", 
+        "text": "Popular Search Terms"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Popular Search Terms", 
+    "transformed": true, 
+    "width": 324, 
+    "x": 1250, 
+    "y": 156
+}

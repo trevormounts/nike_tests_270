@@ -10505,27 +10505,27 @@
             "iter_00000_step_00000_screenshot.png": "iter_00000_step_00000_screenshot.png", 
             "iter_00000_step_00001_screenshot.png": "iter_00000_step_00001_screenshot.png", 
             "iter_00000_step_00002_screenshot.png": "iter_00000_step_00001_screenshot.png", 
-            "iter_00000_step_00003_screenshot.png": "iter_00000_step_00003_screenshot.png", 
-            "iter_00000_step_00004_screenshot.png": "iter_00000_step_00003_screenshot.png", 
-            "iter_00000_step_00005_screenshot.png": "iter_00000_step_00003_screenshot.png", 
-            "iter_00000_step_00006_screenshot.png": "iter_00000_step_00003_screenshot.png", 
-            "iter_00000_step_00007_screenshot.png": "iter_00000_step_00003_screenshot.png", 
+            "iter_00000_step_00003_screenshot.png": "iter_00000_step_00007_screenshot.png", 
+            "iter_00000_step_00004_screenshot.png": "iter_00000_step_00007_screenshot.png", 
+            "iter_00000_step_00005_screenshot.png": "iter_00000_step_00007_screenshot.png", 
+            "iter_00000_step_00006_screenshot.png": "iter_00000_step_00007_screenshot.png", 
+            "iter_00000_step_00007_screenshot.png": "iter_00000_step_00007_screenshot.png", 
             "iter_00000_step_00008_screenshot.png": "iter_00000_step_00008_screenshot.png", 
             "iter_00000_step_00009_screenshot.png": "iter_00000_step_00000_screenshot.png", 
             "iter_00000_step_00010_screenshot.png": "iter_00000_step_00010_screenshot.png", 
             "iter_00000_step_00011_screenshot.png": "iter_00000_step_00011_screenshot.png", 
             "iter_00000_step_00012_screenshot.png": "iter_00000_step_00012_screenshot.png", 
             "iter_00000_step_00013_screenshot.png": "iter_00000_step_00012_screenshot.png", 
-            "iter_00000_step_00014_screenshot.png": "iter_00000_step_00014_screenshot.png", 
-            "iter_00000_step_00015_screenshot.png": "iter_00000_step_00014_screenshot.png", 
+            "iter_00000_step_00014_screenshot.png": "iter_00000_step_00015_screenshot.png", 
+            "iter_00000_step_00015_screenshot.png": "iter_00000_step_00015_screenshot.png", 
             "iter_00000_step_00016_screenshot.png": "iter_00000_step_00016_screenshot.png", 
             "iter_00000_step_00017_screenshot.png": "iter_00000_step_00017_screenshot.png", 
-            "iter_00000_step_00018_screenshot.png": "iter_00000_step_00018_screenshot.png", 
-            "iter_00000_step_00019_screenshot.png": "iter_00000_step_00018_screenshot.png", 
+            "iter_00000_step_00018_screenshot.png": "iter_00000_step_00019_screenshot.png", 
+            "iter_00000_step_00019_screenshot.png": "iter_00000_step_00019_screenshot.png", 
             "iter_00000_step_00020_screenshot.png": "iter_00000_step_00020_screenshot.png", 
             "iter_00000_step_00021_screenshot.png": "iter_00000_step_00021_screenshot.png", 
-            "iter_00000_step_00022_screenshot.png": "iter_00000_step_00022_screenshot.png", 
-            "iter_00000_step_00023_screenshot.png": "iter_00000_step_00022_screenshot.png", 
+            "iter_00000_step_00022_screenshot.png": "iter_00000_step_00023_screenshot.png", 
+            "iter_00000_step_00023_screenshot.png": "iter_00000_step_00023_screenshot.png", 
             "iter_00000_step_00024_screenshot.png": "iter_00000_step_00024_screenshot.png", 
             "iter_00000_step_00025_screenshot.png": "iter_00000_step_00024_screenshot.png", 
             "iter_00000_step_00026_screenshot.png": "iter_00000_step_00026_screenshot.png", 
@@ -10633,21 +10633,19 @@
                 "iter_00000_step_00028_46_input.png", 
                 "iter_00000_step_00028_47_svg.png"
             ], 
-            "iter_00000_step_00003_screenshot.png": [
+            "iter_00000_step_00007_screenshot.png": [
                 "iter_00000_step_00007_0_a.png", 
-                "iter_00000_step_00005_1_svg.png", 
                 "iter_00000_step_00007_1_a.png", 
-                "iter_00000_step_00005_3_button.png", 
                 "iter_00000_step_00007_2_button.png", 
-                "iter_00000_step_00005_5_input.png", 
+                "iter_00000_step_00007_3_input.png", 
                 "iter_00000_step_00007_4_a.png", 
                 "iter_00000_step_00007_5_div.png", 
                 "iter_00000_step_00007_6_a.png", 
                 "iter_00000_step_00007_7_li.png", 
                 "iter_00000_step_00007_8_div.png", 
                 "iter_00000_step_00007_9_svg.png", 
-                "iter_00000_step_00005_12_div.png", 
-                "iter_00000_step_00005_13_div.png", 
+                "iter_00000_step_00007_10_div.png", 
+                "iter_00000_step_00007_11_div.png", 
                 "iter_00000_step_00007_12_button.png", 
                 "iter_00000_step_00007_13_div.png", 
                 "iter_00000_step_00007_14_svg.png", 
@@ -10657,7 +10655,7 @@
                 "iter_00000_step_00007_18_span.png", 
                 "iter_00000_step_00007_19_span.png", 
                 "iter_00000_step_00007_20_a.png", 
-                "iter_00000_step_00005_23_div.png", 
+                "iter_00000_step_00007_21_div.png", 
                 "iter_00000_step_00007_22_li.png", 
                 "iter_00000_step_00007_23_div.png"
             ], 
@@ -10938,7 +10936,7 @@
                 "iter_00000_step_00028_44_a.png", 
                 "iter_00000_step_00013_98_span.png"
             ], 
-            "iter_00000_step_00014_screenshot.png": [
+            "iter_00000_step_00015_screenshot.png": [
                 "iter_00000_step_00028_0_span.png", 
                 "iter_00000_step_00015_1_div.png", 
                 "iter_00000_step_00015_2_h1.png", 
@@ -10954,18 +10952,14 @@
                 "iter_00000_step_00015_12_a.png", 
                 "iter_00000_step_00028_10_svg.png", 
                 "iter_00000_step_00028_11_li.png", 
-                "iter_00000_step_00026_14_a.png", 
                 "iter_00000_step_00028_13_li.png", 
                 "iter_00000_step_00015_16_li.png", 
                 "iter_00000_step_00015_17_a.png", 
-                "iter_00000_step_00026_16_span.png", 
                 "iter_00000_step_00028_15_a.png", 
-                "iter_00000_step_00026_18_div.png", 
                 "iter_00000_step_00028_17_button.png", 
                 "iter_00000_step_00015_20_li.png", 
                 "iter_00000_step_00028_18_span.png", 
                 "iter_00000_step_00028_19_a.png", 
-                "iter_00000_step_00026_22_div.png", 
                 "iter_00000_step_00028_21_li.png", 
                 "iter_00000_step_00028_22_div.png", 
                 "iter_00000_step_00015_25_li.png", 
@@ -10988,6 +10982,7 @@
                 "iter_00000_step_00028_36_button.png", 
                 "iter_00000_step_00015_43_a.png", 
                 "iter_00000_step_00028_37_span.png", 
+                "iter_00000_step_00015_45_a.png", 
                 "iter_00000_step_00028_38_a.png", 
                 "iter_00000_step_00028_39_a.png", 
                 "iter_00000_step_00028_40_li.png", 
@@ -10999,6 +10994,7 @@
                 "iter_00000_step_00028_46_input.png", 
                 "iter_00000_step_00015_55_a.png", 
                 "iter_00000_step_00015_56_li.png", 
+                "iter_00000_step_00015_57_div.png", 
                 "iter_00000_step_00028_47_svg.png"
             ], 
             "iter_00000_step_00016_screenshot.png": [
@@ -11117,7 +11113,7 @@
                 "iter_00000_step_00017_55_div.png", 
                 "iter_00000_step_00028_47_svg.png"
             ], 
-            "iter_00000_step_00018_screenshot.png": [
+            "iter_00000_step_00019_screenshot.png": [
                 "iter_00000_step_00019_0_button.png", 
                 "iter_00000_step_00025_12_div.png", 
                 "iter_00000_step_00019_2_div.png", 
@@ -11162,7 +11158,7 @@
                 "iter_00000_step_00021_14_div.png", 
                 "iter_00000_step_00021_15_a.png"
             ], 
-            "iter_00000_step_00022_screenshot.png": [
+            "iter_00000_step_00023_screenshot.png": [
                 "iter_00000_step_00023_0_div.png", 
                 "iter_00000_step_00023_1_input.png", 
                 "iter_00000_step_00023_2_a.png", 
@@ -11461,16 +11457,16 @@
                     "free_shipping_&_60-day_free_returnsjoin_now"
                 ]
             }, 
-            "iter_00000_step_00003_screenshot.png": {
+            "iter_00000_step_00007_screenshot.png": {
                 "dupe_count": [
                     5
                 ], 
                 "dupes": [
+                    "iter_00000_step_00007_screenshot.png", 
+                    "iter_00000_step_00006_screenshot.png", 
                     "iter_00000_step_00003_screenshot.png", 
                     "iter_00000_step_00004_screenshot.png", 
-                    "iter_00000_step_00005_screenshot.png", 
-                    "iter_00000_step_00006_screenshot.png", 
-                    "iter_00000_step_00007_screenshot.png"
+                    "iter_00000_step_00005_screenshot.png"
                 ], 
                 "tags": [
                     "a", 
@@ -11725,13 +11721,13 @@
                     "new_releases"
                 ]
             }, 
-            "iter_00000_step_00014_screenshot.png": {
+            "iter_00000_step_00015_screenshot.png": {
                 "dupe_count": [
                     2
                 ], 
                 "dupes": [
-                    "iter_00000_step_00014_screenshot.png", 
-                    "iter_00000_step_00015_screenshot.png"
+                    "iter_00000_step_00015_screenshot.png", 
+                    "iter_00000_step_00014_screenshot.png"
                 ], 
                 "tags": [
                     "a", 
@@ -11747,7 +11743,6 @@
                 "text": [
                     "", 
                     "help", 
-                    "save_up_to_40%shop_all_our_new_markdowns", 
                     "shoes_$100_&_under", 
                     "womennew_&_featurednew_releasesbest_sellersbest_of_air_maxtop_picks_for_momrec_club_collection_trending:_bike_shortssale_-_up_to_40%_offshoeslifestylerunningtraining_&_gymbasketballjordansoccertennistrack_&_fieldsandals_&_slidesskateboardingsoftballshoes_$100_&_underall_shoesclothingpants_&_leggingssports_brasmatching_setstops_&_t-shirtsshortshoodies_&_sweatshirtsjackets_&_vestsswimwearnike_proplus_sizeskirts_&_dressesnike_maternityyogasocksall_clothingaccessories_&_equipmentbags_&_backpackshats,_visors_&_headbandsapple_watch_nikeshop_collectionrunninggolfsoccerjordantraining_&_gymtennisnike_sportswearacgnikelabvolleyballbasketballsoftballskateboardinglacrossefan_gearnike_flyease", 
                     "womenshoesclothingfind_your_sports_branike_luxe_leggingsshoes_$100_&_underwomen", 
@@ -11763,9 +11758,7 @@
                     "join_us", 
                     "0", 
                     "join_us|sign_in", 
-                    "save_up_to_40%", 
                     "customize", 
-                    "shop_all_our_new_markdowns", 
                     "men", 
                     "sign_in", 
                     "shoesclothingfind_your_sports_branike_luxe_leggingsshoes_$100_&_under", 
@@ -11773,8 +11766,9 @@
                     "women", 
                     "kids", 
                     "kidsnew_&_featurednew_releasesbest_sellersbest_of_air_maxextended_sizestop_picks_for_momkids'_matching_setssale_-_up_to_40%_offboys_shoesbig_kids_(3.5y_-_7y)little_kids_(10.5c_-_3y)baby_&_toddler_(0c_-_10c)lifestylerunningbasketballsandals_&_slidesnike_flyeaseshoes_$80_&_underall_shoesboys_clothingbig_kids_(xs_-_xl)little_kids_(4_-_7)baby_&_toddler_(0m_-_4t)hoodies_&_sweatshirtspants_&_tightsjackets_tops_&_t-shirtsnike_pro_&_baselayershortsswimwearall_clothinggirls_shoesbig_kids_(3.5y_-_7y)little_kids_(10.5c_-_3y)baby_&_toddler_(0c_-_10c)lifestylerunningsandals_&_slidesnike_flyeaseshoes_$80_&_underall_shoesgirls_clothingbig_kids_(xs_-_xl)little_kids_(4t_-_7)baby_&_toddler_(0m_-_4t)hoodies_&_sweatshirtspants_&_leggingsjackets_tops_&_t-shirtssports_brasshortsskirts_&_dressesswimwearall_clothingbaby_&_toddlerbaby_girlbaby_boyall_clothing_(0m_-_4t)all_shoes_(0c_-_10c)baby_box_setsaccessories_&_equipmentbags_&_backpackshats_socks", 
-                    "sale", 
                     "new_releases", 
+                    "sale", 
+                    "join_now", 
                     "find_your_sports_bra", 
                     "customizenew_&_featuredcustomize_with_nike_by_younike_by_you_new_releasesbasketball_by_youblazer_by_youair_max_by_youmensbasketballlifestylerunningfootballtraining_&_gymsoccerbaseballskateboardingwomenslifestylerunningtraining_&_gymbasketballsoccersoftballskateboarding", 
                     "|"
@@ -11882,13 +11876,13 @@
                     "free_shipping_&_60-day_free_returnsjoin_now"
                 ]
             }, 
-            "iter_00000_step_00018_screenshot.png": {
+            "iter_00000_step_00019_screenshot.png": {
                 "dupe_count": [
                     2
                 ], 
                 "dupes": [
-                    "iter_00000_step_00018_screenshot.png", 
-                    "iter_00000_step_00019_screenshot.png"
+                    "iter_00000_step_00019_screenshot.png", 
+                    "iter_00000_step_00018_screenshot.png"
                 ], 
                 "tags": [
                     "all_screens", 
@@ -11954,13 +11948,13 @@
                     "download_nrc"
                 ]
             }, 
-            "iter_00000_step_00022_screenshot.png": {
+            "iter_00000_step_00023_screenshot.png": {
                 "dupe_count": [
                     2
                 ], 
                 "dupes": [
-                    "iter_00000_step_00022_screenshot.png", 
-                    "iter_00000_step_00023_screenshot.png"
+                    "iter_00000_step_00023_screenshot.png", 
+                    "iter_00000_step_00022_screenshot.png"
                 ], 
                 "tags": [
                     "a", 
@@ -12163,23 +12157,23 @@
         }, 
         "sorted_screens": [
             "iter_00000_step_00012_screenshot.png", 
-            "iter_00000_step_00014_screenshot.png", 
             "iter_00000_step_00010_screenshot.png", 
             "iter_00000_step_00011_screenshot.png", 
+            "iter_00000_step_00015_screenshot.png", 
             "iter_00000_step_00017_screenshot.png", 
             "iter_00000_step_00016_screenshot.png", 
             "iter_00000_step_00026_screenshot.png", 
             "iter_00000_step_00027_screenshot.png", 
             "iter_00000_step_00028_screenshot.png", 
             "iter_00000_step_00000_screenshot.png", 
-            "iter_00000_step_00001_screenshot.png", 
             "iter_00000_step_00008_screenshot.png", 
-            "iter_00000_step_00003_screenshot.png", 
+            "iter_00000_step_00001_screenshot.png", 
             "iter_00000_step_00024_screenshot.png", 
-            "iter_00000_step_00022_screenshot.png", 
+            "iter_00000_step_00007_screenshot.png", 
+            "iter_00000_step_00023_screenshot.png", 
             "iter_00000_step_00021_screenshot.png", 
             "iter_00000_step_00020_screenshot.png", 
-            "iter_00000_step_00018_screenshot.png"
+            "iter_00000_step_00019_screenshot.png"
         ], 
         "uniques_to_dupes": {
             "iter_00000_step_00000_screenshot.png": [
@@ -12190,12 +12184,12 @@
                 "iter_00000_step_00001_screenshot.png", 
                 "iter_00000_step_00002_screenshot.png"
             ], 
-            "iter_00000_step_00003_screenshot.png": [
+            "iter_00000_step_00007_screenshot.png": [
+                "iter_00000_step_00007_screenshot.png", 
+                "iter_00000_step_00006_screenshot.png", 
                 "iter_00000_step_00003_screenshot.png", 
                 "iter_00000_step_00004_screenshot.png", 
-                "iter_00000_step_00005_screenshot.png", 
-                "iter_00000_step_00006_screenshot.png", 
-                "iter_00000_step_00007_screenshot.png"
+                "iter_00000_step_00005_screenshot.png"
             ], 
             "iter_00000_step_00008_screenshot.png": [
                 "iter_00000_step_00008_screenshot.png"
@@ -12210,9 +12204,9 @@
                 "iter_00000_step_00012_screenshot.png", 
                 "iter_00000_step_00013_screenshot.png"
             ], 
-            "iter_00000_step_00014_screenshot.png": [
-                "iter_00000_step_00014_screenshot.png", 
-                "iter_00000_step_00015_screenshot.png"
+            "iter_00000_step_00015_screenshot.png": [
+                "iter_00000_step_00015_screenshot.png", 
+                "iter_00000_step_00014_screenshot.png"
             ], 
             "iter_00000_step_00016_screenshot.png": [
                 "iter_00000_step_00016_screenshot.png"
@@ -12220,9 +12214,9 @@
             "iter_00000_step_00017_screenshot.png": [
                 "iter_00000_step_00017_screenshot.png"
             ], 
-            "iter_00000_step_00018_screenshot.png": [
-                "iter_00000_step_00018_screenshot.png", 
-                "iter_00000_step_00019_screenshot.png"
+            "iter_00000_step_00019_screenshot.png": [
+                "iter_00000_step_00019_screenshot.png", 
+                "iter_00000_step_00018_screenshot.png"
             ], 
             "iter_00000_step_00020_screenshot.png": [
                 "iter_00000_step_00020_screenshot.png"
@@ -12230,9 +12224,9 @@
             "iter_00000_step_00021_screenshot.png": [
                 "iter_00000_step_00021_screenshot.png"
             ], 
-            "iter_00000_step_00022_screenshot.png": [
-                "iter_00000_step_00022_screenshot.png", 
-                "iter_00000_step_00023_screenshot.png"
+            "iter_00000_step_00023_screenshot.png": [
+                "iter_00000_step_00023_screenshot.png", 
+                "iter_00000_step_00022_screenshot.png"
             ], 
             "iter_00000_step_00024_screenshot.png": [
                 "iter_00000_step_00024_screenshot.png", 

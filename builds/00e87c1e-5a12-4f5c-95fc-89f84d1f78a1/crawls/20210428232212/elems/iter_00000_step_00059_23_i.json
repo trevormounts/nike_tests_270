@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "i", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "fcT3yfNWwgXGVvGqGyXHPQ==\n", 
+    "height": 96, 
+    "hier_level": 0, 
+    "human_hash": "i_X40_Y10_W120_H96", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "g72-swoosh fs28-sm"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "i", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "g72-swoosh fs28-sm", 
+            "domLevel": 8, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "nike-glyphs", 
+            "font-weight": "400", 
+            "fontSize": 28, 
+            "height": 48, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "i", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 60, 
+            "x": 20, 
+            "xPercent": 1.0498687664041995, 
+            "y": 5, 
+            "yPercent": 0.46728971962616817
+        }, 
+        "location": {
+            "x": 20, 
+            "y": 5
+        }, 
+        "size": {
+            "height": 48, 
+            "width": 60
+        }, 
+        "tag_name": "i", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "i", 
+    "text": "", 
+    "transformed": true, 
+    "width": 120, 
+    "x": 40, 
+    "y": 10
+}

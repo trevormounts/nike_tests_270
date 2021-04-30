@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "pXmki7BOkbcJiLaCKQoTpg==\n", 
+    "height": 120, 
+    "hier_level": 0, 
+    "human_hash": "span_X1518_Y192_W640_H120", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "banner-title css-1w68kum"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(34, 34, 34)", 
+            "cssClass": "banner-title css-1w68kum", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 60, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Free Shipping & 60-Day Free Returns", 
+            "type": "", 
+            "value": "", 
+            "width": 320, 
+            "x": 759, 
+            "xPercent": 39.816272965879264, 
+            "y": 96, 
+            "yPercent": 1.311654597622626
+        }, 
+        "location": {
+            "x": 759, 
+            "y": 96
+        }, 
+        "size": {
+            "height": 60, 
+            "width": 320
+        }, 
+        "tag_name": "span", 
+        "text": "Free Shipping & 60-Day Free Returns"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Free Shipping & 60-Day Free Returns", 
+    "transformed": true, 
+    "width": 640, 
+    "x": 1518, 
+    "y": 192
+}

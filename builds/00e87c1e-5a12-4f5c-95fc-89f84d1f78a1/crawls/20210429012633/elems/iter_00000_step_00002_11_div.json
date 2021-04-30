@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "TSbwzoshG09sSLJwVVYGOw==\n", 
+    "height": 220, 
+    "hier_level": 0, 
+    "human_hash": "div_X1616_Y394_W578_H220", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "view-header"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "view-header", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "TradeGothicforNike365-BdCn, Helvetica", 
+            "font-weight": "700", 
+            "fontSize": 26, 
+            "height": 110, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "GET NEWS AND OFFERS FROM NIKE", 
+            "type": "", 
+            "value": "", 
+            "width": 289, 
+            "x": 808, 
+            "xPercent": 42.425360892388454, 
+            "y": 197, 
+            "yPercent": 2.62876254180602
+        }, 
+        "location": {
+            "x": 808, 
+            "y": 197
+        }, 
+        "size": {
+            "height": 110, 
+            "width": 289
+        }, 
+        "tag_name": "div", 
+        "text": "GET NEWS AND OFFERS FROM NIKE"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "GET NEWS AND OFFERS FROM NIKE", 
+    "transformed": true, 
+    "width": 578, 
+    "x": 1616, 
+    "y": 394
+}

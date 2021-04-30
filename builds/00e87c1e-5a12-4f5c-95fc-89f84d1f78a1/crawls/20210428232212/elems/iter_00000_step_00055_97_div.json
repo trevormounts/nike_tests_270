@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "z3BidacLK7UamrjjY+oClw==\n", 
+    "height": 124, 
+    "hier_level": 0, 
+    "human_hash": "div_X846_Y460_W1286_H124", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "banner-node"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(34, 34, 34)", 
+            "cssClass": "banner-node", 
+            "domLevel": 19, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 62, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Save Up to 40%Shop All Our New Markdowns", 
+            "type": "", 
+            "value": "", 
+            "width": 643, 
+            "x": 423, 
+            "xPercent": 22.198162729658794, 
+            "y": 230, 
+            "yPercent": 12.506797172376292
+        }, 
+        "location": {
+            "x": 423, 
+            "y": 230
+        }, 
+        "size": {
+            "height": 62, 
+            "width": 643
+        }, 
+        "tag_name": "div", 
+        "text": "Save Up to 40%Shop All Our New Markdowns"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Save Up to 40%Shop All Our New Markdowns", 
+    "transformed": true, 
+    "width": 1286, 
+    "x": 846, 
+    "y": 460
+}

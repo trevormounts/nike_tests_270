@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "Ex+6LXremuzUIPynRO26KQ==\n", 
+    "height": 96, 
+    "hier_level": 0, 
+    "human_hash": "div_X114_Y1178_W1140_H96", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "YRiqJvKc ubdD2XxV ta-sm-l"
+            }, 
+            "background-color": "rgb(255, 255, 255)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "YRiqJvKc ubdD2XxV ta-sm-l", 
+            "domLevel": 18, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 48, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Nike Crater ImpactWomen's Shoe$100", 
+            "type": "", 
+            "value": "", 
+            "width": 570, 
+            "x": 57, 
+            "xPercent": 2.9658792650918633, 
+            "y": 589, 
+            "yPercent": 7.875
+        }, 
+        "location": {
+            "x": 57, 
+            "y": 589
+        }, 
+        "size": {
+            "height": 48, 
+            "width": 570
+        }, 
+        "tag_name": "div", 
+        "text": "Nike Crater ImpactWomen's Shoe$100"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Nike Crater ImpactWomen's Shoe$100", 
+    "transformed": true, 
+    "width": 1140, 
+    "x": 114, 
+    "y": 1178
+}

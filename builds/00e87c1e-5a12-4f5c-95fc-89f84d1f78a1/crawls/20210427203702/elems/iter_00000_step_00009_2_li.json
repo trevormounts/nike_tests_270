@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "li", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "bU3hOwag461oj5yr7eKBNQ==\n", 
+    "height": 86, 
+    "hier_level": 0, 
+    "human_hash": "li_X1906_Y1366_W308_H86", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "", 
+                "id": "d4d626d6-5226-4ca1-96f5-8cf63132145b"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "li", 
+            "color": "rgb(141, 141, 141)", 
+            "cssClass": "", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Helvetica", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 43, 
+            "identifier": "d4d626d6-5226-4ca1-96f5-8cf63132145b", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "li", 
+            "text": "Female", 
+            "type": "", 
+            "value": 0, 
+            "width": 154, 
+            "x": 953, 
+            "xPercent": 50.03198818897637, 
+            "y": 683, 
+            "yPercent": 8.944473546359351
+        }, 
+        "location": {
+            "x": 953, 
+            "y": 683
+        }, 
+        "size": {
+            "height": 43, 
+            "width": 154
+        }, 
+        "tag_name": "li", 
+        "text": "Female"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "li", 
+    "text": "Female", 
+    "transformed": true, 
+    "width": 308, 
+    "x": 1906, 
+    "y": 1366
+}

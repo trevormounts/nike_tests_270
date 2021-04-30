@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "bw5MDlvnOQ40T37X/kdGRQ==\n", 
+    "height": 104, 
+    "hier_level": 0, 
+    "human_hash": "div_X98_Y1260_W3616_H104", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "ncss-row grid-row", 
+                "data-qa": "grid-row", 
+                "id": "a1a97dfe-b50d-4317-a2af-3e5ebf5084ef"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "ncss-row grid-row", 
+            "domLevel": 5, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 0, 
+            "height": 52, 
+            "identifier": "a1a97dfe-b50d-4317-a2af-3e5ebf5084ef", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Featured", 
+            "type": "", 
+            "value": "", 
+            "width": 1808, 
+            "x": 49, 
+            "xPercent": 2.5459317585301835, 
+            "y": 630, 
+            "yPercent": 8.083140877598153
+        }, 
+        "location": {
+            "x": 49, 
+            "y": 630
+        }, 
+        "size": {
+            "height": 52, 
+            "width": 1808
+        }, 
+        "tag_name": "div", 
+        "text": "Featured"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Featured", 
+    "transformed": true, 
+    "width": 3616, 
+    "x": 98, 
+    "y": 1260
+}

@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "elem_shot_file_path": "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210429031710/tmpZ/div_X88_Y1196_W392_H264.png", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "ON+XMQolr2wV8pGpT5bwkQ==\n", 
+    "height": 264, 
+    "hier_level": 0, 
+    "human_hash": "div_X88_Y1196_W392_H264", 
+    "human_readable": "div_88_1196_392_264_div_dbffc03fe47fffffc01fc03fffffc8ffc03fffffffffc01fc01fffffffffffff_6fda612ff942c147f3f5b26eee4faae1", 
+    "img_hash": "0636d3eefaa95a09c0274c97f6bdbbfc", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "Collapsible__contentInner filter-group__content  css-1az01ki"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "Collapsible__contentInner filter-group__content  css-1az01ki", 
+            "domLevel": 20, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 132, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Nike Max AirNike FitAdaptNike FlyEaseNike Zoom Air", 
+            "type": "", 
+            "value": "", 
+            "width": 196, 
+            "x": 44, 
+            "xPercent": 2.3097112860892386, 
+            "y": 598, 
+            "yPercent": 14.381914381914381
+        }, 
+        "location": {
+            "x": 44, 
+            "y": 598
+        }, 
+        "size": {
+            "height": 132, 
+            "width": 196
+        }, 
+        "tag_name": "div", 
+        "text": "Nike Max AirNike FitAdaptNike FlyEaseNike Zoom Air"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Nike Max AirNike FitAdaptNike FlyEaseNike Zoom Air", 
+    "text_hash": "6fda612ff942c147f3f5b26eee4faae1", 
+    "transformed": true, 
+    "width": 392, 
+    "x": 88, 
+    "y": 1196
+}

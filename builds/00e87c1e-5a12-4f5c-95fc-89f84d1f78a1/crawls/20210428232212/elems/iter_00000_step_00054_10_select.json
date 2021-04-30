@@ -1,0 +1,99 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "select", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "1FpNSkFyWUwQlzb//++fEA==\n", 
+    "height": 32, 
+    "hier_level": 0, 
+    "human_hash": "select_X1468_Y384_W116_H32", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-labelledby": "quantity-select-f80f2241-5493-454f-a04c-326d81fcaf61", 
+                "class": "css-w53gby e4f9riy4", 
+                "data-automation": "quantity-select"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "select", 
+            "color": "rgb(117, 117, 117)", 
+            "cssClass": "css-w53gby e4f9riy4", 
+            "domLevel": 17, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Arial", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 16, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "select", 
+            "text": "12345678910", 
+            "type": "", 
+            "value": "1", 
+            "values": [
+                "1", 
+                "2", 
+                "3", 
+                "4", 
+                "5", 
+                "6", 
+                "7", 
+                "8", 
+                "9", 
+                "10"
+            ], 
+            "valuesText": [
+                "1", 
+                "2", 
+                "3", 
+                "4", 
+                "5", 
+                "6", 
+                "7", 
+                "8", 
+                "9", 
+                "10"
+            ], 
+            "width": 58, 
+            "x": 734, 
+            "xPercent": 38.51377952755905, 
+            "y": 192, 
+            "yPercent": 10.440456769983687
+        }, 
+        "location": {
+            "x": 734, 
+            "y": 192
+        }, 
+        "size": {
+            "height": 16, 
+            "width": 58
+        }, 
+        "tag_name": "select", 
+        "text": "12345678910"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "select", 
+    "text": "12345678910", 
+    "transformed": true, 
+    "width": 116, 
+    "x": 1468, 
+    "y": 384
+}

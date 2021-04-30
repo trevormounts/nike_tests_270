@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "Aw8c4Q1W36YpbtV47mf7aQ==\n", 
+    "height": 334, 
+    "hier_level": 0, 
+    "human_hash": "div_X822_Y370_W1434_H334", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "css-1930mmg ezer4f61"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "css-1930mmg ezer4f61", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 0, 
+            "height": 167, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "SizeQuantity12345678910$130.00More OptionsMove to FavoritesRemoveCancelMove to FavoritesRemove", 
+            "type": "", 
+            "value": "", 
+            "width": 717, 
+            "x": 411, 
+            "xPercent": 21.548556430446194, 
+            "y": 185, 
+            "yPercent": 10.059815116911365
+        }, 
+        "location": {
+            "x": 411, 
+            "y": 185
+        }, 
+        "size": {
+            "height": 167, 
+            "width": 717
+        }, 
+        "tag_name": "div", 
+        "text": "SizeQuantity12345678910$130.00More OptionsMove to FavoritesRemoveCancelMove to FavoritesRemove"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "SizeQuantity12345678910$130.00More OptionsMove to FavoritesRemoveCancelMove to FavoritesRemove", 
+    "transformed": true, 
+    "width": 1434, 
+    "x": 822, 
+    "y": 370
+}

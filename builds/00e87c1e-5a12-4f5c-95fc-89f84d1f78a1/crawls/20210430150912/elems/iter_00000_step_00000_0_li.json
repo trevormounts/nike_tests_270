@@ -1,0 +1,72 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "li", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "VbU6m/cHcrCV7RkQu6Qv3Q==\n", 
+    "height": 60, 
+    "hier_level": 0, 
+    "human_hash": "li_X1207_Y36_W56_H60", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "pre-desktop-menu-item d-lg-ib d-sm-h is-static is-header"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "li", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "pre-desktop-menu-item d-lg-ib d-sm-h is-static is-header", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 60, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "li", 
+            "text": "SaleSaleSale - Up to 40% OffMens SaleShoesClothingEquipmentWomens SaleShoesClothingEquipmentKids SaleShoesClothingEquipment", 
+            "type": "", 
+            "value": 0, 
+            "width": 56, 
+            "x": 1207, 
+            "xPercent": 62.8662109375, 
+            "y": 36, 
+            "yPercent": 0.5318363126015659
+        }, 
+        "location": {
+            "x": 1207, 
+            "y": 36
+        }, 
+        "size": {
+            "height": 60, 
+            "width": 56
+        }, 
+        "tag_name": "li", 
+        "text": "SaleSaleSale - Up to 40% OffMens SaleShoesClothingEquipmentWomens SaleShoesClothingEquipmentKids SaleShoesClothingEquipment"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "li", 
+    "text": "SaleSaleSale - Up to 40% OffMens SaleShoesClothingEquipmentWomens SaleShoesClothingEquipmentKids SaleShoesClothingEquipment", 
+    "transformed": true, 
+    "width": 56, 
+    "x": 1207, 
+    "y": 36
+}

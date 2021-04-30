@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "gpRLRPPzNU1ODWgTTF1deQ==\n", 
+    "height": 316, 
+    "hier_level": 0, 
+    "human_hash": "div_X2482_Y904_W752_H316", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "mt2-sm css-hzulvp"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "mt2-sm css-hzulvp", 
+            "domLevel": 15, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 158, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "55.566.577.588.599.51010.51111.512", 
+            "type": "", 
+            "value": "", 
+            "width": 376, 
+            "x": 1241, 
+            "xPercent": 65.11811023622047, 
+            "y": 452, 
+            "yPercent": 12.848209209778283
+        }, 
+        "location": {
+            "x": 1241, 
+            "y": 452
+        }, 
+        "size": {
+            "height": 158, 
+            "width": 376
+        }, 
+        "tag_name": "div", 
+        "text": "55.566.577.588.599.51010.51111.512"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "55.566.577.588.599.51010.51111.512", 
+    "transformed": true, 
+    "width": 752, 
+    "x": 2482, 
+    "y": 904
+}

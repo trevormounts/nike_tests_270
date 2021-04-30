@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "b+N8MHjKq4TEvqhQpbnJbQ==\n", 
+    "height": 208, 
+    "hier_level": 0, 
+    "human_hash": "div_X88_Y1290_W392_H208", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "Collapsible__contentInner filter-group__content  css-1az01ki"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "Collapsible__contentInner filter-group__content  css-1az01ki", 
+            "domLevel": 20, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 104, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "MenWomenUnisex", 
+            "type": "", 
+            "value": "", 
+            "width": 196, 
+            "x": 44, 
+            "xPercent": 2.3097112860892386, 
+            "y": 645, 
+            "yPercent": 8.76001629770474
+        }, 
+        "location": {
+            "x": 44, 
+            "y": 645
+        }, 
+        "size": {
+            "height": 104, 
+            "width": 196
+        }, 
+        "tag_name": "div", 
+        "text": "MenWomenUnisex"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "MenWomenUnisex", 
+    "transformed": true, 
+    "width": 392, 
+    "x": 88, 
+    "y": 1290
+}

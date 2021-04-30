@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "slaKipKI00BWws7EV15EsA==\n", 
+    "height": 120, 
+    "hier_level": 0, 
+    "human_hash": "span_X1576_Y192_W294_H120", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "banner-title css-1w68kum"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(34, 34, 34)", 
+            "cssClass": "banner-title css-1w68kum", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 60, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Save Up to 40%", 
+            "type": "", 
+            "value": "", 
+            "width": 147, 
+            "x": 788, 
+            "xPercent": 41.338582677165356, 
+            "y": 96, 
+            "yPercent": 7.19640179910045
+        }, 
+        "location": {
+            "x": 788, 
+            "y": 96
+        }, 
+        "size": {
+            "height": 60, 
+            "width": 147
+        }, 
+        "tag_name": "span", 
+        "text": "Save Up to 40%"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Save Up to 40%", 
+    "transformed": true, 
+    "width": 294, 
+    "x": 1576, 
+    "y": 192
+}

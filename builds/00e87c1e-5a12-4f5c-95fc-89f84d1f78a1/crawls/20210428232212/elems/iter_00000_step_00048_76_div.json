@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "FrgrIH6+YYuLwlYQoqqBVA==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "div_X2482_Y840_W752_H48", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "pt8-sm pt0-lg headline-5 css-uf1ume"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "pt8-sm pt0-lg headline-5 css-uf1ume", 
+            "domLevel": 16, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Select SizeSize Guide", 
+            "type": "", 
+            "value": "", 
+            "width": 376, 
+            "x": 1241, 
+            "xPercent": 65.11811023622047, 
+            "y": 420, 
+            "yPercent": 11.938601478112563
+        }, 
+        "location": {
+            "x": 1241, 
+            "y": 420
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 376
+        }, 
+        "tag_name": "div", 
+        "text": "Select SizeSize Guide"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Select SizeSize Guide", 
+    "transformed": true, 
+    "width": 752, 
+    "x": 2482, 
+    "y": 840
+}

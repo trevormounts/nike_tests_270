@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "99Xvg99jKzPJxvL2mZvnQA==\n", 
+    "height": 80, 
+    "hier_level": 0, 
+    "human_hash": "a_X1718_Y1088_W174_H80", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "content-card__cta css-ytc9p5 solid_light", 
+                "href": "https://www.nike.com/w/sale-3yaep"
+            }, 
+            "background-color": "rgb(255, 255, 255)", 
+            "class": "a", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "content-card__cta css-ytc9p5 solid_light", 
+            "domLevel": 14, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 40, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Shop", 
+            "type": "", 
+            "value": "", 
+            "width": 87, 
+            "x": 859, 
+            "xPercent": 45.091043307086615, 
+            "y": 544, 
+            "yPercent": 40.81592016491754
+        }, 
+        "location": {
+            "x": 859, 
+            "y": 544
+        }, 
+        "size": {
+            "height": 40, 
+            "width": 87
+        }, 
+        "tag_name": "a", 
+        "text": "Shop"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Shop", 
+    "transformed": true, 
+    "width": 174, 
+    "x": 1718, 
+    "y": 1088
+}

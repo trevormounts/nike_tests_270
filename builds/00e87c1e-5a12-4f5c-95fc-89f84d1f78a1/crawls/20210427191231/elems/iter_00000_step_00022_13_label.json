@@ -1,0 +1,72 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "label", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "CsIzcqcvcqA4pz50kel7qQ==\n", 
+    "height": 32, 
+    "hier_level": 0, 
+    "human_hash": "label_X1582_Y764_W188_H32", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "for": "fd1bd476-854f-46a7-b713-693c1f62c6b3"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "label", 
+            "color": "rgb(17, 17, 17)", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Helvetica", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 16, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "label", 
+            "text": "Email address", 
+            "type": "", 
+            "value": "", 
+            "width": 94, 
+            "x": 791, 
+            "xPercent": 41.496062992125985, 
+            "y": 382, 
+            "yPercent": 4.9012060559404675
+        }, 
+        "location": {
+            "x": 791, 
+            "y": 382
+        }, 
+        "size": {
+            "height": 16, 
+            "width": 94
+        }, 
+        "tag_name": "label", 
+        "text": "Email address"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "label", 
+    "text": "Email address", 
+    "transformed": true, 
+    "width": 188, 
+    "x": 1582, 
+    "y": 764
+}

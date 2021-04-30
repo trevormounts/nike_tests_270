@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "GJqMmFK4rZNX6u78hEqLnw==\n", 
+    "height": 28, 
+    "hier_level": 0, 
+    "human_hash": "div_X1566_Y668_W196_H28", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "lowerCase valid"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "lowerCase valid", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Helvetica", 
+            "font-weight": "400", 
+            "fontSize": 11, 
+            "height": 14, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "1 lowercase letter", 
+            "type": "", 
+            "value": "", 
+            "width": 98, 
+            "x": 783, 
+            "xPercent": 41.10236220472441, 
+            "y": 334, 
+            "yPercent": 4.374017810371923
+        }, 
+        "location": {
+            "x": 783, 
+            "y": 334
+        }, 
+        "size": {
+            "height": 14, 
+            "width": 98
+        }, 
+        "tag_name": "div", 
+        "text": "1 lowercase letter"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "1 lowercase letter", 
+    "transformed": true, 
+    "width": 196, 
+    "x": 1566, 
+    "y": 668
+}

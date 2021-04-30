@@ -1,0 +1,82 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "3dMg5V+pxTOPQdqr0KubHQ==\n", 
+    "height": 120, 
+    "hier_level": 0, 
+    "human_hash": "a_X2274_Y72_W112_H120", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-controls": "DesktopMenu-0-5-0", 
+                "aria-expanded": "false", 
+                "aria-label": "Sale", 
+                "class": "pre-desktop-menu-link headline-5 prl3-lg pt4-sm d-sm-b no-outline", 
+                "data-nav": "5,0,-1", 
+                "data-path": "clearance", 
+                "data-pre": "ILink", 
+                "data-type": "click_navShoppingMenu", 
+                "href": "https://www.nike.com/w/sale-3yaep", 
+                "role": "menu"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "pre-desktop-menu-link headline-5 prl3-lg pt4-sm d-sm-b no-outline", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 60, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Sale", 
+            "type": "", 
+            "value": "", 
+            "width": 56, 
+            "x": 1137, 
+            "xPercent": 59.67683727034121, 
+            "y": 36, 
+            "yPercent": 0.48192771084337355
+        }, 
+        "location": {
+            "x": 1137, 
+            "y": 36
+        }, 
+        "size": {
+            "height": 60, 
+            "width": 56
+        }, 
+        "tag_name": "a", 
+        "text": "Sale"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Sale", 
+    "transformed": true, 
+    "width": 112, 
+    "x": 2274, 
+    "y": 72
+}

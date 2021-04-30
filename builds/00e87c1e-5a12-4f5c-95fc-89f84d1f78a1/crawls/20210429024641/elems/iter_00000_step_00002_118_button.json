@@ -1,0 +1,81 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "v1bvv2nQFCZ2Z7QKOo2nww==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "button_X92_Y1670_W376_H48", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-checked": "false", 
+                "aria-label": "Filter for $100 - $150", 
+                "class": "css-hrsjq4 css-xhk1pl css-1t2ydyg filter-item is--default css-11bod12  is--button", 
+                "data-group-ndx": "1", 
+                "data-group-type": "filter", 
+                "data-is-color": "false", 
+                "data-ndx": "1", 
+                "data-url": "https://www.nike.com/w/womens-100-150-air-max-shoes-5e1x6za6d8hzanjnszy7ok", 
+                "role": "menuitemcheckbox"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "button", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "css-hrsjq4 css-xhk1pl css-1t2ydyg filter-item is--default css-11bod12  is--button", 
+            "domLevel": 22, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "$100 - $150", 
+            "type": "", 
+            "value": "", 
+            "width": 188, 
+            "x": 46, 
+            "xPercent": 2.4146981627296586, 
+            "y": 835, 
+            "yPercent": 11.340486214858075
+        }, 
+        "location": {
+            "x": 46, 
+            "y": 835
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 188
+        }, 
+        "tag_name": "button", 
+        "text": "$100 - $150"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "$100 - $150", 
+    "transformed": true, 
+    "width": 376, 
+    "x": 92, 
+    "y": 1670
+}

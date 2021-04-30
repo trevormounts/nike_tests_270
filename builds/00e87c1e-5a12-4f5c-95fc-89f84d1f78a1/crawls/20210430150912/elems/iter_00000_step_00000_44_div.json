@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "6b8OJmI/7HzcSYKRsTKfVQ==\n", 
+    "height": 36, 
+    "hier_level": 0, 
+    "human_hash": "div_X1705_Y0_W42_H36", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "pre-help-dropdown pre-l-logo", 
+                "data-pre": "DesktopHelpDropdown"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "pre-help-dropdown pre-l-logo", 
+            "domLevel": 8, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 36, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "HelpHelpOrder StatusShipping & DeliveryReturnsContact UsPrivacy PolicyTerms of UseSend Us Feedback", 
+            "type": "", 
+            "value": "", 
+            "width": 42, 
+            "x": 1705, 
+            "xPercent": 88.7939453125, 
+            "y": 0, 
+            "yPercent": 0
+        }, 
+        "location": {
+            "x": 1705, 
+            "y": 0
+        }, 
+        "size": {
+            "height": 36, 
+            "width": 42
+        }, 
+        "tag_name": "div", 
+        "text": "HelpHelpOrder StatusShipping & DeliveryReturnsContact UsPrivacy PolicyTerms of UseSend Us Feedback"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "HelpHelpOrder StatusShipping & DeliveryReturnsContact UsPrivacy PolicyTerms of UseSend Us Feedback", 
+    "transformed": true, 
+    "width": 42, 
+    "x": 1705, 
+    "y": 0
+}

@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "b5KYtvTndtq63uGoIaI5Xg==\n", 
+    "height": 68, 
+    "hier_level": 0, 
+    "human_hash": "a_X3500_Y2_W84_H68", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "body-4 d-lg-flx flx-ai-lg-c u-bold ml2-sm mr2-sm", 
+                "data-path": "join us", 
+                "data-pre": "ILink", 
+                "data-type": "click_navMembership", 
+                "href": "https://www.nike.com/membership"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "body-4 d-lg-flx flx-ai-lg-c u-bold ml2-sm mr2-sm", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 12, 
+            "height": 34, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Join Us", 
+            "type": "", 
+            "value": "", 
+            "width": 42, 
+            "x": 1750, 
+            "xPercent": 91.86761811023622, 
+            "y": 1, 
+            "yPercent": 0.013068478829064296
+        }, 
+        "location": {
+            "x": 1750, 
+            "y": 1
+        }, 
+        "size": {
+            "height": 34, 
+            "width": 42
+        }, 
+        "tag_name": "a", 
+        "text": "Join Us"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Join Us", 
+    "transformed": true, 
+    "width": 84, 
+    "x": 3500, 
+    "y": 2
+}

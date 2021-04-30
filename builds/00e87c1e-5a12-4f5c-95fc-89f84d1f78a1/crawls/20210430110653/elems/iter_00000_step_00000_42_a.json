@@ -1,0 +1,78 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "WPVgNK8NtI+cugUx5IQDsg==\n", 
+    "height": 136, 
+    "hier_level": 0, 
+    "human_hash": "a_X72_Y72_W168_H136", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "Nike Home Page", 
+                "class": "d-sm-b prl2-sm prl3-lg", 
+                "data-brand": "nike", 
+                "data-path": "home", 
+                "data-pre": "ILink", 
+                "data-type": "click_headerLogo", 
+                "href": "https://www.nike.com"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "d-sm-b prl2-sm prl3-lg", 
+            "domLevel": 8, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 68, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Nike Home Page", 
+            "type": "", 
+            "value": "", 
+            "width": 84, 
+            "x": 36, 
+            "xPercent": 1.875, 
+            "y": 36, 
+            "yPercent": 0.46747175691468645
+        }, 
+        "location": {
+            "x": 36, 
+            "y": 36
+        }, 
+        "size": {
+            "height": 68, 
+            "width": 84
+        }, 
+        "tag_name": "a", 
+        "text": "Nike Home Page"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Nike Home Page", 
+    "transformed": true, 
+    "width": 168, 
+    "x": 72, 
+    "y": 72
+}

@@ -1,0 +1,79 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "1NlCPm4GS517EMa5gY8lEA==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "a_X1250_Y448_W1312_H48", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "pre-l-vs-popular-term ncss-cta-primary-dark ta-sm-l d-sm-b mb3-sm", 
+                "data-path": "Blazer", 
+                "data-pre": "ILink", 
+                "data-type": "click_popularSearchSelection", 
+                "href": "https://www.nike.com/w/blazer-shoes-9gw3azy7ok?vst=Blazer", 
+                "rel": "nofollow", 
+                "tabindex": "0"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "pre-l-vs-popular-term ncss-cta-primary-dark ta-sm-l d-sm-b mb3-sm", 
+            "domLevel": 14, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 20, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Blazer", 
+            "type": "", 
+            "value": "", 
+            "width": 656, 
+            "x": 625, 
+            "xPercent": 32.78215223097113, 
+            "y": 224, 
+            "yPercent": 2.96767355590885
+        }, 
+        "location": {
+            "x": 625, 
+            "y": 224
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 656
+        }, 
+        "tag_name": "a", 
+        "text": "Blazer"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Blazer", 
+    "transformed": true, 
+    "width": 1312, 
+    "x": 1250, 
+    "y": 448
+}

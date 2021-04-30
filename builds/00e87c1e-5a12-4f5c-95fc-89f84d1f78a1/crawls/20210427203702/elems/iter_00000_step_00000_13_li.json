@@ -1,0 +1,72 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "li", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "huqKVEsWGoTSzANab22ezw==\n", 
+    "height": 120, 
+    "hier_level": 0, 
+    "human_hash": "li_X1424_Y72_W258_H120", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "pre-desktop-menu-item d-lg-ib is-static is-header"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "li", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "pre-desktop-menu-item d-lg-ib is-static is-header", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 60, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "li", 
+            "text": "New ReleasesNew & FeaturedShop All New ArrivalsSNKRS Launch CalendarBest of Air MaxMember AccessTop Picks for MomFind Power in Your FitNew For MenShoesClothingEquipmentShop All NewNew For WomenShoesClothingEquipmentShop All NewNew For KidsBoys ShoesBoys ClothingGirls ShoesGirls ClothingShop All New", 
+            "type": "", 
+            "value": 0, 
+            "width": 129, 
+            "x": 712, 
+            "xPercent": 37.38188976377953, 
+            "y": 36, 
+            "yPercent": 0.47145102147721324
+        }, 
+        "location": {
+            "x": 712, 
+            "y": 36
+        }, 
+        "size": {
+            "height": 60, 
+            "width": 129
+        }, 
+        "tag_name": "li", 
+        "text": "New ReleasesNew & FeaturedShop All New ArrivalsSNKRS Launch CalendarBest of Air MaxMember AccessTop Picks for MomFind Power in Your FitNew For MenShoesClothingEquipmentShop All NewNew For WomenShoesClothingEquipmentShop All NewNew For KidsBoys ShoesBoys ClothingGirls ShoesGirls ClothingShop All New"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "li", 
+    "text": "New ReleasesNew & FeaturedShop All New ArrivalsSNKRS Launch CalendarBest of Air MaxMember AccessTop Picks for MomFind Power in Your FitNew For MenShoesClothingEquipmentShop All NewNew For WomenShoesClothingEquipmentShop All NewNew For KidsBoys ShoesBoys ClothingGirls ShoesGirls ClothingShop All New", 
+    "transformed": true, 
+    "width": 258, 
+    "x": 1424, 
+    "y": 72
+}

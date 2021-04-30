@@ -1,0 +1,69 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "li", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "AQJ6PLL8ZdvH6EOp9TRiSw==\n", 
+    "height": 32, 
+    "hier_level": 0, 
+    "human_hash": "li_X210_Y16_W98_H32", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {}, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "li", 
+            "color": "rgb(17, 17, 17)", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 16, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "li", 
+            "text": "Air Max", 
+            "type": "", 
+            "value": 0, 
+            "width": 49, 
+            "x": 105, 
+            "xPercent": 5.533136482939632, 
+            "y": 8, 
+            "yPercent": 0.29133284777858703
+        }, 
+        "location": {
+            "x": 105, 
+            "y": 8
+        }, 
+        "size": {
+            "height": 16, 
+            "width": 49
+        }, 
+        "tag_name": "li", 
+        "text": "Air Max"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "li", 
+    "text": "Air Max", 
+    "transformed": true, 
+    "width": 98, 
+    "x": 210, 
+    "y": 16
+}

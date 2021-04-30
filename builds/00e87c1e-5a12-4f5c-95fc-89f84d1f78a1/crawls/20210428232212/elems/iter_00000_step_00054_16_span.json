@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "Kk83qTq3Jm/5HoTBMADmzA==\n", 
+    "height": 36, 
+    "hier_level": 0, 
+    "human_hash": "span_X846_Y120_W1286_H36", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "banner-title"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "banner-title", 
+            "domLevel": 20, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 14, 
+            "height": 18, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "IT\u2019S TAKING US A BIT LONGER THAN USUAL TO GET ORDERS TO YOU", 
+            "type": "", 
+            "value": "", 
+            "width": 643, 
+            "x": 423, 
+            "xPercent": 22.178477690288716, 
+            "y": 60, 
+            "yPercent": 3.262642740619902
+        }, 
+        "location": {
+            "x": 423, 
+            "y": 60
+        }, 
+        "size": {
+            "height": 18, 
+            "width": 643
+        }, 
+        "tag_name": "span", 
+        "text": "IT\u2019S TAKING US A BIT LONGER THAN USUAL TO GET ORDERS TO YOU"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "IT\u2019S TAKING US A BIT LONGER THAN USUAL TO GET ORDERS TO YOU", 
+    "transformed": true, 
+    "width": 1286, 
+    "x": 846, 
+    "y": 120
+}

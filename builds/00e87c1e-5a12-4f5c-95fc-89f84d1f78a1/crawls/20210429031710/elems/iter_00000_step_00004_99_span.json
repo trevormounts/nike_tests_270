@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "elem_shot_file_path": "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210429031710/tmpZ/span_X220_Y712_W120_H40.png", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "VwWqiis3GaDkBlMsc+Skwg==\n", 
+    "height": 40, 
+    "hier_level": 0, 
+    "human_hash": "span_X220_Y712_W120_H40", 
+    "human_readable": "span_220_712_120_40_span_ffffffffffffffffffff51b7111701400040004001000100ffffffffffffffff_3f468c05030a82b764806e16b5383d1e", 
+    "img_hash": "e463ffe879a86fc29d71f653d6b04864", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "filter-item__item-label"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "filter-item__item-label", 
+            "domLevel": 23, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 20, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Multi-Color", 
+            "type": "", 
+            "value": "", 
+            "width": 60, 
+            "x": 110, 
+            "xPercent": 5.778379265091863, 
+            "y": 356, 
+            "yPercent": 8.561808561808562
+        }, 
+        "location": {
+            "x": 110, 
+            "y": 356
+        }, 
+        "size": {
+            "height": 20, 
+            "width": 60
+        }, 
+        "tag_name": "span", 
+        "text": "Multi-Color"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Multi-Color", 
+    "text_hash": "3f468c05030a82b764806e16b5383d1e", 
+    "transformed": true, 
+    "width": 120, 
+    "x": 220, 
+    "y": 712
+}

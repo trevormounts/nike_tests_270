@@ -1,0 +1,72 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "input", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "dFYHUHkvRktKQ/cZUvRPpw==\n", 
+    "height": 80, 
+    "hier_level": 0, 
+    "human_hash": "input_X1922_Y1152_W308_H80", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "type": "button"
+            }, 
+            "background-color": "rgb(255, 255, 255)", 
+            "class": "input", 
+            "color": "rgb(141, 141, 141)", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Helvetica", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 40, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "input", 
+            "text": "", 
+            "type": "button", 
+            "value": "", 
+            "width": 154, 
+            "x": 961, 
+            "xPercent": 50.425688976377955, 
+            "y": 576, 
+            "yPercent": 7.543216343635412
+        }, 
+        "location": {
+            "x": 961, 
+            "y": 576
+        }, 
+        "size": {
+            "height": 40, 
+            "width": 154
+        }, 
+        "tag_name": "input", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "input", 
+    "text": "", 
+    "transformed": true, 
+    "width": 308, 
+    "x": 1922, 
+    "y": 1152
+}

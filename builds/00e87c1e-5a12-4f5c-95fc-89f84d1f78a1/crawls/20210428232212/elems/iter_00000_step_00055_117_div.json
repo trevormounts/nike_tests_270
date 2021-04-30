@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "/cKVTQ637Wue5g20F2TKZg==\n", 
+    "height": 72, 
+    "hier_level": 0, 
+    "human_hash": "div_X3380_Y0_W84_H72", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "pre-help-dropdown pre-l-logo", 
+                "data-pre": "DesktopHelpDropdown"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "pre-help-dropdown pre-l-logo", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 36, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "HelpHelpOrder StatusShipping & DeliveryReturnsContact UsPrivacy PolicyTerms of UseSend Us Feedback", 
+            "type": "", 
+            "value": "", 
+            "width": 42, 
+            "x": 1690, 
+            "xPercent": 88.70570866141733, 
+            "y": 0, 
+            "yPercent": 0
+        }, 
+        "location": {
+            "x": 1690, 
+            "y": 0
+        }, 
+        "size": {
+            "height": 36, 
+            "width": 42
+        }, 
+        "tag_name": "div", 
+        "text": "HelpHelpOrder StatusShipping & DeliveryReturnsContact UsPrivacy PolicyTerms of UseSend Us Feedback"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "HelpHelpOrder StatusShipping & DeliveryReturnsContact UsPrivacy PolicyTerms of UseSend Us Feedback", 
+    "transformed": true, 
+    "width": 84, 
+    "x": 3380, 
+    "y": 0
+}

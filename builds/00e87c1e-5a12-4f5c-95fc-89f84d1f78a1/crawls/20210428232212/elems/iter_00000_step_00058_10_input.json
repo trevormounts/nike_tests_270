@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "input", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "Bz3aJVBYRrRVc2qkq8S+JQ==\n", 
+    "height": 100, 
+    "hier_level": 0, 
+    "human_hash": "input_X1138_Y1216_W672_H100", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "id": "cdaeae37-c39c-4bf9-add9-f7cd6b2dfaa1", 
+                "type": "button", 
+                "value": "MEMBER CHECKOUT"
+            }, 
+            "background-color": "rgb(250, 84, 0)", 
+            "class": "input", 
+            "color": "rgb(255, 255, 255)", 
+            "domLevel": 14, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "TradeGothicW02-BoldCn20, \"Helvetica Neue\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 50, 
+            "identifier": "cdaeae37-c39c-4bf9-add9-f7cd6b2dfaa1", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "input", 
+            "text": "", 
+            "type": "button", 
+            "value": "MEMBER CHECKOUT", 
+            "width": 336, 
+            "x": 569, 
+            "xPercent": 29.84251968503937, 
+            "y": 608, 
+            "yPercent": 64.12183544303798
+        }, 
+        "location": {
+            "x": 569, 
+            "y": 608
+        }, 
+        "size": {
+            "height": 50, 
+            "width": 336
+        }, 
+        "tag_name": "input", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "input", 
+    "text": "MEMBER CHECKOUT", 
+    "transformed": true, 
+    "width": 672, 
+    "x": 1138, 
+    "y": 1216
+}

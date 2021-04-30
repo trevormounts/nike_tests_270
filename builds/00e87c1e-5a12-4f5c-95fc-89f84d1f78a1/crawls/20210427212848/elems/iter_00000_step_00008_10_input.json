@@ -1,0 +1,81 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "input", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "/YgebPmmjc7XKNnYk5zZ1A==\n", 
+    "height": 80, 
+    "hier_level": 0, 
+    "human_hash": "input_X1582_Y706_W648_H80", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "autocapitalize": "off", 
+                "autocomplete": "email", 
+                "autocorrect": "off", 
+                "data-componentname": "emailAddress", 
+                "id": "a67077fb-4b76-465a-8353-903ca91b81f5", 
+                "name": "emailAddress", 
+                "placeholder": "Email address", 
+                "spellcheck": "false", 
+                "type": "email", 
+                "value": "trevormounts@gmail.com"
+            }, 
+            "background-color": "rgb(255, 255, 255)", 
+            "class": "input", 
+            "color": "rgb(141, 141, 141)", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Helvetica", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 40, 
+            "identifier": "a67077fb-4b76-465a-8353-903ca91b81f5", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "emailAddress", 
+            "tagName": "input", 
+            "text": "", 
+            "type": "email", 
+            "value": "trevormounts@gmail.com", 
+            "width": 324, 
+            "x": 791, 
+            "xPercent": 41.496062992125985, 
+            "y": 353, 
+            "yPercent": 4.639852786540484
+        }, 
+        "location": {
+            "x": 791, 
+            "y": 353
+        }, 
+        "size": {
+            "height": 40, 
+            "width": 324
+        }, 
+        "tag_name": "input", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "input", 
+    "text": "trevormounts@gmail.com", 
+    "transformed": true, 
+    "width": 648, 
+    "x": 1582, 
+    "y": 706
+}

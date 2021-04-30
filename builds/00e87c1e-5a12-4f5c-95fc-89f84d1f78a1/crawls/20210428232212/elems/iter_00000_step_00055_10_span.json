@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "RcCY7uLMytSJqIhwFDD/8Q==\n", 
+    "height": 36, 
+    "hier_level": 0, 
+    "human_hash": "span_X846_Y480_W1286_H36", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "banner-title"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "banner-title", 
+            "domLevel": 20, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 14, 
+            "height": 18, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Save Up to 40%", 
+            "type": "", 
+            "value": "", 
+            "width": 643, 
+            "x": 423, 
+            "xPercent": 22.198162729658794, 
+            "y": 240, 
+            "yPercent": 13.050570962479608
+        }, 
+        "location": {
+            "x": 423, 
+            "y": 240
+        }, 
+        "size": {
+            "height": 18, 
+            "width": 643
+        }, 
+        "tag_name": "span", 
+        "text": "Save Up to 40%"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Save Up to 40%", 
+    "transformed": true, 
+    "width": 1286, 
+    "x": 846, 
+    "y": 480
+}

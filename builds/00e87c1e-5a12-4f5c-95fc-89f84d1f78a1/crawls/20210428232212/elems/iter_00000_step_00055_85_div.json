@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "co6DPfa7dEz0x/UsOFdiOQ==\n", 
+    "height": 224, 
+    "hier_level": 0, 
+    "human_hash": "div_X2288_Y808_W702_H224", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "ncss-row css-1eovdr8"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "ncss-row css-1eovdr8", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 0, 
+            "height": 112, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Checkout", 
+            "type": "", 
+            "value": "", 
+            "width": 351, 
+            "x": 1144, 
+            "xPercent": 60.04347112860893, 
+            "y": 404, 
+            "yPercent": 21.968461120174005
+        }, 
+        "location": {
+            "x": 1144, 
+            "y": 404
+        }, 
+        "size": {
+            "height": 112, 
+            "width": 351
+        }, 
+        "tag_name": "div", 
+        "text": "Checkout"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Checkout", 
+    "transformed": true, 
+    "width": 702, 
+    "x": 2288, 
+    "y": 808
+}

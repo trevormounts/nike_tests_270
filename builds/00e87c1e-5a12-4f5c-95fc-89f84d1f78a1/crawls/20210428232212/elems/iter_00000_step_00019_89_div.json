@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "eCWOWmSyXEZq6hn2+SghYg==\n", 
+    "height": 76, 
+    "hier_level": 0, 
+    "human_hash": "div_X96_Y178_W3618_H76", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "wall-header__content"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "wall-header__content", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 38, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Mens Air Max 95 Shoes(8)Hide FiltersSort ByFeaturedNewestPrice: High-LowPrice: Low-High", 
+            "type": "", 
+            "value": "", 
+            "width": 1809, 
+            "x": 48, 
+            "xPercent": 2.5196850393700787, 
+            "y": 89, 
+            "yPercent": 3.241077931536781
+        }, 
+        "location": {
+            "x": 48, 
+            "y": 89
+        }, 
+        "size": {
+            "height": 38, 
+            "width": 1809
+        }, 
+        "tag_name": "div", 
+        "text": "Mens Air Max 95 Shoes(8)Hide FiltersSort ByFeaturedNewestPrice: High-LowPrice: Low-High"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Mens Air Max 95 Shoes(8)Hide FiltersSort ByFeaturedNewestPrice: High-LowPrice: Low-High", 
+    "transformed": true, 
+    "width": 3618, 
+    "x": 96, 
+    "y": 178
+}

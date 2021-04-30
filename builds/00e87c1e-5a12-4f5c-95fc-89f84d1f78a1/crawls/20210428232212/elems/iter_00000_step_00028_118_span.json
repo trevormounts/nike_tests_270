@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "LXXXJMILMwjVvw+SmxR7rg==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "span_X250_Y1394_W76_H48", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "filter-item__item-label"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "filter-item__item-label", 
+            "domLevel": 23, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "6.5", 
+            "type": "", 
+            "value": "", 
+            "width": 38, 
+            "x": 125, 
+            "xPercent": 6.554297900262466, 
+            "y": 697, 
+            "yPercent": 37.61467889908257
+        }, 
+        "location": {
+            "x": 125, 
+            "y": 697
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 38
+        }, 
+        "tag_name": "span", 
+        "text": "6.5"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "6.5", 
+    "transformed": true, 
+    "width": 76, 
+    "x": 250, 
+    "y": 1394
+}

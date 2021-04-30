@@ -1,0 +1,72 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "label", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "Le5dEsGrIRE/nI64YDYyPQ==\n", 
+    "height": 32, 
+    "hier_level": 0, 
+    "human_hash": "label_X1582_Y922_W166_H32", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "for": "764b10aa-8096-4a34-85f5-7fb2afa8d2b6"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "label", 
+            "color": "rgb(17, 17, 17)", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Helvetica", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 16, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "label", 
+            "text": "Date of Birth", 
+            "type": "", 
+            "value": "", 
+            "width": 83, 
+            "x": 791, 
+            "xPercent": 41.496062992125985, 
+            "y": 461, 
+            "yPercent": 6.160535117056856
+        }, 
+        "location": {
+            "x": 791, 
+            "y": 461
+        }, 
+        "size": {
+            "height": 16, 
+            "width": 83
+        }, 
+        "tag_name": "label", 
+        "text": "Date of Birth"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "label", 
+    "text": "Date of Birth", 
+    "transformed": true, 
+    "width": 166, 
+    "x": 1582, 
+    "y": 922
+}

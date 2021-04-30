@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "emvsH7XUdPlQcoRu+iZfEQ==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "div_X3428_Y132_W174_H48", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "1-800-806-6453", 
+                "class": "text-color-grey d-sm-ib va-sm-m fs12-sm"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(109, 109, 109)", 
+            "cssClass": "text-color-grey d-sm-ib va-sm-m fs12-sm", 
+            "domLevel": 7, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "1-800-806-6453", 
+            "type": "", 
+            "value": "", 
+            "width": 87, 
+            "x": 1714, 
+            "xPercent": 89.95406824146983, 
+            "y": 66, 
+            "yPercent": 6.203271028037383
+        }, 
+        "location": {
+            "x": 1714, 
+            "y": 66
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 87
+        }, 
+        "tag_name": "div", 
+        "text": "1-800-806-6453"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "1-800-806-6453", 
+    "transformed": true, 
+    "width": 174, 
+    "x": 3428, 
+    "y": 132
+}

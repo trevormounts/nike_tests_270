@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "UofohPIqtDi9mGKeCDPRjw==\n", 
+    "height": 56, 
+    "hier_level": 0, 
+    "human_hash": "div_X2528_Y578_W24_H56", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "css-bvtceq e1crwhf00", 
+                "role": "presentation"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "css-bvtceq e1crwhf00", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 28, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "The actual tax will be calculated based on the applicable state and local sales taxes when your order is shipped.\u00a0Learn More", 
+            "type": "", 
+            "value": "", 
+            "width": 12, 
+            "x": 1264, 
+            "xPercent": 66.36729002624672, 
+            "y": 289, 
+            "yPercent": 15.715062533985863
+        }, 
+        "location": {
+            "x": 1264, 
+            "y": 289
+        }, 
+        "size": {
+            "height": 28, 
+            "width": 12
+        }, 
+        "tag_name": "div", 
+        "text": "The actual tax will be calculated based on the applicable state and local sales taxes when your order is shipped.\u00a0Learn More"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "The actual tax will be calculated based on the applicable state and local sales taxes when your order is shipped.\u00a0Learn More", 
+    "transformed": true, 
+    "width": 24, 
+    "x": 2528, 
+    "y": 578
+}

@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "Opczg4Vaf5S8CPszVTR7+w==\n", 
+    "height": 80, 
+    "hier_level": 0, 
+    "human_hash": "div_X1566_Y1298_W648_H80", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "nike-unite-checkbox emailSignup nike-unite-component", 
+                "id": "ce2ecc5c-11bf-46a2-ad80-33d44e241d6c"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(141, 141, 141)", 
+            "cssClass": "nike-unite-checkbox emailSignup nike-unite-component", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Helvetica", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 40, 
+            "identifier": "ce2ecc5c-11bf-46a2-ad80-33d44e241d6c", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Sign up for emails to get updates from Nike on products, offers, and your Member benefits", 
+            "type": "", 
+            "value": "", 
+            "width": 324, 
+            "x": 783, 
+            "xPercent": 41.10236220472441, 
+            "y": 649, 
+            "yPercent": 8.499214248297537
+        }, 
+        "location": {
+            "x": 783, 
+            "y": 649
+        }, 
+        "size": {
+            "height": 40, 
+            "width": 324
+        }, 
+        "tag_name": "div", 
+        "text": "Sign up for emails to get updates from Nike on products, offers, and your Member benefits"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Sign up for emails to get updates from Nike on products, offers, and your Member benefits", 
+    "transformed": true, 
+    "width": 648, 
+    "x": 1566, 
+    "y": 1298
+}

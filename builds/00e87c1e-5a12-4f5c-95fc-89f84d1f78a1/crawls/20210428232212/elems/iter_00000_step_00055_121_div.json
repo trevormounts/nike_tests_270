@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "ClGJCkQQkS0fWGuMR93x8A==\n", 
+    "height": 44, 
+    "hier_level": 0, 
+    "human_hash": "div_X846_Y526_W396_H44", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "banner-subtitle"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(34, 34, 34)", 
+            "cssClass": "banner-subtitle", 
+            "domLevel": 20, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 22, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Shop All Our New Markdowns", 
+            "type": "", 
+            "value": "", 
+            "width": 198, 
+            "x": 423, 
+            "xPercent": 22.198162729658794, 
+            "y": 263, 
+            "yPercent": 14.301250679717237
+        }, 
+        "location": {
+            "x": 423, 
+            "y": 263
+        }, 
+        "size": {
+            "height": 22, 
+            "width": 198
+        }, 
+        "tag_name": "div", 
+        "text": "Shop All Our New Markdowns"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Shop All Our New Markdowns", 
+    "transformed": true, 
+    "width": 396, 
+    "x": 846, 
+    "y": 526
+}

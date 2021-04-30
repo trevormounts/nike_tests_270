@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "bHUEzE/qiUmi5AtBUeeeGQ==\n", 
+    "height": 700, 
+    "hier_level": 0, 
+    "human_hash": "div_X96_Y536_W384_H700", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "left-nav__categories"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "left-nav__categories", 
+            "domLevel": 16, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 350, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Air Max 90Air Max 1Air Max 2090Air Max 95Air Max 97Air Max 200Air Max 270Air Max 720Air Max PlusVaporMax", 
+            "type": "", 
+            "value": "", 
+            "width": 192, 
+            "x": 48, 
+            "xPercent": 2.5196850393700787, 
+            "y": 268, 
+            "yPercent": 9.759650400582666
+        }, 
+        "location": {
+            "x": 48, 
+            "y": 268
+        }, 
+        "size": {
+            "height": 350, 
+            "width": 192
+        }, 
+        "tag_name": "div", 
+        "text": "Air Max 90Air Max 1Air Max 2090Air Max 95Air Max 97Air Max 200Air Max 270Air Max 720Air Max PlusVaporMax"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Air Max 90Air Max 1Air Max 2090Air Max 95Air Max 97Air Max 200Air Max 270Air Max 720Air Max PlusVaporMax", 
+    "transformed": true, 
+    "width": 384, 
+    "x": 96, 
+    "y": 536
+}

@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "label", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "mRtn4TkjXTquu447iebtog==\n", 
+    "height": 28, 
+    "hier_level": 0, 
+    "human_hash": "label_X1650_Y978_W198_H28", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "checkbox", 
+                "for": "5869e19d-90fb-4bc8-b3b5-a75f593ef6f1"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "label", 
+            "color": "rgb(141, 141, 141)", 
+            "cssClass": "checkbox", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Helvetica", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 14, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "label", 
+            "text": "Keep me signed in", 
+            "type": "", 
+            "value": "", 
+            "width": 99, 
+            "x": 825, 
+            "xPercent": 43.28083989501312, 
+            "y": 489, 
+            "yPercent": 6.42539103575184
+        }, 
+        "location": {
+            "x": 825, 
+            "y": 489
+        }, 
+        "size": {
+            "height": 14, 
+            "width": 99
+        }, 
+        "tag_name": "label", 
+        "text": "Keep me signed in"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "label", 
+    "text": "Keep me signed in", 
+    "transformed": true, 
+    "width": 198, 
+    "x": 1650, 
+    "y": 978
+}

@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "svg", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "BZTAjJuQUebmMpx/UKto2A==\n", 
+    "height": 120, 
+    "hier_level": 0, 
+    "human_hash": "svg_X96_Y72_W120_H120", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "pre-logo-svg", 
+                "fill": "#111", 
+                "height": "60px", 
+                "viewBox": "0 0 69 32", 
+                "width": "60px"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "svg", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "pre-logo-svg", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 60, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "svg", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 60, 
+            "x": 48, 
+            "xPercent": 2.5196850393700787, 
+            "y": 36, 
+            "yPercent": 2.6986506746626686
+        }, 
+        "location": {
+            "x": 48, 
+            "y": 36
+        }, 
+        "size": {
+            "height": 60, 
+            "width": 60
+        }, 
+        "tag_name": "svg", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "svg", 
+    "text": "", 
+    "transformed": true, 
+    "width": 120, 
+    "x": 96, 
+    "y": 72
+}

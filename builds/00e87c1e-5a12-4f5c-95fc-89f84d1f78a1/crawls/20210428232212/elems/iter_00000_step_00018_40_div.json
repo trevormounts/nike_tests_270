@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "rIBT2LJKhM70n9VEMgMfnQ==\n", 
+    "height": 76, 
+    "hier_level": 0, 
+    "human_hash": "div_X96_Y400_W3618_H76", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "wall-header__content"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "wall-header__content", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 38, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Mens Multi-Color Air Max 95 Shoes(1)Hide FiltersSort ByFeaturedNewestPrice: High-LowPrice: Low-High", 
+            "type": "", 
+            "value": "", 
+            "width": 1809, 
+            "x": 48, 
+            "xPercent": 2.5196850393700787, 
+            "y": 200, 
+            "yPercent": 14.992503748125937
+        }, 
+        "location": {
+            "x": 48, 
+            "y": 200
+        }, 
+        "size": {
+            "height": 38, 
+            "width": 1809
+        }, 
+        "tag_name": "div", 
+        "text": "Mens Multi-Color Air Max 95 Shoes(1)Hide FiltersSort ByFeaturedNewestPrice: High-LowPrice: Low-High"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Mens Multi-Color Air Max 95 Shoes(1)Hide FiltersSort ByFeaturedNewestPrice: High-LowPrice: Low-High", 
+    "transformed": true, 
+    "width": 3618, 
+    "x": 96, 
+    "y": 400
+}

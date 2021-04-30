@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "85iYPqFAON4Aloimm9A2xg==\n", 
+    "height": 56, 
+    "hier_level": 0, 
+    "human_hash": "div_X1220_Y384_W1372_H56", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "_1uZt26F-"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "_1uZt26F-", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 28, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "ShoesClothingFind Your Sports BraNike Luxe LeggingsShoes $100 & Under", 
+            "type": "", 
+            "value": "", 
+            "width": 686, 
+            "x": 610, 
+            "xPercent": 31.99803149606299, 
+            "y": 192, 
+            "yPercent": 2.570281124497992
+        }, 
+        "location": {
+            "x": 610, 
+            "y": 192
+        }, 
+        "size": {
+            "height": 28, 
+            "width": 686
+        }, 
+        "tag_name": "div", 
+        "text": "ShoesClothingFind Your Sports BraNike Luxe LeggingsShoes $100 & Under"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "ShoesClothingFind Your Sports BraNike Luxe LeggingsShoes $100 & Under", 
+    "transformed": true, 
+    "width": 1372, 
+    "x": 1220, 
+    "y": 384
+}

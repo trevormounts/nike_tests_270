@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "li", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "pXMM9v7VkFPVhdqViYpP5A==\n", 
+    "height": 124, 
+    "hier_level": 0, 
+    "human_hash": "li_X830_Y460_W1318_H124", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "slide css-13er3lk e1drcilx4"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "li", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "slide css-13er3lk e1drcilx4", 
+            "domLevel": 18, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 62, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "li", 
+            "text": "Save Up to 40%Shop All Our New Markdowns", 
+            "type": "", 
+            "value": 0, 
+            "width": 659, 
+            "x": 415, 
+            "xPercent": 21.778215223097114, 
+            "y": 230, 
+            "yPercent": 12.506797172376292
+        }, 
+        "location": {
+            "x": 415, 
+            "y": 230
+        }, 
+        "size": {
+            "height": 62, 
+            "width": 659
+        }, 
+        "tag_name": "li", 
+        "text": "Save Up to 40%Shop All Our New Markdowns"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "li", 
+    "text": "Save Up to 40%Shop All Our New Markdowns", 
+    "transformed": true, 
+    "width": 1318, 
+    "x": 830, 
+    "y": 460
+}

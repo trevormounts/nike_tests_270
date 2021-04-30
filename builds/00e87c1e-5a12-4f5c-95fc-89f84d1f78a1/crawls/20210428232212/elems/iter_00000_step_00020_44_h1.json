@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "h1", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "ko1Nov5h2nZq9lfGexDDKA==\n", 
+    "height": 66, 
+    "hier_level": 0, 
+    "human_hash": "h1_X96_Y50_W3184_H66", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "wall-header__title css-hrsjq4 css-7m6ucd css-yj4gxb", 
+                "id": "Mens-Air-Max-95-Shoes"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "h1", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "wall-header__title css-hrsjq4 css-7m6ucd css-yj4gxb", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 24, 
+            "height": 33, 
+            "identifier": "Mens-Air-Max-95-Shoes", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "h1", 
+            "text": "Mens Air Max 95 Shoes(8)", 
+            "type": "", 
+            "value": "", 
+            "width": 1592, 
+            "x": 48, 
+            "xPercent": 2.5196850393700787, 
+            "y": 25, 
+            "yPercent": 0.9104151493080845
+        }, 
+        "location": {
+            "x": 48, 
+            "y": 25
+        }, 
+        "size": {
+            "height": 33, 
+            "width": 1592
+        }, 
+        "tag_name": "h1", 
+        "text": "Mens Air Max 95 Shoes(8)"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "h1", 
+    "text": "Mens Air Max 95 Shoes(8)", 
+    "transformed": true, 
+    "width": 3184, 
+    "x": 96, 
+    "y": 50
+}

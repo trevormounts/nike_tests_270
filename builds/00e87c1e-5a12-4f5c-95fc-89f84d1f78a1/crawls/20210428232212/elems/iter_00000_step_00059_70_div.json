@@ -1,0 +1,78 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "ztntJ1AmLC3QyG1guNRuQw==\n", 
+    "height": 112, 
+    "hier_level": 0, 
+    "human_hash": "div_X938_Y576_W626_H112", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-checked": "true", 
+                "class": "ncss-label ncss-brand pt4-sm pr5-sm pb4-sm pl5-sm ta-sm-c ncss-col-sm-6 border-bottom-black", 
+                "data-delivery-type": "SHIP", 
+                "for": "SHIP", 
+                "role": "radio", 
+                "tabindex": "0"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "ncss-label ncss-brand pt4-sm pr5-sm pb4-sm pl5-sm ta-sm-c ncss-col-sm-6 border-bottom-black", 
+            "domLevel": 15, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Nike TG\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 56, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "SHIP", 
+            "type": "", 
+            "value": "", 
+            "width": 313, 
+            "x": 469, 
+            "xPercent": 24.593175853018373, 
+            "y": 288, 
+            "yPercent": 26.904205607476634
+        }, 
+        "location": {
+            "x": 469, 
+            "y": 288
+        }, 
+        "size": {
+            "height": 56, 
+            "width": 313
+        }, 
+        "tag_name": "div", 
+        "text": "SHIP"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "SHIP", 
+    "transformed": true, 
+    "width": 626, 
+    "x": 938, 
+    "y": 576
+}

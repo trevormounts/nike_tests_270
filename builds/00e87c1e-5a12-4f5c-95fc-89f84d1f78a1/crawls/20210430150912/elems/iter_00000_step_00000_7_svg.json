@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "svg", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "/vJAY32uR8rxsx9CHyKL2Q==\n", 
+    "height": 60, 
+    "hier_level": 0, 
+    "human_hash": "svg_X48_Y36_W60_H60", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "pre-logo-svg", 
+                "fill": "#111", 
+                "height": "60px", 
+                "viewBox": "0 0 69 32", 
+                "width": "60px"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "svg", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "pre-logo-svg", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 60, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "svg", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 60, 
+            "x": 48, 
+            "xPercent": 2.5, 
+            "y": 36, 
+            "yPercent": 0.5318363126015659
+        }, 
+        "location": {
+            "x": 48, 
+            "y": 36
+        }, 
+        "size": {
+            "height": 60, 
+            "width": 60
+        }, 
+        "tag_name": "svg", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "svg", 
+    "text": "", 
+    "transformed": true, 
+    "width": 60, 
+    "x": 48, 
+    "y": 36
+}

@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "hxKWy0jzp3azisd4uHRTKg==\n", 
+    "height": 104, 
+    "hier_level": 0, 
+    "human_hash": "div_X88_Y1364_W392_H104", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "Brand", 
+                "class": "filter-group__items-group", 
+                "id": "wallNavFG3", 
+                "role": "group"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "filter-group__items-group", 
+            "domLevel": 21, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 52, 
+            "identifier": "wallNavFG3", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Nike SportswearNike By You", 
+            "type": "", 
+            "value": "", 
+            "width": 196, 
+            "x": 44, 
+            "xPercent": 2.3097112860892386, 
+            "y": 682, 
+            "yPercent": 16.402116402116402
+        }, 
+        "location": {
+            "x": 44, 
+            "y": 682
+        }, 
+        "size": {
+            "height": 52, 
+            "width": 196
+        }, 
+        "tag_name": "div", 
+        "text": "Nike SportswearNike By You"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Nike SportswearNike By You", 
+    "transformed": true, 
+    "width": 392, 
+    "x": 88, 
+    "y": 1364
+}

@@ -1,0 +1,81 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "msAJ+0ldWLjGQxT0bIscIw==\n", 
+    "height": 136, 
+    "hier_level": 0, 
+    "human_hash": "a_X92_Y606_W126_H136", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-checked": "true", 
+                "aria-label": "Filter for Purple", 
+                "class": "css-hrsjq4 css-xhk1pl css-1t2ydyg filter-item is--color css-11bod12 is--selected is--link", 
+                "data-group-ndx": "2", 
+                "data-group-type": "filter", 
+                "data-is-color": "true", 
+                "data-ndx": "0", 
+                "href": "https://www.nike.com/w/womens-air-max-90-shoes-5e1x6zauqmozy7ok", 
+                "role": "menuitemcheckbox"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "css-hrsjq4 css-xhk1pl css-1t2ydyg filter-item is--color css-11bod12 is--selected is--link", 
+            "domLevel": 22, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 68, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Purple", 
+            "type": "", 
+            "value": "", 
+            "width": 63, 
+            "x": 46, 
+            "xPercent": 2.4146981627296586, 
+            "y": 303, 
+            "yPercent": 22.713643178410795
+        }, 
+        "location": {
+            "x": 46, 
+            "y": 303
+        }, 
+        "size": {
+            "height": 68, 
+            "width": 63
+        }, 
+        "tag_name": "a", 
+        "text": "Purple"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Purple", 
+    "transformed": true, 
+    "width": 126, 
+    "x": 92, 
+    "y": 606
+}

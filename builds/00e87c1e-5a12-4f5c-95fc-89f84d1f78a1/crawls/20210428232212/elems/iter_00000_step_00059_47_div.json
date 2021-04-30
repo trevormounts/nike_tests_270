@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "CbL5UApJ54k9Fldw2x2DwQ==\n", 
+    "height": 96, 
+    "hier_level": 0, 
+    "human_hash": "div_X938_Y960_W1254_H96", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "no-overflow clearfix ncss-input-container animatedForm mod-ncss-input-container ncss-col-sm-12 mb2-sm mb4-md va-sm-t mb3-sm"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "no-overflow clearfix ncss-input-container animatedForm mod-ncss-input-container ncss-col-sm-12 mb2-sm mb4-md va-sm-t mb3-sm", 
+            "domLevel": 22, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 48, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Start typing the first line of your address", 
+            "type": "", 
+            "value": "", 
+            "width": 627, 
+            "x": 469, 
+            "xPercent": 24.593175853018373, 
+            "y": 480, 
+            "yPercent": 44.848130841121495
+        }, 
+        "location": {
+            "x": 469, 
+            "y": 480
+        }, 
+        "size": {
+            "height": 48, 
+            "width": 627
+        }, 
+        "tag_name": "div", 
+        "text": "Start typing the first line of your address"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Start typing the first line of your address", 
+    "transformed": true, 
+    "width": 1254, 
+    "x": 938, 
+    "y": 960
+}

@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "HGT2XsmXUKWPruxdmjwTyg==\n", 
+    "height": 96, 
+    "hier_level": 0, 
+    "human_hash": "span_X96_Y686_W384_H96", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "Collapsible__trigger is-open  filter-group__btn headline-5 is--open"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "Collapsible__trigger is-open  filter-group__btn headline-5 is--open", 
+            "domLevel": 19, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 48, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Color\u00a0(1)", 
+            "type": "", 
+            "value": "", 
+            "width": 192, 
+            "x": 48, 
+            "xPercent": 2.5196850393700787, 
+            "y": 343, 
+            "yPercent": 25.712143928035978
+        }, 
+        "location": {
+            "x": 48, 
+            "y": 343
+        }, 
+        "size": {
+            "height": 48, 
+            "width": 192
+        }, 
+        "tag_name": "span", 
+        "text": "Color\u00a0(1)"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Color\u00a0(1)", 
+    "transformed": true, 
+    "width": 384, 
+    "x": 96, 
+    "y": 686
+}

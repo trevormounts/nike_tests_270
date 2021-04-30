@@ -1,0 +1,72 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "li", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "EG4CIXw61pLieBQs5RCsNA==\n", 
+    "height": 120, 
+    "hier_level": 0, 
+    "human_hash": "li_X1954_Y72_W114_H120", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "pre-desktop-menu-item d-lg-ib is-static is-header"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "li", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "pre-desktop-menu-item d-lg-ib is-static is-header", 
+            "domLevel": 13, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 60, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "li", 
+            "text": "KidsNew & FeaturedNew ReleasesBest SellersBest of Air MaxExtended SizesTop Picks for MomKids' Matching SetsSale - Up to 40% OffBoys ShoesBig Kids (3.5Y - 7Y)Little Kids (10.5C - 3Y)Baby & Toddler (0C - 10C)LifestyleRunningBasketballSandals & SlidesNike FlyeaseShoes $80 & UnderAll ShoesBoys ClothingBig Kids (XS - XL)Little Kids (4 - 7)Baby & Toddler (0M - 4T)Hoodies & SweatshirtsPants & TightsJackets Tops & T-ShirtsNike Pro & BaselayerShortsSwimwearAll ClothingGirls ShoesBig Kids (3.5Y - 7Y)Little Kids (10.5C - 3Y)Baby & Toddler (0C - 10C)LifestyleRunningSandals & SlidesNike FlyeaseShoes $80 & UnderAll ShoesGirls ClothingBig Kids (XS - XL)Little Kids (4T - 7)Baby & Toddler (0M - 4T)Hoodies & SweatshirtsPants & LeggingsJackets Tops & T-ShirtsSports BrasShortsSkirts & DressesSwimwearAll ClothingBaby & ToddlerBaby GirlBaby BoyAll Clothing (0M - 4T)All Shoes (0C - 10C)Baby Box SetsAccessories & EquipmentBags & BackpacksHats Socks", 
+            "type": "", 
+            "value": 0, 
+            "width": 57, 
+            "x": 977, 
+            "xPercent": 51.30741469816273, 
+            "y": 36, 
+            "yPercent": 0.48893114219747386
+        }, 
+        "location": {
+            "x": 977, 
+            "y": 36
+        }, 
+        "size": {
+            "height": 60, 
+            "width": 57
+        }, 
+        "tag_name": "li", 
+        "text": "KidsNew & FeaturedNew ReleasesBest SellersBest of Air MaxExtended SizesTop Picks for MomKids' Matching SetsSale - Up to 40% OffBoys ShoesBig Kids (3.5Y - 7Y)Little Kids (10.5C - 3Y)Baby & Toddler (0C - 10C)LifestyleRunningBasketballSandals & SlidesNike FlyeaseShoes $80 & UnderAll ShoesBoys ClothingBig Kids (XS - XL)Little Kids (4 - 7)Baby & Toddler (0M - 4T)Hoodies & SweatshirtsPants & TightsJackets Tops & T-ShirtsNike Pro & BaselayerShortsSwimwearAll ClothingGirls ShoesBig Kids (3.5Y - 7Y)Little Kids (10.5C - 3Y)Baby & Toddler (0C - 10C)LifestyleRunningSandals & SlidesNike FlyeaseShoes $80 & UnderAll ShoesGirls ClothingBig Kids (XS - XL)Little Kids (4T - 7)Baby & Toddler (0M - 4T)Hoodies & SweatshirtsPants & LeggingsJackets Tops & T-ShirtsSports BrasShortsSkirts & DressesSwimwearAll ClothingBaby & ToddlerBaby GirlBaby BoyAll Clothing (0M - 4T)All Shoes (0C - 10C)Baby Box SetsAccessories & EquipmentBags & BackpacksHats Socks"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "li", 
+    "text": "KidsNew & FeaturedNew ReleasesBest SellersBest of Air MaxExtended SizesTop Picks for MomKids' Matching SetsSale - Up to 40% OffBoys ShoesBig Kids (3.5Y - 7Y)Little Kids (10.5C - 3Y)Baby & Toddler (0C - 10C)LifestyleRunningBasketballSandals & SlidesNike FlyeaseShoes $80 & UnderAll ShoesBoys ClothingBig Kids (XS - XL)Little Kids (4 - 7)Baby & Toddler (0M - 4T)Hoodies & SweatshirtsPants & TightsJackets Tops & T-ShirtsNike Pro & BaselayerShortsSwimwearAll ClothingGirls ShoesBig Kids (3.5Y - 7Y)Little Kids (10.5C - 3Y)Baby & Toddler (0C - 10C)LifestyleRunningSandals & SlidesNike FlyeaseShoes $80 & UnderAll ShoesGirls ClothingBig Kids (XS - XL)Little Kids (4T - 7)Baby & Toddler (0M - 4T)Hoodies & SweatshirtsPants & LeggingsJackets Tops & T-ShirtsSports BrasShortsSkirts & DressesSwimwearAll ClothingBaby & ToddlerBaby GirlBaby BoyAll Clothing (0M - 4T)All Shoes (0C - 10C)Baby Box SetsAccessories & EquipmentBags & BackpacksHats Socks", 
+    "transformed": true, 
+    "width": 114, 
+    "x": 1954, 
+    "y": 72
+}

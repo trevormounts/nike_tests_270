@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "label", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "AawbKXPSDivX5IvVB5iaVQ==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "label_X970_Y1166_W116_H48", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "ncss-label ncss-label-text pr6-sm css-o9xj2n", 
+                "for": "email"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "label", 
+            "color": "rgb(141, 141, 141)", 
+            "cssClass": "ncss-label ncss-label-text pr6-sm css-o9xj2n", 
+            "domLevel": 20, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "label", 
+            "text": "Email", 
+            "type": "", 
+            "value": "", 
+            "width": 58, 
+            "x": 485, 
+            "xPercent": 25.433070866141733, 
+            "y": 583, 
+            "yPercent": 54.49182242990654
+        }, 
+        "location": {
+            "x": 485, 
+            "y": 583
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 58
+        }, 
+        "tag_name": "label", 
+        "text": "Email"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "label", 
+    "text": "Email", 
+    "transformed": true, 
+    "width": 116, 
+    "x": 970, 
+    "y": 1166
+}

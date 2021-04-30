@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "3YDggJkiYZ2wMAFWpOku7Q==\n", 
+    "height": 72, 
+    "hier_level": 0, 
+    "human_hash": "div_X3662_Y96_W72_H72", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "pre-acct-cart mr2-sm mr0-lg d-sm-ib", 
+                "data-pre": "Cart", 
+                "id": "nav-cart"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "pre-acct-cart mr2-sm mr0-lg d-sm-ib", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 36, 
+            "identifier": "nav-cart", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "1", 
+            "type": "", 
+            "value": "", 
+            "width": 36, 
+            "x": 1831, 
+            "xPercent": 96.11548556430446, 
+            "y": 48, 
+            "yPercent": 2.6101141924959217
+        }, 
+        "location": {
+            "x": 1831, 
+            "y": 48
+        }, 
+        "size": {
+            "height": 36, 
+            "width": 36
+        }, 
+        "tag_name": "div", 
+        "text": "1"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "1", 
+    "transformed": true, 
+    "width": 72, 
+    "x": 3662, 
+    "y": 96
+}

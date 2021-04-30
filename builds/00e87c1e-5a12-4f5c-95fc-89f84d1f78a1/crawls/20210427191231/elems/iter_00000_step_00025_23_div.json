@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "1CHMWC/gdT0SmkQr7xK2tA==\n", 
+    "height": 1376, 
+    "hier_level": 0, 
+    "human_hash": "div_X1906_Y204_W904_H1376", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "grid-col va-sm-t ncss-col-lg-3 ncss-col-md-3 ncss-col-sm-12 ncss-col-lg-offset-0 ncss-col-md-offset-0 ncss-col-sm-offset-0", 
+                "data-qa": "grid-col", 
+                "id": "63fc65f0-efef-47f6-8b39-0cac47830b98"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "grid-col va-sm-t ncss-col-lg-3 ncss-col-md-3 ncss-col-sm-12 ncss-col-lg-offset-0 ncss-col-md-offset-0 ncss-col-sm-offset-0", 
+            "domLevel": 6, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 688, 
+            "identifier": "63fc65f0-efef-47f6-8b39-0cac47830b98", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Nike Training ClubTrain: Break a sweat to over 160 guided workouts. Download", 
+            "type": "", 
+            "value": "", 
+            "width": 452, 
+            "x": 953, 
+            "xPercent": 50, 
+            "y": 102, 
+            "yPercent": 1.308698999230177
+        }, 
+        "location": {
+            "x": 953, 
+            "y": 102
+        }, 
+        "size": {
+            "height": 688, 
+            "width": 452
+        }, 
+        "tag_name": "div", 
+        "text": "Nike Training ClubTrain: Break a sweat to over 160 guided workouts. Download"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Nike Training ClubTrain: Break a sweat to over 160 guided workouts. Download", 
+    "transformed": true, 
+    "width": 904, 
+    "x": 1906, 
+    "y": 204
+}

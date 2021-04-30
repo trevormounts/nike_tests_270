@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "rp9yjYKwRdTtAGM2M4T6lw==\n", 
+    "height": 32, 
+    "hier_level": 0, 
+    "human_hash": "div_X2462_Y1030_W226_H32", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "lh24-sm text-color-grey itemColor"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(109, 109, 109)", 
+            "cssClass": "lh24-sm text-color-grey itemColor", 
+            "domLevel": 18, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 16, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Color:", 
+            "type": "", 
+            "value": "", 
+            "width": 113, 
+            "x": 1231, 
+            "xPercent": 64.62762467191601, 
+            "y": 515, 
+            "yPercent": 48.11915887850468
+        }, 
+        "location": {
+            "x": 1231, 
+            "y": 515
+        }, 
+        "size": {
+            "height": 16, 
+            "width": 113
+        }, 
+        "tag_name": "div", 
+        "text": "Color:"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Color:", 
+    "transformed": true, 
+    "width": 226, 
+    "x": 2462, 
+    "y": 1030
+}

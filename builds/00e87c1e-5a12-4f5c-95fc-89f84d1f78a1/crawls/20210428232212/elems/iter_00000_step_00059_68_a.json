@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "Zk0bpCvLXinBvBfiT4FV+Q==\n", 
+    "height": 28, 
+    "hier_level": 0, 
+    "human_hash": "a_X3634_Y140_W136_H28", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "text-color-grey fs12-sm", 
+                "href": "http://help-en-us.nike.com/app/chat/chat_launch", 
+                "rel": "noopener noreferrer", 
+                "target": "_blank"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(109, 109, 109)", 
+            "cssClass": "text-color-grey fs12-sm", 
+            "domLevel": 8, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 14, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Live Chat", 
+            "type": "", 
+            "value": "", 
+            "width": 68, 
+            "x": 1817, 
+            "xPercent": 95.38221784776903, 
+            "y": 70, 
+            "yPercent": 6.530373831775702
+        }, 
+        "location": {
+            "x": 1817, 
+            "y": 70
+        }, 
+        "size": {
+            "height": 14, 
+            "width": 68
+        }, 
+        "tag_name": "a", 
+        "text": "Live Chat"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Live Chat", 
+    "transformed": true, 
+    "width": 136, 
+    "x": 3634, 
+    "y": 140
+}

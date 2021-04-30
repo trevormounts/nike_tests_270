@@ -1,0 +1,78 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "elem_shot_file_path": "/root/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210429031710/tmpZ/div_X88_Y1568_W392_H104.png", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "WKz5rowsBmtc65mGdlS5lQ==\n", 
+    "height": 104, 
+    "hier_level": 0, 
+    "human_hash": "div_X88_Y1568_W392_H104", 
+    "human_readable": "div_88_1568_392_104_div_ffff3fff3fffdbffc0ffc0ffc0ff3dffffffffffffffffffffffffffffffffff_311c0c8faa9cbbd193ce30dbbc05e3a1", 
+    "img_hash": "4fd247f8df7471845426a11bf45a9b5b", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "Collapsible__contentOuter filter-group__outer", 
+                "style": "height: auto; transition: none 0s ease 0s; overflow: hidden;"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "Collapsible__contentOuter filter-group__outer", 
+            "domLevel": 19, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 52, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Low Top", 
+            "type": "", 
+            "value": "", 
+            "width": 196, 
+            "x": 44, 
+            "xPercent": 2.3097112860892386, 
+            "y": 784, 
+            "yPercent": 18.855218855218855
+        }, 
+        "location": {
+            "x": 44, 
+            "y": 784
+        }, 
+        "size": {
+            "height": 52, 
+            "width": 196
+        }, 
+        "tag_name": "div", 
+        "text": "Low Top"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Low Top", 
+    "text_hash": "311c0c8faa9cbbd193ce30dbbc05e3a1", 
+    "transformed": true, 
+    "width": 392, 
+    "x": 88, 
+    "y": 1568
+}

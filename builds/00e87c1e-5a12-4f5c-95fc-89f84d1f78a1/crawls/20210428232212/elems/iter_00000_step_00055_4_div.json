@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "3q3v7d9ZohNDcBUxAP+3MQ==\n", 
+    "height": 56, 
+    "hier_level": 0, 
+    "human_hash": "div_X2826_Y578_W140_H56", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "css-s2uf1z et0x4wk0", 
+                "data-automation": "summary-tax"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "css-s2uf1z et0x4wk0", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 28, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "\u2014", 
+            "type": "", 
+            "value": "", 
+            "width": 70, 
+            "x": 1413, 
+            "xPercent": 74.16338582677166, 
+            "y": 289, 
+            "yPercent": 15.715062533985863
+        }, 
+        "location": {
+            "x": 1413, 
+            "y": 289
+        }, 
+        "size": {
+            "height": 28, 
+            "width": 70
+        }, 
+        "tag_name": "div", 
+        "text": "\u2014"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "\u2014", 
+    "transformed": true, 
+    "width": 140, 
+    "x": 2826, 
+    "y": 578
+}

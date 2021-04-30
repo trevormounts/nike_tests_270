@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "0cYGkcxl3IK+GDJPDlL8VQ==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "div_X938_Y1064_W1254_H48", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "mt1-sm mb2-sm mb4-md va-sm-t pl4-sm"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "mt1-sm mb2-sm mb4-md va-sm-t pl4-sm", 
+            "domLevel": 20, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Enter address manually", 
+            "type": "", 
+            "value": "", 
+            "width": 627, 
+            "x": 469, 
+            "xPercent": 24.593175853018373, 
+            "y": 532, 
+            "yPercent": 49.70794392523364
+        }, 
+        "location": {
+            "x": 469, 
+            "y": 532
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 627
+        }, 
+        "tag_name": "div", 
+        "text": "Enter address manually"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Enter address manually", 
+    "transformed": true, 
+    "width": 1254, 
+    "x": 938, 
+    "y": 1064
+}

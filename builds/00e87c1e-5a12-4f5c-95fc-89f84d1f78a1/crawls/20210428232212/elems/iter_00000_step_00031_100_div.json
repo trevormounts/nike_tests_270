@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "1JyelN7YR+I9Tc5AS0FzZg==\n", 
+    "height": 152, 
+    "hier_level": 0, 
+    "human_hash": "div_X88_Y1548_W392_H152", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "Collapsible__contentInner filter-group__content  css-1az01ki"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "Collapsible__contentInner filter-group__content  css-1az01ki", 
+            "domLevel": 20, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 76, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "$100 - $150Over $150", 
+            "type": "", 
+            "value": "", 
+            "width": 196, 
+            "x": 44, 
+            "xPercent": 2.3097112860892386, 
+            "y": 774, 
+            "yPercent": 18.614718614718615
+        }, 
+        "location": {
+            "x": 44, 
+            "y": 774
+        }, 
+        "size": {
+            "height": 76, 
+            "width": 196
+        }, 
+        "tag_name": "div", 
+        "text": "$100 - $150Over $150"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "$100 - $150Over $150", 
+    "transformed": true, 
+    "width": 392, 
+    "x": 88, 
+    "y": 1548
+}

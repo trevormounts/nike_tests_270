@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "ZfL+RlZe4kBcf35zXXd82A==\n", 
+    "height": 38, 
+    "hier_level": 0, 
+    "human_hash": "span_X3608_Y18_W6_H38", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "ml1-sm mr1-sm body-3"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "ml1-sm mr1-sm body-3", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 19, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "|", 
+            "type": "", 
+            "value": "", 
+            "width": 3, 
+            "x": 1804, 
+            "xPercent": 94.68011811023622, 
+            "y": 9, 
+            "yPercent": 0.11131482451545312
+        }, 
+        "location": {
+            "x": 1804, 
+            "y": 9
+        }, 
+        "size": {
+            "height": 19, 
+            "width": 3
+        }, 
+        "tag_name": "span", 
+        "text": "|"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "|", 
+    "transformed": true, 
+    "width": 6, 
+    "x": 3608, 
+    "y": 18
+}
