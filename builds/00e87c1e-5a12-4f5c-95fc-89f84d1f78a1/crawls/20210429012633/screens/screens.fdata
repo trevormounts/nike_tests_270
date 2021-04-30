@@ -1305,6 +1305,10 @@
         ], 
         "version": 1
     }, 
+<<<<<<< HEAD
+    "generated_at": "2021-04-30T21:24:53.388Z", 
+=======
     "generated_at": "2021-04-30T19:05:09.976Z", 
+>>>>>>> 3cc9fff9ec63bff99fb7de789a1e6d0222dc6b86
     "object_type": "screens"
 }

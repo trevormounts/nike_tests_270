@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "CT6q3NNBgubC2rheHA8mGA==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "span_X2498_Y1086_W164_H48", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "prl0-sm ta-sm-l bg-transparent sizeHeader"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "prl0-sm ta-sm-l bg-transparent sizeHeader", 
+            "domLevel": 15, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Select Size", 
+            "type": "", 
+            "value": "", 
+            "width": 82, 
+            "x": 1249, 
+            "xPercent": 65.05208333333333, 
+            "y": 543, 
+            "yPercent": 20.148423005565864
+        }, 
+        "location": {
+            "x": 1249, 
+            "y": 543
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 82
+        }, 
+        "tag_name": "span", 
+        "text": "Select Size"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Select Size", 
+    "transformed": true, 
+    "width": 164, 
+    "x": 2498, 
+    "y": 1086
+}

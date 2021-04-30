@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "4TXb322m0hiz//AKOAXjrQ==\n", 
+    "height": 116, 
+    "hier_level": 0, 
+    "human_hash": "div_X3062_Y204_W116_H116", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "data-automation": "pattern-section", 
+                "style": "flex-grow: 1; background-image: url(\"//secure-render.nike.com/is/image/nikeidrender/met_01b?fit=constrain,1&wid=60&hei=60&fmt=jpeg&qlt=90\"); background-size: cover;"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 12, 
+            "height": 58, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 58, 
+            "x": 1531, 
+            "xPercent": 79.76481119791666, 
+            "y": 102, 
+            "yPercent": 11.333333333333332
+        }, 
+        "location": {
+            "x": 1531, 
+            "y": 102
+        }, 
+        "size": {
+            "height": 58, 
+            "width": 58
+        }, 
+        "tag_name": "div", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "", 
+    "transformed": true, 
+    "width": 116, 
+    "x": 3062, 
+    "y": 204
+}

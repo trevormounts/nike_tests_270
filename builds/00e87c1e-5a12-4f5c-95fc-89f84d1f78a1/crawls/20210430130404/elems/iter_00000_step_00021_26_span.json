@@ -1,0 +1,70 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "q7HAENUHqsDXoJ2t/rUo1g==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "span_X2830_Y1578_W86_H48", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {}, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(0, 0, 0)", 
+            "domLevel": 14, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Arial", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Share", 
+            "type": "", 
+            "value": "", 
+            "width": 43, 
+            "x": 1415, 
+            "xPercent": 73.70524088541667, 
+            "y": 789, 
+            "yPercent": 29.290932282003713
+        }, 
+        "location": {
+            "x": 1415, 
+            "y": 789
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 43
+        }, 
+        "tag_name": "span", 
+        "text": "Share"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Share", 
+    "transformed": true, 
+    "width": 86, 
+    "x": 2830, 
+    "y": 1578
+}

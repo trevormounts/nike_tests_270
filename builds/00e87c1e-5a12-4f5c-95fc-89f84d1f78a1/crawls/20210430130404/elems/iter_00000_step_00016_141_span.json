@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "elem_shot_file_path": "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210430130404/tmpZ/span_X144_Y758_W62_H48.png", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "QtEjADp0m/h4sDQi8Mw+lw==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "span_X144_Y758_W62_H48", 
+    "human_readable": "span_144_758_62_48_span_ffffffffffffffff39ff39ff111111101006000620462916ffffffffffffffff_4cfd213d82c3360d355f819a111d11d0", 
+    "img_hash": "4e3475072319107afe5d270186ac44f9", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "filter-item__item-label"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "filter-item__item-label", 
+            "domLevel": 23, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Men", 
+            "type": "", 
+            "value": "", 
+            "width": 31, 
+            "x": 72, 
+            "xPercent": 3.75, 
+            "y": 379, 
+            "yPercent": 9.095272378209742
+        }, 
+        "location": {
+            "x": 72, 
+            "y": 379
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 31
+        }, 
+        "tag_name": "span", 
+        "text": "Men"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Men", 
+    "text_hash": "4cfd213d82c3360d355f819a111d11d0", 
+    "transformed": true, 
+    "width": 62, 
+    "x": 144, 
+    "y": 758
+}

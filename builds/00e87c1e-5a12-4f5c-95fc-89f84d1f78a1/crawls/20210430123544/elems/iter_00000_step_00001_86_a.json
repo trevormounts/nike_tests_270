@@ -1,0 +1,78 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "/m7XOn591BWKxUPu4UJr3g==\n", 
+    "height": 28, 
+    "hier_level": 0, 
+    "human_hash": "a_X1592_Y1280_W98_H28", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "fs12-nav-sm", 
+                "data-path": "about nike:investors", 
+                "data-pre": "ILink", 
+                "data-type": "click_navFooter", 
+                "href": "http://investors.nike.com/", 
+                "target": "_self"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(126, 126, 126)", 
+            "cssClass": "fs12-nav-sm", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 14, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Investors", 
+            "type": "", 
+            "value": "", 
+            "width": 49, 
+            "x": 796, 
+            "xPercent": 41.458333333333336, 
+            "y": 640, 
+            "yPercent": 9.000351370344344
+        }, 
+        "location": {
+            "x": 796, 
+            "y": 640
+        }, 
+        "size": {
+            "height": 14, 
+            "width": 49
+        }, 
+        "tag_name": "a", 
+        "text": "Investors"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Investors", 
+    "transformed": true, 
+    "width": 98, 
+    "x": 1592, 
+    "y": 1280
+}

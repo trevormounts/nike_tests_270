@@ -1,0 +1,81 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "elem_shot_file_path": "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210430130404/tmpZ/button_X3668_Y2_W76_H68.png", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "5IvRJUgwJ4tTHijMJ+LrJQ==\n", 
+    "height": 68, 
+    "hier_level": 0, 
+    "human_hash": "button_X3668_Y2_W76_H68", 
+    "human_readable": "button_3668_2_76_68_button_ffffffffffffffffffffffff0ff700200010001000b2f9ffffffffffffffffff_0ffc71968c588734b47b6925f63858c5", 
+    "img_hash": "960de1737867890ec41b2a0100ca5c8d", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "nav-btn p0-sm body-4 u-bold ml2-sm mr2-sm", 
+                "data-path": "sign in", 
+                "data-pre": "ILink", 
+                "data-type": "click_navMembership", 
+                "data-var": "loginBtn"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "button", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "nav-btn p0-sm body-4 u-bold ml2-sm mr2-sm", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 12, 
+            "height": 34, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "Sign In", 
+            "type": "", 
+            "value": "", 
+            "width": 38, 
+            "x": 1834, 
+            "xPercent": 95.50862630208333, 
+            "y": 1, 
+            "yPercent": 0.023998080153587713
+        }, 
+        "location": {
+            "x": 1834, 
+            "y": 1
+        }, 
+        "size": {
+            "height": 34, 
+            "width": 38
+        }, 
+        "tag_name": "button", 
+        "text": "Sign In"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "Sign In", 
+    "text_hash": "0ffc71968c588734b47b6925f63858c5", 
+    "transformed": true, 
+    "width": 76, 
+    "x": 3668, 
+    "y": 2
+}

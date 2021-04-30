@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "5yCW9zFJLGpsUgzZIZjunw==\n", 
+    "height": 30, 
+    "hier_level": 0, 
+    "human_hash": "a_X2188_Y180_W104_H30", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "banner-link", 
+                "data-id": "02fa79f0-b16e-4175-b4af-d0b2e94960c7", 
+                "href": "https://www.nike.com/register"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "banner-link", 
+            "domLevel": 15, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 12, 
+            "height": 15, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Join Now", 
+            "type": "", 
+            "value": "", 
+            "width": 52, 
+            "x": 1094, 
+            "xPercent": 56.984049479166664, 
+            "y": 90, 
+            "yPercent": 3.43380389164441
+        }, 
+        "location": {
+            "x": 1094, 
+            "y": 90
+        }, 
+        "size": {
+            "height": 15, 
+            "width": 52
+        }, 
+        "tag_name": "a", 
+        "text": "Join Now"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Join Now", 
+    "transformed": true, 
+    "width": 104, 
+    "x": 2188, 
+    "y": 180
+}

@@ -1,0 +1,78 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "elem_shot_file_path": "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210430130404/tmpZ/div_X3514_Y0_W250_H72.png", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "IR8P2zJ2fFuowRcxdgWLtQ==\n", 
+    "height": 72, 
+    "hier_level": 0, 
+    "human_hash": "div_X3514_Y0_W250_H72", 
+    "human_readable": "div_3514_0_250_72_div_ffffffffffffffffffffff7fb25b8101814181018345ffefffffffffffffffff_1822a48b4f1e26d798570572d26b55f8", 
+    "img_hash": "6d7d4c664c2c82100049ebcc9b1c6908", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "d-lg-flx", 
+                "data-var": "desktopLoginButtons"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "d-lg-flx", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 36, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Join Us|Sign In", 
+            "type": "", 
+            "value": "", 
+            "width": 125, 
+            "x": 1757, 
+            "xPercent": 91.51448567708333, 
+            "y": 0, 
+            "yPercent": 0
+        }, 
+        "location": {
+            "x": 1757, 
+            "y": 0
+        }, 
+        "size": {
+            "height": 36, 
+            "width": 125
+        }, 
+        "tag_name": "div", 
+        "text": "Join Us|Sign In"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Join Us|Sign In", 
+    "text_hash": "1822a48b4f1e26d798570572d26b55f8", 
+    "transformed": true, 
+    "width": 250, 
+    "x": 3514, 
+    "y": 0
+}

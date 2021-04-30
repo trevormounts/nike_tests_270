@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "yYOHfz/sjW4524PvTZwziQ==\n", 
+    "height": 304, 
+    "hier_level": 0, 
+    "human_hash": "div_X3362_Y464_W478_H304", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "data-radium": "true", 
+                "style": "position: relative; left: 0px; top: 0px; border-right: 2px solid rgb(255, 255, 255); flex-shrink: 0; box-sizing: border-box; width: 50%;"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "domLevel": 7, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 152, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "BlackSolid", 
+            "type": "", 
+            "value": "", 
+            "width": 239, 
+            "x": 1681, 
+            "xPercent": 87.55208333333333, 
+            "y": 232, 
+            "yPercent": 25.77777777777778
+        }, 
+        "location": {
+            "x": 1681, 
+            "y": 232
+        }, 
+        "size": {
+            "height": 152, 
+            "width": 239
+        }, 
+        "tag_name": "div", 
+        "text": "BlackSolid"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "BlackSolid", 
+    "transformed": true, 
+    "width": 478, 
+    "x": 3362, 
+    "y": 464
+}

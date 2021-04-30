@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "img", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "T0OAWbDUVcSqOLd9EIIeyg==\n", 
+    "height": 206, 
+    "hier_level": 0, 
+    "human_hash": "img_X3258_Y912_W206_H206", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "Swoosh", 
+                "data-radium": "true", 
+                "src": "//secure-render.nike.com/is/image/nikeid/?layer=0&src=ir(nikeidrender/Met6FA20_vts?obj=/s&color=eeeeee&show&req=object&wid=120&fmt=png8-alpha,gray)&pos=0,0&anchor=0,0&layer=1&src=ir(nikeidrender/Met6FA20_vts?obj=/s/g10&color=7c7c7c&show&req=object&wid=120&fmt=png8-alpha,gray)&pos=0,0&anchor=0,0&layer=2&src=ir(nikeidrender/Met6FA20_vts?obj=/s/g11&color=7c7c7c&show&req=object&wid=120&fmt=png8-alpha,gray)&pos=0,0&anchor=0,0&fmt=png8-alpha,gray&icc=AdobeRGB", 
+                "style": "height: 103px; width: 103px; display: inline-block; line-height: 103px;"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "img", 
+            "color": "rgb(17, 17, 17)", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 103, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "img", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 103, 
+            "x": 1629, 
+            "xPercent": 84.81770833333333, 
+            "y": 456, 
+            "yPercent": 50.66666666666667
+        }, 
+        "location": {
+            "x": 1629, 
+            "y": 456
+        }, 
+        "size": {
+            "height": 103, 
+            "width": 103
+        }, 
+        "tag_name": "img", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "img", 
+    "text": "", 
+    "transformed": true, 
+    "width": 206, 
+    "x": 3258, 
+    "y": 912
+}

@@ -1,0 +1,72 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "Y1vk9ASKmoqIVNW876u/lw==\n", 
+    "height": 216, 
+    "hier_level": 0, 
+    "human_hash": "div_X3034_Y1418_W176_H216", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "data-radium": "true"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 12, 
+            "height": 108, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Game RoyalSolid", 
+            "type": "", 
+            "value": "", 
+            "width": 88, 
+            "x": 1517, 
+            "xPercent": 78.99495442708333, 
+            "y": 709, 
+            "yPercent": 78.77777777777779
+        }, 
+        "location": {
+            "x": 1517, 
+            "y": 709
+        }, 
+        "size": {
+            "height": 108, 
+            "width": 88
+        }, 
+        "tag_name": "div", 
+        "text": "Game RoyalSolid"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Game RoyalSolid", 
+    "transformed": true, 
+    "width": 176, 
+    "x": 3034, 
+    "y": 1418
+}

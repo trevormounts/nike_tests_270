@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "li", 
+    "clickable": false, 
+    "content-desc": "", 
+    "elem_shot_file_path": "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210430130404/tmpZ/li_X2096_Y72_W114_H120.png", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "NV77pD3SdMc0lc4gEmyj/w==\n", 
+    "height": 120, 
+    "hier_level": 0, 
+    "human_hash": "li_X2096_Y72_W114_H120", 
+    "human_readable": "li_2096_72_114_120_li_fffffffffffffffffffffdffe00fe007e007ed0fffffffffffffffffffffffff_2505a0a8840689b4d37cec8dda2352eb", 
+    "img_hash": "c62cc52b10a18c96b29df367bc3ed719", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "pre-desktop-menu-item d-lg-ib is-static is-header"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "li", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "pre-desktop-menu-item d-lg-ib is-static is-header", 
+            "domLevel": 13, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 60, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "li", 
+            "text": "KidsNew & FeaturedNew ReleasesBest SellersBest of Air ForceTop Picks for MomKids' Matching SetsSummer of Tie DyeNew Pegasus 38Mix & Match with MomSale - Up to 40% OffBoys ShoesBig Kids (3.5Y - 7Y)Little Kids (10.5C - 3Y)Baby & Toddler (0C - 10C)LifestyleRunningBasketballSandals & SlidesNike FlyeaseShoes $80 & UnderAll ShoesBoys ClothingBig Kids (XS - XL)Little Kids (4 - 7)Baby & Toddler (0M - 4T)Hoodies & SweatshirtsPants & TightsJackets Tops & T-ShirtsNike Pro & BaselayerShortsSwimwearAll ClothingGirls ShoesBig Kids (3.5Y - 7Y)Little Kids (10.5C - 3Y)Baby & Toddler (0C - 10C)LifestyleRunningBasketballSandals & SlidesNike FlyeaseShoes $80 & UnderAll ShoesGirls ClothingBig Kids (XS - XL)Little Kids (4T - 7)Baby & Toddler (0M - 4T)Hoodies & SweatshirtsPants & LeggingsJackets Tops & T-ShirtsSports BrasShortsSkirts & DressesSwimwearAll ClothingBaby & ToddlerBaby GirlBaby BoyAll Clothing (0M - 4T)All Shoes (0C - 10C)Baby and Toddler SetsAccessories & EquipmentBags & BackpacksHats Socks", 
+            "type": "", 
+            "value": 0, 
+            "width": 57, 
+            "x": 1048, 
+            "xPercent": 54.56217447916667, 
+            "y": 36, 
+            "yPercent": 0.8639308855291578
+        }, 
+        "location": {
+            "x": 1048, 
+            "y": 36
+        }, 
+        "size": {
+            "height": 60, 
+            "width": 57
+        }, 
+        "tag_name": "li", 
+        "text": "KidsNew & FeaturedNew ReleasesBest SellersBest of Air ForceTop Picks for MomKids' Matching SetsSummer of Tie DyeNew Pegasus 38Mix & Match with MomSale - Up to 40% OffBoys ShoesBig Kids (3.5Y - 7Y)Little Kids (10.5C - 3Y)Baby & Toddler (0C - 10C)LifestyleRunningBasketballSandals & SlidesNike FlyeaseShoes $80 & UnderAll ShoesBoys ClothingBig Kids (XS - XL)Little Kids (4 - 7)Baby & Toddler (0M - 4T)Hoodies & SweatshirtsPants & TightsJackets Tops & T-ShirtsNike Pro & BaselayerShortsSwimwearAll ClothingGirls ShoesBig Kids (3.5Y - 7Y)Little Kids (10.5C - 3Y)Baby & Toddler (0C - 10C)LifestyleRunningBasketballSandals & SlidesNike FlyeaseShoes $80 & UnderAll ShoesGirls ClothingBig Kids (XS - XL)Little Kids (4T - 7)Baby & Toddler (0M - 4T)Hoodies & SweatshirtsPants & LeggingsJackets Tops & T-ShirtsSports BrasShortsSkirts & DressesSwimwearAll ClothingBaby & ToddlerBaby GirlBaby BoyAll Clothing (0M - 4T)All Shoes (0C - 10C)Baby and Toddler SetsAccessories & EquipmentBags & BackpacksHats Socks"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "li", 
+    "text": "KidsNew & FeaturedNew ReleasesBest SellersBest of Air ForceTop Picks for MomKids' Matching SetsSummer of Tie DyeNew Pegasus 38Mix & Match with MomSale - Up to 40% OffBoys ShoesBig Kids (3.5Y - 7Y)Little Kids (10.5C - 3Y)Baby & Toddler (0C - 10C)LifestyleRunningBasketballSandals & SlidesNike FlyeaseShoes $80 & UnderAll ShoesBoys ClothingBig Kids (XS - XL)Little Kids (4 - 7)Baby & Toddler (0M - 4T)Hoodies & SweatshirtsPants & TightsJackets Tops & T-ShirtsNike Pro & BaselayerShortsSwimwearAll ClothingGirls ShoesBig Kids (3.5Y - 7Y)Little Kids (10.5C - 3Y)Baby & Toddler (0C - 10C)LifestyleRunningBasketballSandals & SlidesNike FlyeaseShoes $80 & UnderAll ShoesGirls ClothingBig Kids (XS - XL)Little Kids (4T - 7)Baby & Toddler (0M - 4T)Hoodies & SweatshirtsPants & LeggingsJackets Tops & T-ShirtsSports BrasShortsSkirts & DressesSwimwearAll ClothingBaby & ToddlerBaby GirlBaby BoyAll Clothing (0M - 4T)All Shoes (0C - 10C)Baby and Toddler SetsAccessories & EquipmentBags & BackpacksHats Socks", 
+    "text_hash": "2505a0a8840689b4d37cec8dda2352eb", 
+    "transformed": true, 
+    "width": 114, 
+    "x": 2096, 
+    "y": 72
+}

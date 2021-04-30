@@ -1,0 +1,72 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "2/rmhvg1wZHLFn9iD9A0tA==\n", 
+    "height": 178, 
+    "hier_level": 0, 
+    "human_hash": "div_X3498_Y1134_W202_H178", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "data-radium": "true"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 12, 
+            "height": 89, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "University Red", 
+            "type": "", 
+            "value": "", 
+            "width": 101, 
+            "x": 1749, 
+            "xPercent": 91.10107421875, 
+            "y": 567, 
+            "yPercent": 62.94444444444445
+        }, 
+        "location": {
+            "x": 1749, 
+            "y": 567
+        }, 
+        "size": {
+            "height": 89, 
+            "width": 101
+        }, 
+        "tag_name": "div", 
+        "text": "University Red"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "University Red", 
+    "transformed": true, 
+    "width": 202, 
+    "x": 3498, 
+    "y": 1134
+}

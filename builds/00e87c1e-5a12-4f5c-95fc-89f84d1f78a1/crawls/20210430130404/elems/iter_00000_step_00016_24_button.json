@@ -1,0 +1,79 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "elem_shot_file_path": "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210430130404/tmpZ/button_X2476_Y192_W212_H120.png", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "U5muJ+OqpUaW2K8SPUGqOA==\n", 
+    "height": 120, 
+    "hier_level": 0, 
+    "human_hash": "button_X2476_Y192_W212_H120", 
+    "human_readable": "button_2476_192_212_120_button_fffffffffffffffffffffffffa7ffa5ffa5ffe7fffffffffffffffffffff0000_9d4568c009d203ab10e33ea9953a0264", 
+    "img_hash": "cd1ad50d931b07d7eeff10cf8fea2788", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "Next", 
+                "class": "css-12s4rz4 carousel-btn next-btn carousel-btn-floating-false", 
+                "data-automation": "carousel-nav-next"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "button", 
+            "color": "rgb(51, 51, 51)", 
+            "cssClass": "css-12s4rz4 carousel-btn next-btn carousel-btn-floating-false", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Arial", 
+            "font-weight": "400", 
+            "fontSize": 26, 
+            "height": 60, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 106, 
+            "x": 1238, 
+            "xPercent": 64.47916666666667, 
+            "y": 96, 
+            "yPercent": 2.3038156947444204
+        }, 
+        "location": {
+            "x": 1238, 
+            "y": 96
+        }, 
+        "size": {
+            "height": 60, 
+            "width": 106
+        }, 
+        "tag_name": "button", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "", 
+    "text_hash": "9d4568c009d203ab10e33ea9953a0264", 
+    "transformed": true, 
+    "width": 212, 
+    "x": 2476, 
+    "y": 192
+}

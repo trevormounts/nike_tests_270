@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "pa5+GSnrdGYpuc/GurSUeg==\n", 
+    "height": 60, 
+    "hier_level": 0, 
+    "human_hash": "div_X782_Y1594_W336_H60", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "fs12-nav-sm fs10-nav-md d-sm-b d-md-ib pb6-sm pt5-sm pb0-md ml4-md sub-footer-copyright"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(126, 126, 126)", 
+            "cssClass": "fs12-nav-sm fs10-nav-md d-sm-b d-md-ib pb6-sm pt5-sm pb0-md ml4-md sub-footer-copyright", 
+            "domLevel": 8, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 10, 
+            "height": 30, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "\u00a9 2021 Nike, Inc. All Rights Reserved", 
+            "type": "", 
+            "value": "", 
+            "width": 168, 
+            "x": 391, 
+            "xPercent": 20.3515625, 
+            "y": 797, 
+            "yPercent": 11.20695713281799
+        }, 
+        "location": {
+            "x": 391, 
+            "y": 797
+        }, 
+        "size": {
+            "height": 30, 
+            "width": 168
+        }, 
+        "tag_name": "div", 
+        "text": "\u00a9 2021 Nike, Inc. All Rights Reserved"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "\u00a9 2021 Nike, Inc. All Rights Reserved", 
+    "transformed": true, 
+    "width": 336, 
+    "x": 782, 
+    "y": 1594
+}

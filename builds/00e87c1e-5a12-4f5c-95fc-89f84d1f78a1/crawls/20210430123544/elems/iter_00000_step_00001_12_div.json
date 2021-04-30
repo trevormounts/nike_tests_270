@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "YCuCH+DmRg2orXIE0/kPWg==\n", 
+    "height": 118, 
+    "hier_level": 0, 
+    "human_hash": "div_X544_Y1568_W2752_H118", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "l-sub-footer ncss-row"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "l-sub-footer ncss-row", 
+            "domLevel": 5, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 0, 
+            "height": 59, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "United States\u00a9 2021 Nike, Inc. All Rights ReservedGuidesNike AdaptNike AirNike Air Force 1Nike Air MaxNike FlyEaseNike FlyknitNike FlyleatherNike FreeNike JoyrideNike ReactNike VaporflyNike ZoomXSpace HippieTerms of SaleTerms of UseNike Privacy PolicyCA Supply Chains Act", 
+            "type": "", 
+            "value": "", 
+            "width": 1376, 
+            "x": 272, 
+            "xPercent": 14.166666666666666, 
+            "y": 784, 
+            "yPercent": 11.024244553759663
+        }, 
+        "location": {
+            "x": 272, 
+            "y": 784
+        }, 
+        "size": {
+            "height": 59, 
+            "width": 1376
+        }, 
+        "tag_name": "div", 
+        "text": "United States\u00a9 2021 Nike, Inc. All Rights ReservedGuidesNike AdaptNike AirNike Air Force 1Nike Air MaxNike FlyEaseNike FlyknitNike FlyleatherNike FreeNike JoyrideNike ReactNike VaporflyNike ZoomXSpace HippieTerms of SaleTerms of UseNike Privacy PolicyCA Supply Chains Act"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "United States\u00a9 2021 Nike, Inc. All Rights ReservedGuidesNike AdaptNike AirNike Air Force 1Nike Air MaxNike FlyEaseNike FlyknitNike FlyleatherNike FreeNike JoyrideNike ReactNike VaporflyNike ZoomXSpace HippieTerms of SaleTerms of UseNike Privacy PolicyCA Supply Chains Act", 
+    "transformed": true, 
+    "width": 2752, 
+    "x": 544, 
+    "y": 1568
+}

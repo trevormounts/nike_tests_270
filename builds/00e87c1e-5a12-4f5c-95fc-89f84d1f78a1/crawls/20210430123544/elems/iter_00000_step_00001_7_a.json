@@ -1,0 +1,78 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "Itt5FoVY/fGrwEX6RcouVQ==\n", 
+    "height": 28, 
+    "hier_level": 0, 
+    "human_hash": "a_X1592_Y1392_W142_H28", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "fs12-nav-sm", 
+                "data-path": "about nike:sustainability", 
+                "data-pre": "ILink", 
+                "data-type": "click_navFooter", 
+                "href": "https://www.nike.com/sustainability", 
+                "target": "_self"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(126, 126, 126)", 
+            "cssClass": "fs12-nav-sm", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 14, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Sustainability", 
+            "type": "", 
+            "value": "", 
+            "width": 71, 
+            "x": 796, 
+            "xPercent": 41.458333333333336, 
+            "y": 696, 
+            "yPercent": 9.787420941672522
+        }, 
+        "location": {
+            "x": 796, 
+            "y": 696
+        }, 
+        "size": {
+            "height": 14, 
+            "width": 71
+        }, 
+        "tag_name": "a", 
+        "text": "Sustainability"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Sustainability", 
+    "transformed": true, 
+    "width": 142, 
+    "x": 1592, 
+    "y": 1392
+}

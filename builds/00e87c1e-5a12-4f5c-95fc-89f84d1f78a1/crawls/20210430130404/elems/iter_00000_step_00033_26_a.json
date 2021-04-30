@@ -1,0 +1,78 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "37gK+8+4xQkw2na0iXySPA==\n", 
+    "height": 304, 
+    "hier_level": 0, 
+    "human_hash": "a_X2884_Y1376_W474_H304", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "rmq-92fe81a6 nsg-font-family--base nsg-text--near-black bg-white", 
+                "data-automation": "combination-swatch", 
+                "data-automation-selected": "false", 
+                "data-radium": "true", 
+                "href": "", 
+                "style": "text-align: center; display: flex; align-items: center; font-size: 12px; height: 142px; justify-content: center; cursor: pointer; flex-wrap: wrap; overflow: hidden; text-decoration: none;"
+            }, 
+            "background-color": "rgb(255, 255, 255)", 
+            "class": "a", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "rmq-92fe81a6 nsg-font-family--base nsg-text--near-black bg-white", 
+            "domLevel": 8, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 12, 
+            "height": 152, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Game RoyalSolid", 
+            "type": "", 
+            "value": "", 
+            "width": 237, 
+            "x": 1442, 
+            "xPercent": 75.10416666666667, 
+            "y": 688, 
+            "yPercent": 76.44444444444444
+        }, 
+        "location": {
+            "x": 1442, 
+            "y": 688
+        }, 
+        "size": {
+            "height": 152, 
+            "width": 237
+        }, 
+        "tag_name": "a", 
+        "text": "Game RoyalSolid"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Game RoyalSolid", 
+    "transformed": true, 
+    "width": 474, 
+    "x": 2884, 
+    "y": 1376
+}

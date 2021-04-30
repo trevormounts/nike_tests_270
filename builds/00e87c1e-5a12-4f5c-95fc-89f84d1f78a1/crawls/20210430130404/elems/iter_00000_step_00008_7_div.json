@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "1II9XjGc50jAMBthdy6d/A==\n", 
+    "height": 350, 
+    "hier_level": 0, 
+    "human_hash": "div_X112_Y620_W3616_H350", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "ncss-row grid-row", 
+                "data-qa": "grid-row", 
+                "id": "52ef0235-c242-4345-95af-082c08c3c49a"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "ncss-row grid-row", 
+            "domLevel": 5, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 0, 
+            "height": 175, 
+            "identifier": "52ef0235-c242-4345-95af-082c08c3c49a", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "NEUTRALS BY YOUCustomize a pair to wear with anything.Customize", 
+            "type": "", 
+            "value": "", 
+            "width": 1808, 
+            "x": 56, 
+            "xPercent": 2.9166666666666665, 
+            "y": 310, 
+            "yPercent": 6.431535269709543
+        }, 
+        "location": {
+            "x": 56, 
+            "y": 310
+        }, 
+        "size": {
+            "height": 175, 
+            "width": 1808
+        }, 
+        "tag_name": "div", 
+        "text": "NEUTRALS BY YOUCustomize a pair to wear with anything.Customize"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "NEUTRALS BY YOUCustomize a pair to wear with anything.Customize", 
+    "transformed": true, 
+    "width": 3616, 
+    "x": 112, 
+    "y": 620
+}

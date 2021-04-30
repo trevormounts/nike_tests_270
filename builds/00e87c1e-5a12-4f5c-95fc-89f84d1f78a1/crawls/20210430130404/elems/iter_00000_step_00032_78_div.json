@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "zaVPJs8yDdWeTC7fH4hqWg==\n", 
+    "height": 76, 
+    "hier_level": 0, 
+    "human_hash": "div_X3024_Y342_W194_H76", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "data-radium": "true", 
+                "style": "margin-top: 10px;"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 12, 
+            "height": 38, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Metallic Silver--", 
+            "type": "", 
+            "value": "", 
+            "width": 97, 
+            "x": 1512, 
+            "xPercent": 78.73942057291666, 
+            "y": 171, 
+            "yPercent": 19
+        }, 
+        "location": {
+            "x": 1512, 
+            "y": 171
+        }, 
+        "size": {
+            "height": 38, 
+            "width": 97
+        }, 
+        "tag_name": "div", 
+        "text": "Metallic Silver--"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Metallic Silver--", 
+    "transformed": true, 
+    "width": 194, 
+    "x": 3024, 
+    "y": 342
+}

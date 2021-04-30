@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "q8gmnMS9GSSHlpI6lWu2rQ==\n", 
+    "height": 142, 
+    "hier_level": 0, 
+    "human_hash": "div_X96_Y504_W384_H142", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "left-nav__categories"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "left-nav__categories", 
+            "domLevel": 16, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 71, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Shoes", 
+            "type": "", 
+            "value": "", 
+            "width": 192, 
+            "x": 48, 
+            "xPercent": 2.5, 
+            "y": 252, 
+            "yPercent": 3.924011211460604
+        }, 
+        "location": {
+            "x": 48, 
+            "y": 252
+        }, 
+        "size": {
+            "height": 71, 
+            "width": 192
+        }, 
+        "tag_name": "div", 
+        "text": "Shoes"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Shoes", 
+    "transformed": true, 
+    "width": 384, 
+    "x": 96, 
+    "y": 504
+}

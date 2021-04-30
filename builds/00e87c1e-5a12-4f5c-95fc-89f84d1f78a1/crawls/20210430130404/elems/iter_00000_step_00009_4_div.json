@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "1T9L99V2DLSL/IQnQvaEYw==\n", 
+    "height": 104, 
+    "hier_level": 0, 
+    "human_hash": "div_X112_Y1138_W3616_H104", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "ncss-row grid-row", 
+                "data-qa": "grid-row", 
+                "id": "649aa07b-b59e-4f0d-ba5d-f34dfa00ca02"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "ncss-row grid-row", 
+            "domLevel": 5, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 0, 
+            "height": 52, 
+            "identifier": "649aa07b-b59e-4f0d-ba5d-f34dfa00ca02", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Member Exclusive Access", 
+            "type": "", 
+            "value": "", 
+            "width": 1808, 
+            "x": 56, 
+            "xPercent": 2.9166666666666665, 
+            "y": 569, 
+            "yPercent": 11.804979253112032
+        }, 
+        "location": {
+            "x": 56, 
+            "y": 569
+        }, 
+        "size": {
+            "height": 52, 
+            "width": 1808
+        }, 
+        "tag_name": "div", 
+        "text": "Member Exclusive Access"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Member Exclusive Access", 
+    "transformed": true, 
+    "width": 3616, 
+    "x": 112, 
+    "y": 1138
+}

@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "li", 
+    "clickable": false, 
+    "content-desc": "", 
+    "elem_shot_file_path": "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210430130404/tmpZ/li_X2414_Y72_W112_H120.png", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "DFYGZGaYC1zJr+ewYRZLZg==\n", 
+    "height": 120, 
+    "hier_level": 0, 
+    "human_hash": "li_X2414_Y72_W112_H120", 
+    "human_readable": "li_2414_72_112_120_li_fffffffffffffffffffff3ffe02fe007e007f22fffffffffffffffffffffffff_12a8ffb83c87576c6066f65e44f4807e", 
+    "img_hash": "d84b9ee50cbab130de7f729dacf28849", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "pre-desktop-menu-item d-lg-ib d-sm-h is-static is-header"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "li", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "pre-desktop-menu-item d-lg-ib d-sm-h is-static is-header", 
+            "domLevel": 13, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 60, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "li", 
+            "text": "SaleSaleSale - Up to 40% OffMens SaleShoesClothingEquipmentWomens SaleShoesClothingEquipmentKids SaleShoesClothingEquipment", 
+            "type": "", 
+            "value": 0, 
+            "width": 56, 
+            "x": 1207, 
+            "xPercent": 62.8662109375, 
+            "y": 36, 
+            "yPercent": 0.8639308855291578
+        }, 
+        "location": {
+            "x": 1207, 
+            "y": 36
+        }, 
+        "size": {
+            "height": 60, 
+            "width": 56
+        }, 
+        "tag_name": "li", 
+        "text": "SaleSaleSale - Up to 40% OffMens SaleShoesClothingEquipmentWomens SaleShoesClothingEquipmentKids SaleShoesClothingEquipment"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "li", 
+    "text": "SaleSaleSale - Up to 40% OffMens SaleShoesClothingEquipmentWomens SaleShoesClothingEquipmentKids SaleShoesClothingEquipment", 
+    "text_hash": "12a8ffb83c87576c6066f65e44f4807e", 
+    "transformed": true, 
+    "width": 112, 
+    "x": 2414, 
+    "y": 72
+}

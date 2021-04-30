@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "57nmC4/1j2rg9wegDXhxqw==\n", 
+    "height": 1744, 
+    "hier_level": 0, 
+    "human_hash": "div_X2880_Y0_W960_H1744", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "rmq-f5c6dd8c", 
+                "data-automation": "palette", 
+                "data-radium": "true", 
+                "style": "position: relative; flex-shrink: 0; overflow: hidden; width: 480px; height: 872px; background-color: rgb(255, 255, 255); display: none;"
+            }, 
+            "background-color": "rgb(255, 255, 255)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "rmq-f5c6dd8c", 
+            "domLevel": 4, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 872, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "UpperCollarTongueSwooshTapeStitchLiningLacesFlywireHeel ClipSocklinerInsertOutsoleTongue Text / LogoTapeBlackIron GreyWhiteLucky GreenMidnight NavyGame RoyalPsychic PurpleUniversity RedTeam RedPinksicleUniversity GoldTeam Orange", 
+            "type": "", 
+            "value": "", 
+            "width": 480, 
+            "x": 1440, 
+            "xPercent": 75, 
+            "y": 0, 
+            "yPercent": 0
+        }, 
+        "location": {
+            "x": 1440, 
+            "y": 0
+        }, 
+        "size": {
+            "height": 872, 
+            "width": 480
+        }, 
+        "tag_name": "div", 
+        "text": "UpperCollarTongueSwooshTapeStitchLiningLacesFlywireHeel ClipSocklinerInsertOutsoleTongue Text / LogoTapeBlackIron GreyWhiteLucky GreenMidnight NavyGame RoyalPsychic PurpleUniversity RedTeam RedPinksicleUniversity GoldTeam Orange"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "UpperCollarTongueSwooshTapeStitchLiningLacesFlywireHeel ClipSocklinerInsertOutsoleTongue Text / LogoTapeBlackIron GreyWhiteLucky GreenMidnight NavyGame RoyalPsychic PurpleUniversity RedTeam RedPinksicleUniversity GoldTeam Orange", 
+    "transformed": true, 
+    "width": 960, 
+    "x": 2880, 
+    "y": 0
+}

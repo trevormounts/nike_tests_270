@@ -1,0 +1,70 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "li", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "iL+5LexKS6CFWnBOXRWmsA==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "li_X1040_Y694_W368_H48", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {}, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "li", 
+            "color": "rgb(17, 17, 17)", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "li", 
+            "text": "Jordan 1", 
+            "type": "", 
+            "value": 0, 
+            "width": 184, 
+            "x": 520, 
+            "xPercent": 27.083333333333332, 
+            "y": 347, 
+            "yPercent": 4.882290934645115
+        }, 
+        "location": {
+            "x": 520, 
+            "y": 347
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 184
+        }, 
+        "tag_name": "li", 
+        "text": "Jordan 1"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "li", 
+    "text": "Jordan 1", 
+    "transformed": true, 
+    "width": 368, 
+    "x": 1040, 
+    "y": 694
+}

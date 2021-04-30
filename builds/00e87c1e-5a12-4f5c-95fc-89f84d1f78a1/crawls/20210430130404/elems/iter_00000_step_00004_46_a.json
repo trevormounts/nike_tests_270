@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "R4e9EXhyfkkKedFh80USWw==\n", 
+    "height": 54, 
+    "hier_level": 0, 
+    "human_hash": "a_X1712_Y384_W110_H54", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "Newest", 
+                "class": "JSftBPEZ", 
+                "data-analytics-action-id": "dccb4c41-c380-4328-ad9f-ba9d4195101d", 
+                "href": "https://www.nike.com/w/new-nike-by-you-shoes-3n82yz6ealhzy7ok"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "JSftBPEZ", 
+            "domLevel": 14, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 27, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Newest", 
+            "type": "", 
+            "value": "", 
+            "width": 55, 
+            "x": 856, 
+            "xPercent": 44.581705729166664, 
+            "y": 192, 
+            "yPercent": 3.522935779816514
+        }, 
+        "location": {
+            "x": 856, 
+            "y": 192
+        }, 
+        "size": {
+            "height": 27, 
+            "width": 55
+        }, 
+        "tag_name": "a", 
+        "text": "Newest"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Newest", 
+    "transformed": true, 
+    "width": 110, 
+    "x": 1712, 
+    "y": 384
+}

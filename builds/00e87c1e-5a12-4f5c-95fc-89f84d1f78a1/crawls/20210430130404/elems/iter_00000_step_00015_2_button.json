@@ -1,0 +1,81 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "LS5ijtgIxouvYaODujGdpg==\n", 
+    "height": 136, 
+    "hier_level": 0, 
+    "human_hash": "button_X92_Y1494_W126_H136", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-checked": "false", 
+                "aria-label": "Filter for Yellow", 
+                "class": "css-hrsjq4 css-xhk1pl css-1t2ydyg filter-item is--color css-1kqgukw  is--button", 
+                "data-group-ndx": "2", 
+                "data-group-type": "filter", 
+                "data-is-color": "true", 
+                "data-ndx": "3", 
+                "data-url": "https://www.nike.com/w/mens-neutrals-by-you-yellow-4avehzayp69znik1", 
+                "role": "menuitemcheckbox"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "button", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "css-hrsjq4 css-xhk1pl css-1t2ydyg filter-item is--color css-1kqgukw  is--button", 
+            "domLevel": 22, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 68, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "Yellow", 
+            "type": "", 
+            "value": "", 
+            "width": 63, 
+            "x": 46, 
+            "xPercent": 2.3958333333333335, 
+            "y": 747, 
+            "yPercent": 17.92656587473002
+        }, 
+        "location": {
+            "x": 46, 
+            "y": 747
+        }, 
+        "size": {
+            "height": 68, 
+            "width": 63
+        }, 
+        "tag_name": "button", 
+        "text": "Yellow"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "Yellow", 
+    "transformed": true, 
+    "width": 126, 
+    "x": 92, 
+    "y": 1494
+}

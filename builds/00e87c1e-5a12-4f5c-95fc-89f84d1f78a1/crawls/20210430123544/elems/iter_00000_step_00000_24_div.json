@@ -1,0 +1,72 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "b4syaA4R7FOrq3+cAjrhVw==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "div_X1868_Y248_W104_H48", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "_8gPPHhHw"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "_8gPPHhHw", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Join Now", 
+            "type": "", 
+            "value": "", 
+            "width": 52, 
+            "x": 934, 
+            "xPercent": 48.650716145833336, 
+            "y": 124, 
+            "yPercent": 1.6101804960394754
+        }, 
+        "location": {
+            "x": 934, 
+            "y": 124
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 52
+        }, 
+        "tag_name": "div", 
+        "text": "Join Now"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Join Now", 
+    "transformed": true, 
+    "width": 104, 
+    "x": 1868, 
+    "y": 248
+}

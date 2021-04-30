@@ -1,0 +1,229 @@
+{
+    "all_elems": [
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "div", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "fHriZHUbd2rPOQm1plcNKw==\n", 
+            "height": 92, 
+            "hier_level": 0, 
+            "human_hash": "div_X200_Y344_W1434_H92", 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "YEqpdVMc cta-container hasText", 
+                        "data-qa": "cta-container"
+                    }, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "div", 
+                    "color": "rgb(17, 17, 17)", 
+                    "cssClass": "YEqpdVMc cta-container hasText", 
+                    "domLevel": 11, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+                    "font-weight": "400", 
+                    "fontSize": 16, 
+                    "height": 46, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "div", 
+                    "text": "Shop", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 717, 
+                    "x": 100, 
+                    "xPercent": 5.208333333333334, 
+                    "y": 172, 
+                    "yPercent": 2.4218200983836966
+                }, 
+                "location": {
+                    "x": 100, 
+                    "y": 172
+                }, 
+                "size": {
+                    "height": 46, 
+                    "width": 717
+                }, 
+                "tag_name": "div", 
+                "text": "Shop"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "div", 
+            "text": "Shop", 
+            "transformed": true, 
+            "width": 1434, 
+            "x": 200, 
+            "y": 344
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "a", 
+            "clickable": true, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": true, 
+            "focused": false, 
+            "hash": "6HBb5Ut/5AVL3hDls1r7kg==\n", 
+            "height": 80, 
+            "hier_level": 0, 
+            "human_hash": "a_X200_Y356_W190_H80", 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "aria-label": "Shop (https://www.nike.com/w/gifts-3b0uf)", 
+                        "class": "dz_xjzja _2minRfAM ncss-btn-primary-light bihGx79a", 
+                        "data-analytics-action-id": "4f5a61bf-6a32-4421-8fe7-efd71aa04bd1", 
+                        "data-analytics-allow": "false", 
+                        "data-qa": "cta-button", 
+                        "data-qa-card-id": "d4167e27-1c91-478b-bde9-8480b69339eb", 
+                        "href": "https://www.nike.com/w/gifts-3b0uf", 
+                        "tabindex": "0", 
+                        "target": "_self"
+                    }, 
+                    "background-color": "rgb(255, 255, 255)", 
+                    "class": "a", 
+                    "color": "rgb(17, 17, 17)", 
+                    "cssClass": "dz_xjzja _2minRfAM ncss-btn-primary-light bihGx79a", 
+                    "domLevel": 12, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": true, 
+                        "enabled": false, 
+                        "focusable": true, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+                    "font-weight": "500", 
+                    "fontSize": 16, 
+                    "height": 40, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "a", 
+                    "text": "Shop", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 95, 
+                    "x": 100, 
+                    "xPercent": 5.208333333333334, 
+                    "y": 178, 
+                    "yPercent": 2.5061489810260014
+                }, 
+                "location": {
+                    "x": 100, 
+                    "y": 178
+                }, 
+                "size": {
+                    "height": 40, 
+                    "width": 95
+                }, 
+                "tag_name": "a", 
+                "text": "Shop"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "a", 
+            "text": "Shop", 
+            "transformed": true, 
+            "width": 190, 
+            "x": 200, 
+            "y": 356
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "div", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "e0E2opiXr/hfGv4W1RZXvg==\n", 
+            "height": 56, 
+            "hier_level": 0, 
+            "human_hash": "div_X128_Y676_W3584_H56", 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "FgmkxsMt"
+                    }, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "div", 
+                    "color": "rgb(17, 17, 17)", 
+                    "cssClass": "FgmkxsMt", 
+                    "domLevel": 9, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+                    "font-weight": "400", 
+                    "fontSize": 16, 
+                    "height": 28, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "div", 
+                    "text": "More to Explore", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 1792, 
+                    "x": 64, 
+                    "xPercent": 3.3333333333333335, 
+                    "y": 338, 
+                    "yPercent": 4.755138791286016
+                }, 
+                "location": {
+                    "x": 64, 
+                    "y": 338
+                }, 
+                "size": {
+                    "height": 28, 
+                    "width": 1792
+                }, 
+                "tag_name": "div", 
+                "text": "More to Explore"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "div", 
+            "text": "More to Explore", 
+            "transformed": true, 
+            "width": 3584, 
+            "x": 128, 
+            "y": 676
+        }
+    ]
+}

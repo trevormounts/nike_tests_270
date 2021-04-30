@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "li", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "aQSKS1r7y1JHmkA7AaDCNw==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "li_X1076_Y1102_W484_H48", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "footer-link footer-link-header d-sm-h d-md-b"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "li", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "footer-link footer-link-header d-sm-h d-md-b", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "li", 
+            "text": "Get Help", 
+            "type": "", 
+            "value": 0, 
+            "width": 242, 
+            "x": 538, 
+            "xPercent": 28.020833333333332, 
+            "y": 551, 
+            "yPercent": 7.749472944483486
+        }, 
+        "location": {
+            "x": 538, 
+            "y": 551
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 242
+        }, 
+        "tag_name": "li", 
+        "text": "Get Help"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "li", 
+    "text": "Get Help", 
+    "transformed": true, 
+    "width": 484, 
+    "x": 1076, 
+    "y": 1102
+}

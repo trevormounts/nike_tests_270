@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "93k2kXxy8L+Ddgs0JvCeQg==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "a_X1968_Y980_W368_H48", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "body-2", 
+                "data-analytics-action-id": "2f10b204-2c49-4a7a-ba3f-86787304ab97", 
+                "href": "https://www.nike.com/w/clothing-6ymx6", 
+                "role": "listitem", 
+                "tabindex": "0"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(117, 117, 117)", 
+            "cssClass": "body-2", 
+            "domLevel": 13, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "All Clothing", 
+            "type": "", 
+            "value": "", 
+            "width": 184, 
+            "x": 984, 
+            "xPercent": 51.24999999999999, 
+            "y": 490, 
+            "yPercent": 6.367476626412154
+        }, 
+        "location": {
+            "x": 984, 
+            "y": 490
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 184
+        }, 
+        "tag_name": "a", 
+        "text": "All Clothing"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "All Clothing", 
+    "transformed": true, 
+    "width": 368, 
+    "x": 1968, 
+    "y": 980
+}

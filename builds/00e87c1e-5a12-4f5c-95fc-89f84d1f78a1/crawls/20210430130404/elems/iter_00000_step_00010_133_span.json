@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "l7E4oJpwMPsXs96yCUFIuw==\n", 
+    "height": 56, 
+    "hier_level": 0, 
+    "human_hash": "span_X3310_Y386_W178_H56", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "wall-header__filter_text"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "wall-header__filter_text", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 28, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Hide Filters", 
+            "type": "", 
+            "value": "", 
+            "width": 89, 
+            "x": 1655, 
+            "xPercent": 86.1865234375, 
+            "y": 193, 
+            "yPercent": 3.0052943008408595
+        }, 
+        "location": {
+            "x": 1655, 
+            "y": 193
+        }, 
+        "size": {
+            "height": 28, 
+            "width": 89
+        }, 
+        "tag_name": "span", 
+        "text": "Hide Filters"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Hide Filters", 
+    "transformed": true, 
+    "width": 178, 
+    "x": 3310, 
+    "y": 386
+}

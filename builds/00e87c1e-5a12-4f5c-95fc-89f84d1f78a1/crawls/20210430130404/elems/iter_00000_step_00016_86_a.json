@@ -1,0 +1,81 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "elem_shot_file_path": "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210430130404/tmpZ/a_X3530_Y2_W84_H68.png", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "QpLuvhsritl4TJMOb9izWA==\n", 
+    "height": 68, 
+    "hier_level": 0, 
+    "human_hash": "a_X3530_Y2_W84_H68", 
+    "human_readable": "a_3530_2_84_68_a_ffffffffffffffffffffffff9bd38040805000402064ffffffffffffffffffff_5625c59a8a524c13d22ea00c5f626cf6", 
+    "img_hash": "4135cfd9f04deb08bb529ab8eec4c0a0", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "body-4 d-lg-flx flx-ai-lg-c u-bold ml2-sm mr2-sm", 
+                "data-path": "join us", 
+                "data-pre": "ILink", 
+                "data-type": "click_navMembership", 
+                "href": "https://www.nike.com/membership"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "body-4 d-lg-flx flx-ai-lg-c u-bold ml2-sm mr2-sm", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 12, 
+            "height": 34, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Join Us", 
+            "type": "", 
+            "value": "", 
+            "width": 42, 
+            "x": 1765, 
+            "xPercent": 91.93115234375, 
+            "y": 1, 
+            "yPercent": 0.023998080153587713
+        }, 
+        "location": {
+            "x": 1765, 
+            "y": 1
+        }, 
+        "size": {
+            "height": 34, 
+            "width": 42
+        }, 
+        "tag_name": "a", 
+        "text": "Join Us"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Join Us", 
+    "text_hash": "5625c59a8a524c13d22ea00c5f626cf6", 
+    "transformed": true, 
+    "width": 84, 
+    "x": 3530, 
+    "y": 2
+}

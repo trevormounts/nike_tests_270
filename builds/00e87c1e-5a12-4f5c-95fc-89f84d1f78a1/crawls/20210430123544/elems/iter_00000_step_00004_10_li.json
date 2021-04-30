@@ -1,0 +1,70 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "li", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "yer0tVWGEIIbiKMG/oFVlQ==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "li_X1040_Y1124_W368_H48", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {}, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "li", 
+            "color": "rgb(17, 17, 17)", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "li", 
+            "text": "Air Max 2090", 
+            "type": "", 
+            "value": 0, 
+            "width": 184, 
+            "x": 520, 
+            "xPercent": 27.083333333333332, 
+            "y": 562, 
+            "yPercent": 7.3024201402415265
+        }, 
+        "location": {
+            "x": 520, 
+            "y": 562
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 184
+        }, 
+        "tag_name": "li", 
+        "text": "Air Max 2090"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "li", 
+    "text": "Air Max 2090", 
+    "transformed": true, 
+    "width": 368, 
+    "x": 1040, 
+    "y": 1124
+}

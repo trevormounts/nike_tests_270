@@ -1,0 +1,72 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "ZcIZnu/Yn0KTuatOpTYtzA==\n", 
+    "height": 178, 
+    "hier_level": 0, 
+    "human_hash": "div_X3046_Y1438_W150_H178", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "data-radium": "true"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 12, 
+            "height": 89, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Team Red", 
+            "type": "", 
+            "value": "", 
+            "width": 75, 
+            "x": 1523, 
+            "xPercent": 79.31315104166666, 
+            "y": 719, 
+            "yPercent": 79.83333333333333
+        }, 
+        "location": {
+            "x": 1523, 
+            "y": 719
+        }, 
+        "size": {
+            "height": 89, 
+            "width": 75
+        }, 
+        "tag_name": "div", 
+        "text": "Team Red"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Team Red", 
+    "transformed": true, 
+    "width": 150, 
+    "x": 3046, 
+    "y": 1438
+}

@@ -1,0 +1,78 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "J5EbNPi6ScV+HlhnvGu2vw==\n", 
+    "height": 304, 
+    "hier_level": 0, 
+    "human_hash": "a_X2884_Y768_W474_H304", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "rmq-92fe81a6 nsg-font-family--base nsg-text--near-black bg-white", 
+                "data-automation": "combination-swatch", 
+                "data-automation-selected": "true", 
+                "data-radium": "true", 
+                "href": "", 
+                "style": "text-align: center; display: flex; align-items: center; font-size: 12px; height: 142px; justify-content: center; cursor: pointer; flex-wrap: wrap; overflow: hidden; text-decoration: none; background-color: rgb(247, 247, 247);"
+            }, 
+            "background-color": "rgb(247, 247, 247)", 
+            "class": "a", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "rmq-92fe81a6 nsg-font-family--base nsg-text--near-black bg-white", 
+            "domLevel": 8, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 12, 
+            "height": 152, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Iron GreySolid", 
+            "type": "", 
+            "value": "", 
+            "width": 237, 
+            "x": 1442, 
+            "xPercent": 75.10416666666667, 
+            "y": 384, 
+            "yPercent": 42.66666666666667
+        }, 
+        "location": {
+            "x": 1442, 
+            "y": 384
+        }, 
+        "size": {
+            "height": 152, 
+            "width": 237
+        }, 
+        "tag_name": "a", 
+        "text": "Iron GreySolid"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Iron GreySolid", 
+    "transformed": true, 
+    "width": 474, 
+    "x": 2884, 
+    "y": 768
+}

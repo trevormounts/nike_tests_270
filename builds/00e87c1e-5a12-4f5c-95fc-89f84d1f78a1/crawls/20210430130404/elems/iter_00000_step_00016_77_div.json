@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "elem_shot_file_path": "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210430130404/tmpZ/div_X92_Y762_W40_H40.png", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "463zzt8T1NMgK3uJ9lvjaw==\n", 
+    "height": 40, 
+    "hier_level": 0, 
+    "human_hash": "div_X92_Y762_W40_H40", 
+    "human_readable": "div_92_762_40_40_div_c00380010000000000180038007010e019c01f800f000700060000008001c003_9d4568c009d203ab10e33ea9953a0264", 
+    "img_hash": "5bb8b4b81f74055d4acbe57c0039f16a", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "pseudo-checkbox css-1n9lta1 is--checked"
+            }, 
+            "background-color": "rgb(17, 17, 17)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "pseudo-checkbox css-1n9lta1 is--checked", 
+            "domLevel": 23, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 20, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 20, 
+            "x": 46, 
+            "xPercent": 2.3958333333333335, 
+            "y": 381, 
+            "yPercent": 9.143268538516919
+        }, 
+        "location": {
+            "x": 46, 
+            "y": 381
+        }, 
+        "size": {
+            "height": 20, 
+            "width": 20
+        }, 
+        "tag_name": "div", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "", 
+    "text_hash": "9d4568c009d203ab10e33ea9953a0264", 
+    "transformed": true, 
+    "width": 40, 
+    "x": 92, 
+    "y": 762
+}

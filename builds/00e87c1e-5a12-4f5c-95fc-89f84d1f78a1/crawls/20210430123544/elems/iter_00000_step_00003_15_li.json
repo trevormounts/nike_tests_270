@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "li", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "s8xsD3grR/QY/c/57ugBNg==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "li_X1592_Y1460_W484_H48", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "footer-link footer-link-header d-sm-h d-md-b"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "li", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "footer-link footer-link-header d-sm-h d-md-b", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "li", 
+            "text": "About Nike", 
+            "type": "", 
+            "value": 0, 
+            "width": 242, 
+            "x": 796, 
+            "xPercent": 41.458333333333336, 
+            "y": 730, 
+            "yPercent": 9.483955005843397
+        }, 
+        "location": {
+            "x": 796, 
+            "y": 730
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 242
+        }, 
+        "tag_name": "li", 
+        "text": "About Nike"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "li", 
+    "text": "About Nike", 
+    "transformed": true, 
+    "width": 484, 
+    "x": 1592, 
+    "y": 1460
+}

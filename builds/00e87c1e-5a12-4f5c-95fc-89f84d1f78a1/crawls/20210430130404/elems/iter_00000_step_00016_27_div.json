@@ -1,0 +1,79 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "elem_shot_file_path": "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210430130404/tmpZ/div_X3692_Y96_W72_H72.png", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "Et0S6DRTQa80by7os/H6Nw==\n", 
+    "height": 72, 
+    "hier_level": 0, 
+    "human_hash": "div_X3692_Y96_W72_H72", 
+    "human_readable": "div_3692_96_72_72_div_fffffffffffffc3ff00fe007e7e7e7e7e7e7e7e7e7e7e7e7f00fffffffffffff_f4ea5f46dd32b666be3f802dfe2982c2", 
+    "img_hash": "47fcfa774395e312d3710b37f94c8c67", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "pre-acct-cart mr2-sm mr0-lg d-sm-ib", 
+                "data-pre": "Cart", 
+                "id": "nav-cart"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "pre-acct-cart mr2-sm mr0-lg d-sm-ib", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 36, 
+            "identifier": "nav-cart", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "0", 
+            "type": "", 
+            "value": "", 
+            "width": 36, 
+            "x": 1846, 
+            "xPercent": 96.14583333333333, 
+            "y": 48, 
+            "yPercent": 1.1519078473722102
+        }, 
+        "location": {
+            "x": 1846, 
+            "y": 48
+        }, 
+        "size": {
+            "height": 36, 
+            "width": 36
+        }, 
+        "tag_name": "div", 
+        "text": "0"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "0", 
+    "text_hash": "f4ea5f46dd32b666be3f802dfe2982c2", 
+    "transformed": true, 
+    "width": 72, 
+    "x": 3692, 
+    "y": 96
+}

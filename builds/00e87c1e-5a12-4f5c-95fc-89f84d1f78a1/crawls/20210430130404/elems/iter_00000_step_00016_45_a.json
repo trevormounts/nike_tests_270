@@ -1,0 +1,79 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "elem_shot_file_path": "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210430130404/tmpZ/a_X1900_Y236_W332_H30.png", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "iIZk3cbdXAM8OAK8WSROGQ==\n", 
+    "height": 30, 
+    "hier_level": 0, 
+    "human_hash": "a_X1900_Y236_W332_H30", 
+    "human_readable": "a_1900_236_332_30_a_ffffffffffffffff62df66df0000000000000000000000001b42ffff0000ffff_832e7c8db2298c1659f067404a86afed", 
+    "img_hash": "c7faf487be45a90659fde50d2bebb197", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "banner-link", 
+                "data-id": "0b2171ef-32fc-4af3-9cd7-ac5b10e8ac71", 
+                "href": "https://www.nike.com/w/sale-3yaep"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "banner-link", 
+            "domLevel": 14, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 12, 
+            "height": 15, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Shop All Our New Markdowns", 
+            "type": "", 
+            "value": "", 
+            "width": 166, 
+            "x": 950, 
+            "xPercent": 49.50358072916667, 
+            "y": 118, 
+            "yPercent": 2.8317734581233505
+        }, 
+        "location": {
+            "x": 950, 
+            "y": 118
+        }, 
+        "size": {
+            "height": 15, 
+            "width": 166
+        }, 
+        "tag_name": "a", 
+        "text": "Shop All Our New Markdowns"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Shop All Our New Markdowns", 
+    "text_hash": "832e7c8db2298c1659f067404a86afed", 
+    "transformed": true, 
+    "width": 332, 
+    "x": 1900, 
+    "y": 236
+}

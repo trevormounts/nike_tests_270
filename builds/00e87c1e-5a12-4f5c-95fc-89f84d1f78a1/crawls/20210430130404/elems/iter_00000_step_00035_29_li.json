@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "li", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "xBJg18jRYplXyF8HkBtkkw==\n", 
+    "height": 88, 
+    "hier_level": 0, 
+    "human_hash": "li_X2496_Y554_W186_H88", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-labelledby": "Inspiration", 
+                "class": "tab-list-item ", 
+                "role": "menuitem", 
+                "tabindex": "0"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "li", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "tab-list-item ", 
+            "domLevel": 13, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "700", 
+            "fontSize": 16, 
+            "height": 44, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "li", 
+            "text": "Inspiration", 
+            "type": "", 
+            "value": 0, 
+            "width": 93, 
+            "x": 1248, 
+            "xPercent": 65, 
+            "y": 277, 
+            "yPercent": 10.56848531095002
+        }, 
+        "location": {
+            "x": 1248, 
+            "y": 277
+        }, 
+        "size": {
+            "height": 44, 
+            "width": 93
+        }, 
+        "tag_name": "li", 
+        "text": "Inspiration"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "li", 
+    "text": "Inspiration", 
+    "transformed": true, 
+    "width": 186, 
+    "x": 2496, 
+    "y": 554
+}

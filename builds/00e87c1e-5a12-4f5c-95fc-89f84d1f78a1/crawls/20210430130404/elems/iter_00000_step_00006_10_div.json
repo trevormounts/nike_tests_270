@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "R9Ltfi14alDrLwuR5hA3IA==\n", 
+    "height": 318, 
+    "hier_level": 0, 
+    "human_hash": "div_X844_Y234_W2150_H318", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "_3T7SP3hk", 
+                "data-qa": "card-overlay-content"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "_3T7SP3hk", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 159, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "IMAGINE YOUR 1/1Let's make something no one's ever seen before.Customize", 
+            "type": "", 
+            "value": "", 
+            "width": 1075, 
+            "x": 422, 
+            "xPercent": 21.99951171875, 
+            "y": 117, 
+            "yPercent": 2.427385892116183
+        }, 
+        "location": {
+            "x": 422, 
+            "y": 117
+        }, 
+        "size": {
+            "height": 159, 
+            "width": 1075
+        }, 
+        "tag_name": "div", 
+        "text": "IMAGINE YOUR 1/1Let's make something no one's ever seen before.Customize"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "IMAGINE YOUR 1/1Let's make something no one's ever seen before.Customize", 
+    "transformed": true, 
+    "width": 2150, 
+    "x": 844, 
+    "y": 234
+}

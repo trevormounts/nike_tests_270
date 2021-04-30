@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "label", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "LJZFsVyr3tpckaKHg1IRXA==\n", 
+    "height": 38, 
+    "hier_level": 0, 
+    "human_hash": "label_X1040_Y888_W132_H38", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-expanded": "false", 
+                "for": "toggle0", 
+                "role": "button", 
+                "tabindex": "-1"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "label", 
+            "color": "rgb(17, 17, 17)", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 19, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "label", 
+            "text": "Featured", 
+            "type": "", 
+            "value": "", 
+            "width": 66, 
+            "x": 520, 
+            "xPercent": 27.083333333333332, 
+            "y": 444, 
+            "yPercent": 5.770151603687832
+        }, 
+        "location": {
+            "x": 520, 
+            "y": 444
+        }, 
+        "size": {
+            "height": 19, 
+            "width": 66
+        }, 
+        "tag_name": "label", 
+        "text": "Featured"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "label", 
+    "text": "Featured", 
+    "transformed": true, 
+    "width": 132, 
+    "x": 1040, 
+    "y": 888
+}

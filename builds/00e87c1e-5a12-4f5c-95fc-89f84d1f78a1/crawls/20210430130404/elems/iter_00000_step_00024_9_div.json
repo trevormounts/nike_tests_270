@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "IuoW2NW9pe+z7kIpE8qzvA==\n", 
+    "height": 1744, 
+    "hier_level": 0, 
+    "human_hash": "div_X2880_Y0_W960_H1744", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "data-radium": "true", 
+                "style": "top: 0px; position: absolute; display: flex; flex-grow: 1; height: 100%; border-left: 2px solid white; right: 0px; transition: all 250ms cubic-bezier(0.52, 0.99, 0.57, 1) 250ms; width: 100%; box-sizing: border-box; background-color: rgb(255, 255, 255);"
+            }, 
+            "background-color": "rgb(255, 255, 255)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "domLevel": 5, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 872, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "UpperCollarTongueSwooshTapeStitchLiningLacesFlywireHeel ClipSocklinerInsertOutsoleTongue Text / Logo", 
+            "type": "", 
+            "value": "", 
+            "width": 480, 
+            "x": 1440, 
+            "xPercent": 75, 
+            "y": 0, 
+            "yPercent": 0
+        }, 
+        "location": {
+            "x": 1440, 
+            "y": 0
+        }, 
+        "size": {
+            "height": 872, 
+            "width": 480
+        }, 
+        "tag_name": "div", 
+        "text": "UpperCollarTongueSwooshTapeStitchLiningLacesFlywireHeel ClipSocklinerInsertOutsoleTongue Text / Logo"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "UpperCollarTongueSwooshTapeStitchLiningLacesFlywireHeel ClipSocklinerInsertOutsoleTongue Text / Logo", 
+    "transformed": true, 
+    "width": 960, 
+    "x": 2880, 
+    "y": 0
+}

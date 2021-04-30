@@ -1,0 +1,79 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "svg", 
+    "clickable": false, 
+    "content-desc": "", 
+    "elem_shot_file_path": "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210430130404/tmpZ/svg_X2764_Y552_W44_H42.png", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "F4NftdcQZZxWor9D6s8few==\n", 
+    "height": 42, 
+    "hier_level": 0, 
+    "human_hash": "svg_X2764_Y552_W44_H42", 
+    "human_readable": "svg_2764_552_44_42_svg_fff8fff2c0e480c99f93bf37be67be0fbc17bc33bcf3bff39ff39ff380038003_9d4568c009d203ab10e33ea9953a0264", 
+    "img_hash": "585bf527562f269b0ca588ab121aa18a", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "height": "21", 
+                "viewBox": "0 0 20 18", 
+                "width": "20", 
+                "xmlns": "http://www.w3.org/2000/svg"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "svg", 
+            "color": "rgb(17, 17, 17)", 
+            "domLevel": 18, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 14, 
+            "height": 21, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "svg", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 22, 
+            "x": 1382, 
+            "xPercent": 71.98274612426758, 
+            "y": 276, 
+            "yPercent": 6.629229427270817
+        }, 
+        "location": {
+            "x": 1382, 
+            "y": 276
+        }, 
+        "size": {
+            "height": 21, 
+            "width": 22
+        }, 
+        "tag_name": "svg", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "svg", 
+    "text": "", 
+    "text_hash": "9d4568c009d203ab10e33ea9953a0264", 
+    "transformed": true, 
+    "width": 44, 
+    "x": 2764, 
+    "y": 552
+}

@@ -1,0 +1,80 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "hV9Ab/rPV5g/j46HmBy6qA==\n", 
+    "height": 66, 
+    "hier_level": 0, 
+    "human_hash": "a_X3128_Y1466_W60_H66", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "Youtube", 
+                "class": "social-link footer-link", 
+                "data-path": "social:youtube", 
+                "data-pre": "ILink", 
+                "data-type": "click_navFooter", 
+                "href": "https://www.youtube.com/user/nike", 
+                "target": "_blank", 
+                "title": "Youtube"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(126, 126, 126)", 
+            "cssClass": "social-link footer-link", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 28, 
+            "height": 33, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 30, 
+            "x": 1564, 
+            "xPercent": 81.45833333333333, 
+            "y": 733, 
+            "yPercent": 9.522910985586288
+        }, 
+        "location": {
+            "x": 1564, 
+            "y": 733
+        }, 
+        "size": {
+            "height": 33, 
+            "width": 30
+        }, 
+        "tag_name": "a", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "", 
+    "transformed": true, 
+    "width": 60, 
+    "x": 3128, 
+    "y": 1466
+}

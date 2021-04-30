@@ -1,0 +1,70 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "li", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "W31M/ephStoqYTU7qaJN/w==\n", 
+    "height": 56, 
+    "hier_level": 0, 
+    "human_hash": "li_X1878_Y384_W302_H56", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {}, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "li", 
+            "color": "rgb(17, 17, 17)", 
+            "domLevel": 13, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 28, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "li", 
+            "text": "Shoes $100 & Under", 
+            "type": "", 
+            "value": 0, 
+            "width": 151, 
+            "x": 939, 
+            "xPercent": 48.894856770833336, 
+            "y": 192, 
+            "yPercent": 2.623309195245252
+        }, 
+        "location": {
+            "x": 939, 
+            "y": 192
+        }, 
+        "size": {
+            "height": 28, 
+            "width": 151
+        }, 
+        "tag_name": "li", 
+        "text": "Shoes $100 & Under"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "li", 
+    "text": "Shoes $100 & Under", 
+    "transformed": true, 
+    "width": 302, 
+    "x": 1878, 
+    "y": 384
+}

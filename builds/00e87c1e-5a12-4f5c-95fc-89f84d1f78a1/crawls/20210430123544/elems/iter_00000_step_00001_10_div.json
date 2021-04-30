@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "7mN30LqgB1pMU01QQo1gsQ==\n", 
+    "height": 434, 
+    "hier_level": 0, 
+    "human_hash": "div_X544_Y1102_W2064_H434", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "hf-accordion-group ncss-row", 
+                "data-pre": "AccordionGroup"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "hf-accordion-group ncss-row", 
+            "domLevel": 7, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 0, 
+            "height": 217, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "GIFT CARDSPROMOTIONSFIND A STORESIGN UP FOR EMAILBECOME A MEMBERNIKE JOURNALSEND US FEEDBACKGet HelpGet HelpOrder StatusShipping and DeliveryReturnsPayment OptionsGift Card BalanceContact UsAbout NikeAbout NikeNewsCareersInvestorsPurposeSustainability", 
+            "type": "", 
+            "value": "", 
+            "width": 1032, 
+            "x": 272, 
+            "xPercent": 14.166666666666666, 
+            "y": 551, 
+            "yPercent": 7.749472944483486
+        }, 
+        "location": {
+            "x": 272, 
+            "y": 551
+        }, 
+        "size": {
+            "height": 217, 
+            "width": 1032
+        }, 
+        "tag_name": "div", 
+        "text": "GIFT CARDSPROMOTIONSFIND A STORESIGN UP FOR EMAILBECOME A MEMBERNIKE JOURNALSEND US FEEDBACKGet HelpGet HelpOrder StatusShipping and DeliveryReturnsPayment OptionsGift Card BalanceContact UsAbout NikeAbout NikeNewsCareersInvestorsPurposeSustainability"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "GIFT CARDSPROMOTIONSFIND A STORESIGN UP FOR EMAILBECOME A MEMBERNIKE JOURNALSEND US FEEDBACKGet HelpGet HelpOrder StatusShipping and DeliveryReturnsPayment OptionsGift Card BalanceContact UsAbout NikeAbout NikeNewsCareersInvestorsPurposeSustainability", 
+    "transformed": true, 
+    "width": 2064, 
+    "x": 544, 
+    "y": 1102
+}

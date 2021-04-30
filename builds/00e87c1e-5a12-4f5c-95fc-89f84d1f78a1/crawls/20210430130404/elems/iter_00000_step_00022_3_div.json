@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "mONQT/iPFo0zMHdrq91j+Q==\n", 
+    "height": 180, 
+    "hier_level": 0, 
+    "human_hash": "div_X2496_Y1490_W754_H180", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "mt5-sm mb5-sm pt5-sm pb5-sm d-sm-flx flx-jc-sm-c css-q73nhh"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "mt5-sm mb5-sm pt5-sm pb5-sm d-sm-flx flx-jc-sm-c css-q73nhh", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 90, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Share", 
+            "type": "", 
+            "value": "", 
+            "width": 377, 
+            "x": 1248, 
+            "xPercent": 65, 
+            "y": 745, 
+            "yPercent": 27.643784786641927
+        }, 
+        "location": {
+            "x": 1248, 
+            "y": 745
+        }, 
+        "size": {
+            "height": 90, 
+            "width": 377
+        }, 
+        "tag_name": "div", 
+        "text": "Share"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Share", 
+    "transformed": true, 
+    "width": 754, 
+    "x": 2496, 
+    "y": 1490
+}

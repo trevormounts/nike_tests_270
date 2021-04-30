@@ -30,10 +30,11 @@
         "iter_00000_step_00000_17_a.png": {
             "btn_women": {
                 "all_scores": {
+                    "hash_based": 1.0, 
                     "test_ai_mod.carbon_classifiers.perceptual.nn_classifier": 0.98
                 }, 
-                "score": 0.98, 
-                "source": "test_ai_mod.carbon_classifiers.perceptual.nn_classifier"
+                "score": 1.0, 
+                "source": "hash_based"
             }
         }, 
         "iter_00000_step_00000_22_a.png": {
@@ -67,10 +68,11 @@
         "iter_00000_step_00000_34_a.png": {
             "btn_customize": {
                 "all_scores": {
+                    "hash_based": 1.0, 
                     "test_ai_mod.carbon_classifiers.perceptual.nn_classifier": 0.96
                 }, 
-                "score": 0.96, 
-                "source": "test_ai_mod.carbon_classifiers.perceptual.nn_classifier"
+                "score": 1.0, 
+                "source": "hash_based"
             }
         }, 
         "iter_00000_step_00000_36_div.png": {
@@ -103,10 +105,11 @@
         "iter_00000_step_00000_41_a.png": {
             "btn_men": {
                 "all_scores": {
+                    "hash_based": 1.0, 
                     "test_ai_mod.carbon_classifiers.perceptual.nn_classifier": 0.99
                 }, 
-                "score": 0.99, 
-                "source": "test_ai_mod.carbon_classifiers.perceptual.nn_classifier"
+                "score": 1.0, 
+                "source": "hash_based"
             }
         }, 
         "iter_00000_step_00000_42_a.png": {

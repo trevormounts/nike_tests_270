@@ -1,0 +1,70 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "+kcpkAsR8plsQulVh7Mkyg==\n", 
+    "height": 30, 
+    "hier_level": 0, 
+    "human_hash": "span_X3530_Y22_W84_H30", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {}, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(17, 17, 17)", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 12, 
+            "height": 15, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Join Us", 
+            "type": "", 
+            "value": "", 
+            "width": 42, 
+            "x": 1765, 
+            "xPercent": 91.93115234375, 
+            "y": 11, 
+            "yPercent": 0.1926605504587156
+        }, 
+        "location": {
+            "x": 1765, 
+            "y": 11
+        }, 
+        "size": {
+            "height": 15, 
+            "width": 42
+        }, 
+        "tag_name": "span", 
+        "text": "Join Us"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Join Us", 
+    "transformed": true, 
+    "width": 84, 
+    "x": 3530, 
+    "y": 22
+}

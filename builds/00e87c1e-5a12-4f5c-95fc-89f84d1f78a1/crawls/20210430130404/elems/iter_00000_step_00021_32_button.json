@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "lGh02+d7VJ2qXhJUT0BJeg==\n", 
+    "height": 96, 
+    "hier_level": 0, 
+    "human_hash": "button_X2818_Y1532_W110_H96", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "Share Your Design", 
+                "class": "d-sm-flx flx-jc-sm-c flx-ai-sm-c flx-dir-sm-c css-15rtcno", 
+                "data-test": "btn-nby-share", 
+                "type": "button"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "button", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "d-sm-flx flx-jc-sm-c flx-ai-sm-c flx-dir-sm-c css-15rtcno", 
+            "domLevel": 13, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Arial", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 48, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "Share", 
+            "type": "button", 
+            "value": "", 
+            "width": 55, 
+            "x": 1409, 
+            "xPercent": 73.39274088541666, 
+            "y": 766, 
+            "yPercent": 28.42300556586271
+        }, 
+        "location": {
+            "x": 1409, 
+            "y": 766
+        }, 
+        "size": {
+            "height": 48, 
+            "width": 55
+        }, 
+        "tag_name": "button", 
+        "text": "Share"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "Share", 
+    "transformed": true, 
+    "width": 110, 
+    "x": 2818, 
+    "y": 1532
+}

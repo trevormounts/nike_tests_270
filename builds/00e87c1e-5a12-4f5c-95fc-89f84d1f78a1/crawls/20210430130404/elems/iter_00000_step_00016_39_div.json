@@ -1,0 +1,78 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "elem_shot_file_path": "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210430130404/tmpZ/div_X88_Y1074_W392_H160.png", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "6/Al01+XtKBTPiXkR/m60w==\n", 
+    "height": 160, 
+    "hier_level": 0, 
+    "human_hash": "div_X88_Y1074_W392_H160", 
+    "human_readable": "div_88_1074_392_160_div_ffff7fffc03fc03fc43fffffffffd87fc07fc07f5affffffffffffffffffffff_cc6c3bb751b6ac82aa0082b28955cb23", 
+    "img_hash": "1909e9306a97e6eb2275a04cdaf3bc3c", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "Collapsible__contentOuter filter-group__outer", 
+                "style": "height: auto; transition: none 0s ease 0s; overflow: hidden;"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "Collapsible__contentOuter filter-group__outer", 
+            "domLevel": 19, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 80, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "$100 - $150Over $150", 
+            "type": "", 
+            "value": "", 
+            "width": 196, 
+            "x": 44, 
+            "xPercent": 2.2916666666666665, 
+            "y": 537, 
+            "yPercent": 12.8869690424766
+        }, 
+        "location": {
+            "x": 44, 
+            "y": 537
+        }, 
+        "size": {
+            "height": 80, 
+            "width": 196
+        }, 
+        "tag_name": "div", 
+        "text": "$100 - $150Over $150"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "$100 - $150Over $150", 
+    "text_hash": "cc6c3bb751b6ac82aa0082b28955cb23", 
+    "transformed": true, 
+    "width": 392, 
+    "x": 88, 
+    "y": 1074
+}

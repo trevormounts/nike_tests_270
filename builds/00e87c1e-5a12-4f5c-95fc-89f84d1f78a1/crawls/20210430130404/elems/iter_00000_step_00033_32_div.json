@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "xtIvnpSPQqnQC8NIGNIf/Q==\n", 
+    "height": 288, 
+    "hier_level": 0, 
+    "human_hash": "div_X0_Y1456_W2880_H288", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "rmq-c7ec588b", 
+                "data-automation": "carousel-slider", 
+                "data-radium": "true", 
+                "style": "display: flex; justify-content: center; align-items: center; padding: 1.5rem; width: 100%; text-align: center; transition: all 230ms ease-out 0s; z-index: 600; box-sizing: border-box;"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "rmq-c7ec588b", 
+            "domLevel": 6, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 144, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 1440, 
+            "x": 0, 
+            "xPercent": 0, 
+            "y": 728, 
+            "yPercent": 80.88888888888889
+        }, 
+        "location": {
+            "x": 0, 
+            "y": 728
+        }, 
+        "size": {
+            "height": 144, 
+            "width": 1440
+        }, 
+        "tag_name": "div", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "", 
+    "transformed": true, 
+    "width": 2880, 
+    "x": 0, 
+    "y": 1456
+}

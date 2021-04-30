@@ -1,0 +1,80 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "HTxxdTJsx8vTgnSB3+TAWw==\n", 
+    "height": 72, 
+    "hier_level": 0, 
+    "human_hash": "a_X3596_Y96_W72_H72", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "Favorites", 
+                "class": "pre-btn-header ripple mr3-sm d-sm-h d-lg-ib", 
+                "data-path": "favorites", 
+                "data-pre": "ILink", 
+                "data-type": "click_navShortcut", 
+                "data-var": "favoritesLink", 
+                "href": "https://www.nike.com/favorites", 
+                "title": "Favorites"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgba(0, 0, 0, 0.54)", 
+            "cssClass": "pre-btn-header ripple mr3-sm d-sm-h d-lg-ib", 
+            "domLevel": 8, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 36, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 36, 
+            "x": 1798, 
+            "xPercent": 93.64583333333333, 
+            "y": 48, 
+            "yPercent": 0.6746310611384398
+        }, 
+        "location": {
+            "x": 1798, 
+            "y": 48
+        }, 
+        "size": {
+            "height": 36, 
+            "width": 36
+        }, 
+        "tag_name": "a", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "", 
+    "transformed": true, 
+    "width": 72, 
+    "x": 3596, 
+    "y": 96
+}

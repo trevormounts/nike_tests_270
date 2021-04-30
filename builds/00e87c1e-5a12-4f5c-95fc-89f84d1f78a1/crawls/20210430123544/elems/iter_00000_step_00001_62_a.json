@@ -1,0 +1,78 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "y0+3m3bUZQ15oKtMrNc2nw==\n", 
+    "height": 28, 
+    "hier_level": 0, 
+    "human_hash": "a_X1076_Y1224_W234_H28", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "fs12-nav-sm", 
+                "data-path": "get help:shipping and delivery", 
+                "data-pre": "ILink", 
+                "data-type": "click_navFooter", 
+                "href": "https://www.nike.com/help/a/shipping-delivery", 
+                "target": "_self"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(126, 126, 126)", 
+            "cssClass": "fs12-nav-sm", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 14, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Shipping and Delivery", 
+            "type": "", 
+            "value": "", 
+            "width": 117, 
+            "x": 538, 
+            "xPercent": 28.020833333333332, 
+            "y": 612, 
+            "yPercent": 8.606816584680253
+        }, 
+        "location": {
+            "x": 538, 
+            "y": 612
+        }, 
+        "size": {
+            "height": 14, 
+            "width": 117
+        }, 
+        "tag_name": "a", 
+        "text": "Shipping and Delivery"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Shipping and Delivery", 
+    "transformed": true, 
+    "width": 234, 
+    "x": 1076, 
+    "y": 1224
+}

@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "img", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "qoSURzQ6RKeorxx3Xy8o9g==\n", 
+    "height": 868, 
+    "hier_level": 0, 
+    "human_hash": "img_X592_Y520_W868_H868", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "Nike Metcon 6 By You Custom Training Shoe", 
+                "class": "css-viwop1 u-full-width u-full-height css-147n82m", 
+                "data-fade-in": "css-147n82m", 
+                "src": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/26670046-d40a-4272-852f-7506407bd797/custom-nike-metcon-6-by-you.png", 
+                "style": "object-fit: contain;"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "img", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "css-viwop1 u-full-width u-full-height css-147n82m", 
+            "domLevel": 14, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Arial", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 434, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "img", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 434, 
+            "x": 296, 
+            "xPercent": 15.416666666666668, 
+            "y": 260, 
+            "yPercent": 9.647495361781075
+        }, 
+        "location": {
+            "x": 296, 
+            "y": 260
+        }, 
+        "size": {
+            "height": 434, 
+            "width": 434
+        }, 
+        "tag_name": "img", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "img", 
+    "text": "", 
+    "transformed": true, 
+    "width": 868, 
+    "x": 592, 
+    "y": 520
+}

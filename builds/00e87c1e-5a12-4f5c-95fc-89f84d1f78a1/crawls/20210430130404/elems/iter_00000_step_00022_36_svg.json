@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "svg", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "8uk/CY+O9VmxqHfe4S8BPw==\n", 
+    "height": 44, 
+    "hier_level": 0, 
+    "human_hash": "svg_X2850_Y1534_W44_H44", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-hidden": "true", 
+                "enable-background": "new 0 0 24 24", 
+                "version": "1.1", 
+                "viewBox": "0 0 24 24", 
+                "xmlns": "http://www.w3.org/2000/svg", 
+                "xmlns:xlink": "http://www.w3.org/1999/xlink"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "svg", 
+            "color": "rgb(0, 0, 0)", 
+            "domLevel": 14, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Arial", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 22, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "svg", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 22, 
+            "x": 1425, 
+            "xPercent": 74.23421223958333, 
+            "y": 767, 
+            "yPercent": 28.46011131725417
+        }, 
+        "location": {
+            "x": 1425, 
+            "y": 767
+        }, 
+        "size": {
+            "height": 22, 
+            "width": 22
+        }, 
+        "tag_name": "svg", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "svg", 
+    "text": "", 
+    "transformed": true, 
+    "width": 44, 
+    "x": 2850, 
+    "y": 1534
+}

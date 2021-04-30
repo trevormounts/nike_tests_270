@@ -1,0 +1,72 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "li", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "W0KSpwz6aeg6+rgO6q/bIQ==\n", 
+    "height": 120, 
+    "hier_level": 0, 
+    "human_hash": "li_X1314_Y72_W250_H120", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "pre-desktop-menu-item d-lg-ib is-static is-header"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "li", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "pre-desktop-menu-item d-lg-ib is-static is-header", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 60, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "li", 
+            "text": "Gifts for Mom", 
+            "type": "", 
+            "value": 0, 
+            "width": 125, 
+            "x": 657, 
+            "xPercent": 34.215494791666664, 
+            "y": 36, 
+            "yPercent": 0.5059732958538299
+        }, 
+        "location": {
+            "x": 657, 
+            "y": 36
+        }, 
+        "size": {
+            "height": 60, 
+            "width": 125
+        }, 
+        "tag_name": "li", 
+        "text": "Gifts for Mom"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "li", 
+    "text": "Gifts for Mom", 
+    "transformed": true, 
+    "width": 250, 
+    "x": 1314, 
+    "y": 72
+}

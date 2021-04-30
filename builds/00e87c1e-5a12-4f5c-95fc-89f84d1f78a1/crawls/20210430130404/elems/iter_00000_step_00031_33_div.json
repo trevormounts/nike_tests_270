@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "CetjmgjQVCVc4xlPEcsdWA==\n", 
+    "height": 76, 
+    "hier_level": 0, 
+    "human_hash": "div_X2990_Y646_W264_H76", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "data-radium": "true", 
+                "style": "margin-top: 10px;"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 12, 
+            "height": 38, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Metallic Red Bronze--", 
+            "type": "", 
+            "value": "", 
+            "width": 132, 
+            "x": 1495, 
+            "xPercent": 77.84830729166666, 
+            "y": 323, 
+            "yPercent": 35.888888888888886
+        }, 
+        "location": {
+            "x": 1495, 
+            "y": 323
+        }, 
+        "size": {
+            "height": 38, 
+            "width": 132
+        }, 
+        "tag_name": "div", 
+        "text": "Metallic Red Bronze--"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Metallic Red Bronze--", 
+    "transformed": true, 
+    "width": 264, 
+    "x": 2990, 
+    "y": 646
+}

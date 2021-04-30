@@ -1,0 +1,79 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "ivOPSaJMd58ZGE4fRUFnFw==\n", 
+    "height": 32, 
+    "hier_level": 0, 
+    "human_hash": "a_X1592_Y1468_W128_H32", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "main-footer, About Nike", 
+                "class": "nav-uppercase nav-brand", 
+                "data-path": "about nike", 
+                "data-pre": "ILink", 
+                "data-type": "click_navFooter", 
+                "href": "http://about.nike.com/", 
+                "language": "en"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "nav-uppercase nav-brand", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Nike TG\", \"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 16, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "About Nike", 
+            "type": "", 
+            "value": "", 
+            "width": 64, 
+            "x": 796, 
+            "xPercent": 41.458333333333336, 
+            "y": 734, 
+            "yPercent": 9.535896312167251
+        }, 
+        "location": {
+            "x": 796, 
+            "y": 734
+        }, 
+        "size": {
+            "height": 16, 
+            "width": 64
+        }, 
+        "tag_name": "a", 
+        "text": "About Nike"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "About Nike", 
+    "transformed": true, 
+    "width": 128, 
+    "x": 1592, 
+    "y": 1468
+}

@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "h1", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "t8BBV1Lp3vWr1AQ8vEKPTA==\n", 
+    "height": 66, 
+    "hier_level": 0, 
+    "human_hash": "h1_X96_Y378_W3214_H66", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "wall-header__title css-hrsjq4 css-7m6ucd css-yj4gxb", 
+                "id": "Mens-Neutrals-By-You-Black"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "h1", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "wall-header__title css-hrsjq4 css-7m6ucd css-yj4gxb", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 24, 
+            "height": 33, 
+            "identifier": "Mens-Neutrals-By-You-Black", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "h1", 
+            "text": "Mens Neutrals By You Black(7)", 
+            "type": "", 
+            "value": "", 
+            "width": 1607, 
+            "x": 48, 
+            "xPercent": 2.5, 
+            "y": 189, 
+            "yPercent": 6.885245901639345
+        }, 
+        "location": {
+            "x": 48, 
+            "y": 189
+        }, 
+        "size": {
+            "height": 33, 
+            "width": 1607
+        }, 
+        "tag_name": "h1", 
+        "text": "Mens Neutrals By You Black(7)"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "h1", 
+    "text": "Mens Neutrals By You Black(7)", 
+    "transformed": true, 
+    "width": 3214, 
+    "x": 96, 
+    "y": 378
+}

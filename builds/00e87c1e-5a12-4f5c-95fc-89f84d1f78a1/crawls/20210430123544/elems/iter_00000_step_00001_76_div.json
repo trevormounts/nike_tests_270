@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "KEwpW/8cmmKpIF6cSYj0sw==\n", 
+    "height": 84, 
+    "hier_level": 0, 
+    "human_hash": "div_X1920_Y1602_W1376_H84", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "ncss-col-sm-12 ncss-col-md-6 pb3-sm pb0-md pl5-sm pl0-md"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "ncss-col-sm-12 ncss-col-md-6 pb3-sm pb0-md pl5-sm pl0-md", 
+            "domLevel": 6, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 42, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "GuidesNike AdaptNike AirNike Air Force 1Nike Air MaxNike FlyEaseNike FlyknitNike FlyleatherNike FreeNike JoyrideNike ReactNike VaporflyNike ZoomXSpace HippieTerms of SaleTerms of UseNike Privacy PolicyCA Supply Chains Act", 
+            "type": "", 
+            "value": "", 
+            "width": 688, 
+            "x": 960, 
+            "xPercent": 50, 
+            "y": 801, 
+            "yPercent": 11.26317638791286
+        }, 
+        "location": {
+            "x": 960, 
+            "y": 801
+        }, 
+        "size": {
+            "height": 42, 
+            "width": 688
+        }, 
+        "tag_name": "div", 
+        "text": "GuidesNike AdaptNike AirNike Air Force 1Nike Air MaxNike FlyEaseNike FlyknitNike FlyleatherNike FreeNike JoyrideNike ReactNike VaporflyNike ZoomXSpace HippieTerms of SaleTerms of UseNike Privacy PolicyCA Supply Chains Act"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "GuidesNike AdaptNike AirNike Air Force 1Nike Air MaxNike FlyEaseNike FlyknitNike FlyleatherNike FreeNike JoyrideNike ReactNike VaporflyNike ZoomXSpace HippieTerms of SaleTerms of UseNike Privacy PolicyCA Supply Chains Act", 
+    "transformed": true, 
+    "width": 1376, 
+    "x": 1920, 
+    "y": 1602
+}

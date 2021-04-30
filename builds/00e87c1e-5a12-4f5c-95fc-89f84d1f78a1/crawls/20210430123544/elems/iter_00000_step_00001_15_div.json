@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "UNb0SGzI7mK0Uk8HA1m15g==\n", 
+    "height": 384, 
+    "hier_level": 0, 
+    "human_hash": "div_X0_Y526_W3840_H384", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "grid-col va-sm-t ncss-col-lg-12 ncss-col-md-12 ncss-col-sm-12 ncss-col-lg-offset-0 ncss-col-md-offset-0 ncss-col-sm-offset-0", 
+                "data-qa": "grid-col", 
+                "id": "b9197be7-73de-479c-b046-77f6984c90b6"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "grid-col va-sm-t ncss-col-lg-12 ncss-col-md-12 ncss-col-sm-12 ncss-col-lg-offset-0 ncss-col-md-offset-0 ncss-col-sm-offset-0", 
+            "domLevel": 6, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 192, 
+            "identifier": "b9197be7-73de-479c-b046-77f6984c90b6", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "FeaturedAir Force 1Jordan 1Air Max 2090Air Max 270Air Max 97Air Max 90BlazerReactPegasusShoesAll ShoesJordan ShoesRunning ShoesBasketball ShoesTennis ShoesTraining ShoesCustom ShoesSale ShoesSoccer CleatsClothingAll ClothingTops & T-ShirtsShortsHoodies & PulloversJoggers & SweatpantsSports BrasPants & TightsSocksYogaNikeLabPlus SizeBig & TallLuxe LeggingsSale ClothingKids'Infant & Toddler ShoesKids' ShoesKids' Basketball ShoesKids' Running ShoesKids' Jordan ShoesKids' ClothingKids' BackpacksKids' SocksKids' Sale", 
+            "type": "", 
+            "value": "", 
+            "width": 1920, 
+            "x": 0, 
+            "xPercent": 0, 
+            "y": 263, 
+            "yPercent": 3.701686577652846
+        }, 
+        "location": {
+            "x": 0, 
+            "y": 263
+        }, 
+        "size": {
+            "height": 192, 
+            "width": 1920
+        }, 
+        "tag_name": "div", 
+        "text": "FeaturedAir Force 1Jordan 1Air Max 2090Air Max 270Air Max 97Air Max 90BlazerReactPegasusShoesAll ShoesJordan ShoesRunning ShoesBasketball ShoesTennis ShoesTraining ShoesCustom ShoesSale ShoesSoccer CleatsClothingAll ClothingTops & T-ShirtsShortsHoodies & PulloversJoggers & SweatpantsSports BrasPants & TightsSocksYogaNikeLabPlus SizeBig & TallLuxe LeggingsSale ClothingKids'Infant & Toddler ShoesKids' ShoesKids' Basketball ShoesKids' Running ShoesKids' Jordan ShoesKids' ClothingKids' BackpacksKids' SocksKids' Sale"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "FeaturedAir Force 1Jordan 1Air Max 2090Air Max 270Air Max 97Air Max 90BlazerReactPegasusShoesAll ShoesJordan ShoesRunning ShoesBasketball ShoesTennis ShoesTraining ShoesCustom ShoesSale ShoesSoccer CleatsClothingAll ClothingTops & T-ShirtsShortsHoodies & PulloversJoggers & SweatpantsSports BrasPants & TightsSocksYogaNikeLabPlus SizeBig & TallLuxe LeggingsSale ClothingKids'Infant & Toddler ShoesKids' ShoesKids' Basketball ShoesKids' Running ShoesKids' Jordan ShoesKids' ClothingKids' BackpacksKids' SocksKids' Sale", 
+    "transformed": true, 
+    "width": 3840, 
+    "x": 0, 
+    "y": 526
+}

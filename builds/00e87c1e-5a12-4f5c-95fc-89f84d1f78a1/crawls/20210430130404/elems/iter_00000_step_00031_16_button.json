@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "H+hFP2rjmnb99UVB/pk05Q==\n", 
+    "height": 28, 
+    "hier_level": 0, 
+    "human_hash": "button_X2880_Y1670_W476_H28", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "nsg-bg--white bg-white", 
+                "data-automation": "answer-controls-decline", 
+                "data-radium": "true", 
+                "id": "palette-controls__answer-controls__exit-button", 
+                "style": "opacity: 1; cursor: pointer; border: none; flex-grow: 1; box-sizing: border-box; outline: none; background-color: rgb(255, 255, 255);"
+            }, 
+            "background-color": "rgb(255, 255, 255)", 
+            "class": "button", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "nsg-bg--white bg-white", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Arial", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 14, 
+            "identifier": "palette-controls__answer-controls__exit-button", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 238, 
+            "x": 1440, 
+            "xPercent": 75, 
+            "y": 835, 
+            "yPercent": 92.77777777777779
+        }, 
+        "location": {
+            "x": 1440, 
+            "y": 835
+        }, 
+        "size": {
+            "height": 14, 
+            "width": 238
+        }, 
+        "tag_name": "button", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "", 
+    "transformed": true, 
+    "width": 476, 
+    "x": 2880, 
+    "y": 1670
+}

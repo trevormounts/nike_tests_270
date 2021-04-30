@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "LxEn5wdujl7VQCI0OD8w0w==\n", 
+    "height": 76, 
+    "hier_level": 0, 
+    "human_hash": "div_X96_Y368_W3648_H76", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "wall-header__content"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "wall-header__content", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 38, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Mens Neutrals By You(13)Hide FiltersSort ByFeaturedNewestPrice: High-LowPrice: Low-High", 
+            "type": "", 
+            "value": "", 
+            "width": 1824, 
+            "x": 48, 
+            "xPercent": 2.5, 
+            "y": 184, 
+            "yPercent": 4.41564674826014
+        }, 
+        "location": {
+            "x": 48, 
+            "y": 184
+        }, 
+        "size": {
+            "height": 38, 
+            "width": 1824
+        }, 
+        "tag_name": "div", 
+        "text": "Mens Neutrals By You(13)Hide FiltersSort ByFeaturedNewestPrice: High-LowPrice: Low-High"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Mens Neutrals By You(13)Hide FiltersSort ByFeaturedNewestPrice: High-LowPrice: Low-High", 
+    "transformed": true, 
+    "width": 3648, 
+    "x": 96, 
+    "y": 368
+}

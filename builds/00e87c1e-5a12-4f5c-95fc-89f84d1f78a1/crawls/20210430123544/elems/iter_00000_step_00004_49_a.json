@@ -1,0 +1,78 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "3LMu4W6Ri1CORtRD+hZ8gQ==\n", 
+    "height": 28, 
+    "hier_level": 0, 
+    "human_hash": "a_X1592_Y1694_W90_H28", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "fs12-nav-sm", 
+                "data-path": "about nike:purpose", 
+                "data-pre": "ILink", 
+                "data-type": "click_navFooter", 
+                "href": "https://purpose.nike.com/", 
+                "target": "_self"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(126, 126, 126)", 
+            "cssClass": "fs12-nav-sm", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 14, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Purpose", 
+            "type": "", 
+            "value": "", 
+            "width": 45, 
+            "x": 796, 
+            "xPercent": 41.458333333333336, 
+            "y": 847, 
+            "yPercent": 11.003238215816127
+        }, 
+        "location": {
+            "x": 796, 
+            "y": 847
+        }, 
+        "size": {
+            "height": 14, 
+            "width": 45
+        }, 
+        "tag_name": "a", 
+        "text": "Purpose"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Purpose", 
+    "transformed": true, 
+    "width": 90, 
+    "x": 1592, 
+    "y": 1694
+}

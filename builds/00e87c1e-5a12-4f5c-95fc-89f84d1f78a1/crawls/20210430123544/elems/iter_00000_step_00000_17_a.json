@@ -1,0 +1,81 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "LSgPPHtUlJYmThXMP2YSCA==\n", 
+    "height": 120, 
+    "hier_level": 0, 
+    "human_hash": "a_X1934_Y72_W160_H120", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-controls": "DesktopMenu-0-3-0", 
+                "aria-expanded": "false", 
+                "aria-label": "Women", 
+                "class": "pre-desktop-menu-link headline-5 prl3-lg pt4-sm d-sm-b no-outline", 
+                "data-nav": "3,0,-1", 
+                "data-path": "women", 
+                "data-pre": "ILink", 
+                "data-type": "click_navShoppingMenu", 
+                "href": "https://www.nike.com/women", 
+                "role": "menu"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "pre-desktop-menu-link headline-5 prl3-lg pt4-sm d-sm-b no-outline", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 60, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Women", 
+            "type": "", 
+            "value": "", 
+            "width": 80, 
+            "x": 967, 
+            "xPercent": 50.379231770833336, 
+            "y": 36, 
+            "yPercent": 0.46747175691468645
+        }, 
+        "location": {
+            "x": 967, 
+            "y": 36
+        }, 
+        "size": {
+            "height": 60, 
+            "width": 80
+        }, 
+        "tag_name": "a", 
+        "text": "Women"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Women", 
+    "transformed": true, 
+    "width": 160, 
+    "x": 1934, 
+    "y": 72
+}

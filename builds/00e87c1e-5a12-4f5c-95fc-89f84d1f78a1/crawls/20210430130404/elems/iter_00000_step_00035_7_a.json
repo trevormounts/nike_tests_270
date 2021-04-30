@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "m01pU4ojqTAQ7ZfXNuMzQQ==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "a_X3088_Y882_W158_H48", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "text-color-secondary pr0-sm d-sm-ib sizeGuide css-1i84jnn undefined", 
+                "href": "https://www.nike.com/size-fit/unisex-footwear-mens-based", 
+                "rel": "noopener noreferrer", 
+                "target": "_blank"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(117, 117, 117)", 
+            "cssClass": "text-color-secondary pr0-sm d-sm-ib sizeGuide css-1i84jnn undefined", 
+            "domLevel": 15, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Size Guide", 
+            "type": "", 
+            "value": "", 
+            "width": 79, 
+            "x": 1544, 
+            "xPercent": 80.39388020833333, 
+            "y": 441, 
+            "yPercent": 16.825639069057612
+        }, 
+        "location": {
+            "x": 1544, 
+            "y": 441
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 79
+        }, 
+        "tag_name": "a", 
+        "text": "Size Guide"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Size Guide", 
+    "transformed": true, 
+    "width": 158, 
+    "x": 3088, 
+    "y": 882
+}

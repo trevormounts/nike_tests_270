@@ -1,0 +1,70 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "mfZ6XP/lnhLtazXi1D7fIA==\n", 
+    "height": 56, 
+    "hier_level": 0, 
+    "human_hash": "div_X128_Y1138_W3584_H56", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {}, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(17, 17, 17)", 
+            "domLevel": 7, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 28, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Member Exclusive Access", 
+            "type": "", 
+            "value": "", 
+            "width": 1792, 
+            "x": 64, 
+            "xPercent": 3.3333333333333335, 
+            "y": 569, 
+            "yPercent": 11.804979253112032
+        }, 
+        "location": {
+            "x": 64, 
+            "y": 569
+        }, 
+        "size": {
+            "height": 28, 
+            "width": 1792
+        }, 
+        "tag_name": "div", 
+        "text": "Member Exclusive Access"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Member Exclusive Access", 
+    "transformed": true, 
+    "width": 3584, 
+    "x": 128, 
+    "y": 1138
+}

@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "rUdkIQrZzyKkvTeWfQbbWA==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "a_X1040_Y838_W368_H48", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "body-2", 
+                "data-analytics-action-id": "1e6731f6-0728-4e0e-869d-f75faa51d12a", 
+                "href": "https://www.nike.com/w/air-max-270-shoes-5ix6dzy7ok", 
+                "role": "listitem", 
+                "tabindex": "0"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(117, 117, 117)", 
+            "cssClass": "body-2", 
+            "domLevel": 13, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Air Max 270", 
+            "type": "", 
+            "value": "", 
+            "width": 184, 
+            "x": 520, 
+            "xPercent": 27.083333333333332, 
+            "y": 419, 
+            "yPercent": 5.894237526352776
+        }, 
+        "location": {
+            "x": 520, 
+            "y": 419
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 184
+        }, 
+        "tag_name": "a", 
+        "text": "Air Max 270"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Air Max 270", 
+    "transformed": true, 
+    "width": 368, 
+    "x": 1040, 
+    "y": 838
+}

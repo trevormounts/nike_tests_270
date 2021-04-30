@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "Dz1v4pVsMHn1ieA2zn1kbg==\n", 
+    "height": 54, 
+    "hier_level": 0, 
+    "human_hash": "a_X2016_Y384_W112_H54", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "Women", 
+                "class": "JSftBPEZ", 
+                "data-analytics-action-id": "7bab194f-ce56-47de-a06f-2747ba017ce8", 
+                "href": "https://www.nike.com/w/womens-nike-by-you-shoes-5e1x6z6ealhzy7ok"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(17, 17, 17)", 
+            "cssClass": "JSftBPEZ", 
+            "domLevel": 14, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 27, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Women", 
+            "type": "", 
+            "value": "", 
+            "width": 56, 
+            "x": 1008, 
+            "xPercent": 52.48535156250001, 
+            "y": 192, 
+            "yPercent": 3.522935779816514
+        }, 
+        "location": {
+            "x": 1008, 
+            "y": 192
+        }, 
+        "size": {
+            "height": 27, 
+            "width": 56
+        }, 
+        "tag_name": "a", 
+        "text": "Women"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Women", 
+    "transformed": true, 
+    "width": 112, 
+    "x": 2016, 
+    "y": 384
+}
