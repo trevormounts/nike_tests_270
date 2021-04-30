@@ -2,7 +2,6 @@
     "002 Find Airmax": {
         "description": "", 
         "is_deactivated": false, 
-        "original_title": "002 Find Airmax", 
         "steps": [
             {
                 "continue_on_failure": false, 

@@ -1,6 +1,7 @@
 {
     "btn_add_to_bag": [
         "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210428232212/elems/iter_00000_step_00042_79_button.png"
+<<<<<<< HEAD
     ], 
     "btn_air_max_2090": [
         "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210430123544/elems/iter_00000_step_00001_3_a.png", 
@@ -12,6 +13,11 @@
     "btn_black": [
         "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210430130404/elems/iter_00000_step_00010_59_button.png", 
         "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210430130404/elems/iter_00000_step_00017_120_button.png"
+=======
+    ], 
+    "btn_back": [
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00012_92_button.png"
+>>>>>>> 3cc9fff9ec63bff99fb7de789a1e6d0222dc6b86
     ], 
     "btn_checkout": [
         "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210428232212/elems/iter_00000_step_00055_116_button.png"
@@ -31,6 +37,7 @@
     ], 
     "btn_clothing_women": [
         "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00010_58_a.png"
+<<<<<<< HEAD
     ], 
     "btn_confirm": [
         "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210430130404/elems/iter_00000_step_00025_14_button.png"
@@ -50,6 +57,14 @@
     ], 
     "btn_exit": [
         "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210430130404/elems/iter_00000_step_00025_23_button.png"
+=======
+    ], 
+    "btn_customize": [
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00000_33_a.png"
+    ], 
+    "btn_dismiss_error": [
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427212848/elems/iter_00000_step_00009_5_input.png"
+>>>>>>> 3cc9fff9ec63bff99fb7de789a1e6d0222dc6b86
     ], 
     "btn_guest_checkout": [
         "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210428232212/elems/iter_00000_step_00057_3_button.png"
@@ -75,14 +90,19 @@
         "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210428232212/elems/iter_00000_step_00057_10_input.png"
     ], 
     "btn_men": [
+<<<<<<< HEAD
         "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210428232212/elems/iter_00000_step_00000_38_a.png", 
         "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210430130404/elems/iter_00000_step_00000_41_a.png"
+=======
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210428232212/elems/iter_00000_step_00000_38_a.png"
+>>>>>>> 3cc9fff9ec63bff99fb7de789a1e6d0222dc6b86
     ], 
     "btn_multi_color": [
         "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210428232212/elems/iter_00000_step_00016_43_button.png"
     ], 
     "btn_nike_membership": [
         "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00000_31_a.png"
+<<<<<<< HEAD
     ], 
     "btn_nike_swoosh": [
         "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210430130404/elems/iter_00000_step_00023_15_a.png"
@@ -92,6 +112,8 @@
     ], 
     "btn_pinksicle": [
         "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210430130404/elems/iter_00000_step_00025_67_a.png"
+=======
+>>>>>>> 3cc9fff9ec63bff99fb7de789a1e6d0222dc6b86
     ], 
     "btn_purple": [
         "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210428232212/elems/iter_00000_step_00038_151_button.png", 
@@ -102,12 +124,15 @@
     ], 
     "btn_save_continue": [
         "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210428232212/elems/iter_00000_step_00059_43_button.png"
+<<<<<<< HEAD
     ], 
     "btn_scroll_gallery_left": [
         "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210430130404/elems/iter_00000_step_00023_18_button.png"
     ], 
     "btn_scroll_gallery_right": [
         "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210430130404/elems/iter_00000_step_00023_14_button.png"
+=======
+>>>>>>> 3cc9fff9ec63bff99fb7de789a1e6d0222dc6b86
     ], 
     "btn_search": [
         "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00003_14_button.png", 
@@ -149,6 +174,7 @@
     "btn_white": [
         "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210428232212/elems/iter_00000_step_00020_25_a.png", 
         "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210428232212/elems/iter_00000_step_00019_4_a.png"
+<<<<<<< HEAD
     ], 
     "btn_white_solid": [
         "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210430130404/elems/iter_00000_step_00031_0_a.png"
@@ -159,6 +185,11 @@
     ], 
     "cbx_men": [
         "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210430130404/elems/iter_00000_step_00013_5_button.png"
+=======
+    ], 
+    "btn_women": [
+        "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210428232212/elems/iter_00000_step_00000_15_a.png"
+>>>>>>> 3cc9fff9ec63bff99fb7de789a1e6d0222dc6b86
     ], 
     "cbx_women": [
         "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210428232212/elems/iter_00000_step_00032_33_a.png"
@@ -166,12 +197,15 @@
     "ddl_country": [
         "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00004_2_select.png", 
         "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427203702/elems/iter_00000_step_00009_10_select.png"
+<<<<<<< HEAD
     ], 
     "div_neutrals_by_you": [
         "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210430130404/elems/iter_00000_step_00007_7_div.png"
     ], 
     "div_nike_metcon_6_by_you": [
         "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210430130404/elems/iter_00000_step_00017_58_div.png"
+=======
+>>>>>>> 3cc9fff9ec63bff99fb7de789a1e6d0222dc6b86
     ], 
     "icn_air_jordan": [
         "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00000_19_a.png"
@@ -310,12 +344,15 @@
     ], 
     "tmb_1": [
         "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210428232212/elems/iter_00000_step_00042_0_img.png"
+<<<<<<< HEAD
     ], 
     "tmb_metcon_01": [
         "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210430130404/elems/iter_00000_step_00019_40_img.png"
     ], 
     "ttl_neutrals_by_you": [
         "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210430130404/elems/iter_00000_step_00010_135_h1.png"
+=======
+>>>>>>> 3cc9fff9ec63bff99fb7de789a1e6d0222dc6b86
     ], 
     "ttl_women": [
         "/Users/bot/test_ai/apps/805ab2d0-1b98-4c86-af8c-1a247c26739f/builds/00e87c1e-5a12-4f5c-95fc-89f84d1f78a1/crawls/20210427191231/elems/iter_00000_step_00010_2_h1.png"

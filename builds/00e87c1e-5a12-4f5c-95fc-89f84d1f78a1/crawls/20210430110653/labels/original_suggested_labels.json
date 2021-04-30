@@ -40,10 +40,11 @@
         "iter_00000_step_00000_22_a.png": {
             "icn_air_jordan": {
                 "all_scores": {
-                    "hash_based": 1.0
+                    "hash_based": 1.0, 
+                    "test_ai_mod.carbon_classifiers.perceptual.nn_classifier": 1.0
                 }, 
                 "score": 1.0, 
-                "source": "hash_based"
+                "source": "test_ai_mod.carbon_classifiers.perceptual.nn_classifier"
             }
         }, 
         "iter_00000_step_00000_31_a.png": {
@@ -120,6 +121,15 @@
                 "source": "hash_based"
             }
         }, 
+        "iter_00000_step_00000_43_a.png": {
+            "icn_cart": {
+                "all_scores": {
+                    "test_ai_mod.carbon_classifiers.perceptual.nn_classifier": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "test_ai_mod.carbon_classifiers.perceptual.nn_classifier"
+            }
+        }, 
         "iter_00000_step_00000_46_a.png": {
             "btn_kids": {
                 "all_scores": {
@@ -132,10 +142,11 @@
         "iter_00000_step_00000_48_a.png": {
             "icn_converse": {
                 "all_scores": {
-                    "hash_based": 1.0
+                    "hash_based": 1.0, 
+                    "test_ai_mod.carbon_classifiers.perceptual.nn_classifier": 1.0
                 }, 
                 "score": 1.0, 
-                "source": "hash_based"
+                "source": "test_ai_mod.carbon_classifiers.perceptual.nn_classifier"
             }
         }, 
         "iter_00000_step_00000_8_a.png": {

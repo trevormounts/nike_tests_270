@@ -1,0 +1,76 @@
+{
+    "all_elems": [
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "div", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "/PlgDk6JOKmwQvjlXDE62A==\n", 
+            "height": 28, 
+            "hier_level": 0, 
+            "human_hash": "div_X64_Y103_W1792_H28", 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "FgmkxsMt"
+                    }, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "div", 
+                    "color": "rgb(17, 17, 17)", 
+                    "cssClass": "FgmkxsMt", 
+                    "domLevel": 9, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif", 
+                    "font-weight": "400", 
+                    "fontSize": 16, 
+                    "height": 28, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "div", 
+                    "text": "More to Explore", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 1792, 
+                    "x": 64, 
+                    "xPercent": 3.3333333333333335, 
+                    "y": 103, 
+                    "yPercent": 1.4476458186929024
+                }, 
+                "location": {
+                    "x": 64, 
+                    "y": 103
+                }, 
+                "size": {
+                    "height": 28, 
+                    "width": 1792
+                }, 
+                "tag_name": "div", 
+                "text": "More to Explore"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "div", 
+            "text": "More to Explore", 
+            "transformed": true, 
+            "width": 1792, 
+            "x": 64, 
+            "y": 103
+        }
+    ]
+}

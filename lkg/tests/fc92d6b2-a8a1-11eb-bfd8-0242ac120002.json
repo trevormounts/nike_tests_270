@@ -2,6 +2,7 @@
     "003 Customize Shoe": {
         "description": "", 
         "is_deactivated": false, 
+<<<<<<< HEAD
         "original_title": "003 Customize Shoe", 
         "steps": [
             {
@@ -211,6 +212,10 @@
                 "widget": "default"
             }
         ], 
+=======
+        "original_title": "003 New Test", 
+        "steps": [], 
+>>>>>>> 3cc9fff9ec63bff99fb7de789a1e6d0222dc6b86
         "tags": [], 
         "temp_id": "fc92d6b2-a8a1-11eb-bfd8-0242ac120002", 
         "title": "003 Customize Shoe"
